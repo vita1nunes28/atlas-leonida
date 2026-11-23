@@ -74,7 +74,7 @@ main{padding:28px 0 60px}
 .thumb .ico{position:absolute;right:14px;bottom:8px;font-size:2.6rem;filter:drop-shadow(0 4px 8px rgba(0,0,0,.25))}
 .status{position:absolute;left:12px;top:12px;font-size:.78rem;font-weight:600;padding:4px 10px;border-radius:999px;background:rgba(255,255,255,.92);color:#1B1236}
 .status.ok::before{content:"● ";color:var(--teal)}
-.status.wait::before{content:"● ";color:var(--mango)}
+.status.wait::before{content:"● ";color:var(--mango)}.status.rumor::before{content:"● ";color:var(--coral)}
 .card-body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:8px;flex:1}
 .card h3{font-size:1.22rem;font-weight:700}
 .meta{display:flex;flex-wrap:wrap;gap:6px}
@@ -207,7 +207,7 @@ const fmt=n=>n?"US$ "+n.toLocaleString("pt-BR"):"";
 const diff=d=>["","Fácil","Médio","Difícil"][d]||"";
 const img=i=>(i.fontes||[]).map(f=>f.imagem).find(Boolean);
 const art=i=>{const u=img(i);return u?`<div class="thumb-art img" style="background-image:url('${esc(u)}')"></div>`:`<div class="thumb-art" style="background:${ART[i.categoria]}"></div>`};
-const badge=i=>i.status==="confirmado"?'<span class="status ok">Confirmado</span>':'<span class="status wait">Aguardando confirmação</span>';
+const badge=i=>i.status==="confirmado"?'<span class="status ok">Confirmado</span>':i.status==="aguardando"?'<span class="status wait">Aguardando confirmação</span>':'<span class="status rumor">Rumor</span>';
 function renderTabs(){$("tabs").innerHTML=CATS.map(c=>{const n=c.id==="all"?ITEMS.length:ITEMS.filter(i=>i.categoria===c.id).length;return `<button class="tab" aria-pressed="${S.cat===c.id}" data-c="${c.id}"><span aria-hidden="true">${c.ico}</span>${c.name}<span class="n">${n}</span></button>`}).join("")}
 function list(){let r=ITEMS.filter(i=>(S.cat==="all"||i.categoria===S.cat)&&(!S.region||i.regiao===S.region)&&(!S.onlyOk||i.status==="confirmado")&&(!S.hideDone||!S.done.includes(i.id)));
  if(S.q){const q=S.q.toLowerCase();r=r.filter(i=>(i.titulo+" "+i.resumo+" "+i.regiao).toLowerCase().includes(q))}
@@ -249,7 +249,7 @@ document.addEventListener("change",e=>{if(e.target.id==="doneBox"){const id=$("p
 $("scrim").onclick=close;document.addEventListener("keydown",e=>{if(e.key==="Escape"&&$("panel").classList.contains("open"))close()});
 $("searchForm").onsubmit=e=>{e.preventDefault();S.q=$("q").value.trim();render();document.querySelector(".bar").scrollIntoView({behavior:"smooth"})};
 $("q").oninput=e=>{S.q=e.target.value.trim();render()};
-fetch("data/fichas.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{ITEMS=(d||[]).filter(i=>i.status!=="retido");render()}).catch(()=>{$("grid").innerHTML='<div class="empty">Não deu para carregar os guias. Recarregue a página.</div>'});
+fetch("data/fichas.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{ITEMS=(d||[]);render()}).catch(()=>{$("grid").innerHTML='<div class="empty">Não deu para carregar os guias. Recarregue a página.</div>'});
 render();
 </script>
 </body>
