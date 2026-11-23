@@ -1,24 +1,731 @@
 [
  {
+  "id": "farm-cheat-250-000",
+  "titulo": "Cheat: $250.000",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Adiciona instantaneamente $250.000 à conta.",
+  "resumo_original": "Instantly gives you $250,000.",
+  "passos": [
+   "Conclua a história principal",
+   "Abra o celular no jogo",
+   "Segure L1 + R1",
+   "Insira: Cima, Direita, Baixo, Esquerda, Cima, Esquerda, Baixo, Direita"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "Após história",
+  "ganho": 250000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "A fonte cita dados de um site datado de 2026, indicando um artigo de wiki especulativo ou falso sobre a mecânica de cheats.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Cheats_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Cheats in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:11:24+00:00",
+  "atualizado": "2026-11-23T05:11:24+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-maibatsu-boomazoom-cheat",
+  "titulo": "Maibatsu Boomazoom (Cheat)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Faz surgir um veículo Maibatsu Boomazoom no local atual.",
+  "resumo_original": "Spawns a Maibatsu Boomazoom at your current location",
+  "passos": [
+   "Complete 5 desafios de compras",
+   "Abra o celular no jogo",
+   "Segure L1 + R1",
+   "Insira: Esquerda, Cima, Direita, Baixo, Esquerda, Esquerda, Cima, Esquerda"
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte cita dados de um site datado de 2026, indicando um artigo de wiki especulativo ou falso sobre a mecânica de cheats.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Cheats_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Cheats in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:11:24+00:00",
+  "atualizado": "2026-11-23T05:11:24+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-mtl-pumper-cheat",
+  "titulo": "MTL Pumper (Cheat)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Faz surgir um veículo MTL Pumper no local atual.",
+  "resumo_original": "Spawns an MTL Pumper at your current location",
+  "passos": [
+   "Descubra o MTL Pumper no menu de Progresso",
+   "Abra o celular no jogo",
+   "Segure L1 + R1",
+   "Insira: Esquerda, Cima, Direita, Baixo, Esquerda, Direita, Direita, Cima"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte cita dados de um site datado de 2026, indicando um artigo de wiki especulativo ou falso sobre a mecânica de cheats.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Cheats_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Cheats in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:11:24+00:00",
+  "atualizado": "2026-11-23T05:11:24+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-hvy-bulldozer-cheat",
+  "titulo": "HVY Bulldozer (Cheat)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Faz surgir um veículo HVY Bulldozer no local atual.",
+  "resumo_original": "Spawns an HVY Bulldozer at your current location",
+  "passos": [
+   "Descubra o HVY Bulldozer no menu de Progresso",
+   "Abra o celular no jogo",
+   "Segure L1 + R1",
+   "Insira: Esquerda, Cima, Direita, Baixo, Esquerda, Direita, Direita, Baixo"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte cita dados de um site datado de 2026, indicando um artigo de wiki especulativo ou falso sobre a mecânica de cheats.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Cheats_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Cheats in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:11:24+00:00",
+  "atualizado": "2026-11-23T05:11:24+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-app-de-banco-buckme",
+  "titulo": "App de Banco BuckMe",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Aplicativo bancário para gerenciar finanças, realizar depósitos e contribuir com uma poupança conjunta entre Jason e Lucia.",
+  "resumo_original": "Digital banking and payment application allowing users to manage money, store cash, and contribute to a shared savings fund.",
+  "passos": [
+   "Acesse o aplicativo BuckMe pelo celular in-game após completar a missão 'Buck Me' no Capítulo 1.",
+   "Utilize caixas eletrônicos (ATMs) espalhados por Leonida para depositar dinheiro físico na sua conta.",
+   "Use a opção 'Buck Yourself' para transferir valores da conta corrente para a 'Family Savings'."
+  ],
+  "locais": [
+   {
+    "nome": "Agência Fleeca Bank",
+    "onde": "Key Lento",
+    "detalhe": "Local onde a conta é aberta durante a missão do Capítulo 1."
+   },
+   {
+    "nome": "Caixas Eletrônicos (ATMs)",
+    "onde": "Leonida",
+    "detalhe": "Localizados em diversos pontos do estado; encontre-os usando o localizador do app."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Contínuo",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/BuckMe",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "BuckMe",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:11:14+00:00",
+  "atualizado": "2026-11-23T05:11:14+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-compra-de-armas-ammu-nation",
+  "titulo": "Compra de armas (Ammu-Nation)",
+  "categoria": "gun",
+  "regiao": "Leonida Keys",
+  "resumo": "Visite a loja Ammu-Nation para adquirir armas de cano longo e se preparar para missões de maior risco.",
+  "resumo_original": "Jason visits Ammu-Nation to purchase a long gun, preparing himself for more dangerous work.",
+  "passos": [
+   "Vá até uma loja da rede Ammu-Nation",
+   "Realize a compra da arma de cano longo"
+  ],
+  "locais": [
+   {
+    "nome": "Ammu-Nation",
+    "onde": "Leonida Keys",
+    "detalhe": "Local de compra de armamento"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Missions_in_Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Missions in Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:35+00:00",
+  "atualizado": "2026-11-23T05:06:35+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-reparos-e-customizacao-de-veiculos",
+  "titulo": "Reparos e customização de veículos",
+  "categoria": "car",
+  "regiao": "Leonida Keys",
+  "resumo": "Utilize a oficina Coastal Auto Care para consertar seu veículo e aplicar novos acabamentos.",
+  "resumo_original": "Jason takes his Ganado to Coastal Auto Care for repairs and a respray, introducing the game's vehicle repair and customization mechanics.",
+  "passos": [
+   "Leve o seu veículo até a oficina",
+   "Solicite reparos ou pintura"
+  ],
+  "locais": [
+   {
+    "nome": "Coastal Auto Care",
+    "onde": "Leonida Keys",
+    "detalhe": "Oficina para reparos e customização"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Missions_in_Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Missions in Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:35+00:00",
+  "atualizado": "2026-11-23T05:06:35+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-coleta-de-contrabando-grassrivers",
+  "titulo": "Coleta de Contrabando (Grassrivers)",
+  "categoria": "farm",
+  "regiao": "Grassrivers",
+  "resumo": "Recupere um pacote de drogas perdido após uma entrega mal sucedida na região de Grassrivers.",
+  "resumo_original": "Cal locates its signal, allowing Jason to retrieve the drugs from a group of fishermen before delivering them to Donnie's trailer.",
+  "passos": [
+   "Vá até o local em Grassrivers onde o sinal foi detectado",
+   "Recupere o pacote com o grupo de pescadores",
+   "Entregue o item no trailer do Donnie"
+  ],
+  "locais": [
+   {
+    "nome": "Grassrivers",
+    "onde": "Grassrivers",
+    "detalhe": "Local de recuperação do pacote"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Missions_in_Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Missions in Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:35+00:00",
+  "atualizado": "2026-11-23T05:06:35+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-trabalho-do-mattia",
+  "titulo": "Roubo/Trabalho do Mattia",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Realize um trabalho de alto risco para Mattia que envolve a coleta de um item em um locker de centro de visitantes.",
+  "resumo_original": "Jason and Lucia accept Mattia's offer of a well-paid job and travel to a visitor center to collect a bag from a locker.",
+  "passos": [
+   "Aceite a proposta de Mattia",
+   "Vá ao centro de visitantes",
+   "Recupere a mala no armário indicado"
+  ],
+  "locais": [
+   {
+    "nome": "Centro de Visitantes",
+    "onde": "Vice City",
+    "detalhe": "Local da coleta da mala"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 10000,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "A missão resulta em uma emboscada policial grave.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Missions_in_Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Missions in Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:35+00:00",
+  "atualizado": "2026-11-23T05:06:35+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colecao-de-carros-classicos",
+  "titulo": "Coleção de Carros Clássicos",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Localize e restaure carros clássicos abandonados ou em processo de reforma para o colecionador Wyman.",
+  "resumo_original": "Track down a variety of abandoned classic and work-in-progress project cars and revitalize them to their former glory.",
+  "passos": [
+   "Encontre os carros abandonados espalhados pelo mapa",
+   "Restaure os veículos conforme a encomenda"
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "Conteúdo exclusivo da Ultimate Edition.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Missions_in_Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Missions in Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:35+00:00",
+  "atualizado": "2026-11-23T05:06:35+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-roubo-do-stockade-preparacao-do-golpe-ao-casino",
+  "titulo": "Roubo do Stockade (Preparação do Golpe ao Casino)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Roube um caminhão blindado Stockade para disfarce da missão 'The Big Con' no Golpe ao Casino Diamond.",
+  "resumo_original": "Steal a Stockade to begin the process of impersonating a Gruppe Sechs team.",
+  "passos": [
+   "Vá até um dos locais indicados por Lester (Beeker's Garage, Auto Re-Perez ou oficina em Harmony).",
+   "Encontre o mecânico que possui as chaves do Stockade.",
+   "Elimine os mecânicos e recupere a chave.",
+   "Perca o nível de procura policial.",
+   "Entregue o veículo no Arcade."
+  ],
+  "locais": [
+   {
+    "nome": "Beeker's Garage",
+    "onde": "Paleto Bay",
+    "detalhe": "Local de reparo do Stockade"
+   },
+   {
+    "nome": "Auto Re-Perez",
+    "onde": "Strawberry",
+    "detalhe": "Local de reparo do Stockade"
+   },
+   {
+    "nome": "Harmony Auto Repair Shop",
+    "onde": "Harmony",
+    "detalhe": "Atrás do Harmony Truck Stop"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Heist_Prep:_Gruppe_Sechs_Gear_Part_1",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Heist Prep: Gruppe Sechs Gear Part 1",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:27+00:00",
+  "atualizado": "2026-11-23T05:06:27+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-de-carro-forte-da-gruppe-sechs",
+  "titulo": "Roubo de Carro-Forte da Gruppe Sechs",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Criminosos armados abordam um caminhão de segurança da empresa Gruppe Sechs.",
+  "resumo_original": "A group of armed criminals surrounds one of the company's security trucks.",
+  "passos": [
+   "Localize um caminhão da Gruppe Sechs no mapa de Leonida.",
+   "Aborde o veículo para forçar a parada."
+  ],
+  "locais": [
+   {
+    "nome": "Caminhão da Gruppe Sechs",
+    "onde": "Leonida",
+    "detalhe": "Visto no Extended Look do GTA VI, perto de um bar chamado Effluvia."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Gruppe_Sechs_(HD_Universe)",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Gruppe Sechs (HD Universe)",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:21+00:00",
+  "atualizado": "2026-11-23T05:06:21+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubos-a-estabelecimentos-em-leonida",
+  "titulo": "Roubos a Estabelecimentos em Leonida",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Roubos a lojas são uma mecânica central em GTA VI para obter dinheiro entre missões principais, permitindo abordagens silenciosas ou violentas.",
+  "resumo_original": "Robberies are a major part of the open-world gameplay loop in Grand Theft Auto VI, providing Jason Duval and Lucia Caminos with a way to earn money between story missions.",
+  "passos": [
+   "Escolha entre abordar o local de forma silenciosa ou agressiva (rápida e barulhenta).",
+   "Prepare o roubo antecipadamente, como posicionar um veículo para fuga.",
+   "Durante o roubo, procure por cofres, encontre a combinação ou use explosivos para abri-los.",
+   "Divida as funções com o outro protagonista (um entra, o outro espera fora ou dirige na fuga).",
+   "Lide com a chegada dinâmica da polícia."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Robberies",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Robberies",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:17+00:00",
+  "atualizado": "2026-11-23T05:06:17+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-starlet-motel",
+  "titulo": "Starlet Motel",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Local de descanso e interação dos protagonistas Jason e Lucia.",
+  "resumo_original": "Jason and Lucia lounging in a motel room at the Starlet Motel.",
+  "passos": [
+   "Vá até o Starlet Motel para encontrar os personagens."
+  ],
+  "locais": [
+   {
+    "nome": "Starlet Motel",
+    "onde": "",
+    "detalhe": "Local onde Jason e Lucia aparecem descansando."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI/Artwork",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI/Artwork",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:06+00:00",
+  "atualizado": "2026-11-23T05:06:06+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-seahorse-hotel-e-cordelia-hotel",
+  "titulo": "Seahorse Hotel e Cordelia Hotel",
+  "categoria": "col",
+  "regiao": "Vice City",
+  "resumo": "Hotéis situados na estrada inspirada em Ocean Drive.",
+  "resumo_original": "Hidden named hotels such as the Seahorse Hotel and Cordelia Hotel.",
+  "passos": [
+   "Explore a via inspirada em Ocean Drive em Vice City para localizar os hotéis."
+  ],
+  "locais": [
+   {
+    "nome": "Ocean Drive (Inspirada)",
+    "onde": "Vice City",
+    "detalhe": "Localização dos hotéis Seahorse e Cordelia."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI/Artwork",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI/Artwork",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:06+00:00",
+  "atualizado": "2026-11-23T05:06:06+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-jack-of-hearts",
+  "titulo": "Jack of Hearts",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Strip club com áreas interna e externa visíveis.",
+  "resumo_original": "Jack of Hearts strip club.",
+  "passos": [
+   "Visite o clube para acessar tanto a parte externa quanto a interna."
+  ],
+  "locais": [
+   {
+    "nome": "Jack of Hearts",
+    "onde": "",
+    "detalhe": "Strip club."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI/Artwork",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI/Artwork",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:06+00:00",
+  "atualizado": "2026-11-23T05:06:06+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-mural-em-stockyard",
+  "titulo": "Mural em Stockyard",
+  "categoria": "col",
+  "regiao": "Vice City",
+  "resumo": "Instalação artística e mural localizados no bairro Stockyard.",
+  "resumo_original": "Unnamed mural and art installation in Vice City's Stockyard neighborhood.",
+  "passos": [
+   "Procure pelo mural no bairro Stockyard em Vice City."
+  ],
+  "locais": [
+   {
+    "nome": "Stockyard",
+    "onde": "Vice City",
+    "detalhe": "Bairro contendo um mural e instalação artística."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI/Artwork",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI/Artwork",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:06+00:00",
+  "atualizado": "2026-11-23T05:06:06+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-brian-s-boat-works-marina",
+  "titulo": "Brian's Boat Works & Marina",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Marina e oficina de barcos de Brian Heder.",
+  "resumo_original": "Brian's Boat Works & Marina.",
+  "passos": [
+   "Visite a marina para verificar as instalações."
+  ],
+  "locais": [
+   {
+    "nome": "Brian's Boat Works & Marina",
+    "onde": "",
+    "detalhe": "Oficina e marina."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI/Artwork",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI/Artwork",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:06:06+00:00",
+  "atualizado": "2026-11-23T05:06:06+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-pacotes-ocultos-hidden-packages",
+  "titulo": "Pacotes Ocultos (Hidden Packages)",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Colete 100 estatuetas espalhadas por toda Vice City para ganhar dinheiro e liberar recompensas permanentes em esconderijos.",
+  "resumo_original": "There are 100 Hidden Packages located all around Vice City.",
+  "passos": [
+   "Explore a cidade a pé para encontrar as 100 unidades."
+  ],
+  "locais": [
+   {
+    "nome": "Vice City",
+    "onde": "Espalhados por todo o mapa",
+    "detalhe": "Consulte a lista completa de 100 localizações fornecida no guia."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Variável",
+  "ganho": 110000,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Hidden_Packages_in_GTA_Vice_City",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Hidden Packages in GTA Vice City",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:05:39+00:00",
+  "atualizado": "2026-11-23T05:05:39+00:00",
+  "status": "confirmado"
+ },
+ {
   "id": "farm-poupanca-da-familia-buckme",
   "titulo": "Poupança da Família (BuckMe)",
   "categoria": "farm",
   "regiao": "",
-  "resumo": "Acumular $2.000.000 na conta poupança da família é essencial para desbloquear finais positivos e garantir o futuro de Tomás.",
+  "resumo": "Acumular $2.000.000 na conta poupança da família para garantir melhores desfechos no final do jogo e o futuro de Tomas.",
   "resumo_original": "Money deposited into the BuckMe family savings account for Tomas affects your finale options and epilogue.",
   "passos": [
-   "Realize atividades criminosas e roubos para acumular fundos",
-   "Deposite o dinheiro na conta BuckMe"
+   "Realize roubos e atividades criminosas durante o jogo.",
+   "Deposite os ganhos na conta poupança da família BuckMe.",
+   "Atingir a meta de $2 milhões é essencial para o final 'Happily Ever After'."
   ],
-  "locais": [
-   {
-    "nome": "Conta BuckMe",
-    "onde": "Sistema bancário do jogo",
-    "detalhe": ""
-   }
-  ],
+  "locais": [],
   "dificuldade": 3,
-  "tempo": "Ao longo do jogo",
+  "tempo": "Ao longo de toda a campanha",
   "ganho": 2000000,
   "spoiler": true,
   "confianca": "alta",
@@ -34,8 +741,1527 @@
    }
   ],
   "criado": "2026-11-23T03:04:28+00:00",
-  "atualizado": "2026-11-23T03:04:28+00:00",
+  "atualizado": "2026-11-23T05:05:36+00:00",
   "status": "retido"
+ },
+ {
+  "id": "heist-seguranca-privada-megamundo",
+  "titulo": "Segurança Privada Megamundo",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Trabalho paralelo como segurança particular para Andrés de León.",
+  "resumo_original": "take on odd jobs, such as working for Megamundo as private security for Andrés de León.",
+  "passos": [
+   "Busque oportunidades de trabalho paralelo.",
+   "Aceite o contrato de segurança para Andrés de León através da empresa Megamundo."
+  ],
+  "locais": [
+   {
+    "nome": "Megamundo",
+    "onde": "Leonida",
+    "detalhe": "Empresa contratante do serviço de segurança."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:05:36+00:00",
+  "atualizado": "2026-11-23T05:05:36+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-trafico-de-drogas-nos-keys",
+  "titulo": "Tráfico de Drogas nos Keys",
+  "categoria": "heist",
+  "regiao": "Leonida Keys",
+  "resumo": "Atividades criminosas para corredores de drogas locais, operando a partir de um estaleiro.",
+  "resumo_original": "began working for local drug runners... associated with Brian Heder, an established drug smuggler who operates from a boatyard in the Keys.",
+  "passos": [
+   "Dirija-se aos Leonida Keys.",
+   "Contate Brian Heder no estaleiro local para iniciar atividades de contrabando."
+  ],
+  "locais": [
+   {
+    "nome": "Estaleiro de Brian Heder",
+    "onde": "Leonida Keys",
+    "detalhe": "Base de operações para contrabando de drogas."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:05:36+00:00",
+  "atualizado": "2026-11-23T05:05:36+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-compact-submachine-gun",
+  "titulo": "Compact Submachine Gun",
+  "categoria": "gun",
+  "regiao": "Vice City",
+  "resumo": "Uma submetralhadora compacta confirmada para o arsenal de GTA VI, identificada em imagens de testes de desenvolvimento.",
+  "resumo_original": "The Compact Submachine Gun is a submachine gun due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "A arma foi visualizada através da interface de desenvolvedor durante a ativação de um código de trapaça em um vídeo de vazamento."
+  ],
+  "locais": [
+   {
+    "nome": "PortViceCity",
+    "onde": "Porto de Vice City",
+    "detalhe": "Localizada dentro de um container explorado pelo personagem Jason no vídeo de referência."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A informação provém de vídeos de vazamentos de 2022 e não de uma versão finalizada do jogo.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Compact_Submachine_Gun",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Compact Submachine Gun",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T05:05:31+00:00",
+  "atualizado": "2026-11-23T05:05:31+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-guardar-carros-na-garagem",
+  "titulo": "Guardar carros na garagem",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Tutorial sobre o procedimento de armazenamento de veículos em garagens no GTA 6.",
+  "resumo_original": "COMO GUARDAR CARROS na GARAGEM e FICAR com ELES no GTA 6",
+  "passos": [
+   "O vídeo não contém instruções passo a passo ou demonstração prática de mecânica de jogo."
+  ],
+  "locais": [
+   {
+    "nome": "",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é clickbait; o conteúdo não apresenta nenhum tutorial, gameplay real ou prova do funcionamento do sistema de garagens, apenas repete o título na descrição.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ZbkwUU9niNQ",
+    "autor": "X-PERGAMES",
+    "titulo": "COMO GUARDAR CARROS na GARAGEM e FICAR com ELES no GTA 6 (TUTORIAL GTA VI) 🔥✅",
+    "video_id": "ZbkwUU9niNQ",
+    "imagem": "https://i.ytimg.com/vi/ZbkwUU9niNQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:05:14+00:00",
+  "atualizado": "2026-11-23T05:05:14+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-remocao-de-rastreadores-avancados",
+  "titulo": "Remoção de Rastreadores Avançados",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Método para remover rastreadores avançados de veículos para possibilitar o registro em garagens particulares.",
+  "resumo_original": "Aprenda como remover os rastreadores avançados no GTA 6",
+  "passos": [
+   "Atenda a ligação do Randy",
+   "Siga o procedimento específico para remover o rastreador",
+   "Registre o veículo na garagem"
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo se apresenta como um guia de GTA 6, mas o jogo ainda não foi lançado. Trata-se de conteúdo especulativo ou clickbait, visto que as mecânicas descritas não são confirmadas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=DWthkQpail8",
+    "autor": "Japeta",
+    "titulo": "Como Remover os Rastreadores Avançados e Registrar qualquer Carro do GTA 6",
+    "video_id": "DWthkQpail8",
+    "imagem": "https://i.ytimg.com/vi/DWthkQpail8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:05:10+00:00",
+  "atualizado": "2026-11-23T05:05:10+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-declasse-mamba-gt",
+  "titulo": "Declasse Mamba GT",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização de um carro secreto (Mamba GT) para coleta.",
+  "resumo_original": "Declasse Mamba GT",
+  "passos": [
+   "Vá até o local indicado no vídeo",
+   "Localize o veículo"
+  ],
+  "locais": [
+   {
+    "nome": "Local do Mamba GT",
+    "onde": "Mapa de GTA 6",
+    "detalhe": "Localização detalhada conforme minuto 02:42 do vídeo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O jogo não foi lançado; a existência deste veículo ou desta localização específica no mapa final é especulativa.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=DWthkQpail8",
+    "autor": "Japeta",
+    "titulo": "Como Remover os Rastreadores Avançados e Registrar qualquer Carro do GTA 6",
+    "video_id": "DWthkQpail8",
+    "imagem": "https://i.ytimg.com/vi/DWthkQpail8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:05:10+00:00",
+  "atualizado": "2026-11-23T05:05:10+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-truffade-thrax",
+  "titulo": "Truffade Thrax",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização de um carro secreto (Truffade Thrax) para coleta.",
+  "resumo_original": "Truffade Thrax",
+  "passos": [
+   "Vá até o local indicado no vídeo",
+   "Localize o veículo"
+  ],
+  "locais": [
+   {
+    "nome": "Local do Truffade Thrax",
+    "onde": "Mapa de GTA 6",
+    "detalhe": "Localização detalhada conforme minuto 04:40 do vídeo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O jogo não foi lançado; a existência deste veículo ou desta localização específica no mapa final é especulativa.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=DWthkQpail8",
+    "autor": "Japeta",
+    "titulo": "Como Remover os Rastreadores Avançados e Registrar qualquer Carro do GTA 6",
+    "video_id": "DWthkQpail8",
+    "imagem": "https://i.ytimg.com/vi/DWthkQpail8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:05:10+00:00",
+  "atualizado": "2026-11-23T05:05:10+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-a-brooks-boatworks",
+  "titulo": "Assalto a Brooks Boatworks",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo focado em medicamentos prescritos transportados por Kolt & Associates.",
+  "resumo_original": "A heist focused on prescription meds moved by Kolt & Associates.",
+  "passos": [
+   "Vá até Brooks Boatworks.",
+   "Elimine os membros da Kolt & Associates.",
+   "Use o código 6823 para abrir o cofre.",
+   "Obtenha os itens de valor."
+  ],
+  "locais": [
+   {
+    "nome": "Brooks Boatworks",
+    "onde": "Vice City",
+    "detalhe": "Docas utilizadas pela Kolt & Associates."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 7900,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza clickbait comum para jogos não lançados ou mods. Não há confirmação oficial de que este local ou mecânica existam no GTA 6 oficial.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=bYxl_vilxiA",
+    "autor": "Christian Konopatzki",
+    "titulo": "GTA 6 HOW TO CLEAR BROOKS BOATWORKS KOLT ASSOCIATES GUIDE #gta6 #grandtheftauto6",
+    "video_id": "bYxl_vilxiA",
+    "imagem": "https://i.ytimg.com/vi/bYxl_vilxiA/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:05:04+00:00",
+  "atualizado": "2026-11-23T05:05:04+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-drug-mule-kz-59",
+  "titulo": "Drug Mule KZ-59",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle de assalto variante Drug Mule.",
+  "resumo_original": "Drug Mule KZ-59 (Assault Rifle) 05:21",
+  "passos": [
+   "Vá até o local indicado no guia em 05:21.",
+   "Colete o rifle."
+  ],
+  "locais": [
+   {
+    "nome": "Drug Mule KZ-59",
+    "onde": "Consultar timestamp 05:21",
+    "detalhe": "Rifle de assalto único"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-23T05:04:54+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "gun-assassin-nipper-38",
+  "titulo": "Assassin Nipper .38",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Pistola exclusiva variante Assassin Nipper.",
+  "resumo_original": "Assassin Nipper .38 (Pistol) 01:11",
+  "passos": [
+   "Vá até o local indicado no guia em 01:11.",
+   "Colete a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Assassin Nipper .38",
+    "onde": "Consultar timestamp 01:11",
+    "detalhe": "Pistola variante única"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-23T05:04:54+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "gun-smuggler-gorse-425",
+  "titulo": "Smuggler Gorse 425",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Escopeta variante Smuggler.",
+  "resumo_original": "Smuggler Gorse 425 (Shotgun) 07:11",
+  "passos": [
+   "Vá até o local indicado no guia em 07:11.",
+   "Colete a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Smuggler Gorse 425",
+    "onde": "Consultar timestamp 07:11",
+    "detalhe": "Escopeta única"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-23T05:04:54+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "gun-black-eagle-import-m306-tmr-rifle",
+  "titulo": "Black Eagle Import M306 TMR Rifle",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle de precisão (Marksman) exclusivo que permanece no inventário após a morte.",
+  "resumo_original": "Black Eagle Import M306 TMR Rifle (Marksman) 00:00",
+  "passos": [
+   "Vá até o local indicado no guia em 00:00.",
+   "Colete o rifle para adicioná-lo permanentemente ao seu inventário."
+  ],
+  "locais": [
+   {
+    "nome": "Black Eagle Import M306",
+    "onde": "Consultar timestamp 00:00",
+    "detalhe": "Variante lendária de Marksman Rifle"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo se apresenta como guia de GTA 6, mas o conteúdo pode ser mod ou clickbait, dado que o jogo ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:54+00:00",
+  "atualizado": "2026-11-23T05:04:54+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-cockroach-xtreme-556",
+  "titulo": "Cockroach Xtreme 556",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle de assalto variante Cockroach Xtreme.",
+  "resumo_original": "Cockroach Xtreme 556 Assault Rifle (Assault Rifle) 01:53",
+  "passos": [
+   "Vá até o local indicado no guia em 01:53.",
+   "Colete o rifle."
+  ],
+  "locais": [
+   {
+    "nome": "Cockroach Xtreme 556",
+    "onde": "Consultar timestamp 01:53",
+    "detalhe": "Rifle de assalto único"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Vídeo sensacionalista; a existência dessas armas no jogo final é incerta.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:54+00:00",
+  "atualizado": "2026-11-23T05:04:54+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-crabshack-vf5",
+  "titulo": "Crabshack VF5",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "SMG variante Crabshack.",
+  "resumo_original": "Crabshack VF5 (SMG) 02:46",
+  "passos": [
+   "Vá até o local indicado no guia em 02:46.",
+   "Colete a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Crabshack VF5",
+    "onde": "Consultar timestamp 02:46",
+    "detalhe": "SMG única"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo não verificado e provavelmente fictício/modificado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:54+00:00",
+  "atualizado": "2026-11-23T05:04:54+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-kingfishers-laird-350",
+  "titulo": "Kingfishers Laird 350",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Sniper variante Kingfishers.",
+  "resumo_original": "Kingfishers Laird 350 (Sniper) 06:29",
+  "passos": [
+   "Vá até o local indicado no guia em 06:29.",
+   "Colete a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Kingfishers Laird 350",
+    "onde": "Consultar timestamp 06:29",
+    "detalhe": "Sniper única"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo de procedência duvidosa.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:54+00:00",
+  "atualizado": "2026-11-23T05:04:54+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-soldier-s-combat-knife",
+  "titulo": "Soldier's Combat Knife",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Faca de combate única.",
+  "resumo_original": "Soldier's Combat Knife (Knife) 07:48",
+  "passos": [
+   "Vá até o local indicado no guia em 07:48.",
+   "Colete a faca."
+  ],
+  "locais": [
+   {
+    "nome": "Soldier's Combat Knife",
+    "onde": "Consultar timestamp 07:48",
+    "detalhe": "Faca única"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo de procedência duvidosa.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:54+00:00",
+  "atualizado": "2026-11-23T05:04:54+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-conspiracist-type-9",
+  "titulo": "Conspiracist Type 9",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "SMG variante Conspiracist.",
+  "resumo_original": "Conspiracist Type 9 (SMG) 08:26",
+  "passos": [
+   "Vá até o local indicado no guia em 08:26.",
+   "Colete a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Conspiracist Type 9",
+    "onde": "Consultar timestamp 08:26",
+    "detalhe": "SMG única"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo de procedência duvidosa.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:54+00:00",
+  "atualizado": "2026-11-23T05:04:54+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-turnt-nipper-38",
+  "titulo": "Turnt Nipper .38",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Pistola variante Turnt Nipper.",
+  "resumo_original": "Turnt Nipper .38 (Pistol) 09:36",
+  "passos": [
+   "Vá até o local indicado no guia em 09:36.",
+   "Colete a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Turnt Nipper .38",
+    "onde": "Consultar timestamp 09:36",
+    "detalhe": "Pistola única"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo de procedência duvidosa.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:54+00:00",
+  "atualizado": "2026-11-23T05:04:54+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-venda-de-veiculos-roubados",
+  "titulo": "Venda de Veículos Roubados",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método de geração de renda inicial através do roubo e venda de veículos.",
+  "resumo_original": "Discover a money-making method involving stolen cars, vehicle sales, and repeatable earnings.",
+  "passos": [
+   "Roube veículos pela cidade.",
+   "Realize a venda dos veículos para obter lucro."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de estilo clickbait que não mostra imagens de gameplay real, mecânicas confirmadas ou locais específicos do mapa. Não há prova visual de que esse método exista conforme descrito.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=uDZBWyYZTyo",
+    "autor": "GTA 6 Unleashed",
+    "titulo": "GTA 6 Money Guide 💰 How to Make Money FAST! #shorts",
+    "video_id": "uDZBWyYZTyo",
+    "imagem": "https://i.ytimg.com/vi/uDZBWyYZTyo/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:45+00:00",
+  "atualizado": "2026-11-23T05:04:45+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-venda-de-bolsa-de-itens-stash-bag",
+  "titulo": "Venda de Bolsa de Itens (Stash Bag)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Venda de bolsa de itens contrabandeados em um local de entrega para lucro rápido.",
+  "resumo_original": "Selling a stash bag for quick cash.",
+  "passos": [
+   "Encontre um baú de metal laranja marcado no mapa ou mundo aberto.",
+   "Aproxime-se do baú com a bolsa (stash bag) em mãos.",
+   "Pressione o botão triangular para realizar a venda."
+  ],
+  "locais": [
+   {
+    "nome": "Ponto de entrega de itens",
+    "onde": "",
+    "detalhe": "Localizado junto a um trailer estilizado com pintura colorida e um baú laranja."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "30 segundos",
+  "ganho": 20000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza clickbait comum de canais de GTA. Não há confirmação oficial de que esta mecânica pertença ao GTA 6 real; a imagem parece ser uma edição ou conteúdo de servidor modificado de GTA V.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=yXd1mopWTdw",
+    "autor": "JoblessGarrett",
+    "titulo": "GTA 6: $20,000 in 30 Seconds (How to Make Easy Money in GTA 6)",
+    "video_id": "yXd1mopWTdw",
+    "imagem": "https://i.ytimg.com/vi/yXd1mopWTdw/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:40+00:00",
+  "atualizado": "2026-11-23T05:04:40+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-pesca-e-bicos",
+  "titulo": "Pesca e bicos",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Métodos iniciais de baixa rentabilidade para conseguir dinheiro rápido.",
+  "resumo_original": "Pocket change: fishing, odd jobs, wallets, trunks",
+  "passos": [
+   "Realize atividades de pesca",
+   "Aceite trabalhos temporários (bicos)",
+   "Procure por carteiras e vasculhe porta-malas de veículos"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=in0rg1FNcGA",
+    "autor": "Vice City Dispatch",
+    "titulo": "15 Ways to Make Money in GTA 6, Ranked Worst to Best",
+    "video_id": "in0rg1FNcGA",
+    "imagem": "https://i.ytimg.com/vi/in0rg1FNcGA/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:35+00:00",
+  "atualizado": "2026-11-23T05:04:35+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-atividades-secundarias",
+  "titulo": "Atividades secundárias",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Fontes de renda intermediárias incluindo busca por tesouros, caça, carros-fortes e caixas eletrônicos.",
+  "resumo_original": "Side hustles: treasure, hunting, armored cars, ATMs",
+  "passos": [
+   "Busque tesouros escondidos",
+   "Pratique atividades de caça",
+   "Aborde carros-fortes",
+   "Saque dinheiro em caixas eletrônicos (ATMs)"
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=in0rg1FNcGA",
+    "autor": "Vice City Dispatch",
+    "titulo": "15 Ways to Make Money in GTA 6, Ranked Worst to Best",
+    "video_id": "in0rg1FNcGA",
+    "imagem": "https://i.ytimg.com/vi/in0rg1FNcGA/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:35+00:00",
+  "atualizado": "2026-11-23T05:04:35+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-roubo-a-joalherias-e-fences",
+  "titulo": "Roubo a Joalherias e Fences",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Roubo de itens de valor para venda em receptadores (fences).",
+  "resumo_original": "#3 Jewelry stores and fences",
+  "passos": [
+   "Invada joalherias",
+   "Leve os itens roubados até um receptador"
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=in0rg1FNcGA",
+    "autor": "Vice City Dispatch",
+    "titulo": "15 Ways to Make Money in GTA 6, Ranked Worst to Best",
+    "video_id": "in0rg1FNcGA",
+    "imagem": "https://i.ytimg.com/vi/in0rg1FNcGA/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:35+00:00",
+  "atualizado": "2026-11-23T05:04:35+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-esconderijos-de-gangues",
+  "titulo": "Esconderijos de gangues",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Limpeza de locais ocupados por gangues para obtenção de recursos.",
+  "resumo_original": "#2 Gang hideouts",
+  "passos": [
+   "Localize esconderijos de gangues",
+   "Neutralize os membros e colete o que estiver disponível"
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=in0rg1FNcGA",
+    "autor": "Vice City Dispatch",
+    "titulo": "15 Ways to Make Money in GTA 6, Ranked Worst to Best",
+    "video_id": "in0rg1FNcGA",
+    "imagem": "https://i.ytimg.com/vi/in0rg1FNcGA/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:35+00:00",
+  "atualizado": "2026-11-23T05:04:35+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-assalto-a-bancos",
+  "titulo": "Assalto a Bancos",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "O método mais lucrativo de roubo listado, rendendo até $140.000 em 10 minutos.",
+  "resumo_original": "#1 Banks: $140,000 in 10 minutes",
+  "passos": [
+   "Planeje o assalto a uma agência bancária",
+   "Execute o roubo e garanta a fuga em até 10 minutos"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "10 minutos",
+  "ganho": 140000,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=in0rg1FNcGA",
+    "autor": "Vice City Dispatch",
+    "titulo": "15 Ways to Make Money in GTA 6, Ranked Worst to Best",
+    "video_id": "in0rg1FNcGA",
+    "imagem": "https://i.ytimg.com/vi/in0rg1FNcGA/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:35+00:00",
+  "atualizado": "2026-11-23T05:04:35+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-glitch-de-dinheiro-infinito-em-loja",
+  "titulo": "Glitch de Dinheiro Infinito em Loja",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Exploit para obter dinheiro rápido utilizando uma falha de sistema relacionada a veículos e armazenamento.",
+  "resumo_original": "Updated/Improved Money Farm Glitch",
+  "passos": [
+   "Localize uma van de transporte ou veículo de armazenamento",
+   "Execute o método de glitch descrito para resetar ou duplicar o valor do loot"
+  ],
+  "locais": [
+   {
+    "nome": "Diversos",
+    "onde": "",
+    "detalhe": "Locais com veículos de transporte ou armazenamento"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Capítulo 2",
+  "ganho": 100000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é altamente sensacionalista, utiliza clickbait e não apresenta prova real de gameplay, já que o GTA 6 ainda não foi lançado. O conteúdo é enganoso.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=D5R2wovnPPA",
+    "autor": "JoeyRahmz",
+    "titulo": "*EASY* ✅ New SOLO MONEY GLITCH IN GTA 6! 100k/HOUR (UNLIMITED MONEY GLITCH GTA VI) #gta6 #gta6glitch",
+    "video_id": "D5R2wovnPPA",
+    "imagem": "https://i.ytimg.com/vi/D5R2wovnPPA/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=x1wCiWSXrp4",
+    "autor": "RageGamingVideos",
+    "titulo": "GTA 6 - WARNING: Don't Make These Chapter 2 Mistakes - Best Missable Nitro Car & INFINITE Money!",
+    "video_id": "x1wCiWSXrp4",
+    "imagem": "https://i.ytimg.com/vi/x1wCiWSXrp4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:06+00:00",
+  "atualizado": "2026-11-23T05:04:30+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-vapid-firebug-dominator-e-scrapper-vf5c",
+  "titulo": "Vapid Firebug Dominator e Scrapper VF5C",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Carros que possuem a melhoria de óxido nitroso (boost) para velocidade no início do jogo.",
+  "resumo_original": "Vapid Firebug Dominator & Scrapper VF5C (Nitrous Boost Car)",
+  "passos": [
+   "Explore o mapa no Capítulo 2 para localizar estes veículos específicos."
+  ],
+  "locais": [
+   {
+    "nome": "Mundo aberto",
+    "onde": "",
+    "detalhe": "Veículos espalhados pelo mapa, requer exploração"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Capítulo 2",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo parece ser um guia de clickbait misturando termos de vários jogos; não há prova visual concreta de que esses veículos específicos contenham nitro no jogo ou que o jogo tenha sido lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=x1wCiWSXrp4",
+    "autor": "RageGamingVideos",
+    "titulo": "GTA 6 - WARNING: Don't Make These Chapter 2 Mistakes - Best Missable Nitro Car & INFINITE Money!",
+    "video_id": "x1wCiWSXrp4",
+    "imagem": "https://i.ytimg.com/vi/x1wCiWSXrp4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:30+00:00",
+  "atualizado": "2026-11-23T05:04:30+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-armazem-secreto-em-hamlet",
+  "titulo": "Armazém Secreto em Hamlet",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Localização para obter dinheiro rápido sem necessidade de combate.",
+  "resumo_original": "Geheimes Lagerhaus in Hamlet mit 15.000 bis 20.000 $ ohne einen Schuss.",
+  "passos": [
+   "Vá até o armazém secreto localizado em Hamlet.",
+   "Colete o valor disponível."
+  ],
+  "locais": [
+   {
+    "nome": "Armazém",
+    "onde": "Hamlet",
+    "detalhe": "Local secreto onde se pode obter entre $ 15.000 e $ 20.000."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "rápido",
+  "ganho": 20000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico sobre GTA 6 e não apresenta provas concretas da localização no mapa, tratando-se de conteúdo especulativo ou sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=LcbFGiy2evs",
+    "autor": "JULEX",
+    "titulo": "Schnell MEGA REICH werden in GTA 6 | Geheime Location, Ganggebiete & mehr!",
+    "video_id": "LcbFGiy2evs",
+    "imagem": "https://i.ytimg.com/vi/LcbFGiy2evs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:02+00:00",
+  "atualizado": "2026-11-23T05:04:02+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-recuperacao-de-dinheiro-pos-capitulo-2",
+  "titulo": "Recuperação de Dinheiro pós-Capítulo 2",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "O vídeo promete um método para recuperar dinheiro perdido após o Capítulo 2, mas não fornece detalhes práticos no conteúdo apresentado.",
+  "resumo_original": "How To EASILY Get All Your Money Back After Chapter 2 GTA 6",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 150000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo é puramente clickbait. O conteúdo não apresenta nenhum método, guia ou localização, apenas direciona o usuário para um site externo de mapas sem oferecer informações úteis no vídeo em si.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=O-q8CuMOw-g",
+    "autor": "Diggy",
+    "titulo": "How To EASILY Get All Your Money Back After Chapter 2 GTA 6",
+    "video_id": "O-q8CuMOw-g",
+    "imagem": "https://i.ytimg.com/vi/O-q8CuMOw-g/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:03:55+00:00",
+  "atualizado": "2026-11-23T05:03:55+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-rota-de-colecionaveis-cartas-de-port-gellhorn",
+  "titulo": "Rota de Colecionáveis: Cartas de Port Gellhorn",
+  "categoria": "farm",
+  "regiao": "Port Gellhorn",
+  "resumo": "Colete 8 cartas valiosas espalhadas por Port Gellhorn e venda-as em uma casa de penhores para obter dinheiro rápido.",
+  "resumo_original": "Collect 8 valuable cards in Port Gellhorn and sell them to a pawn shop for quick cash.",
+  "passos": [
+   "Alcance o Capítulo 2 do jogo.",
+   "Localize as 8 cartas espalhadas na área de Port Gellhorn.",
+   "Leve as cartas coletadas até uma casa de penhores (pawn shop).",
+   "Venda os itens para obter mais de $3500."
+  ],
+  "locais": [
+   {
+    "nome": "Port Gellhorn",
+    "onde": "Port Gellhorn",
+    "detalhe": "Área onde todas as 8 cartas estão localizadas."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Rápido",
+  "ganho": 3500,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo não mostra a localização real das cartas nem a jogabilidade, tratando-se de um conteúdo sensacionalista sobre um jogo que, no momento da criação desta resposta, ainda não possui as mecânicas descritas confirmadas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=PZtbhKeaYOI",
+    "autor": "Tony StrongStyle",
+    "titulo": "GTA 6 - Best Way To Get Money in Chapter 2 Guide - $3500+ Cash from 8 Port Gellhorn Cards Locations!",
+    "video_id": "PZtbhKeaYOI",
+    "imagem": "https://i.ytimg.com/vi/PZtbhKeaYOI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:03:50+00:00",
+  "atualizado": "2026-11-23T05:03:50+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-metodo-de-dinheiro-facil-inicio-do-jogo",
+  "titulo": "Método de dinheiro fácil (início do jogo)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método para obter uma grande quantia de dinheiro rapidamente no início do jogo.",
+  "resumo_original": "This secret method gets you a TON of cash early in the game",
+  "passos": [
+   "Siga o método mencionado no vídeo (não detalhado na fonte)",
+   "Observe que o procedimento só pode ser realizado uma vez"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo curto que promete um 'método secreto', mas não mostra o local ou o passo a passo necessário para realizar a ação. Trata-se de um conteúdo sensacionalista (clickbait) comum em redes sociais.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=_Eo2i6Nl-7g",
+    "autor": "FlayHQ",
+    "titulo": "Get EASY Money FAST in GTA 6! (Secret Method)",
+    "video_id": "_Eo2i6Nl-7g",
+    "imagem": "https://i.ytimg.com/vi/_Eo2i6Nl-7g/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:03:42+00:00",
+  "atualizado": "2026-11-23T05:03:42+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-a-lojas",
+  "titulo": "Assalto a Lojas",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Realize assaltos a estabelecimentos comerciais para obter dinheiro rapidamente.",
+  "resumo_original": "Robbing stores to make money fast.",
+  "passos": [
+   "Localize uma loja",
+   "Realize o assalto"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista, apenas cita métodos genéricos sem demonstrar localizações ou tutoriais práticos.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9FGaYBmaNic",
+    "autor": "Loredonia",
+    "titulo": "3 Easiest Ways To Make Money In GTA 6",
+    "video_id": "9FGaYBmaNic",
+    "imagem": "https://i.ytimg.com/vi/9FGaYBmaNic/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:03:38+00:00",
+  "atualizado": "2026-11-23T05:03:38+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-roubo-de-carros",
+  "titulo": "Roubo de Carros",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Obtenha dinheiro através do roubo e venda de veículos.",
+  "resumo_original": "Stealing cars for profit.",
+  "passos": [
+   "Encontre um veículo",
+   "Roube o veículo"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista, apenas cita métodos genéricos sem demonstrar localizações ou tutoriais práticos.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9FGaYBmaNic",
+    "autor": "Loredonia",
+    "titulo": "3 Easiest Ways To Make Money In GTA 6",
+    "video_id": "9FGaYBmaNic",
+    "imagem": "https://i.ytimg.com/vi/9FGaYBmaNic/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:03:38+00:00",
+  "atualizado": "2026-11-23T05:03:38+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-caca",
+  "titulo": "Caça",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Utilize a atividade de caça para gerar lucro no jogo.",
+  "resumo_original": "Hunting for money.",
+  "passos": [
+   "Encontre animais",
+   "Realize a caça"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista, apenas cita métodos genéricos sem demonstrar localizações ou tutoriais práticos.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9FGaYBmaNic",
+    "autor": "Loredonia",
+    "titulo": "3 Easiest Ways To Make Money In GTA 6",
+    "video_id": "9FGaYBmaNic",
+    "imagem": "https://i.ytimg.com/vi/9FGaYBmaNic/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:03:38+00:00",
+  "atualizado": "2026-11-23T05:03:38+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-mergulhos-de-tesouro-do-kenton",
+  "titulo": "Mergulhos de Tesouro do Kenton",
+  "categoria": "farm",
+  "regiao": "Leonida Keys",
+  "resumo": "Realize mergulhos em busca de tesouros na região de Keys para ganhar dinheiro sem atrair a atenção da polícia.",
+  "resumo_original": "Do Kenton's treasure dives off the Keys. No cops.",
+  "passos": [
+   "Vá até a região de Leonida Keys.",
+   "Realize os mergulhos de tesouro do Kenton.",
+   "O dinheiro será enviado para a sua caixa de correio na casa do Jason."
+  ],
+  "locais": [
+   {
+    "nome": "Leonida Keys",
+    "onde": "Costa das Keys",
+    "detalhe": "Locais de mergulho do Kenton"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=OLNf3bu587Y",
+    "autor": "Riot Clipping | GTA 6 News, Clips & Viral Moments",
+    "titulo": "How to Make Money Fast in GTA 6 (No Spoilers) 💰",
+    "video_id": "OLNf3bu587Y",
+    "imagem": "https://i.ytimg.com/vi/OLNf3bu587Y/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:03:34+00:00",
+  "atualizado": "2026-11-23T05:03:34+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-venda-de-carros-roubados",
+  "titulo": "Venda de Carros Roubados",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Roube veículos e venda para receptadores para obter lucro, sendo que os pagamentos aumentam conforme o progresso no jogo.",
+  "resumo_original": "Steal cars and sell them. From Chapter 2, Moses usually pays $1,000+ a car.",
+  "passos": [
+   "Roube um veículo.",
+   "Leve o veículo até um comprador (ex: Moses a partir do Capítulo 2)."
+  ],
+  "locais": [
+   {
+    "nome": "Compradores de veículos",
+    "onde": "Mapa geral",
+    "detalhe": "Moses paga mais de $1.000 por carro a partir do Capítulo 2"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Rápido",
+  "ganho": 1000,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=OLNf3bu587Y",
+    "autor": "Riot Clipping | GTA 6 News, Clips & Viral Moments",
+    "titulo": "How to Make Money Fast in GTA 6 (No Spoilers) 💰",
+    "video_id": "OLNf3bu587Y",
+    "imagem": "https://i.ytimg.com/vi/OLNf3bu587Y/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:03:34+00:00",
+  "atualizado": "2026-11-23T05:03:34+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-deposito-bancario-via-buckme",
+  "titulo": "Depósito Bancário via BuckMe",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Deposite dinheiro vivo na sua conta bancária usando o aplicativo BuckMe para evitar perder valores em caso de morte ou prisão.",
+  "resumo_original": "Bank it in the BuckMe app. Cash in your pocket is lost if you die or get busted.",
+  "passos": [
+   "Abra o aplicativo BuckMe no celular do personagem.",
+   "Deposite o dinheiro que está na sua carteira."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "Imediato",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=OLNf3bu587Y",
+    "autor": "Riot Clipping | GTA 6 News, Clips & Viral Moments",
+    "titulo": "How to Make Money Fast in GTA 6 (No Spoilers) 💰",
+    "video_id": "OLNf3bu587Y",
+    "imagem": "https://i.ytimg.com/vi/OLNf3bu587Y/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:03:34+00:00",
+  "atualizado": "2026-11-23T05:03:34+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-veiculos-raros-no-mapa-de-leonida",
+  "titulo": "Veículos raros no mapa de Leonida",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "O vídeo exibe uma série de veículos raros mapeados em diferentes localizações do estado de Leonida.",
+  "resumo_original": "Rare car locations and where to find rare vehicles around the map.",
+  "passos": [
+   "Observe a imagem com o mapa de Leonida",
+   "Identifique o veículo de interesse na sua região correspondente",
+   "Siga as indicações de setas no mapa para localizar o spawn"
+  ],
+  "locais": [
+   {
+    "nome": "Kelly County",
+    "onde": "Região de Kelly County",
+    "detalhe": "Localização de veículos esportivos e de luxo apresentados no mapa"
+   },
+   {
+    "nome": "Port Gellhorn",
+    "onde": "Região de Port Gellhorn",
+    "detalhe": "Ponto de referência para localização de veículos"
+   },
+   {
+    "nome": "Ambrosia",
+    "onde": "Região de Ambrosia",
+    "detalhe": "Ponto de referência para localização de veículos"
+   },
+   {
+    "nome": "Dale County",
+    "onde": "Região de Dale County",
+    "detalhe": "Ponto de referência para localização de veículos"
+   },
+   {
+    "nome": "Watson/Capri/Hamlet/North Planning Sands",
+    "onde": "Demais regiões",
+    "detalhe": "Outras áreas mencionadas no mapa para spawns de veículos"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza clickbait com imagens especulativas. Como o GTA 6 ainda não foi lançado, não é possível confirmar a veracidade dessas localizações como parte do jogo final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=DsMUIWe1llE",
+    "autor": "GuideZone",
+    "titulo": "GTA 6 — ALL RARE CAR LOCATIONS",
+    "video_id": "DsMUIWe1llE",
+    "imagem": "https://i.ytimg.com/vi/DsMUIWe1llE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:03:28+00:00",
+  "atualizado": "2026-11-23T05:03:28+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colecionaveis-murais-1010",
+  "titulo": "Colecionáveis: Murais 1010",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Existem 5 murais espalhados pelo mapa. Encontrar todos desbloqueia a garagem Southside Storage e o carro 1010 Cheetah.",
+  "resumo_original": "There are 5 1010 Mural Locations. Finding all of them unlocks the Southside Storage garage and the 1010 Cheetah unique car.",
+  "passos": [
+   "Localize e interaja com os 5 murais listados no guia.",
+   "Após completar a coleção, dirija-se à garagem Southside Storage para resgatar a recompensa."
+  ],
+  "locais": [
+   {
+    "nome": "Mural 1: Loophole Architecture",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localização disponível via guia do PowerPyx"
+   },
+   {
+    "nome": "Mural 2: Compliance Theater",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localização disponível via guia do PowerPyx"
+   },
+   {
+    "nome": "Mural 3: Extraction Service",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localização disponível via guia do PowerPyx"
+   },
+   {
+    "nome": "Mural 4: You Signed the Terms & Conditions",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Mural pintado em estrutura de viaduto sobre a rua"
+   },
+   {
+    "nome": "Mural 5: Privatized Pains Socialized Gains",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localização disponível via guia do PowerPyx"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Aprox. 6 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mu_VCQKeXvM",
+    "autor": "PowerPyx",
+    "titulo": "GTA 6 - All 1010 Murals Locations",
+    "video_id": "mu_VCQKeXvM",
+    "imagem": "https://i.ytimg.com/vi/mu_VCQKeXvM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:03:23+00:00",
+  "atualizado": "2026-11-23T05:03:23+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-veiculo-1010-cheetah",
+  "titulo": "Veículo: 1010 Cheetah",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Carro exclusivo obtido como recompensa ao completar a coleção dos 5 murais 1010.",
+  "resumo_original": "1010 Cheetah unique car rewarded for finding all 1010 Murals.",
+  "passos": [
+   "Encontre todos os 5 murais 1010 no mapa.",
+   "Acesse a garagem Southside Storage para coletar o veículo."
+  ],
+  "locais": [
+   {
+    "nome": "Southside Storage",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Garagem que serve como local de recompensa"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mu_VCQKeXvM",
+    "autor": "PowerPyx",
+    "titulo": "GTA 6 - All 1010 Murals Locations",
+    "video_id": "mu_VCQKeXvM",
+    "imagem": "https://i.ytimg.com/vi/mu_VCQKeXvM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:03:23+00:00",
+  "atualizado": "2026-11-23T05:03:23+00:00",
+  "status": "confirmado"
  },
  {
   "id": "heist-trabalho-de-seguranca-privada-megamundo",
@@ -1814,117 +4040,6 @@
   "spoiler": false,
   "confianca": "baixa",
   "alerta": "A fonte é um vídeo de YouTube com título sensacionalista, não há evidências concretas de que estas armas existam no GTA 6 atual.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
-    "autor": "Vexies",
-    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
-    "video_id": "WH8IfSdpB0w",
-    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:59:06+00:00",
-  "atualizado": "2026-11-23T02:59:06+00:00",
-  "status": "retido"
- },
- {
-  "id": "gun-drug-mule-kz-59",
-  "titulo": "Drug Mule KZ-59",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Rifle de assalto encontrado como item secreto.",
-  "resumo_original": "Assault Rifle (Drug Mule KZ-59)",
-  "passos": [
-   "Localize o item conforme indicado no timestamp 3:06."
-  ],
-  "locais": [
-   {
-    "nome": "Não especificado",
-    "onde": "",
-    "detalhe": "Localização revelada no timestamp 3:06"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo/sensacionalista.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
-    "autor": "Vexies",
-    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
-    "video_id": "WH8IfSdpB0w",
-    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:59:06+00:00",
-  "atualizado": "2026-11-23T02:59:06+00:00",
-  "status": "retido"
- },
- {
-  "id": "gun-assassin-nipper-38",
-  "titulo": "Assassin Nipper .38",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Pistola equipada com silenciador.",
-  "resumo_original": "Silenced Pistol (Assassin Nipper .38)",
-  "passos": [
-   "Busque o local da arma no timestamp 4:03."
-  ],
-  "locais": [
-   {
-    "nome": "Não especificado",
-    "onde": "",
-    "detalhe": "Localização revelada no timestamp 4:03"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo/sensacionalista.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
-    "autor": "Vexies",
-    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
-    "video_id": "WH8IfSdpB0w",
-    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:59:06+00:00",
-  "atualizado": "2026-11-23T02:59:06+00:00",
-  "status": "retido"
- },
- {
-  "id": "gun-smuggler-gorse-425",
-  "titulo": "Smuggler Gorse 425",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Escopeta de alta potência para combate próximo.",
-  "resumo_original": "INSANE Shotgun (Smuggler Gorse 425)",
-  "passos": [
-   "Vá até o local indicado no timestamp 5:21."
-  ],
-  "locais": [
-   {
-    "nome": "Não especificado",
-    "onde": "",
-    "detalhe": "Localização revelada no timestamp 5:21"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo/sensacionalista.",
   "fontes": [
    {
     "tipo": "YouTube",
