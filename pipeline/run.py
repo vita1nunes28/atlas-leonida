@@ -12,7 +12,7 @@ DATA = ROOT / "public" / "data" / "fichas.json"
 STATE = ROOT / "pipeline" / "state.json"
 MODEL_ENV = os.getenv("GEMINI_MODEL")
 MODEL_CANDIDATOS = ([MODEL_ENV] if MODEL_ENV else []) + ["gemini-3.1-flash-lite", "gemini-3.5-flash-lite", "gemini-3.8-flash", "gemini-flash-latest"]
-_modelo_ok = {"nome": None}
+_estado_modelo = {"ok": None, "exaurido_ate": {}}
 MAX_NOVOS = int(os.getenv("MAX_NOVOS", "40"))  # fontes novas processadas por rodada (controla custo)
 UA = "AtlasLeonida/1.0 (guia de fa de GTA 6)"
 REGIOES = ["Vice City", "Leonida Keys", "Grassrivers", "Port Gellhorn", "Ambrosia", "Mount Kalaga"]
@@ -176,21 +176,46 @@ def baixar_imagem(url):
         return None
 
 
+def _retry_delay(msg):
+    m = re.search(r"retryDelay['\"]?\s*[:=]\s*['\"]?(\d+)", msg)
+    return int(m.group(1)) if m else None
+
+
 def gerar(client, parts):
-    """Chama o Gemini tentando a lista de modelos candidatos ate um funcionar."""
-    candidatos = [_modelo_ok["nome"]] if _modelo_ok["nome"] else MODEL_CANDIDATOS
+    """Chama o Gemini tentando a lista de modelos candidatos ate um funcionar,
+    pulando modelos que estejam temporariamente sem cota (429)."""
+    agora = time.time()
+    ok = _estado_modelo["ok"]
+    if ok and _estado_modelo["exaurido_ate"].get(ok, 0) <= agora:
+        candidatos = [ok]
+    else:
+        candidatos = [m for m in MODEL_CANDIDATOS if _estado_modelo["exaurido_ate"].get(m, 0) <= agora]
+        if not candidatos:
+            nome_mais_cedo = min(MODEL_CANDIDATOS, key=lambda m: _estado_modelo["exaurido_ate"].get(m, 0))
+            espera = max(0, _estado_modelo["exaurido_ate"][nome_mais_cedo] - agora)
+            log(f"  todos os modelos sem cota, aguardando {int(espera)}s")
+            time.sleep(min(espera, 60))
+            candidatos = [nome_mais_cedo]
     ultimo_erro = None
     for nome in candidatos:
         try:
             resp = client.models.generate_content(
                 model=nome, contents=parts,
                 config=genai_types.GenerateContentConfig(max_output_tokens=4000))
-            if _modelo_ok["nome"] != nome:
+            if _estado_modelo["ok"] != nome:
                 log(f"  usando modelo: {nome}")
-                _modelo_ok["nome"] = nome
+                _estado_modelo["ok"] = nome
             return resp
         except Exception as e:
             msg = str(e)
+            if "RESOURCE_EXHAUSTED" in msg or " 429" in msg:
+                espera = _retry_delay(msg) or 60
+                _estado_modelo["exaurido_ate"][nome] = time.time() + espera
+                if _estado_modelo["ok"] == nome:
+                    _estado_modelo["ok"] = None
+                log(f"  modelo {nome} sem cota, livre de novo em {espera}s")
+                ultimo_erro = e
+                continue
             if "NOT_FOUND" in msg or "is no longer available" in msg or " 404" in msg:
                 log(f"  modelo {nome} indisponivel, tentando proximo")
                 ultimo_erro = e
@@ -306,6 +331,7 @@ def main():
         for b in extrair(client, s):
             mesclar(fichas, b, s)
         vistos.add(s["id"])
+        time.sleep(2)  # espaça as chamadas pra nao rajar a cota gratuita
     fichas.sort(key=lambda f: f["atualizado"], reverse=True)
     DATA.write_text(json.dumps(fichas, ensure_ascii=False, indent=1), encoding="utf-8")
     STATE.write_text(json.dumps({"vistos": sorted(vistos)[-20000:]}, ensure_ascii=False), encoding="utf-8")
