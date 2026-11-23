@@ -1,5 +1,2273 @@
 [
  {
+  "id": "farm-poupanca-da-familia-buckme",
+  "titulo": "Poupança da Família (BuckMe)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Acumular $2.000.000 na conta poupança da família é essencial para desbloquear finais positivos e garantir o futuro de Tomás.",
+  "resumo_original": "Money deposited into the BuckMe family savings account for Tomas affects your finale options and epilogue.",
+  "passos": [
+   "Realize atividades criminosas e roubos para acumular fundos",
+   "Deposite o dinheiro na conta BuckMe"
+  ],
+  "locais": [
+   {
+    "nome": "Conta BuckMe",
+    "onde": "Sistema bancário do jogo",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Ao longo do jogo",
+  "ganho": 2000000,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:04:28+00:00",
+  "atualizado": "2026-11-23T03:04:28+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-trabalho-de-seguranca-privada-megamundo",
+  "titulo": "Trabalho de Segurança Privada (Megamundo)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Trabalhos paralelos como segurança privada para Andrés de León na Megamundo.",
+  "resumo_original": "the pair also take on odd jobs, such as working for Megamundo as private security for Andrés de León.",
+  "passos": [
+   "Procure por oportunidades de trabalho para a Megamundo",
+   "Atue como segurança de Andrés de León"
+  ],
+  "locais": [
+   {
+    "nome": "Megamundo",
+    "onde": "Leonida",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:04:28+00:00",
+  "atualizado": "2026-11-23T03:04:28+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-dinka-enduro",
+  "titulo": "Dinka Enduro",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo exclusivo disponível apenas durante o Capítulo 1.",
+  "resumo_original": "Dinka Enduro available only in Chapter 1.",
+  "passos": [
+   "Acesse a lista de bônus no jogo",
+   "Resgate o veículo durante o Capítulo 1"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "Capítulo 1",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "O vídeo é de um canal de fãs e as informações sobre o jogo GTA 6 parecem ser especulativas ou baseadas em mods/fan-fiction, dado que o jogo ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pheD80KhVn4",
+    "autor": "Dante Vega",
+    "titulo": "GTA 6 Ultimate Edition: How to Claim All 16 Bonuses",
+    "video_id": "pheD80KhVn4",
+    "imagem": "https://i.ytimg.com/vi/pheD80KhVn4/hqdefault.jpg"
+   },
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI:_Ultimate_Edition",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI: Ultimate Edition",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:37:48+00:00",
+  "atualizado": "2026-11-23T03:02:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-ganado-retro-build",
+  "titulo": "Ganado Retro Build",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo personalizado disponível apenas durante o Capítulo 1.",
+  "resumo_original": "Ganado Retro Build available only in Chapter 1.",
+  "passos": [
+   "Acesse a lista de bônus no jogo",
+   "Resgate o veículo durante o Capítulo 1"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "Capítulo 1",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "Conteúdo especulativo ou fictício sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pheD80KhVn4",
+    "autor": "Dante Vega",
+    "titulo": "GTA 6 Ultimate Edition: How to Claim All 16 Bonuses",
+    "video_id": "pheD80KhVn4",
+    "imagem": "https://i.ytimg.com/vi/pheD80KhVn4/hqdefault.jpg"
+   },
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI:_Ultimate_Edition",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI: Ultimate Edition",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:37:48+00:00",
+  "atualizado": "2026-11-23T03:02:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-95-grotti-cheetah",
+  "titulo": "'95 Grotti Cheetah",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo esportivo clássico incluído na Ultimate Edition.",
+  "resumo_original": "'95 Grotti Cheetah",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI:_Ultimate_Edition",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI: Ultimate Edition",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:02:40+00:00",
+  "atualizado": "2026-11-23T03:02:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-shitzu-squalo",
+  "titulo": "Shitzu Squalo",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Embarcação de alta velocidade da Ultimate Edition.",
+  "resumo_original": "Shitzu Squalo",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI:_Ultimate_Edition",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI: Ultimate Edition",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:02:40+00:00",
+  "atualizado": "2026-11-23T03:02:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-vapid-dominator-buggy",
+  "titulo": "Vapid Dominator Buggy",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo todo-terreno modelo '67 disponível no pacote.",
+  "resumo_original": "'67 Vapid Dominator Buggy",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI:_Ultimate_Edition",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI: Ultimate Edition",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:02:40+00:00",
+  "atualizado": "2026-11-23T03:02:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-vapid-stanier-sedan",
+  "titulo": "Vapid Stanier Sedan",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Sedã bônus de pré-venda da Ultimate Edition.",
+  "resumo_original": "Vapid Stanier Sedan",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI:_Ultimate_Edition",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI: Ultimate Edition",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:02:40+00:00",
+  "atualizado": "2026-11-23T03:02:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-rideout-customs",
+  "titulo": "Rideout Customs",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Estabelecimento comercial incluído na Ultimate Edition.",
+  "resumo_original": "Rideout Customs",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI:_Ultimate_Edition",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI: Ultimate Edition",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:02:40+00:00",
+  "atualizado": "2026-11-23T03:02:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-sara-s-unisex-salon",
+  "titulo": "Sara's Unisex Salon",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Salão de beleza acessível como parte do conteúdo da Ultimate Edition.",
+  "resumo_original": "Sara's Unisex Salon",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI:_Ultimate_Edition",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI: Ultimate Edition",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:02:40+00:00",
+  "atualizado": "2026-11-23T03:02:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-stock-305",
+  "titulo": "Stock 305",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Localização comercial presente na Ultimate Edition.",
+  "resumo_original": "Stock 305",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI:_Ultimate_Edition",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI: Ultimate Edition",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:02:40+00:00",
+  "atualizado": "2026-11-23T03:02:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-electric-fang",
+  "titulo": "Electric Fang",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Localização presente na Ultimate Edition.",
+  "resumo_original": "Electric Fang",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI:_Ultimate_Edition",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI: Ultimate Edition",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:02:40+00:00",
+  "atualizado": "2026-11-23T03:02:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-one-eyed-willie-s-mod-shop",
+  "titulo": "One-Eyed Willie's Mod Shop",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Oficina de modificação incluída na Ultimate Edition.",
+  "resumo_original": "One-Eyed Willie's Mod Shop",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI:_Ultimate_Edition",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI: Ultimate Edition",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:02:40+00:00",
+  "atualizado": "2026-11-23T03:02:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-ptt-youngin-illegal-goods-store",
+  "titulo": "PTT Youngin$ Illegal Goods Store",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Loja de produtos ilegais presente no jogo.",
+  "resumo_original": "PTT Youngin$ Illegal Goods Store",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI:_Ultimate_Edition",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI: Ultimate Edition",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:02:40+00:00",
+  "atualizado": "2026-11-23T03:02:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-polymer-pistol",
+  "titulo": "Polymer Pistol",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma pistola semiautomática de calibre 9mm, baseada no design da Glock 17. É a arma de mão padrão utilizada por Lucia, Jason, policiais e membros de gangues em Leonida.",
+  "resumo_original": "The Klose K17 is a pistol due appearing in Grand Theft Auto VI.",
+  "passos": [
+   "Utilize a pistola como arma padrão para combate a curta distância.",
+   "Fique atento a variantes personalizadas, como a versão gravada para Lucia presente na Ultimate Edition."
+  ],
+  "locais": [
+   {
+    "nome": "Mundo aberto",
+    "onde": "Vice City/Leonida",
+    "detalhe": "Utilizada por diversos NPCs, incluindo policiais (VCPD e VBPD) e membros de gangues como a San4San."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Polymer_Pistol",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Polymer Pistol",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:01:26+00:00",
+  "atualizado": "2026-11-23T03:01:26+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-submetralhadora-baseada-na-heckler-koch-mp5-40",
+  "titulo": "Submetralhadora baseada na Heckler & Koch MP5/40",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma submetralhadora inspirada na MP5/40 vista com Lucia e Jason. Pode ser equipada com mira red-dot baseada no modelo Micro T-1 MOA.",
+  "resumo_original": "A Heckler & Koch MP5/40-inspired submachine gun is due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "Identificada durante uma situação de reféns no segundo trailer do jogo (marca de 1:15)."
+  ],
+  "locais": [
+   {
+    "nome": "Indeterminado",
+    "onde": "Leonida",
+    "detalhe": "Vista em posse dos protagonistas durante uma cena de roubo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Heckler_&_Koch_MP5/40-inspired_submachine_gun",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Heckler & Koch MP5/40-inspired submachine gun",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:01:14+00:00",
+  "atualizado": "2026-11-23T03:01:14+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-carabina-de-operacoes-especiais-duke",
+  "titulo": "Carabina de Operações Especiais Duke",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Um fuzil de assalto fabricado pela Duke Arms Company, utilizado por Raul Bautista contra a polícia em material promocional.",
+  "resumo_original": "A Duke Arms Company special ops carbine is due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "Utilize o fuzil em situações de combate para conter forças policiais, conforme visto em material promocional."
+  ],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "",
+    "detalhe": "O item aparece em vídeos promocionais do jogo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Duke_carbine",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Duke carbine",
+    "video_id": null,
+    "imagem": null
+   },
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Duke_special_ops_carbine",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Duke special ops carbine",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:00:15+00:00",
+  "atualizado": "2026-11-23T03:01:08+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-fuzil-de-precisao-duke-duke-assault-sniper-rifle",
+  "titulo": "Fuzil de Precisão Duke (Duke Assault Sniper Rifle)",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Um fuzil de precisão fabricado pela Duke Arms Company, derivado do design do fuzil Duke Carbine.",
+  "resumo_original": "A Duke Arms Company assault sniper rifle is due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "Fique atento ao equipamento de caçadores encontrados em barcos (airboats) pelo mapa."
+  ],
+  "locais": [
+   {
+    "nome": "Em posse de um caçador",
+    "onde": "Em um airboat",
+    "detalhe": "Observado em material oficial sendo utilizado por um caçador."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Duke_assault_sniper_rifle",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Duke assault sniper rifle",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:00:30+00:00",
+  "atualizado": "2026-11-23T03:00:30+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-mustang-357",
+  "titulo": "Mustang .357",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Pistola de grande calibre confirmada.",
+  "resumo_original": "Mustang .357 Pistol",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   },
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Duke_carbine",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Duke carbine",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T03:00:15+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-espingarda-de-cano-duplo",
+  "titulo": "Espingarda de cano duplo",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Shotgun clássica de cano duplo.",
+  "resumo_original": "Double-barreled shotgun",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   },
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Duke_carbine",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Duke carbine",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T03:00:15+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-carabina-duke",
+  "titulo": "Carabina Duke",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Fuzil de assalto da linha Duke.",
+  "resumo_original": "Duke carbine",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   },
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Duke_carbine",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Duke carbine",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T03:00:15+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-metralhadora-pesada",
+  "titulo": "Metralhadora Pesada",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma pesada de fogo rápido para combate intenso.",
+  "resumo_original": "Heavy Machine Gun",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Duke_carbine",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Duke carbine",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:00:15+00:00",
+  "atualizado": "2026-11-23T03:00:15+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-rifle-de-precisao-bolt-action",
+  "titulo": "Rifle de precisão Bolt Action",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle de ferrolho para disparos de longa distância.",
+  "resumo_original": "Bolt Action Sniper",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Duke_carbine",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Duke carbine",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:00:15+00:00",
+  "atualizado": "2026-11-23T03:00:15+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-arpao-speargun",
+  "titulo": "Arpão (Speargun)",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Lançador de projéteis focado em disparos subaquáticos ou de curta distância.",
+  "resumo_original": "Speargun",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Duke_carbine",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Duke carbine",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:00:15+00:00",
+  "atualizado": "2026-11-23T03:00:15+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-scorpio-nipper-38",
+  "titulo": "Scorpio Nipper .38",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Pistola semiautomática inspirada na Bersa Thunder 380, identificada como \"Nipper 38\".",
+  "resumo_original": "A Bersa Thunder 380-inspired pistol, known as Scorpio Nipper .38.",
+  "passos": [
+   "Esta arma é utilizada por Lucia em artes promocionais e vídeos do site oficial."
+  ],
+  "locais": [
+   {
+    "nome": "Desconhecido",
+    "onde": "Não especificado",
+    "detalhe": "Visto na mão de Lucia em materiais promocionais."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Bersa_Thunder_380-inspired_pistol",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Bersa Thunder 380-inspired pistol",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:00:06+00:00",
+  "atualizado": "2026-11-23T03:00:06+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-girardi-es9",
+  "titulo": "Girardi ES9",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma pistola baseada na Beretta 92FS. Possui uma variante especial gravada disponível para o personagem Jason.",
+  "resumo_original": "A Beretta 92FS-inspired pistol. The Girardi ES9 is a pistol in Grand Theft Auto VI.",
+  "passos": [
+   "Obtenha a edição Ultimate do jogo para acessar a variante especial gravada para Jason."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Beretta_92FS-inspired_pistol",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Beretta 92FS-inspired pistol",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:00:01+00:00",
+  "atualizado": "2026-11-23T03:00:01+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-klose-k17",
+  "titulo": "Klose K17",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma pistola disponível em GTA VI, com uma variante especial exclusiva para a personagem Lucia.",
+  "resumo_original": "Special variant of the Klose K17 pistol for Lucia.",
+  "passos": [
+   "Obtenha a edição Ultimate do jogo para acessar a variante especial para Lucia."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Beretta_92FS-inspired_pistol",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Beretta 92FS-inspired pistol",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T03:00:01+00:00",
+  "atualizado": "2026-11-23T03:00:01+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-taco-de-beisebol",
+  "titulo": "Taco de Beisebol",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma corpo a corpo clássica confirmada em mídias oficiais.",
+  "resumo_original": "Melee Baseball Bat",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-martelo",
+  "titulo": "Martelo",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma corpo a corpo pesada disponível no arsenal.",
+  "resumo_original": "Hammer",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-taco-de-sinuca",
+  "titulo": "Taco de Sinuca",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma corpo a corpo baseada em equipamento de sinuca.",
+  "resumo_original": "Pool Cue",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-taco-de-minigolfe",
+  "titulo": "Taco de Minigolfe",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma corpo a corpo do tipo taco de golfe.",
+  "resumo_original": "Mini golf club",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-pistola-de-polimero",
+  "titulo": "Pistola de Polímero",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Pistola de fabricação moderna com corpo em polímero.",
+  "resumo_original": "Polymer Pistol",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-pistola-capo",
+  "titulo": "Pistola Capo",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Pistola de estilo distintivo confirmada.",
+  "resumo_original": "Capo pistol",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-pistola-inspirada-em-beretta-92fs",
+  "titulo": "Pistola inspirada em Beretta 92FS",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Pistola semiautomática inspirada no modelo real Beretta 92FS.",
+  "resumo_original": "Beretta 92FS-inspired pistol",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-pistola-inspirada-em-bersa-thunder-380",
+  "titulo": "Pistola inspirada em Bersa Thunder 380",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Pistola de porte compacto inspirada na Bersa Thunder 380.",
+  "resumo_original": "Bersa Thunder 380-inspired pistol",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-submetralhadora-inspirada-em-hk-mp5-40",
+  "titulo": "Submetralhadora inspirada em HK MP5/40",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Submetralhadora de alta cadência baseada na série MP5.",
+  "resumo_original": "Heckler & Koch MP5/40-inspired submachine gun",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-carabina-duke-special-ops",
+  "titulo": "Carabina Duke Special Ops",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Versão tática/especial da Carabina Duke.",
+  "resumo_original": "Duke special ops carbine",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-fuzil-de-precisao-por-acao-de-ferrolho",
+  "titulo": "Fuzil de Precisão por Ação de Ferrolho",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Fuzil de precisão com mecanismo de ferrolho.",
+  "resumo_original": "Bolt Action Sniper",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-fuzil-de-precisao-duke",
+  "titulo": "Fuzil de Precisão Duke",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Fuzil de assalto configurado para precisão (sniper) da linha Duke.",
+  "resumo_original": "Duke assault sniper rifle",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-lanca-granadas",
+  "titulo": "Lança-granadas",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma pesada de lançamento de granadas.",
+  "resumo_original": "Grenade Launcher",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-23T02:59:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-armamento-em-leonida",
+  "titulo": "Armamento em Leonida",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Lista de armas confirmadas ou vazadas para o GTA VI, categorizadas por tipo e estilo.",
+  "resumo_original": "The following table lists weapons due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "Consulte a lista de armas de corpo a corpo, pistolas, escopetas, rifles e explosivos no inventário."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "media",
+  "alerta": "Armas marcadas com '*' na fonte original foram apenas representadas ou mencionadas em vazamentos, não possuindo confirmação definitiva no jogo final.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/table",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/table",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:51+00:00",
+  "atualizado": "2026-11-23T02:59:51+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "gun-armamento-de-gta-vi",
+  "titulo": "Armamento de GTA VI",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Lista de armas confirmadas oficialmente em trailers e material promocional de GTA VI.",
+  "resumo_original": "List of weapons appearing in Grand Theft Auto VI.",
+  "passos": [
+   "Equipe armas de fogo como a Mustang .357, pistolas (Capo, Polímero) ou fuzis (Duke carbine).",
+   "Utilize armas brancas como bastão de beisebol, martelo ou tacos de golfe conforme disponível no inventário."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "A lista inclui armas vistas em material oficial. Itens marcados como vazamentos na fonte original foram omitidos desta ficha.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:48+00:00",
+  "atualizado": "2026-11-23T02:59:48+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-carro-inspirado-no-mercury-cougar",
+  "titulo": "Carro inspirado no Mercury Cougar",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um veículo estilo muscle car baseado no Mercury Cougar 1969-1970, que pode ser visto estacionado em um complexo de apartamentos.",
+  "resumo_original": "A Mercury Cougar-inspired car is due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "Explore a área de Hamlet no jogo para localizar o veículo estacionado em um complexo de apartamentos."
+  ],
+  "locais": [
+   {
+    "nome": "Complexo de apartamentos em Hamlet",
+    "onde": "Hamlet",
+    "detalhe": "Visto no primeiro trailer (0:58) estacionado atrás de uma mulher com um martelo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Mercury_Cougar-inspired_car",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Mercury Cougar-inspired car",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:44+00:00",
+  "atualizado": "2026-11-23T02:59:44+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-declasse-impaler-lx-donk",
+  "titulo": "Declasse Impaler LX (Donk)",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Versão modificada do Impaler LX com suspensão elevada e rodas grandes, estilo \"donk\".",
+  "resumo_original": "A donked-out Declasse Impaler LX is due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "O veículo pode ser visto circulando no bairro de La Perle."
+  ],
+  "locais": [
+   {
+    "nome": "Vice-Dale County Road 561",
+    "onde": "La Perle, Vice City",
+    "detalhe": "Visto em capturas de tela oficiais trafegando por esta via."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Impaler_LX_donked-out_car",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Impaler LX donked-out car",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:40+00:00",
+  "atualizado": "2026-11-23T02:59:40+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-esportivo-sem-nome-trailer-1",
+  "titulo": "Esportivo sem nome (Trailer 1)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um carro esportivo de duas portas identificado no primeiro trailer do jogo, visto na cor amarela.",
+  "resumo_original": "A sports car in the first trailer for Grand Theft Auto VI.",
+  "passos": [
+   "Observe o vídeo do trailer em 0:46 para visualizar o veículo no perfil de \"UrGirl99\"."
+  ],
+  "locais": [
+   {
+    "nome": "Redes sociais do jogo",
+    "onde": "Trailer 1 de GTA VI",
+    "detalhe": "Aparece como foto de perfil de \"UrGirl99\""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_sports_car",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI sports car",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:37+00:00",
+  "atualizado": "2026-11-23T02:59:37+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-bravado-minivan-taxi",
+  "titulo": "Bravado Minivan Taxi",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Uma minivan utilizada como táxi em Vice City, baseada em modelos da Chrysler.",
+  "resumo_original": "A Bravado minivan taxi is due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "Explore a região de Vice Beach à noite para avistar o veículo circulando."
+  ],
+  "locais": [
+   {
+    "nome": "Vice Beach",
+    "onde": "Vice City",
+    "detalhe": "Pode ser vista circulando pela via inspirada na Ocean Drive."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Bravado_minivan_taxi",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Bravado minivan taxi",
+    "video_id": null,
+    "imagem": null
+   },
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Bravado_minivan",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Bravado minivan",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:30+00:00",
+  "atualizado": "2026-11-23T02:59:34+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-bravado-minivan",
+  "titulo": "Bravado Minivan",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Uma minivan de quatro portas fabricada pela Bravado, confirmada para aparecer em GTA VI.",
+  "resumo_original": "A 4-door minivan manufactured by Bravado, confirmed to appear in GTA VI.",
+  "passos": [
+   "Pode ser vista no primeiro trailer (1:07) realizando uma conversão em um cruzamento."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Bravado_minivan",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Bravado minivan",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:34+00:00",
+  "atualizado": "2026-11-23T02:59:34+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-station-wagon-inspirada-na-chrysler-lebaron-town-country",
+  "titulo": "Station wagon inspirada na Chrysler LeBaron Town & Country",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Uma perua de 4 portas com painéis de madeira, baseada no modelo 1986-1988 da Chrysler.",
+  "resumo_original": "A Chrysler LeBaron Town & Country-inspired station wagon is due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "O veículo foi visto circulando em uma rodovia próxima ao Starlet Motel durante um teste de depuração."
+  ],
+  "locais": [
+   {
+    "nome": "Starlet Motel",
+    "onde": "Rodovia nas proximidades",
+    "detalhe": "Avistado em um clipe de teste de mundo durante os vazamentos de 2022."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "media",
+  "alerta": "A informação é baseada em vazamentos de desenvolvimento de 2022, não na versão final do jogo.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Chrysler_LeBaron_Town_&_Country-inspired_station_wagon",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Chrysler LeBaron Town & Country-inspired station wagon",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:27+00:00",
+  "atualizado": "2026-11-23T02:59:27+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-vapid-sedan",
+  "titulo": "Vapid sedan",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Um sedan de 4 portas da fabricante Vapid, inspirado no design da plataforma Ford Panther.",
+  "resumo_original": "A Vapid sedan is due to appear in Grand Theft Auto VI.",
+  "passos": [],
+  "locais": [
+   {
+    "nome": "Crosstown",
+    "onde": "Vice City",
+    "detalhe": "Visto no meio de um cruzamento à noite durante um evento de 'street takeover'."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Vapid_sedan",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Vapid sedan",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:23+00:00",
+  "atualizado": "2026-11-23T02:59:23+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-vapid-sedan-variacoes",
+  "titulo": "Vapid sedan (Variações)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Versões modificadas do Vapid sedan incluindo modelos policiais, táxi e tunados.",
+  "resumo_original": "Variants: Unnamed GTA VI Vapid donked-out car, ghost police car, police car, taxi.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Vapid_sedan",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Vapid sedan",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:23+00:00",
+  "atualizado": "2026-11-23T02:59:23+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-seda-inspirado-no-chrysler-sebring",
+  "titulo": "Sedã inspirado no Chrysler Sebring",
+  "categoria": "car",
+  "regiao": "Port Gellhorn",
+  "resumo": "Um sedã de 4 portas baseado no Chrysler Sebring de segunda geração.",
+  "resumo_original": "A Chrysler Sebring-inspired sedan is due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "Procure pelo veículo estacionado no estacionamento do restaurante Hank's Waffles em Port Gellhorn.",
+   "Busque também na área do depósito da Schlott Construction, do outro lado da rua do restaurante."
+  ],
+  "locais": [
+   {
+    "nome": "Hank's Waffles",
+    "onde": "Port Gellhorn",
+    "detalhe": "Estacionamento do restaurante"
+   },
+   {
+    "nome": "Schlott Construction",
+    "onde": "Port Gellhorn",
+    "detalhe": "Depósito em frente ao restaurante"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Chrysler_Sebring-inspired_sedan",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Chrysler Sebring-inspired sedan",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:20+00:00",
+  "atualizado": "2026-11-23T02:59:20+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-seda-chrysler-sebring-em-watson-bay",
+  "titulo": "Sedã (Chrysler Sebring) em Watson Bay",
+  "categoria": "car",
+  "regiao": "Grassrivers",
+  "resumo": "O sedã inspirado no Chrysler Sebring aparece estacionado em Watson Bay, conforme visto no material promocional.",
+  "resumo_original": "The sedan can officially be seen parked in Watson Bay in a screenshot from the Grassrivers section of the game's promotional website.",
+  "passos": [
+   "Visite a região de Watson Bay para localizar o veículo."
+  ],
+  "locais": [
+   {
+    "nome": "Watson Bay",
+    "onde": "Grassrivers",
+    "detalhe": "Local de exibição oficial"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Chrysler_Sebring-inspired_sedan",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Chrysler Sebring-inspired sedan",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:20+00:00",
+  "atualizado": "2026-11-23T02:59:20+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-seda-chrysler-sebring-no-mount-kalaga",
+  "titulo": "Sedã (Chrysler Sebring) no Mount Kalaga",
+  "categoria": "car",
+  "regiao": "Mount Kalaga",
+  "resumo": "A traseira deste sedã pode ser vista em capturas de tela oficiais do Parque Nacional de Mount Kalaga.",
+  "resumo_original": "The sedan's rear is shown in a screenshot from the Mount Kalaga National Park section.",
+  "passos": [
+   "Explore a área do Parque Nacional de Mount Kalaga para encontrar este modelo."
+  ],
+  "locais": [
+   {
+    "nome": "Parque Nacional de Mount Kalaga",
+    "onde": "Mount Kalaga",
+    "detalhe": "Captura de tela oficial"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Chrysler_Sebring-inspired_sedan",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Chrysler Sebring-inspired sedan",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:20+00:00",
+  "atualizado": "2026-11-23T02:59:20+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-picape-canis",
+  "titulo": "Picape Canis",
+  "categoria": "car",
+  "regiao": "Port Gellhorn",
+  "resumo": "Uma picape de duas portas da fabricante Canis, baseada no Jeep Scrambler (CJ-8).",
+  "resumo_original": "A Canis pickup truck is due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "Explore a área de Port Gellhorn para avistá-la circulando."
+  ],
+  "locais": [
+   {
+    "nome": "Starlet Motel",
+    "onde": "Port Gellhorn",
+    "detalhe": "Avistada entrando no estacionamento em captura de tela oficial."
+   },
+   {
+    "nome": "Gas Stop",
+    "onde": "Port Gellhorn",
+    "detalhe": "Visto passando pela filial durante vazamentos de 2022."
+   },
+   {
+    "nome": "Complexo prisional",
+    "onde": "Leonida",
+    "detalhe": "Visto passando em uma rodovia próxima ao local."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Canis_pickup_truck",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Canis pickup truck",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:16+00:00",
+  "atualizado": "2026-11-23T02:59:16+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-unpacked-comshot-12",
+  "titulo": "Unpacked Comshot 12",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma escopeta potente e de alto desempenho.",
+  "resumo_original": "GOATED Shotgun (Unpacked Comshot 12)",
+  "passos": [
+   "Siga as instruções do vídeo para localizar a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "",
+    "detalhe": "Localização revelada no timestamp 1:44"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte é um vídeo de YouTube com título sensacionalista, não há evidências concretas de que estas armas existam no GTA 6 atual.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-23T02:59:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-drug-mule-kz-59",
+  "titulo": "Drug Mule KZ-59",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle de assalto encontrado como item secreto.",
+  "resumo_original": "Assault Rifle (Drug Mule KZ-59)",
+  "passos": [
+   "Localize o item conforme indicado no timestamp 3:06."
+  ],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "",
+    "detalhe": "Localização revelada no timestamp 3:06"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-23T02:59:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-assassin-nipper-38",
+  "titulo": "Assassin Nipper .38",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Pistola equipada com silenciador.",
+  "resumo_original": "Silenced Pistol (Assassin Nipper .38)",
+  "passos": [
+   "Busque o local da arma no timestamp 4:03."
+  ],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "",
+    "detalhe": "Localização revelada no timestamp 4:03"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-23T02:59:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-smuggler-gorse-425",
+  "titulo": "Smuggler Gorse 425",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Escopeta de alta potência para combate próximo.",
+  "resumo_original": "INSANE Shotgun (Smuggler Gorse 425)",
+  "passos": [
+   "Vá até o local indicado no timestamp 5:21."
+  ],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "",
+    "detalhe": "Localização revelada no timestamp 5:21"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-23T02:59:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-sm-69",
+  "titulo": "SM-69",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle de precisão (Sniper).",
+  "resumo_original": "Sniper Rifle (SM-69)",
+  "passos": [
+   "Obtenha a arma seguindo o guia no timestamp 6:31."
+  ],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "",
+    "detalhe": "Localização revelada no timestamp 6:31"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-23T02:59:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-speargun",
+  "titulo": "Speargun",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma de arpão para uso variado.",
+  "resumo_original": "Speargun",
+  "passos": [
+   "Localize o item conforme o timestamp 8:35."
+  ],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "",
+    "detalhe": "Localização revelada no timestamp 8:35"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-23T02:59:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-stoner-k17",
+  "titulo": "Stoner K17",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Pistola automática de tiro rápido.",
+  "resumo_original": "AUTOMATIC Pistol (Stoner K17)",
+  "passos": [
+   "Busque o local da arma no timestamp 24:13."
+  ],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "",
+    "detalhe": "Localização revelada no timestamp 24:13"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-23T02:59:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-a-joalheria",
+  "titulo": "Roubo a Joalheria",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Assalto a lojas de joias utilizando armas de fogo para quebrar as vitrines e coletar itens de valor.",
+  "resumo_original": "Jewelry store robbery.",
+  "passos": [
+   "Entre na joalheria.",
+   "Use sua arma para quebrar as vitrines de vidro.",
+   "Colete as joias do interior."
+  ],
+  "locais": [
+   {
+    "nome": "Joalheria",
+    "onde": "Leonida",
+    "detalhe": "Locais de venda de joias espalhados pelo mapa."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "não especificado",
+  "ganho": 17000,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9OsRCr6Zgdc",
+    "autor": "WantedGator",
+    "titulo": "GTA 6 Money Methods RANKED: ATMs, Jewelry Stores & Banks",
+    "video_id": "9OsRCr6Zgdc",
+    "imagem": "https://i.ytimg.com/vi/9OsRCr6Zgdc/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:58:57+00:00",
+  "atualizado": "2026-11-23T02:58:57+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-toyota-supra-do-velozes-e-furiosos",
+  "titulo": "Toyota Supra do Velozes e Furiosos",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo icônico baseado no filme Velozes e Furiosos.",
+  "resumo_original": "Fast and Furious Supra car.",
+  "passos": [],
+  "locais": [
+   {
+    "nome": "",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza mods ou edições de GTA 5 (ou outros jogos) para simular o GTA 6. Não há provas de que este veículo ou localização existam no jogo real.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=qCtJ6IOhT_Y",
+    "autor": "SpeirsTheAmazingHD",
+    "titulo": "Stealing Secret Cars in GTA 6",
+    "video_id": "qCtJ6IOhT_Y",
+    "imagem": "https://i.ytimg.com/vi/qCtJ6IOhT_Y/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:58:53+00:00",
+  "atualizado": "2026-11-23T02:58:53+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-eclipse-do-velozes-e-furiosos",
+  "titulo": "Eclipse do Velozes e Furiosos",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo icônico baseado no filme Velozes e Furiosos.",
+  "resumo_original": "Fast and Furious Eclipse car.",
+  "passos": [],
+  "locais": [
+   {
+    "nome": "",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo ou modificado; o vídeo não apresenta jogabilidade real de GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=qCtJ6IOhT_Y",
+    "autor": "SpeirsTheAmazingHD",
+    "titulo": "Stealing Secret Cars in GTA 6",
+    "video_id": "qCtJ6IOhT_Y",
+    "imagem": "https://i.ytimg.com/vi/qCtJ6IOhT_Y/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:58:53+00:00",
+  "atualizado": "2026-11-23T02:58:53+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-dodge-charger-do-dom",
+  "titulo": "Dodge Charger do Dom",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo icônico do personagem Dominic Toretto.",
+  "resumo_original": "Dom's Charger.",
+  "passos": [],
+  "locais": [
+   {
+    "nome": "",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo ou modificado; o vídeo não apresenta jogabilidade real de GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=qCtJ6IOhT_Y",
+    "autor": "SpeirsTheAmazingHD",
+    "titulo": "Stealing Secret Cars in GTA 6",
+    "video_id": "qCtJ6IOhT_Y",
+    "imagem": "https://i.ytimg.com/vi/qCtJ6IOhT_Y/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:58:53+00:00",
+  "atualizado": "2026-11-23T02:58:53+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-hot-rod-golf-cart",
+  "titulo": "Hot Rod Golf Cart",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Carrinho de golfe personalizado.",
+  "resumo_original": "Hot Rod Golf Cart.",
+  "passos": [],
+  "locais": [
+   {
+    "nome": "",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo ou modificado; o vídeo não apresenta jogabilidade real de GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=qCtJ6IOhT_Y",
+    "autor": "SpeirsTheAmazingHD",
+    "titulo": "Stealing Secret Cars in GTA 6",
+    "video_id": "qCtJ6IOhT_Y",
+    "imagem": "https://i.ytimg.com/vi/qCtJ6IOhT_Y/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:58:53+00:00",
+  "atualizado": "2026-11-23T02:58:53+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-publicacoes-colecionaveis-no-capitulo-1",
+  "titulo": "Publicações Colecionáveis no Capítulo 1",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Colete 5 revistas exclusivas escondidas dentro e ao redor da casa de Jason antes do fim do Capítulo 1.",
+  "resumo_original": "Collect 5 magazine publications found inside and around Jason's house before the end of Chapter 1.",
+  "passos": [
+   "Explore a residência de Jason e seus arredores imediatamente durante o Capítulo 1.",
+   "Garanta a coleta de todas as 5 publicações antes de progredir na história e perder o acesso ao local."
+  ],
+  "locais": [
+   {
+    "nome": "Casa de Jason",
+    "onde": "Capítulo 1",
+    "detalhe": "Interior e arredores imediatos da casa."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Curto",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um clickbait que utiliza uma capa falsa (o livro 'Lethal By Design' não existe em GTA 6 e a imagem é montada), não apresentando imagens reais do jogo ou as localizações das revistas mencionadas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Mf1yO9qEwus",
+    "autor": "NIXNE",
+    "titulo": "GTA 6 - Get These 5 Collectibles Before Finishing Chapter 1",
+    "video_id": "Mf1yO9qEwus",
+    "imagem": "https://i.ytimg.com/vi/Mf1yO9qEwus/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:58:49+00:00",
+  "atualizado": "2026-11-23T02:58:49+00:00",
+  "status": "retido"
+ },
+ {
   "id": "car-carro-esportivo-verde-terada-tires",
   "titulo": "Carro Esportivo Verde (Terada Tires)",
   "categoria": "car",
@@ -440,38 +2708,6 @@
   "status": "confirmado"
  },
  {
-  "id": "car-dinka-enduro",
-  "titulo": "Dinka Enduro",
-  "categoria": "car",
-  "regiao": "",
-  "resumo": "Veículo exclusivo disponível apenas durante o Capítulo 1.",
-  "resumo_original": "Dinka Enduro available only in Chapter 1.",
-  "passos": [
-   "Acesse a lista de bônus no jogo",
-   "Resgate o veículo durante o Capítulo 1"
-  ],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "Capítulo 1",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é de um canal de fãs e as informações sobre o jogo GTA 6 parecem ser especulativas ou baseadas em mods/fan-fiction, dado que o jogo ainda não foi lançado.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=pheD80KhVn4",
-    "autor": "Dante Vega",
-    "titulo": "GTA 6 Ultimate Edition: How to Claim All 16 Bonuses",
-    "video_id": "pheD80KhVn4",
-    "imagem": "https://i.ytimg.com/vi/pheD80KhVn4/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:37:48+00:00",
-  "atualizado": "2026-11-23T02:37:48+00:00",
-  "status": "retido"
- },
- {
   "id": "car-crest-kayak",
   "titulo": "Crest Kayak",
   "categoria": "car",
@@ -481,38 +2717,6 @@
   "passos": [
    "Acesse a lista de bônus no jogo",
    "Resgate o item durante o Capítulo 1"
-  ],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "Capítulo 1",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo ou fictício sobre um jogo ainda não lançado.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=pheD80KhVn4",
-    "autor": "Dante Vega",
-    "titulo": "GTA 6 Ultimate Edition: How to Claim All 16 Bonuses",
-    "video_id": "pheD80KhVn4",
-    "imagem": "https://i.ytimg.com/vi/pheD80KhVn4/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:37:48+00:00",
-  "atualizado": "2026-11-23T02:37:48+00:00",
-  "status": "retido"
- },
- {
-  "id": "car-ganado-retro-build",
-  "titulo": "Ganado Retro Build",
-  "categoria": "car",
-  "regiao": "",
-  "resumo": "Veículo personalizado disponível apenas durante o Capítulo 1.",
-  "resumo_original": "Ganado Retro Build available only in Chapter 1.",
-  "passos": [
-   "Acesse a lista de bônus no jogo",
-   "Resgate o veículo durante o Capítulo 1"
   ],
   "locais": [],
   "dificuldade": 1,
