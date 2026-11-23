@@ -1,5 +1,214 @@
 [
  {
+  "id": "car-vapid-stanier-g2",
+  "titulo": "Vapid Stanier G2",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Um sedan de quatro portas, baseado no design da plataforma Ford Panther.",
+  "resumo_original": "A Vapid sedan in the first trailer for Grand Theft Auto VI.",
+  "passos": [
+   "Pode ser encontrado durante eventos de 'street takeover' (encontros de carros) na cidade."
+  ],
+  "locais": [
+   {
+    "nome": "Crosstown",
+    "onde": "Vice City",
+    "detalhe": "Intersecção no bairro Crosstown durante a noite."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Vapid_sedan",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Vapid sedan",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T13:11:28+00:00",
+  "atualizado": "2026-11-23T13:11:28+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-vapid-stanier-g2-donked-out",
+  "titulo": "Vapid Stanier G2 (Donked-out)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Versão 'hi-riser' do Stanier G2, caracterizada por rodas maiores e suspensão elevada.",
+  "resumo_original": "Hi-riser variant with larger wheels and higher ride height.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Vapid_sedan",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Vapid sedan",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T13:11:28+00:00",
+  "atualizado": "2026-11-23T13:11:28+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-vapid-stanier-g2-policial-sheriff",
+  "titulo": "Vapid Stanier G2 (Policial/Sheriff)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Variação do sedan equipada para as forças policiais, ostentando a pintura do Condado de Leonard.",
+  "resumo_original": "Police variant with a Leonard County Sheriff livery.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Vapid_sedan",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Vapid sedan",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T13:11:28+00:00",
+  "atualizado": "2026-11-23T13:11:28+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-vapid-stanier-g2-policial-ghost",
+  "titulo": "Vapid Stanier G2 (Policial 'Ghost')",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Versão de patrulha com pintura discreta ('ghost') e luzes de emergência.",
+  "resumo_original": "'Ghost' livery variant with emergency lights.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Vapid_sedan",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Vapid sedan",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T13:11:28+00:00",
+  "atualizado": "2026-11-23T13:11:28+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-roubo-a-joalheria-vice-city",
+  "titulo": "Roubo à Joalheria (Vice City)",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Método para roubar joias de forma profissional e sem atrair nível de procurado.",
+  "resumo_original": "Professional jewelry heists with no wanted level.",
+  "passos": [
+   "Adentre a joalheria Vice City Jewelers.",
+   "Esvazie as vitrines diretamente na sua mochila."
+  ],
+  "locais": [
+   {
+    "nome": "Vice City Jewelers",
+    "onde": "Vice City",
+    "detalhe": "Interior da loja conforme visto na imagem."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Rápido",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata-se de um conteúdo sensacionalista (clickbait) utilizando imagens promocionais ou mods/edições, pois GTA VI ainda não foi lançado para permitir gameplay real desse tipo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=suVVXEOLsOs",
+    "autor": "TagBackTV",
+    "titulo": "Get RICH EASY IN GTA 6 - PROFESSIONAL Jewelry Heists, No Cops, Clean Getaway",
+    "video_id": "suVVXEOLsOs",
+    "imagem": "https://i.ytimg.com/vi/suVVXEOLsOs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T13:10:36+00:00",
+  "atualizado": "2026-11-23T13:10:36+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-a-joalheria",
+  "titulo": "Roubo a Joalheria",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Assalto a lojas de joias utilizando armas de fogo para quebrar as vitrines e coletar itens de valor.",
+  "resumo_original": "Jewelry store robbery.",
+  "passos": [
+   "Entre na joalheria.",
+   "Use sua arma para quebrar as vitrines de vidro.",
+   "Colete as joias do interior."
+  ],
+  "locais": [
+   {
+    "nome": "Joalheria",
+    "onde": "Leonida",
+    "detalhe": "Locais de venda de joias espalhados pelo mapa."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "não especificado",
+  "ganho": 17000,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9OsRCr6Zgdc",
+    "autor": "WantedGator",
+    "titulo": "GTA 6 Money Methods RANKED: ATMs, Jewelry Stores & Banks",
+    "video_id": "9OsRCr6Zgdc",
+    "imagem": "https://i.ytimg.com/vi/9OsRCr6Zgdc/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wXjNQeurE20",
+    "autor": "TheUntouchableWolf",
+    "titulo": "GTA 6 How To Rob A Jewelry Store Ultimate Guide!",
+    "video_id": "wXjNQeurE20",
+    "imagem": "https://i.ytimg.com/vi/wXjNQeurE20/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:58:57+00:00",
+  "atualizado": "2026-11-23T13:09:31+00:00",
+  "status": "confirmado"
+ },
+ {
   "id": "col-porto-de-vice-city-portvicecity",
   "titulo": "Porto de Vice City (PortViceCity)",
   "categoria": "col",
@@ -4923,45 +5132,6 @@
   "criado": "2026-11-23T02:59:06+00:00",
   "atualizado": "2026-11-23T02:59:06+00:00",
   "status": "retido"
- },
- {
-  "id": "heist-roubo-a-joalheria",
-  "titulo": "Roubo a Joalheria",
-  "categoria": "heist",
-  "regiao": "",
-  "resumo": "Assalto a lojas de joias utilizando armas de fogo para quebrar as vitrines e coletar itens de valor.",
-  "resumo_original": "Jewelry store robbery.",
-  "passos": [
-   "Entre na joalheria.",
-   "Use sua arma para quebrar as vitrines de vidro.",
-   "Colete as joias do interior."
-  ],
-  "locais": [
-   {
-    "nome": "Joalheria",
-    "onde": "Leonida",
-    "detalhe": "Locais de venda de joias espalhados pelo mapa."
-   }
-  ],
-  "dificuldade": 2,
-  "tempo": "não especificado",
-  "ganho": 17000,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=9OsRCr6Zgdc",
-    "autor": "WantedGator",
-    "titulo": "GTA 6 Money Methods RANKED: ATMs, Jewelry Stores & Banks",
-    "video_id": "9OsRCr6Zgdc",
-    "imagem": "https://i.ytimg.com/vi/9OsRCr6Zgdc/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:58:57+00:00",
-  "atualizado": "2026-11-23T02:58:57+00:00",
-  "status": "confirmado"
  },
  {
   "id": "car-toyota-supra-do-velozes-e-furiosos",
