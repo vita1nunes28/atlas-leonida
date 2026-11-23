@@ -1,1 +1,570 @@
-[]
+[
+ {
+  "id": "car-carro-esportivo-verde-terada-tires",
+  "titulo": "Carro Esportivo Verde (Terada Tires)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um carro esportivo personalizado com adesivos da Terada Tires, exibido em vídeo de demonstração do jogo.",
+  "resumo_original": "O segundo carro",
+  "passos": [
+   "Localize o veículo estacionado em frente a uma residência moderna com portões brancos."
+  ],
+  "locais": [
+   {
+    "nome": "Residência de luxo",
+    "onde": "",
+    "detalhe": "Em frente ao portão de uma casa moderna com detalhes em madeira e portão branco."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo parece utilizar mods ou cenas renderizadas (Machinima) para simular o GTA 6, não sendo uma localização oficial confirmada no jogo final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=23qsqofFOsU",
+    "autor": "SpenceGold",
+    "titulo": "Localização de 3 Carros Raros no GTA 6! #gta6 #gta",
+    "video_id": "23qsqofFOsU",
+    "imagem": "https://i.ytimg.com/vi/23qsqofFOsU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:38:33+00:00",
+  "atualizado": "2026-11-23T02:38:33+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-localizacao-de-carros-raros",
+  "titulo": "Localização de Carros Raros",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Guia visual para localizar veículos raros e secretos espalhados pelo mapa de Mariana County.",
+  "resumo_original": "How to find and get rare vehicles, hidden cars, and special vehicle locations throughout Grand Theft Auto 6.",
+  "passos": [
+   "Siga os marcadores indicados no mapa fornecido no vídeo para encontrar os veículos raros."
+  ],
+  "locais": [
+   {
+    "nome": "Mariana County",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Diversos pontos de spawn de veículos marcados com ícones de carro na imagem."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza imagens de um mapa não oficial ou editado, e GTA VI ainda não foi lançado. O conteúdo é especulativo ou baseado em mods/clickbait.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pPQWH2ELkgc",
+    "autor": "KingAlexHD",
+    "titulo": "How to Find & Get ALL SECRET RARE CARS in GTA 6! (Rare Vehicle Locations)",
+    "video_id": "pPQWH2ELkgc",
+    "imagem": "https://i.ytimg.com/vi/pPQWH2ELkgc/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:38:31+00:00",
+  "atualizado": "2026-11-23T02:38:31+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-mitsubishi-eclipse-estilo-velozes-e-furiosos",
+  "titulo": "Mitsubishi Eclipse (Estilo Velozes e Furiosos)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Possível localização de um carro raro inspirado no Eclipse de Velozes e Furiosos no mundo de GTA 6.",
+  "resumo_original": "Localizações de carros raros no GTA 6!",
+  "passos": [
+   "Vá até o local indicado na imagem."
+  ],
+  "locais": [
+   {
+    "nome": "Localização de veículo raro",
+    "onde": "Desconhecido",
+    "detalhe": "A imagem mostra o veículo estacionado em uma área residencial com vegetação."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo curto que não especifica localizações reais no mapa, tratando-se provavelmente de uma especulação ou montagem visual, visto que GTA 6 ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=V2HYqFT1KOs",
+    "autor": "O Arcanjo Gamer",
+    "titulo": "Localizações de carros raros no GTA 6! #gta6 #gta",
+    "video_id": "V2HYqFT1KOs",
+    "imagem": "https://i.ytimg.com/vi/V2HYqFT1KOs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:38:26+00:00",
+  "atualizado": "2026-11-23T02:38:26+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-raro-hotknife",
+  "titulo": "Carro Raro (Hotknife)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo estilo clássico/hot rod encontrado estacionado em uma propriedade privada.",
+  "resumo_original": "Localização carro raro no GTA 6",
+  "passos": [
+   "Vá até o local indicado no mapa no vídeo.",
+   "O veículo encontra-se estacionado próximo a um portão de ferro e vegetação."
+  ],
+  "locais": [
+   {
+    "nome": "Propriedade privada",
+    "onde": "Região de Leonida",
+    "detalhe": "Estacionado junto a um portão de metal"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "rápido",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata-se de um 'Shorts' especulativo. Como o GTA 6 ainda não foi lançado, não há confirmação se este local ou veículo são reais ou provenientes de mods/versões anteriores da franquia.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=do75eTKM0UQ",
+    "autor": "Detona Joystick",
+    "titulo": "Localização carro raro no GTA 6 #gta #gta6 #gtavi #carro #shorts",
+    "video_id": "do75eTKM0UQ",
+    "imagem": "https://i.ytimg.com/vi/do75eTKM0UQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:38:23+00:00",
+  "atualizado": "2026-11-23T02:38:23+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carros-secretos-raros",
+  "titulo": "Carros Secretos Raros",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "O vídeo afirma apresentar locais de carros secretos e raros, mas não exibe nenhuma localização, nome de veículo ou método de obtenção no conteúdo fornecido.",
+  "resumo_original": "Descobri onde estão escondidos os carros secretos mais raros e caros do GTA 6 para você pegar de graça.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é uma peça de marketing para o canal, sem conteúdo informativo, imagens do jogo ou provas reais da existência dos itens mencionados.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=8o1I9FdkBQM",
+    "autor": "Martinzx",
+    "titulo": "DESCOBRI ONDE ESTÃO OS CARROS SECRETOS MAIS RAROS DO GTA 6",
+    "video_id": "8o1I9FdkBQM",
+    "imagem": "https://i.ytimg.com/vi/8o1I9FdkBQM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:38:20+00:00",
+  "atualizado": "2026-11-23T02:38:20+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-veiculos-raros-no-gta-6",
+  "titulo": "Veículos Raros no GTA 6",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "O vídeo promete revelar a localização de dois carros raros e lendários no GTA 6.",
+  "resumo_original": "Como Pegar 2 Carros LENDÁRIOS na MESMA RUA em GTA 6!",
+  "passos": [],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "Não especificado",
+    "detalhe": "O vídeo não informa a localização exata no mapa ou o método de obtenção dos veículos."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo é clickbait. O vídeo não apresenta imagens de gameplay real do GTA 6, apenas utiliza edições com imagens de carros de GTA V ou mods, não oferecendo nenhuma informação útil ou verídica sobre a localização de veículos no jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=vfYiO3TNxvg",
+    "autor": "Avassa GTA",
+    "titulo": "Pegue Esses 2 Carros Raros na MESMA RUA em GTA 6!",
+    "video_id": "vfYiO3TNxvg",
+    "imagem": "https://i.ytimg.com/vi/vfYiO3TNxvg/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:38:18+00:00",
+  "atualizado": "2026-11-23T02:38:18+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-vapid-hustler-driveshaft",
+  "titulo": "Vapid Hustler (Driveshaft)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo raro presente no mundo de GTA 6, identificado pelo autor como sendo da marca Vapid modelo Hustler, associado à Driveshaft.",
+  "resumo_original": "LOCALIZAÇÃO CARRO RARO (VAPID HUSTLER DA DRIVESHAFT)",
+  "passos": [
+   "Localize o veículo no cenário conforme mostrado no vídeo."
+  ],
+  "locais": [
+   {
+    "nome": "Driveshaft",
+    "onde": "Leonida",
+    "detalhe": "O veículo está estacionado próximo a um portão metálico em área externa."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "indeterminado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "media",
+  "alerta": "O vídeo mostra a localização de um veículo parado, mas não fornece detalhes precisos de navegação ou requisitos para obtê-lo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5SftxqzFuwE",
+    "autor": "Rodrigo Gameplay",
+    "titulo": "GTA 6 - LOCALIZAÇÃO CARRO RARO (VAPID HUSTLER DA DRIVESHAFT) #gta6",
+    "video_id": "5SftxqzFuwE",
+    "imagem": "https://i.ytimg.com/vi/5SftxqzFuwE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:38:15+00:00",
+  "atualizado": "2026-11-23T02:38:15+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-carro-secreto-de-leonida",
+  "titulo": "Carro Secreto de Leonida",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um veículo oculto que deve ser obtido antes de avançar para o Capítulo 2 para evitar que a oportunidade seja perdida.",
+  "resumo_original": "Hidden vehicle that must be unlocked before starting Chapter 2 to avoid missing the opportunity.",
+  "passos": [
+   "Certifique-se de realizar o método de desbloqueio antes de iniciar o Capítulo 2.",
+   "Siga o guia no vídeo para localizar e garantir o veículo antes que a progressão da história bloqueie o acesso."
+  ],
+  "locais": [
+   {
+    "nome": "Localização secreta do veículo",
+    "onde": "Leonida",
+    "detalhe": "O local exato é mostrado no vídeo anexo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo não mostra o local exato nem fornece instruções detalhadas de como obter o carro; o autor apenas menciona a existência do veículo e a necessidade de pegá-lo antes do Capítulo 2.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=OhnhY5o4iWo",
+    "autor": "GaGOD",
+    "titulo": "Don’t Start Chapter 2 Until You Watch This!",
+    "video_id": "OhnhY5o4iWo",
+    "imagem": "https://i.ytimg.com/vi/OhnhY5o4iWo/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:38:11+00:00",
+  "atualizado": "2026-11-23T02:38:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carros-dourados-de-luxo",
+  "titulo": "Carros Dourados de Luxo",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "O vídeo alega mostrar a localização de superesportivos e SUVs banhados a ouro em Vice City.",
+  "resumo_original": "I found the most expensive gold cars in GTA 6.",
+  "passos": [
+   "Explorar as ruas de Vice City em busca de veículos raros e dourados."
+  ],
+  "locais": [
+   {
+    "nome": "Vice City",
+    "onde": "Ruas da cidade",
+    "detalhe": "Locais não especificados no vídeo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "indeterminado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é puramente especulativo e clickbait; não apresenta imagens reais de gameplay do GTA 6, apenas edições genéricas de veículos. Não há instruções claras ou locais precisos identificáveis.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=LK7VMMUpKgI",
+    "autor": "DeluxPlays",
+    "titulo": "I Found the MOST EXPENSIVE GOLD CARS in GTA 6! (Location Guide)",
+    "video_id": "LK7VMMUpKgI",
+    "imagem": "https://i.ytimg.com/vi/LK7VMMUpKgI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:38:01+00:00",
+  "atualizado": "2026-11-23T02:38:01+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-do-paul-walker-velozes-e-furiosos",
+  "titulo": "Carro do Paul Walker (Velozes e Furiosos)",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "O autor afirma ter encontrado o carro icônico de Paul Walker, da franquia Velozes e Furiosos, em Vice City.",
+  "resumo_original": "Found Paul Walker's iconic car from Fast & Furious.",
+  "passos": [
+   "Explorar a coleção de carros de GTA 6."
+  ],
+  "locais": [
+   {
+    "nome": "Vice City",
+    "onde": "Mundo do jogo",
+    "detalhe": "Localização não revelada no vídeo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "indeterminado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo clickbait típico de canais que usam mods ou imagens de outros jogos para atrair visualizações sobre GTA 6. Nenhuma prova concreta é apresentada.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=LK7VMMUpKgI",
+    "autor": "DeluxPlays",
+    "titulo": "I Found the MOST EXPENSIVE GOLD CARS in GTA 6! (Location Guide)",
+    "video_id": "LK7VMMUpKgI",
+    "imagem": "https://i.ytimg.com/vi/LK7VMMUpKgI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:38:01+00:00",
+  "atualizado": "2026-11-23T02:38:01+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colecionaveis-revistas-e-livros-casa-do-jason",
+  "titulo": "Colecionáveis: Revistas e Livros (Casa do Jason)",
+  "categoria": "col",
+  "regiao": "Vice City",
+  "resumo": "Cinco revistas e livros colecionáveis localizados dentro da casa do Jason. É necessário pegá-los antes do fim do Capítulo 1 para o progresso de 100% do jogo.",
+  "resumo_original": "All 5 magazines and books in Jason's house required for 100% completion, must be collected before Chapter 1 ends.",
+  "passos": [
+   "Entre na casa do Jason.",
+   "Localize e interaja com os cinco itens espalhados pelo ambiente.",
+   "Acesse o menu do jogo para ler os itens coletados."
+  ],
+  "locais": [
+   {
+    "nome": "Casa do Jason",
+    "onde": "Vice City",
+    "detalhe": "Contém os itens: Off the Hook, Ashes of Glory, Orca, Lethal by Design e Body Copy."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "menos de 2 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "Os itens tornam-se indisponíveis após a conclusão do Capítulo 1.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=4bDZVcIaXUs",
+    "autor": "ConCon",
+    "titulo": "All 5 Magazine & Book Locations in Jason's House (Before Chapter 1 Ends) ► GTA 6",
+    "video_id": "4bDZVcIaXUs",
+    "imagem": "https://i.ytimg.com/vi/4bDZVcIaXUs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:37:53+00:00",
+  "atualizado": "2026-11-23T02:37:53+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-roubo-em-brooks-boatworks",
+  "titulo": "Roubo em Brooks Boatworks",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Operação de roubo a um depósito de medicamentos da Kolt & Associates com segurança alta.",
+  "resumo_original": "Kolt & Associates move prescription meds through the Brooks Boatworks docks.",
+  "passos": [
+   "Infiltre-se no local de Brooks Boatworks.",
+   "Localize e colete todos os 'Key Valuables' (objetos de valor).",
+   "Conclua o roubo para obter o valor total estimado."
+  ],
+  "locais": [
+   {
+    "nome": "Brooks Boatworks",
+    "onde": "Doca",
+    "detalhe": "Local onde a Kolt & Associates armazena medicamentos prescritos."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "não informado",
+  "ganho": 4000,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=rsdBdt41cv4",
+    "autor": "GuidingLight",
+    "titulo": "Gta 6 - How to clear brooks boatworks (all key valuables locations Guide)",
+    "video_id": "rsdBdt41cv4",
+    "imagem": "https://i.ytimg.com/vi/rsdBdt41cv4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:37:50+00:00",
+  "atualizado": "2026-11-23T02:37:50+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-dinka-enduro",
+  "titulo": "Dinka Enduro",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo exclusivo disponível apenas durante o Capítulo 1.",
+  "resumo_original": "Dinka Enduro available only in Chapter 1.",
+  "passos": [
+   "Acesse a lista de bônus no jogo",
+   "Resgate o veículo durante o Capítulo 1"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "Capítulo 1",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é de um canal de fãs e as informações sobre o jogo GTA 6 parecem ser especulativas ou baseadas em mods/fan-fiction, dado que o jogo ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pheD80KhVn4",
+    "autor": "Dante Vega",
+    "titulo": "GTA 6 Ultimate Edition: How to Claim All 16 Bonuses",
+    "video_id": "pheD80KhVn4",
+    "imagem": "https://i.ytimg.com/vi/pheD80KhVn4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:37:48+00:00",
+  "atualizado": "2026-11-23T02:37:48+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-crest-kayak",
+  "titulo": "Crest Kayak",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Item de transporte disponível apenas durante o Capítulo 1.",
+  "resumo_original": "Crest Kayak available only in Chapter 1.",
+  "passos": [
+   "Acesse a lista de bônus no jogo",
+   "Resgate o item durante o Capítulo 1"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "Capítulo 1",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo ou fictício sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pheD80KhVn4",
+    "autor": "Dante Vega",
+    "titulo": "GTA 6 Ultimate Edition: How to Claim All 16 Bonuses",
+    "video_id": "pheD80KhVn4",
+    "imagem": "https://i.ytimg.com/vi/pheD80KhVn4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:37:48+00:00",
+  "atualizado": "2026-11-23T02:37:48+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-ganado-retro-build",
+  "titulo": "Ganado Retro Build",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo personalizado disponível apenas durante o Capítulo 1.",
+  "resumo_original": "Ganado Retro Build available only in Chapter 1.",
+  "passos": [
+   "Acesse a lista de bônus no jogo",
+   "Resgate o veículo durante o Capítulo 1"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "Capítulo 1",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo ou fictício sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pheD80KhVn4",
+    "autor": "Dante Vega",
+    "titulo": "GTA 6 Ultimate Edition: How to Claim All 16 Bonuses",
+    "video_id": "pheD80KhVn4",
+    "imagem": "https://i.ytimg.com/vi/pheD80KhVn4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:37:48+00:00",
+  "atualizado": "2026-11-23T02:37:48+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-grotti-cheetah-95",
+  "titulo": "Grotti Cheetah '95",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo clássico desbloqueável ao atingir o Capítulo 5.",
+  "resumo_original": "'95 Grotti Cheetah available in Chapter 5.",
+  "passos": [
+   "Avance a história até o Capítulo 5",
+   "Resgate o veículo na lista de bônus"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "Capítulo 5",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pheD80KhVn4",
+    "autor": "Dante Vega",
+    "titulo": "GTA 6 Ultimate Edition: How to Claim All 16 Bonuses",
+    "video_id": "pheD80KhVn4",
+    "imagem": "https://i.ytimg.com/vi/pheD80KhVn4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:37:48+00:00",
+  "atualizado": "2026-11-23T02:37:48+00:00",
+  "status": "retido"
+ }
+]
