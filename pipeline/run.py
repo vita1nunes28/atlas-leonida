@@ -1,15 +1,16 @@
-"""Atlas de Leonida: coleta fontes (YouTube, Reddit, wiki), extrai fichas com o Claude e atualiza public/data/fichas.json."""
-import difflib, html, json, os, re, sys, time, unicodedata
+"""Atlas de Leonida: coleta fontes (YouTube, Reddit, wiki), extrai fichas com o Gemini e atualiza public/data/fichas.json."""
+import difflib, html, json, mimetypes, os, re, sys, time, unicodedata
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-import anthropic
 import requests
+from google import genai
+from google.genai import types as genai_types
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "public" / "data" / "fichas.json"
 STATE = ROOT / "pipeline" / "state.json"
-MODEL = os.getenv("CLAUDE_MODEL", "claude-haiku-5-5")
+MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 MAX_NOVOS = int(os.getenv("MAX_NOVOS", "40"))  # fontes novas processadas por rodada (controla custo)
 UA = "AtlasLeonida/1.0 (guia de fa de GTA 6)"
 REGIOES = ["Vice City", "Leonida Keys", "Grassrivers", "Port Gellhorn", "Ambrosia", "Mount Kalaga"]
@@ -159,27 +160,46 @@ Texto:
 \"\"\"{texto}\"\"\""""
 
 
+def baixar_imagem(url):
+    try:
+        r = requests.get(url, timeout=15, headers={"User-Agent": UA})
+        if not r.ok:
+            return None
+        mime = r.headers.get("Content-Type", "").split(";")[0].strip()
+        if not mime or not mime.startswith("image/"):
+            mime = mimetypes.guess_type(url)[0] or "image/jpeg"
+        return genai_types.Part.from_bytes(data=r.content, mime_type=mime)
+    except Exception as e:
+        log("  falha ao baixar imagem:", str(e)[:120])
+        return None
+
+
 def extrair(client, src):
     texto = PROMPT.format(regioes=", ".join(REGIOES), tipo=src["tipo"], autor=src["autor"],
                           titulo=src["titulo"], texto=src["texto"][:12000])
     for usar_imgs in (True, False):
-        content = []
+        parts = []
         if usar_imgs:
-            content += [{"type": "image", "source": {"type": "url", "url": u}} for u in src["imagens"][:3]]
-        content.append({"type": "text", "text": texto})
+            for u in src["imagens"][:3]:
+                p = baixar_imagem(u)
+                if p:
+                    parts.append(p)
+        parts.append(texto)
         try:
-            msg = client.messages.create(model=MODEL, max_tokens=4000, messages=[{"role": "user", "content": content}])
-            out = "".join(b.text for b in msg.content if b.type == "text")
-            out = re.sub(r"^```(json)?|```$", "", out.strip(), flags=re.M).strip()
+            resp = client.models.generate_content(
+                model=MODEL, contents=parts,
+                config=genai_types.GenerateContentConfig(max_output_tokens=4000))
+            out = (resp.text or "").strip()
+            out = re.sub(r"^```(json)?|```$", "", out, flags=re.M).strip()
             return json.loads(out[out.find("{"):out.rfind("}") + 1]).get("fichas", [])
-        except anthropic.BadRequestError as e:
+        except (json.JSONDecodeError, ValueError):
+            log("  resposta não era JSON válido")
+            return []
+        except Exception as e:
             if usar_imgs and src["imagens"]:
                 log("  imagem recusada, tentando só texto:", str(e)[:120])
                 continue
             log("  erro:", str(e)[:200])
-            return []
-        except (json.JSONDecodeError, ValueError):
-            log("  resposta não era JSON válido")
             return []
     return []
 
@@ -243,9 +263,9 @@ def mesclar(fichas, bruta, src):
 
 
 def main():
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        sys.exit("Falta ANTHROPIC_API_KEY")
-    client = anthropic.Anthropic()
+    if not os.getenv("GEMINI_API_KEY"):
+        sys.exit("Falta GEMINI_API_KEY")
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     fichas = load(DATA, [])
     state = load(STATE, {"vistos": []})
     vistos = set(state["vistos"])
