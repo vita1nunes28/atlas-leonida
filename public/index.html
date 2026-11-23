@@ -252,5 +252,6 @@ $("q").oninput=e=>{S.q=e.target.value.trim();render()};
 fetch("data/fichas.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{ITEMS=(d||[]);render()}).catch(()=>{$("grid").innerHTML='<div class="empty">Não deu para carregar os guias. Recarregue a página.</div>'});
 render();
 </script>
+<script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
