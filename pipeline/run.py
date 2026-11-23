@@ -10,7 +10,9 @@ from google.genai import types as genai_types
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "public" / "data" / "fichas.json"
 STATE = ROOT / "pipeline" / "state.json"
-MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+MODEL_ENV = os.getenv("GEMINI_MODEL")
+MODEL_CANDIDATOS = ([MODEL_ENV] if MODEL_ENV else []) + ["gemini-3.1-flash-lite", "gemini-3.5-flash-lite", "gemini-3.8-flash", "gemini-flash-latest"]
+_modelo_ok = {"nome": None}
 MAX_NOVOS = int(os.getenv("MAX_NOVOS", "40"))  # fontes novas processadas por rodada (controla custo)
 UA = "AtlasLeonida/1.0 (guia de fa de GTA 6)"
 REGIOES = ["Vice City", "Leonida Keys", "Grassrivers", "Port Gellhorn", "Ambrosia", "Mount Kalaga"]
@@ -142,7 +144,7 @@ def fonte_wiki():
 # ---------------- Extração ----------------
 
 PROMPT = """Você é o editor do "Atlas de Leonida", um guia em português do Brasil para GTA 6 (estado de Leonida: {regioes}).
-Leia a fonte abaixo (e as imagens, se houver) e extraia TODAS as entradas úteis: cada carro, arma, coletável, golpe/roubo ou rota de dinheiro com localização ou método vira uma ficha separada. Se a fonte não tiver nada disso (notícia, opinião, meme, especulação de lançamento), responda {{"fichas":[]}}.
+Leia a fonte abaixo (e as imagens, se houver) e extraia TODAS as entradas úteis: cada carro, arma, colecionável, golpe/roubo ou rota de dinheiro com localização ou método vira uma ficha separada. Se a fonte não tiver nada disso (notícia, opinião, meme, especulação de lançamento), responda {{"fichas":[]}}.
 
 Regras:
 - Use só o que a fonte diz ou mostra. Nunca invente local, nome, valor ou passo. Se algo não estiver na fonte, deixe vazio.
@@ -174,6 +176,29 @@ def baixar_imagem(url):
         return None
 
 
+def gerar(client, parts):
+    """Chama o Gemini tentando a lista de modelos candidatos ate um funcionar."""
+    candidatos = [_modelo_ok["nome"]] if _modelo_ok["nome"] else MODEL_CANDIDATOS
+    ultimo_erro = None
+    for nome in candidatos:
+        try:
+            resp = client.models.generate_content(
+                model=nome, contents=parts,
+                config=genai_types.GenerateContentConfig(max_output_tokens=4000))
+            if _modelo_ok["nome"] != nome:
+                log(f"  usando modelo: {nome}")
+                _modelo_ok["nome"] = nome
+            return resp
+        except Exception as e:
+            msg = str(e)
+            if "NOT_FOUND" in msg or "is no longer available" in msg or " 404" in msg:
+                log(f"  modelo {nome} indisponivel, tentando proximo")
+                ultimo_erro = e
+                continue
+            raise
+    raise ultimo_erro or RuntimeError("nenhum modelo Gemini disponivel")
+
+
 def extrair(client, src):
     texto = PROMPT.format(regioes=", ".join(REGIOES), tipo=src["tipo"], autor=src["autor"],
                           titulo=src["titulo"], texto=src["texto"][:12000])
@@ -186,9 +211,7 @@ def extrair(client, src):
                     parts.append(p)
         parts.append(texto)
         try:
-            resp = client.models.generate_content(
-                model=MODEL, contents=parts,
-                config=genai_types.GenerateContentConfig(max_output_tokens=4000))
+            resp = gerar(client, parts)
             out = (resp.text or "").strip()
             out = re.sub(r"^```(json)?|```$", "", out, flags=re.M).strip()
             return json.loads(out[out.find("{"):out.rfind("}") + 1]).get("fichas", [])
