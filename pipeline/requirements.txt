@@ -1,2 +1,2 @@
-anthropic>=0.40
-requests>=2.31
+google-genai
+requests
