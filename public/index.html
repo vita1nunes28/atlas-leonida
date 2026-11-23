@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Atlas de Leonida — guias de GTA 6</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,700;12..96,800&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#FBF3EA; --surface:#FFFFFF; --ink:#1B1236; --muted:#6B5F84; --line:#E9DCCF;
+  --coral:#FF4F6E; --mango:#FFA53A; --teal:#0FA89A; --dusk:#3A1E6B; --chip:#F3E7DA;
+  --sky1:#FF8A5C; --sky2:#FF4F6E; --sky3:#6B2C8F;
+  color-scheme:light;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#120B26; --surface:#1C1338; --ink:#FBEFE3; --muted:#B2A5CC; --line:#2E2350;
+  --chip:#271B49; --dusk:#C9B3FF; color-scheme:dark;}}
+:root[data-theme="dark"]{--bg:#120B26;--surface:#1C1338;--ink:#FBEFE3;--muted:#B2A5CC;--line:#2E2350;--chip:#271B49;--dusk:#C9B3FF;color-scheme:dark}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.55 Figtree,system-ui,-apple-system,"Segoe UI",sans-serif}
+h1,h2,h3{font-family:"Bricolage Grotesque",Figtree,system-ui,sans-serif;line-height:1.05;margin:0}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:3px solid var(--teal);outline-offset:2px;border-radius:6px}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+
+/* Hero: pôr do sol sobre o mapa */
+.hero{position:relative;overflow:hidden;color:#FFF7EE;
+  background:linear-gradient(180deg,var(--sky3) 0%,var(--sky2) 48%,var(--sky1) 78%,var(--mango) 100%)}
+.hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:42%;
+  background:repeating-linear-gradient(180deg,transparent 0 9px,rgba(255,255,255,.08) 9px 11px)}
+.hero-grid{position:relative;z-index:1;display:grid;grid-template-columns:1.05fr 1fr;gap:32px;align-items:center;padding:56px 20px 40px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:600;padding-top:20px}
+.brand b{font-family:"Bricolage Grotesque";font-size:1.15rem}
+.hero h1{font-size:clamp(2.6rem,6.4vw,5.2rem);font-weight:800;letter-spacing:-.02em;margin:18px 0 14px}
+.hero p{max-width:46ch;font-size:1.08rem;opacity:.95;margin:0 0 22px}
+.search{display:flex;background:#FFF7EE;border-radius:14px;padding:6px;max-width:520px;box-shadow:0 12px 30px rgba(58,10,60,.25)}
+.search input{flex:1;border:0;background:transparent;font:500 1rem Figtree,sans-serif;padding:10px 12px;color:#1B1236;min-width:0}
+.search input:focus{outline:none}
+.search button{border:0;background:#1B1236;color:#FFF7EE;border-radius:10px;padding:0 18px;font-weight:600}
+.map{width:100%;height:auto;filter:drop-shadow(0 18px 30px rgba(40,0,60,.35))}
+.region{cursor:pointer;transition:fill .2s}
+.region:hover,.region.on{fill:#FFF7EE}
+.region-label{font:700 13px "Bricolage Grotesque",sans-serif;fill:#3A0F4F;pointer-events:none}
+.map-note{font-size:.85rem;opacity:.85;margin-top:6px;text-align:center}
+
+/* Barra de categorias */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.tabs{display:flex;gap:6px;overflow-x:auto;padding:12px 0;scrollbar-width:none}
+.tab{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:9px 16px;white-space:nowrap;font-weight:600;display:flex;gap:8px;align-items:center}
+.tab .n{font-size:.8rem;color:var(--muted)}
+.tab[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.tab[aria-pressed="true"] .n{color:inherit;opacity:.7}
+.filters{display:flex;flex-wrap:wrap;gap:14px;align-items:center;padding:0 0 12px;font-size:.92rem;color:var(--muted)}
+.filters label{display:flex;gap:6px;align-items:center;cursor:pointer}
+.filters select{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:5px 8px}
+.active-region{margin-left:auto;color:var(--ink);font-weight:600}
+.active-region button{border:0;background:none;color:var(--coral);font-weight:600;padding:0 0 0 6px}
+
+/* Lista */
+main{padding:28px 0 60px}
+.section-head{display:flex;justify-content:space-between;align-items:end;gap:16px;margin-bottom:18px}
+.section-head h2{font-size:clamp(1.6rem,3vw,2.2rem)}
+.section-head p{margin:4px 0 0;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:18px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:18px;overflow:hidden;text-align:left;padding:0;display:flex;flex-direction:column}
+.card:hover .thumb-art{transform:scale(1.04)}
+.thumb{position:relative;aspect-ratio:16/10;overflow:hidden}
+.thumb-art{position:absolute;inset:0;transition:transform .35s}
+.thumb .ico{position:absolute;right:14px;bottom:8px;font-size:2.6rem;filter:drop-shadow(0 4px 8px rgba(0,0,0,.25))}
+.status{position:absolute;left:12px;top:12px;font-size:.78rem;font-weight:600;padding:4px 10px;border-radius:999px;background:rgba(255,255,255,.92);color:#1B1236}
+.status.ok::before{content:"● ";color:var(--teal)}
+.status.wait::before{content:"● ";color:var(--mango)}
+.card-body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:8px;flex:1}
+.card h3{font-size:1.22rem;font-weight:700}
+.meta{display:flex;flex-wrap:wrap;gap:6px}
+.pill{background:var(--chip);border-radius:6px;padding:2px 8px;font-size:.8rem;font-weight:500}
+.card p{margin:0;color:var(--muted);font-size:.93rem}
+.card-foot{margin-top:auto;display:flex;justify-content:space-between;align-items:center;font-size:.84rem;color:var(--muted);padding-top:6px}
+.payout{font-family:"Bricolage Grotesque";font-weight:800;color:var(--teal);font-size:1.05rem}
+.thumb-art.img{background-size:cover;background-position:center}
+.video{position:relative;aspect-ratio:16/9;border-radius:12px;overflow:hidden;margin:10px 0}
+.video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.empty{padding:50px 20px;text-align:center;border:2px dashed var(--line);border-radius:18px;color:var(--muted)}
+.empty button{margin-top:10px;border:0;background:var(--ink);color:var(--bg);padding:9px 16px;border-radius:10px;font-weight:600}
+
+/* Painel de detalhe */
+.scrim{position:fixed;inset:0;background:rgba(18,8,38,.55);opacity:0;pointer-events:none;transition:opacity .25s;z-index:20}
+.scrim.open{opacity:1;pointer-events:auto}
+.panel{position:fixed;top:0;right:0;bottom:0;width:min(560px,100%);background:var(--bg);z-index:21;transform:translateX(100%);transition:transform .3s cubic-bezier(.2,.8,.2,1);overflow-y:auto;
+  padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+.panel.open{transform:none}
+.panel .thumb{aspect-ratio:16/9}
+.close{position:absolute;right:14px;top:14px;z-index:2;border:0;width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,.92);color:#1B1236;font-size:1.2rem}
+.pbody{padding:22px 22px 40px}
+.pbody h2{font-size:2rem;margin-bottom:10px}
+.lang{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden;margin:14px 0 4px}
+.lang button{border:0;background:var(--surface);padding:7px 14px;font-weight:600;font-size:.88rem}
+.lang button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.steps{list-style:none;padding:0;margin:16px 0;counter-reset:s}
+.steps li{counter-increment:s;display:grid;grid-template-columns:34px 1fr;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}
+.steps li::before{content:counter(s);width:30px;height:30px;border-radius:50%;background:var(--coral);color:#fff;display:grid;place-items:center;font-weight:700;font-family:"Bricolage Grotesque"}
+.box{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-top:16px}
+.box h3{font-size:1.05rem;margin-bottom:8px}
+.sources a{display:flex;justify-content:space-between;gap:10px;padding:9px 0;color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
+.sources a:last-child{border:0}
+.sources a span:last-child{color:var(--muted);font-size:.85rem;white-space:nowrap}
+.check{display:flex;gap:10px;align-items:center;margin-top:18px;font-weight:600;cursor:pointer}
+.check input{width:20px;height:20px;accent-color:var(--teal)}
+.spoiler{filter:blur(6px);cursor:pointer;transition:filter .2s}
+.spoiler.shown{filter:none}
+.spoiler-note{font-size:.85rem;color:var(--muted)}
+/* Locais com mapa */
+.locs{display:grid;gap:12px;margin-top:16px}
+.loc{display:grid;grid-template-columns:120px 1fr;gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:10px;align-items:center}
+.loc svg{width:120px;height:auto;border-radius:10px;background:#2A2F6B}
+.loc h4{margin:0 0 2px;font-family:"Bricolage Grotesque";font-size:1rem}
+.loc p{margin:0;font-size:.88rem;color:var(--muted)}
+.loc .shot{grid-column:1/-1;aspect-ratio:16/8;border-radius:10px;display:grid;place-items:center;text-align:center;font-size:.85rem;color:#fff;padding:10px}
+/* Post original */
+.xpost{display:block;border:1px solid var(--line);border-radius:14px;padding:14px;background:var(--surface);color:var(--ink);text-decoration:none;margin-top:10px}
+.xpost:hover{border-color:var(--ink)}
+.xhead{display:flex;gap:10px;align-items:center;font-size:.9rem}
+.xav{width:36px;height:36px;border-radius:50%;background:var(--dusk);color:var(--bg);display:grid;place-items:center;font-weight:700}
+.xhead small{color:var(--muted)}
+.xpost p{margin:10px 0;font-size:.95rem}
+.xstats{display:flex;gap:16px;font-size:.82rem;color:var(--muted)}
+.xflag{font-size:.8rem;color:var(--mango);font-weight:600}
+footer{border-top:1px solid var(--line);padding:24px 0 40px;color:var(--muted);font-size:.88rem}
+@media (max-width:820px){.hero-grid{grid-template-columns:1fr;padding-top:24px}.active-region{margin-left:0}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap brand"><span aria-hidden="true">🌴</span><b>Atlas de Leonida</b></div>
+  <div class="wrap hero-grid">
+    <div>
+      <h1>Tudo que você precisa achar em Leonida, num lugar só.</h1>
+      <p>Coletáveis, carros raros, armas, golpes e rotas de dinheiro com passo a passo, imagens, local no mapa e a fonte original traduzida.</p>
+      <form class="search" id="searchForm" role="search">
+        <input id="q" type="search" placeholder="Busque “Infernus”, “cartas”, “golpe do porto”…" aria-label="Buscar guias">
+        <button type="submit">Buscar</button>
+      </form>
+    </div>
+    <div>
+      <svg class="map" viewBox="0 0 420 360" role="group" aria-label="Mapa de regiões. Toque numa região para filtrar.">
+        <path class="region" data-r="Mount Kalaga" fill="#FFD3B0" d="M60 30 L210 20 L230 90 L150 120 L70 100 Z"/>
+        <path class="region" data-r="Grassrivers" fill="#FFC79A" d="M150 120 L230 90 L300 110 L290 200 L190 210 Z"/>
+        <path class="region" data-r="Port Gellhorn" fill="#FFBC8E" d="M70 100 L150 120 L190 210 L110 220 L50 160 Z"/>
+        <path class="region" data-r="Ambrosia" fill="#FFB083" d="M230 90 L210 20 L330 30 L350 100 L300 110 Z"/>
+        <path class="region" data-r="Vice City" fill="#FFE1C6" d="M290 200 L300 110 L350 100 L380 190 L340 260 L280 250 Z"/>
+        <path class="region" data-r="Leonida Keys" fill="#FFCFA8" d="M280 280 L330 290 L300 310 L250 320 L210 335 L180 330 L230 305 Z"/>
+        <text class="region-label" x="105" y="72">Mount Kalaga</text>
+        <text class="region-label" x="196" y="165">Grassrivers</text>
+        <text class="region-label" x="70" y="168">Port Gellhorn</text>
+        <text class="region-label" x="248" y="66">Ambrosia</text>
+        <text class="region-label" x="300" y="190">Vice City</text>
+        <text class="region-label" x="205" y="352">Leonida Keys</text>
+      </svg>
+      <div class="map-note">Toque numa região para ver só o que tem lá</div>
+    </div>
+  </div>
+</header>
+
+<nav class="bar" aria-label="Categorias">
+  <div class="wrap">
+    <div class="tabs" id="tabs"></div>
+    <div class="filters">
+      <label><input type="checkbox" id="onlyOk"> Só confirmados</label>
+      <label><input type="checkbox" id="hideDone"> Esconder os que já peguei</label>
+      <label>Ordenar <select id="sort"><option value="new">Mais recentes</option><option value="pay">Maior ganho</option><option value="easy">Mais fáceis</option></select></label>
+      <span class="active-region" id="activeRegion" hidden></span>
+    </div>
+  </div>
+</nav>
+
+<main class="wrap">
+  <div class="section-head">
+    <div><h2 id="listTitle">Tudo</h2><p id="listSub"></p></div>
+  </div>
+  <div class="grid" id="grid"></div>
+</main>
+
+<div class="scrim" id="scrim"></div>
+<aside class="panel" id="panel" aria-modal="true" role="dialog" aria-labelledby="pTitle" hidden></aside>
+
+<footer>
+  <div class="wrap">Guias gerados automaticamente a partir de fontes públicas e atualizados a cada poucas horas. Projeto de fã, sem afiliação com a Rockstar Games. Imagens e vídeos pertencem aos autores; cada guia leva o link da fonte original. Trechos da GTA Wiki (Fandom) sob licença CC BY-SA.</div>
+</footer>
+
+<script>
+const CATS=[{id:"all",name:"Tudo",ico:"✨"},{id:"col",name:"Coletáveis",ico:"🐚"},{id:"car",name:"Carros",ico:"🏎️"},{id:"gun",name:"Armas",ico:"🔫"},{id:"heist",name:"Golpes e roubos",ico:"💼"},{id:"farm",name:"Rotas de dinheiro",ico:"💵"}];
+const ART={col:"linear-gradient(135deg,#0FA89A,#7AE0C8 60%,#FFE1C6)",car:"linear-gradient(135deg,#FF4F6E,#FFA53A)",gun:"linear-gradient(135deg,#3A1E6B,#8E4FC9 70%,#FF8A5C)",heist:"linear-gradient(135deg,#1B1236,#3A1E6B 55%,#0FA89A)",farm:"linear-gradient(135deg,#FFA53A,#FFD27A 60%,#0FA89A)"};
+let ITEMS=[];
+const S={cat:"all",region:null,q:"",onlyOk:false,hideDone:false,sort:"new",done:load()};
+function load(){try{return JSON.parse(localStorage.getItem("atlas-done")||"[]")}catch(e){return[]}}
+function save(){try{localStorage.setItem("atlas-done",JSON.stringify(S.done))}catch(e){}}
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=n=>n?"US$ "+n.toLocaleString("pt-BR"):"";
+const diff=d=>["","Fácil","Médio","Difícil"][d]||"";
+const img=i=>(i.fontes||[]).map(f=>f.imagem).find(Boolean);
+const art=i=>{const u=img(i);return u?`<div class="thumb-art img" style="background-image:url('${esc(u)}')"></div>`:`<div class="thumb-art" style="background:${ART[i.categoria]}"></div>`};
+const badge=i=>i.status==="confirmado"?'<span class="status ok">Confirmado</span>':'<span class="status wait">Aguardando confirmação</span>';
+function renderTabs(){$("tabs").innerHTML=CATS.map(c=>{const n=c.id==="all"?ITEMS.length:ITEMS.filter(i=>i.categoria===c.id).length;return `<button class="tab" aria-pressed="${S.cat===c.id}" data-c="${c.id}"><span aria-hidden="true">${c.ico}</span>${c.name}<span class="n">${n}</span></button>`}).join("")}
+function list(){let r=ITEMS.filter(i=>(S.cat==="all"||i.categoria===S.cat)&&(!S.region||i.regiao===S.region)&&(!S.onlyOk||i.status==="confirmado")&&(!S.hideDone||!S.done.includes(i.id)));
+ if(S.q){const q=S.q.toLowerCase();r=r.filter(i=>(i.titulo+" "+i.resumo+" "+i.regiao).toLowerCase().includes(q))}
+ r.sort(S.sort==="pay"?(a,b)=>b.ganho-a.ganho:S.sort==="easy"?(a,b)=>a.dificuldade-b.dificuldade:(a,b)=>b.atualizado.localeCompare(a.atualizado));return r}
+function render(){renderTabs();const cat=CATS.find(c=>c.id===S.cat),r=list();
+ $("listTitle").textContent=(S.cat==="all"?"Tudo":cat.name)+(S.region?" em "+S.region:"");
+ const got=r.filter(i=>S.done.includes(i.id)).length;$("listSub").textContent=r.length?`${r.length} guias · você já pegou ${got}`:"";
+ const ar=$("activeRegion");if(S.region){ar.hidden=false;ar.innerHTML=`Região: ${S.region}<button id="clearR">Limpar</button>`}else ar.hidden=true;
+ document.querySelectorAll(".region").forEach(p=>p.classList.toggle("on",p.dataset.r===S.region));
+ if(!ITEMS.length){$("grid").innerHTML='<div class="empty">Os primeiros guias estão sendo coletados. Volte em algumas horas.</div>';return}
+ $("grid").innerHTML=r.length?r.slice(0,300).map(i=>`<button class="card" data-id="${esc(i.id)}"><div class="thumb">${art(i)}${badge(i)}<span class="ico" aria-hidden="true">${CATS.find(c=>c.id===i.categoria).ico}</span></div>
+  <div class="card-body"><h3>${esc(i.titulo)}</h3><div class="meta">${i.regiao?`<span class="pill">${esc(i.regiao)}</span>`:""}<span class="pill">${diff(i.dificuldade)}</span>${i.tempo?`<span class="pill">${esc(i.tempo)}</span>`:""}${S.done.includes(i.id)?'<span class="pill">✓ Peguei</span>':""}</div>
+  <p>${esc(i.resumo)}</p><div class="card-foot"><span>${i.fontes.length} fonte${i.fontes.length>1?"s":""}</span><span class="payout">${fmt(i.ganho)}</span></div></div></button>`).join("")
+ :`<div class="empty">Nenhum guia com esses filtros.<br><button id="reset">Limpar filtros</button></div>`}
+let lang="pt",lastFocus=null;
+function open(id){const i=ITEMS.find(x=>x.id===id),p=$("panel");lastFocus=document.activeElement;
+ const vid=i.fontes.find(f=>f.video_id);
+ p.innerHTML=`<button class="close" id="close" aria-label="Fechar">✕</button><div class="thumb">${art(i)}${badge(i)}</div>
+ <div class="pbody"><h2 id="pTitle">${esc(i.titulo)}</h2>
+ <div class="meta">${i.regiao?`<span class="pill">${esc(i.regiao)}</span>`:""}<span class="pill">${diff(i.dificuldade)}</span>${i.tempo?`<span class="pill">${esc(i.tempo)}</span>`:""}${i.ganho?`<span class="pill">${fmt(i.ganho)}</span>`:""}</div>
+ ${i.resumo_original?`<div class="lang" role="group" aria-label="Idioma"><button data-l="pt" aria-pressed="${lang==="pt"}">Português</button><button data-l="en" aria-pressed="${lang==="en"}">Original</button></div>`:""}
+ <p>${esc(lang==="en"&&i.resumo_original?i.resumo_original:i.resumo)}</p>
+ ${i.alerta?`<p class="spoiler-note">⚠ ${esc(i.alerta)}</p>`:""}
+ ${i.passos.length?`<ol class="steps">${i.passos.map(s=>`<li><span>${esc(s)}</span></li>`).join("")}</ol>`:""}
+ ${i.locais.length?`<div class="box"><h3>Onde fica</h3>${i.locais.map(l=>`<p style="margin:6px 0">📍 <b>${esc(l.nome)}</b> ${esc(l.onde)}${l.detalhe?" · "+esc(l.detalhe):""}</p>`).join("")}</div>`:""}
+ ${vid?`<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/${esc(vid.video_id)}" title="Vídeo da fonte" allowfullscreen loading="lazy"></iframe></div>`:""}
+ <label class="check"><input type="checkbox" id="doneBox" ${S.done.includes(i.id)?"checked":""}> Já peguei / já fiz</label>
+ <div class="box sources"><h3>Fontes</h3>${i.fontes.map(f=>`<a href="${esc(f.url)}" target="_blank" rel="noopener"><span>${esc(f.titulo||f.url)}</span><span>${esc(f.tipo)}${f.autor?" · "+esc(f.autor):""}</span></a>`).join("")}</div></div>`;
+ p.hidden=false;requestAnimationFrame(()=>{p.classList.add("open");$("scrim").classList.add("open");$("close").focus()});p.dataset.id=id}
+function close(){const p=$("panel");p.classList.remove("open");$("scrim").classList.remove("open");setTimeout(()=>{p.hidden=true;p.innerHTML=""},300);lastFocus&&lastFocus.focus()}
+document.addEventListener("click",e=>{const t=e.target.closest("[data-c],[data-id],.region,#clearR,#reset,#close,[data-l]");if(!t)return;
+ if(t.dataset.c){S.cat=t.dataset.c;render()}else if(t.classList.contains("card")){open(t.dataset.id)}
+ else if(t.classList.contains("region")){S.region=S.region===t.dataset.r?null:t.dataset.r;render();document.querySelector(".bar").scrollIntoView({behavior:"smooth"})}
+ else if(t.id==="clearR"){S.region=null;render()}
+ else if(t.id==="reset"){Object.assign(S,{cat:"all",region:null,q:"",onlyOk:false,hideDone:false});$("q").value="";$("onlyOk").checked=false;$("hideDone").checked=false;render()}
+ else if(t.id==="close"){close()}else if(t.dataset.l){lang=t.dataset.l;open($("panel").dataset.id)}});
+document.addEventListener("change",e=>{if(e.target.id==="doneBox"){const id=$("panel").dataset.id;S.done=e.target.checked?[...S.done,id]:S.done.filter(x=>x!==id);save();render()}
+ if(e.target.id==="onlyOk"){S.onlyOk=e.target.checked;render()}if(e.target.id==="hideDone"){S.hideDone=e.target.checked;render()}if(e.target.id==="sort"){S.sort=e.target.value;render()}});
+$("scrim").onclick=close;document.addEventListener("keydown",e=>{if(e.key==="Escape"&&$("panel").classList.contains("open"))close()});
+$("searchForm").onsubmit=e=>{e.preventDefault();S.q=$("q").value.trim();render();document.querySelector(".bar").scrollIntoView({behavior:"smooth"})};
+$("q").oninput=e=>{S.q=e.target.value.trim();render()};
+fetch("data/fichas.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{ITEMS=(d||[]).filter(i=>i.status!=="retido");render()}).catch(()=>{$("grid").innerHTML='<div class="empty">Não deu para carregar os guias. Recarregue a página.</div>'});
+render();
+</script>
+</body>
+</html>
