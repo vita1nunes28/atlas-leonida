@@ -1,5 +1,902 @@
 [
  {
+  "id": "col-porto-de-vice-city-portvicecity",
+  "titulo": "Porto de Vice City (PortViceCity)",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Principal porto localizado na baía ao sul de Leonida, entre o continente de Vice City e Vice Beach.",
+  "resumo_original": "It is home to Vice City's main port, PortViceCity.",
+  "passos": [
+   "Navegue pela baía no sul de Leonida para localizar a estrutura portuária."
+  ],
+  "locais": [
+   {
+    "nome": "PortViceCity",
+    "onde": "Baía ao sul de Leonida",
+    "detalhe": "Localizado entre o continente de Vice City e Vice Beach."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "N/A",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_south_Leonida_bay",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI south Leonida bay",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T09:12:05+00:00",
+  "atualizado": "2026-11-23T09:12:05+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-ilhas-artificiais-da-baia",
+  "titulo": "Ilhas Artificiais da Baía",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Série de ilhas artificiais situadas na baía que separa o continente de Vice City de Vice Beach.",
+  "resumo_original": "A series of artificial islands located in the bay between mainland Vice City and Vice Beach.",
+  "passos": [
+   "Explore a área da lagoa/baía na costa atlântica para encontrar as ilhas."
+  ],
+  "locais": [
+   {
+    "nome": "Ilhas Artificiais",
+    "onde": "Baía ao sul de Leonida",
+    "detalhe": "Situadas entre Vice City e Vice Beach."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "N/A",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_south_Leonida_bay",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI south Leonida bay",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T09:12:05+00:00",
+  "atualizado": "2026-11-23T09:12:05+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-leonida-state-route-61",
+  "titulo": "Leonida State Route 61",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Uma rota estadual identificada por sinalização, baseada na Florida State Road 997.",
+  "resumo_original": "A state route based on Florida State Road 997, identified by signage in Hamlet.",
+  "passos": [
+   "Explore a área de Hamlet para localizar a sinalização da rodovia."
+  ],
+  "locais": [
+   {
+    "nome": "Hamlet",
+    "onde": "Estado de Leonida",
+    "detalhe": "Onde a sinalização da State Route 61 foi avistada."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "N/A",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Leonida_State_Route_61",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Leonida State Route 61",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T09:12:01+00:00",
+  "atualizado": "2026-11-23T09:12:01+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-lombike-estacao-de-aluguel-de-bicicletas",
+  "titulo": "LomBike (Estação de aluguel de bicicletas)",
+  "categoria": "col",
+  "regiao": "Vice City",
+  "resumo": "Sistema de compartilhamento de bicicletas patrocinado pelo banco Lombank em Vice Beach.",
+  "resumo_original": "A bike docking station with docked bicycles can be seen in Vice Beach, featuring a bike share kiosk labeled with 'LomBike'.",
+  "passos": [
+   "Vá até Vice Beach",
+   "Procure pelos quiosques de aluguel LomBike para utilizar as bicicletas."
+  ],
+  "locais": [
+   {
+    "nome": "Vice Beach",
+    "onde": "Vice City",
+    "detalhe": "Estações de aluguel de bicicletas espalhadas pela orla."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "N/A",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Lombank",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Lombank",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T09:10:59+00:00",
+  "atualizado": "2026-11-23T09:10:59+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-edificio-lombank",
+  "titulo": "Edifício Lombank",
+  "categoria": "col",
+  "regiao": "Vice City",
+  "resumo": "Edifício de escritórios da Lombank localizado no bairro de Tequesta.",
+  "resumo_original": "A high-rise office building in the Tequesta neighborhood of Vice City bearing the Lombank logo can also be seen.",
+  "passos": [
+   "Explore a região de Tequesta para localizar o arranha-céu."
+  ],
+  "locais": [
+   {
+    "nome": "Tequesta",
+    "onde": "Vice City",
+    "detalhe": "Edifício de escritórios identificado pelo logotipo da Lombank."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "N/A",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Lombank",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Lombank",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T09:10:59+00:00",
+  "atualizado": "2026-11-23T09:10:59+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-lombike-bicicleta-de-aluguel",
+  "titulo": "LomBike (Bicicleta de aluguel)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo de duas rodas disponível em estações de compartilhamento espalhadas pelo mapa.",
+  "resumo_original": "Player character interacting with a LomBike: the first depicted the character collecting a LomBike from a bike share station and mounting it.",
+  "passos": [
+   "Vá até uma estação de compartilhamento de bicicletas (bike share station).",
+   "Interaja com a estação para coletar a LomBike."
+  ],
+  "locais": [
+   {
+    "nome": "Estação de compartilhamento",
+    "onde": "Espalhadas pelo mapa",
+    "detalhe": "Pode ser acoplada e retirada nas estações."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "rápido",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI/Leaks",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI/Leaks",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T09:10:50+00:00",
+  "atualizado": "2026-11-23T09:10:50+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-sadler-caminhonete",
+  "titulo": "Sadler (Caminhonete)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo utilitário tipo picape, visto em ambientes de teste com possibilidade de subir na carroceria ou teto.",
+  "resumo_original": "A female character in an in-game test bed environment, stepping off a black Sadler: the left angle from the truck bed, and the right angle from the roof.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI/Leaks",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI/Leaks",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T09:10:50+00:00",
+  "atualizado": "2026-11-23T09:10:50+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-minigame-de-basquete",
+  "titulo": "Minigame de Basquete",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Atividade esportiva mencionada em vazamentos de gameplay onde o protagonista Jason joga basquete.",
+  "resumo_original": "Clips of protagonist Jason playing Basketball and driving around Leonida.",
+  "passos": [],
+  "locais": [
+   {
+    "nome": "Leonida",
+    "onde": "Estado de Leonida",
+    "detalhe": "Localização geral citada em vazamento de agosto de 2026."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Informação baseada em vazamentos não oficiais de agosto de 2026.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI/Leaks",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI/Leaks",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T09:10:50+00:00",
+  "atualizado": "2026-11-23T09:10:50+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colecionaveis-ld-organics",
+  "titulo": "Colecionáveis LD Organics",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Encontre 100 embalagens perdidas de produtos da LD Organics espalhadas por todo o mapa.",
+  "resumo_original": "Find and collect the missing LD Organics Product.",
+  "passos": [
+   "Explore os locais indicados para encontrar as embalagens brancas com o logo LD Organics.",
+   "Se estiver usando controle, a vibração aumenta conforme você se aproxima do item.",
+   "Após coletar todos os 100, vá até a sede da LD Organics em Chamberlain Hills para a entrega final."
+  ],
+  "locais": [
+   {
+    "nome": "LD Organics",
+    "onde": "Chamberlain Hills",
+    "detalhe": "Sede para entrega dos itens coletados."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Variável",
+  "ganho": 150000,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/LD_Organics_Product",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "LD Organics Product",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T09:10:46+00:00",
+  "atualizado": "2026-11-23T09:10:46+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-glitch-de-dinheiro-infinito-em-loja",
+  "titulo": "Glitch de Dinheiro Infinito em Loja",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Exploit para obter dinheiro rápido utilizando uma falha de sistema relacionada a veículos e armazenamento.",
+  "resumo_original": "Updated/Improved Money Farm Glitch",
+  "passos": [
+   "Localize uma van de transporte ou veículo de armazenamento",
+   "Execute o método de glitch descrito para resetar ou duplicar o valor do loot"
+  ],
+  "locais": [
+   {
+    "nome": "Diversos",
+    "onde": "",
+    "detalhe": "Locais com veículos de transporte ou armazenamento"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Capítulo 2",
+  "ganho": 100000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é altamente sensacionalista, utiliza clickbait e não apresenta prova real de gameplay, já que o GTA 6 ainda não foi lançado. O conteúdo é enganoso.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=D5R2wovnPPA",
+    "autor": "JoeyRahmz",
+    "titulo": "*EASY* ✅ New SOLO MONEY GLITCH IN GTA 6! 100k/HOUR (UNLIMITED MONEY GLITCH GTA VI) #gta6 #gta6glitch",
+    "video_id": "D5R2wovnPPA",
+    "imagem": "https://i.ytimg.com/vi/D5R2wovnPPA/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=x1wCiWSXrp4",
+    "autor": "RageGamingVideos",
+    "titulo": "GTA 6 - WARNING: Don't Make These Chapter 2 Mistakes - Best Missable Nitro Car & INFINITE Money!",
+    "video_id": "x1wCiWSXrp4",
+    "imagem": "https://i.ytimg.com/vi/x1wCiWSXrp4/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=vBVvxeOY4yc",
+    "autor": "GAMERLLIL Games",
+    "titulo": "ACABOU a Graça... MILIONÁRIO Desde o INÍCIO! Glitch de DINHEIRO INFINITO Quebra GTA 6",
+    "video_id": "vBVvxeOY4yc",
+    "imagem": "https://i.ytimg.com/vi/vBVvxeOY4yc/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:06+00:00",
+  "atualizado": "2026-11-23T09:10:38+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-carro-raro-proximo-a-casa-do-jason",
+  "titulo": "Carro Raro próximo à casa do Jason",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um veículo antigo de alta performance localizado nas proximidades da residência do protagonista Jason.",
+  "resumo_original": "Carro antigo e muito rápido que fica próximo à casa do Jason.",
+  "passos": [
+   "Dirija-se até a região da casa do Jason.",
+   "Procure pelo veículo estacionado na propriedade ou arredores."
+  ],
+  "locais": [
+   {
+    "nome": "Casa do Jason",
+    "onde": "Leonida",
+    "detalhe": "Localização geral do veículo citada no vídeo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo/clicbait comum em redes sociais sobre GTA 6; não há prova conclusiva de que se trata de uma gameplay real do jogo ou apenas uma edição/mod.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=p3bGdCCbQng",
+    "autor": "GaropabaBR",
+    "titulo": "COMO ENCONTRAR UM CARRO RARO NO GTA 6! 😱🔥 #shorts #gta6 #gtavi",
+    "video_id": "p3bGdCCbQng",
+    "imagem": "https://i.ytimg.com/vi/p3bGdCCbQng/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T09:10:29+00:00",
+  "atualizado": "2026-11-23T09:10:29+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-mitsubishi-eclipse-de-brian-o-conner",
+  "titulo": "Mitsubishi Eclipse de Brian O'Conner",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo icônico inspirado no carro de Brian O'Conner da franquia Velozes e Furiosos.",
+  "resumo_original": "O carro do Brian O'Conner Mitsubishi",
+  "passos": [
+   "Procure pelo modelo inspirado no Eclipse verde personalizado conforme visto na imagem."
+  ],
+  "locais": [
+   {
+    "nome": "Vice City",
+    "onde": "",
+    "detalhe": "Não especificado no vídeo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza imagens de modificações (mods) ou recriações em outros jogos, não apresentando evidências concretas de que este veículo específico estará no jogo final GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Igqxh_Z0WME",
+    "autor": "Renato Rosk",
+    "titulo": "3 carros raros no GTA 6 e onde achar #gta6 #gtavi #gtavicecity",
+    "video_id": "Igqxh_Z0WME",
+    "imagem": "https://i.ytimg.com/vi/Igqxh_Z0WME/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T09:10:18+00:00",
+  "atualizado": "2026-11-23T09:10:18+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-cartel-heist",
+  "titulo": "Cartel Heist",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Vídeo demonstrativo sobre como maximizar os ganhos financeiros durante a missão Cartel Heist.",
+  "resumo_original": "How to get max money on the Cartel Heist in GTA 6.",
+  "passos": [
+   "Assista ao vídeo para identificar a estratégia para coletar o valor máximo durante a missão."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo possui título sensacionalista e não apresenta nenhum passo a passo, método, local ou dica concreta no texto fornecido, servindo apenas como uma chamada para o canal.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=4FIrv84RhDo",
+    "autor": "Gamers Heroes",
+    "titulo": "How To Get Max Money On The Cartel Heist In GTA 6",
+    "video_id": "4FIrv84RhDo",
+    "imagem": "https://i.ytimg.com/vi/4FIrv84RhDo/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T09:10:11+00:00",
+  "atualizado": "2026-11-23T09:10:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-drug-mule-kz-59",
+  "titulo": "Drug Mule KZ-59",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma recuperada de um naufrágio não marcado.",
+  "resumo_original": "Drug Mule KZ59",
+  "passos": [
+   "Navegue ao norte da Mile Zero Air Station",
+   "Encontre o naufrágio não marcado",
+   "Colete a arma"
+  ],
+  "locais": [
+   {
+    "nome": "Naufrágio não marcado",
+    "onde": "Ao norte da Mile Zero Air Station",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "2 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=VxM4Zhb1cVk",
+    "autor": "TagBackTV",
+    "titulo": "GTA 6 - Best Legendary Weapons To Get Early",
+    "video_id": "VxM4Zhb1cVk",
+    "imagem": "https://i.ytimg.com/vi/VxM4Zhb1cVk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-23T09:10:07+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-assassin-nipper-38",
+  "titulo": "Assassin Nipper .38",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Pistola exclusiva variante Assassin Nipper.",
+  "resumo_original": "Assassin Nipper .38 (Pistol) 01:11",
+  "passos": [
+   "Vá até o local indicado no guia em 01:11.",
+   "Colete a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Assassin Nipper .38",
+    "onde": "Consultar timestamp 01:11",
+    "detalhe": "Pistola variante única"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=VxM4Zhb1cVk",
+    "autor": "TagBackTV",
+    "titulo": "GTA 6 - Best Legendary Weapons To Get Early",
+    "video_id": "VxM4Zhb1cVk",
+    "imagem": "https://i.ytimg.com/vi/VxM4Zhb1cVk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-23T09:10:07+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-sm-69-sniper-rifle",
+  "titulo": "SM 69 Sniper Rifle",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle de precisão de alta performance disponível no início do jogo.",
+  "resumo_original": "SM 69 sniper rifle",
+  "passos": [
+   "Vá até a torre grande em Key Lento",
+   "Procure próximo à loja de roupas e Key Lento Candy",
+   "Suba a torre para coletar o loot"
+  ],
+  "locais": [
+   {
+    "nome": "Torre de Key Lento",
+    "onde": "Key Lento",
+    "detalhe": "Próximo à loja de roupas e Key Lento Candy"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "3 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo se refere a GTA 6, mas o conteúdo é especulativo/clickbait, pois não há lançamento oficial do jogo com tais locais.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=VxM4Zhb1cVk",
+    "autor": "TagBackTV",
+    "titulo": "GTA 6 - Best Legendary Weapons To Get Early",
+    "video_id": "VxM4Zhb1cVk",
+    "imagem": "https://i.ytimg.com/vi/VxM4Zhb1cVk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T09:10:07+00:00",
+  "atualizado": "2026-11-23T09:10:07+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-smuggler-gorse-425-shotgun",
+  "titulo": "Smuggler Gorse 425 Shotgun",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Escopeta encontrada próxima a uma pequena embarcação.",
+  "resumo_original": "Smuggler Gorse 425 shotgun",
+  "passos": [
+   "Viaje até a ilha do norte",
+   "Localize o bote (dinghy) na costa",
+   "Pegue a arma ao lado do bote"
+  ],
+  "locais": [
+   {
+    "nome": "Ilha do Norte",
+    "onde": "Ilha ao norte",
+    "detalhe": "Ao lado de um bote"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "2 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo de vídeo sobre um jogo ainda não lançado publicamente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=VxM4Zhb1cVk",
+    "autor": "TagBackTV",
+    "titulo": "GTA 6 - Best Legendary Weapons To Get Early",
+    "video_id": "VxM4Zhb1cVk",
+    "imagem": "https://i.ytimg.com/vi/VxM4Zhb1cVk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T09:10:07+00:00",
+  "atualizado": "2026-11-23T09:10:07+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-comm-shot-12-shotgun",
+  "titulo": "Comm Shot 12 Shotgun",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Escopeta escondida dentro de uma residência.",
+  "resumo_original": "Comm Shot 12 shotgun",
+  "passos": [
+   "Vá até a casa em Key Lento com um peixe-boi e um cachorro do lado de fora",
+   "Entre na casa",
+   "Procure atrás da porta do banheiro"
+  ],
+  "locais": [
+   {
+    "nome": "Residência em Key Lento",
+    "onde": "Key Lento",
+    "detalhe": "Casa identificada pelo peixe-boi e cachorro na frente"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "2 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo de vídeo sobre um jogo ainda não lançado publicamente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=VxM4Zhb1cVk",
+    "autor": "TagBackTV",
+    "titulo": "GTA 6 - Best Legendary Weapons To Get Early",
+    "video_id": "VxM4Zhb1cVk",
+    "imagem": "https://i.ytimg.com/vi/VxM4Zhb1cVk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T09:10:07+00:00",
+  "atualizado": "2026-11-23T09:10:07+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-crab-shack-vf5-smg",
+  "titulo": "Crab Shack VF5 SMG",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Submetralhadora localizada em um posto avançado.",
+  "resumo_original": "Crab Shack VF5 SMG",
+  "passos": [
+   "Dirija-se ao posto avançado de Pelican Valley (Pelican Valley Outpost)",
+   "Busque pela SMG no local"
+  ],
+  "locais": [
+   {
+    "nome": "Pelican Valley Outpost",
+    "onde": "Pelican Valley",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "2 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo de vídeo sobre um jogo ainda não lançado publicamente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=VxM4Zhb1cVk",
+    "autor": "TagBackTV",
+    "titulo": "GTA 6 - Best Legendary Weapons To Get Early",
+    "video_id": "VxM4Zhb1cVk",
+    "imagem": "https://i.ytimg.com/vi/VxM4Zhb1cVk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T09:10:07+00:00",
+  "atualizado": "2026-11-23T09:10:07+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-glitch-de-dinheiro-infinito-em-south-vice-dale",
+  "titulo": "Glitch de Dinheiro Infinito em South Vice Dale",
+  "categoria": "farm",
+  "regiao": "Vice City",
+  "resumo": "Utilize falhas de respawn para coletar itens valiosos repetidamente em South Vice Dale.",
+  "resumo_original": "3 INFINITE MONEY GLITCHES in GTA 6 (Easy Methods!)",
+  "passos": [
+   "Prepare um veículo para armazenar mais itens de saque.",
+   "Vá até a localização indicada em South Vice Dale.",
+   "Colete os itens de valor e bolsas de saque.",
+   "Utilize um dos métodos de respawn (Salvar e Carregar, Troca de Personagem ou Dirigir para longe).",
+   "Venda os itens coletados em caixas de correio ou bancos."
+  ],
+  "locais": [
+   {
+    "nome": "South Vice Dale County",
+    "onde": "Vice City",
+    "detalhe": "Localização exata conforme demonstrado no vídeo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Rápido",
+  "ganho": 999999,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata-se de um conteúdo sensacionalista sobre um jogo ainda não lançado (GTA 6). Não há prova visual real de gameplay do jogo, sendo provavelmente clickbait ou especulação.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=XRQAi-hReSk",
+    "autor": "Jay Dunna ",
+    "titulo": "3 INFINITE MONEY GLITCHES in GTA 6 (Easy Methods!)",
+    "video_id": "XRQAi-hReSk",
+    "imagem": "https://i.ytimg.com/vi/XRQAi-hReSk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T09:09:57+00:00",
+  "atualizado": "2026-11-23T09:09:57+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-venda-de-veiculos-de-destaque-para-moses",
+  "titulo": "Venda de Veículos de Destaque para Moses",
+  "categoria": "farm",
+  "regiao": "Port Gellhorn",
+  "resumo": "Venda veículos específicos para Moses após concluir sua missão no Capítulo 2 para lucrar rapidamente.",
+  "resumo_original": "After completing the \"Moses\" mission early in Chapter 2, you unlock the ability to sell stolen vehicles to Moses.",
+  "passos": [
+   "Complete a missão do Moses no início do Capítulo 2.",
+   "Localize os veículos de destaque próximos a Port Gellhorn.",
+   "Leve os veículos até Moses para venda."
+  ],
+  "locais": [
+   {
+    "nome": "Port Gellhorn",
+    "onde": "Proximidades de Port Gellhorn",
+    "detalhe": "Local de busca dos veículos"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "1 sessão",
+  "ganho": 20000,
+  "spoiler": true,
+  "confianca": "media",
+  "alerta": "O vídeo foca em clickbait mencionando 'GTA VI' (que ainda não foi lançado), tratando-se provavelmente de conteúdo especulativo ou modificado sobre um jogo que não condiz com a realidade do título da Rockstar.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5zym0IC44UU",
+    "autor": "Tony StrongStyle",
+    "titulo": "GTA 6 - Best Way To Get Money in Chapter 2 Guide - $20000+ in 1 Sitting! 4 EASY Cars Sell To Moses",
+    "video_id": "5zym0IC44UU",
+    "imagem": "https://i.ytimg.com/vi/5zym0IC44UU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T09:09:53+00:00",
+  "atualizado": "2026-11-23T09:09:53+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-veiculos-de-alto-valor-vapid-e-dundreary",
+  "titulo": "Veículos de Alto Valor (Vapid e Dundreary)",
+  "categoria": "car",
+  "regiao": "Port Gellhorn",
+  "resumo": "Quatro modelos de veículos valiosos que podem ser vendidos para o NPC Moses.",
+  "resumo_original": "The Vehicles we're looking at today are: Vapid Smuggler Caracara, Vapid Truth & Justice Caracara, Vapid Firebug Dominator, '65 Dundreary Chino.",
+  "passos": [
+   "Encontre os modelos listados na área de Port Gellhorn."
+  ],
+  "locais": [
+   {
+    "nome": "Port Gellhorn",
+    "onde": "Região de Port Gellhorn",
+    "detalhe": "Área de spawn dos veículos"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo utiliza o nome 'GTA VI' de forma sensacionalista. A existência desses veículos específicos e da mecânica de venda para 'Moses' em um jogo ainda não lançado carece de veracidade.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5zym0IC44UU",
+    "autor": "Tony StrongStyle",
+    "titulo": "GTA 6 - Best Way To Get Money in Chapter 2 Guide - $20000+ in 1 Sitting! 4 EASY Cars Sell To Moses",
+    "video_id": "5zym0IC44UU",
+    "imagem": "https://i.ytimg.com/vi/5zym0IC44UU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T09:09:53+00:00",
+  "atualizado": "2026-11-23T09:09:53+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-conteudo-especulativo-sobre-gta-6",
+  "titulo": "Conteúdo especulativo sobre GTA 6",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "O vídeo se apresenta como um guia de localização de itens e dinheiro no GTA 6, mas não apresenta nenhuma prova visual, localização específica ou método real dentro do jogo.",
+  "resumo_original": "Video claims to be a guide for GTA 6 secret loot spots, but provides no actual in-game locations or proven methods.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um exemplo clássico de 'clickbait'. O conteúdo utiliza uma miniatura genérica e o título promete segredos que não são demonstrados ou explicados durante a gravação. Não há informações factuais sobre o jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=IfT82lpaqMM",
+    "autor": "Musty Sky",
+    "titulo": "Get MONEY Early in GTA 6 With THESE INSANE Secret Loot Spots + (Rare Cars & Legendary Guns)",
+    "video_id": "IfT82lpaqMM",
+    "imagem": "https://i.ytimg.com/vi/IfT82lpaqMM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T09:09:49+00:00",
+  "atualizado": "2026-11-23T09:09:49+00:00",
+  "status": "retido"
+ },
+ {
   "id": "farm-cheat-250-000",
   "titulo": "Cheat: $250.000",
   "categoria": "farm",
@@ -1044,98 +1941,6 @@
   "status": "retido"
  },
  {
-  "id": "gun-drug-mule-kz-59",
-  "titulo": "Drug Mule KZ-59",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Rifle de assalto variante Drug Mule.",
-  "resumo_original": "Drug Mule KZ-59 (Assault Rifle) 05:21",
-  "passos": [
-   "Vá até o local indicado no guia em 05:21.",
-   "Colete o rifle."
-  ],
-  "locais": [
-   {
-    "nome": "Drug Mule KZ-59",
-    "onde": "Consultar timestamp 05:21",
-    "detalhe": "Rifle de assalto único"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "curto",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo/sensacionalista.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
-    "autor": "Vexies",
-    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
-    "video_id": "WH8IfSdpB0w",
-    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
-    "autor": "100% Guides",
-    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
-    "video_id": "kSByFdB_KQ8",
-    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:59:06+00:00",
-  "atualizado": "2026-11-23T05:04:54+00:00",
-  "status": "aguardando"
- },
- {
-  "id": "gun-assassin-nipper-38",
-  "titulo": "Assassin Nipper .38",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Pistola exclusiva variante Assassin Nipper.",
-  "resumo_original": "Assassin Nipper .38 (Pistol) 01:11",
-  "passos": [
-   "Vá até o local indicado no guia em 01:11.",
-   "Colete a arma."
-  ],
-  "locais": [
-   {
-    "nome": "Assassin Nipper .38",
-    "onde": "Consultar timestamp 01:11",
-    "detalhe": "Pistola variante única"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "curto",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo/sensacionalista.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
-    "autor": "Vexies",
-    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
-    "video_id": "WH8IfSdpB0w",
-    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
-    "autor": "100% Guides",
-    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
-    "video_id": "kSByFdB_KQ8",
-    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:59:06+00:00",
-  "atualizado": "2026-11-23T05:04:54+00:00",
-  "status": "aguardando"
- },
- {
   "id": "gun-smuggler-gorse-425",
   "titulo": "Smuggler Gorse 425",
   "categoria": "gun",
@@ -1680,52 +2485,6 @@
   "criado": "2026-11-23T05:04:35+00:00",
   "atualizado": "2026-11-23T05:04:35+00:00",
   "status": "confirmado"
- },
- {
-  "id": "farm-glitch-de-dinheiro-infinito-em-loja",
-  "titulo": "Glitch de Dinheiro Infinito em Loja",
-  "categoria": "farm",
-  "regiao": "",
-  "resumo": "Exploit para obter dinheiro rápido utilizando uma falha de sistema relacionada a veículos e armazenamento.",
-  "resumo_original": "Updated/Improved Money Farm Glitch",
-  "passos": [
-   "Localize uma van de transporte ou veículo de armazenamento",
-   "Execute o método de glitch descrito para resetar ou duplicar o valor do loot"
-  ],
-  "locais": [
-   {
-    "nome": "Diversos",
-    "onde": "",
-    "detalhe": "Locais com veículos de transporte ou armazenamento"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "Capítulo 2",
-  "ganho": 100000,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é altamente sensacionalista, utiliza clickbait e não apresenta prova real de gameplay, já que o GTA 6 ainda não foi lançado. O conteúdo é enganoso.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=D5R2wovnPPA",
-    "autor": "JoeyRahmz",
-    "titulo": "*EASY* ✅ New SOLO MONEY GLITCH IN GTA 6! 100k/HOUR (UNLIMITED MONEY GLITCH GTA VI) #gta6 #gta6glitch",
-    "video_id": "D5R2wovnPPA",
-    "imagem": "https://i.ytimg.com/vi/D5R2wovnPPA/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=x1wCiWSXrp4",
-    "autor": "RageGamingVideos",
-    "titulo": "GTA 6 - WARNING: Don't Make These Chapter 2 Mistakes - Best Missable Nitro Car & INFINITE Money!",
-    "video_id": "x1wCiWSXrp4",
-    "imagem": "https://i.ytimg.com/vi/x1wCiWSXrp4/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T05:04:06+00:00",
-  "atualizado": "2026-11-23T05:04:30+00:00",
-  "status": "aguardando"
  },
  {
   "id": "car-vapid-firebug-dominator-e-scrapper-vf5c",
