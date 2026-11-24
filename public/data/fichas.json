@@ -1,5 +1,1159 @@
 [
  {
+  "id": "farm-mecanica-de-morte-em-leonida",
+  "titulo": "Mecânica de Morte em Leonida",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Ao morrer em GTA VI, você renasce próximo ao local, mas perde todo o inventário, incluindo dinheiro e armas.",
+  "resumo_original": "In Grand Theft Auto VI , the player is respawned in a nearby location instead of the hospital and pay no fees to their BuckMe account, but lose the entire inventory they were carrying at the time, which includes money on hand and weapons.",
+  "passos": [
+   "Ao ser eliminado, o jogo fará o respawn em um local próximo ao ponto de morte.",
+   "Recupere armas possuídas anteriormente através do cofre de armas (weapon locker)."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "imediato",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "A fonte afirma que todo o inventário é perdido ao morrer em GTA VI.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Wasted",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Wasted",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:48:02+00:00",
+  "atualizado": "2026-11-24T20:48:02+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-app-buckme",
+  "titulo": "App BuckMe",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Aplicativo bancário para gerenciar finanças, realizar depósitos e poupança conjunta.",
+  "resumo_original": "Digital banking and payment application for managing finances and joint savings.",
+  "passos": [
+   "Abra o celular no jogo",
+   "Acesse o aplicativo BuckMe",
+   "Use a opção 'Buck Yourself' para transferir dinheiro da conta corrente para a poupança"
+  ],
+  "locais": [
+   {
+    "nome": "Fleeca Bank",
+    "onde": "Key Lento",
+    "detalhe": "Local da missão inicial onde o app é desbloqueado"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Início do Capítulo 1",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/BuckMe",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "BuckMe",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:56+00:00",
+  "atualizado": "2026-11-24T20:47:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-ao-sinfrontera-national-bank",
+  "titulo": "Roubo ao Sinfrontera National Bank",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo de alto nível em um banco usado para lavagem de dinheiro de um cartel, realizado pelo grupo de Raul Bautista.",
+  "resumo_original": "A robbery of Sinfrontera National Bank, where money belonging to a drug cartel is being laundered.",
+  "passos": [
+   "Ser recrutado pelo criminoso Raul Bautista",
+   "Planejar a operação com a equipe",
+   "Executar o assalto ao banco Sinfrontera"
+  ],
+  "locais": [
+   {
+    "nome": "Sinfrontera National Bank",
+    "onde": "Vice City",
+    "detalhe": "Banco utilizado por cartéis para lavagem de dinheiro"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Capítulo 3",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-24T20:47:47+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-aeroporto-internacional-de-vice-city",
+  "titulo": "Assalto ao Aeroporto Internacional de Vice City",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo planejado contra a organização criminosa de Kordell Grant, infiltrando-se nas operações do aeroporto.",
+  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant, whose operations involve Vice City International Airport.",
+  "passos": [
+   "Infiltrar-se na organização de Kordell Grant",
+   "Coletar informações sobre a segurança",
+   "Executar o assalto no aeroporto"
+  ],
+  "locais": [
+   {
+    "nome": "Vice City International Airport",
+    "onde": "Vice City",
+    "detalhe": "Base de operações de Kordell Grant"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Capítulo 4",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-24T20:47:47+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-coleta-no-grassrivers-visitor-center",
+  "titulo": "Coleta no Grassrivers Visitor Center",
+  "categoria": "heist",
+  "regiao": "Grassrivers",
+  "resumo": "Uma missão de coleta que termina em emboscada policial e disputa com policiais corruptos.",
+  "resumo_original": "Jason and Lucia retrieve a bag from the Grassrivers Visitor Center, but are ambushed by police officers.",
+  "passos": [
+   "Ir até o centro de visitantes",
+   "Recuperar a bolsa alvo",
+   "Escapar da emboscada de Aldo Méndez"
+  ],
+  "locais": [
+   {
+    "nome": "Grassrivers Visitor Center",
+    "onde": "Grassrivers",
+    "detalhe": "Local da emboscada"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Capítulo 1",
+  "ganho": 10000,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-24T20:47:47+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-minivan-sera",
+  "titulo": "Minivan SERA",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo mencionado em arquivos de eventos do mundo relacionados à agência de pesquisa espacial SERA.",
+  "resumo_original": "A SERA minivan is due to appear in Grand Theft Auto VI.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "media",
+  "alerta": "O veículo não foi visto em filmagens, apenas mencionado em arquivos de vazamentos de 2022.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_SERA_minivan",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI SERA minivan",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:41+00:00",
+  "atualizado": "2026-11-24T20:47:41+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-supercarro-raro-gratuito",
+  "titulo": "Supercarro raro gratuito",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Obtenha um carro esportivo vermelho de $32.000 gratuitamente.",
+  "resumo_original": "How to get a FREE $32,000 supercar in GTA 6!",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 32000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista e não apresenta a localização ou método real para obter o veículo, tratando-se apenas de uma chamada para engajamento.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=3OZ5LZ0smSs",
+    "autor": "Caspahz",
+    "titulo": "GTA 6: FREE $32,000 Supercar! 🤑",
+    "video_id": "3OZ5LZ0smSs",
+    "imagem": "https://i.ytimg.com/vi/3OZ5LZ0smSs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:47:30+00:00",
+  "atualizado": "2026-11-24T20:47:30+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-suposto-glitch-de-dinheiro-infinito",
+  "titulo": "Suposto Glitch de Dinheiro Infinito",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Vídeo alega um método para ganhar $50.000 a cada 10 minutos utilizando um menu de saque, mas não fornece instruções reais ou demonstração do método.",
+  "resumo_original": "Claims a method to earn $50k every 10 minutes using a withdraw menu, but provides no actual instructions or demonstration.",
+  "passos": [],
+  "locais": [
+   {
+    "nome": "Menu de saque (Withdraw)",
+    "onde": "",
+    "detalhe": "Interface de banco exibida na imagem."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "10 minutos",
+  "ganho": 50000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista, utiliza clickbait e não apresenta o método ou localização real, apenas imagens genéricas de interface. Não há prova de que o conteúdo seja real ou funcional.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=NbplulUtnVk",
+    "autor": "Bubs",
+    "titulo": "*NEW* BEST UNLIMITED MONEY GLITCH FOUND! MILLIONS/50K per MINS! (GTA 6 MONEY GLITCH) GTA 6 GLITCHES!",
+    "video_id": "NbplulUtnVk",
+    "imagem": "https://i.ytimg.com/vi/NbplulUtnVk/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=cokySke2MBg",
+    "autor": "Bubs",
+    "titulo": "GTA 6: BROKEN MILLIONS PER HOUR! INFINITE GTA 6 MONEY GLITCH for ALL CHAPTERS! #gta6",
+    "video_id": "cokySke2MBg",
+    "imagem": "https://i.ytimg.com/vi/cokySke2MBg/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:47:13+00:00",
+  "atualizado": "2026-11-24T20:47:24+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "farm-glitch-de-dinheiro-infinito-em-loja",
+  "titulo": "Glitch de Dinheiro Infinito em Loja",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método para farmar dinheiro repetidamente coletando e vendendo itens de valor, utilizando falhas de respawn.",
+  "resumo_original": "An updated INFINITE MONEY GLITCH in GTA 6 that still works after the latest patch!",
+  "passos": [
+   "Vá até o local do glitch.",
+   "Use um dos três métodos para forçar o respawn dos itens valiosos.",
+   "Utilize seu parceiro para agilizar a venda do loot.",
+   "Gerencie o limite da sua conta para não perder dinheiro."
+  ],
+  "locais": [
+   {
+    "nome": "Local do Glitch",
+    "onde": "Não especificado na descrição",
+    "detalhe": "Consulte o minuto 0:28 do vídeo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "500k/hora",
+  "ganho": 100000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é altamente sensacionalista, utiliza clickbait e não apresenta prova real de gameplay, já que o GTA 6 ainda não foi lançado. O conteúdo é enganoso.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=D5R2wovnPPA",
+    "autor": "JoeyRahmz",
+    "titulo": "*EASY* ✅ New SOLO MONEY GLITCH IN GTA 6! 100k/HOUR (UNLIMITED MONEY GLITCH GTA VI) #gta6 #gta6glitch",
+    "video_id": "D5R2wovnPPA",
+    "imagem": "https://i.ytimg.com/vi/D5R2wovnPPA/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=x1wCiWSXrp4",
+    "autor": "RageGamingVideos",
+    "titulo": "GTA 6 - WARNING: Don't Make These Chapter 2 Mistakes - Best Missable Nitro Car & INFINITE Money!",
+    "video_id": "x1wCiWSXrp4",
+    "imagem": "https://i.ytimg.com/vi/x1wCiWSXrp4/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=vBVvxeOY4yc",
+    "autor": "GAMERLLIL Games",
+    "titulo": "ACABOU a Graça... MILIONÁRIO Desde o INÍCIO! Glitch de DINHEIRO INFINITO Quebra GTA 6",
+    "video_id": "vBVvxeOY4yc",
+    "imagem": "https://i.ytimg.com/vi/vBVvxeOY4yc/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=LBWpJ3gUYP0",
+    "autor": "OllMS",
+    "titulo": "EARLY GAME | NEW 5X FASTER UNLIMITED MONEY GLITCH in GTA 6 🤑👀",
+    "video_id": "LBWpJ3gUYP0",
+    "imagem": "https://i.ytimg.com/vi/LBWpJ3gUYP0/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0r_sceEDQxQ",
+    "autor": "Jay Dunna ",
+    "titulo": "UPDATED INFINITE MONEY GLITCH in GTA 6 ($500k/Hour)",
+    "video_id": "0r_sceEDQxQ",
+    "imagem": "https://i.ytimg.com/vi/0r_sceEDQxQ/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Cb01QWmVGwk",
+    "autor": "O Porão",
+    "titulo": "O melhor GLITCH de DINHEIRO INFINITO no GTA 6! #gta #gta6 #grandtheftauto #jogos",
+    "video_id": "Cb01QWmVGwk",
+    "imagem": "https://i.ytimg.com/vi/Cb01QWmVGwk/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=DC6o8H4PfBs",
+    "autor": "Silent Nine",
+    "titulo": "NEW UNLIMITED MONEY GLITCH IN GTA 6! EASY 500K MONEY DUPLICATION IN CHAPTER 2!",
+    "video_id": "DC6o8H4PfBs",
+    "imagem": "https://i.ytimg.com/vi/DC6o8H4PfBs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:06+00:00",
+  "atualizado": "2026-11-24T20:47:06+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-glitch-de-dinheiro-infinito-em-conveniencia",
+  "titulo": "Glitch de Dinheiro Infinito em Conveniência",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Vídeo sensacionalista alegando um glitch para dinheiro infinito em lojas de conveniência do jogo.",
+  "resumo_original": "Sensationalist video claiming an infinite money glitch at convenience stores in the game.",
+  "passos": [
+   "Assista ao vídeo para ver a suposta explicação do método."
+  ],
+  "locais": [
+   {
+    "nome": "Loja de Conveniência",
+    "onde": "Leonida",
+    "detalhe": "Localização genérica de balcão de loja"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 20000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo possui título sensacionalista (clickbait) comum em canais que buscam visualizações com rumores sobre GTA 6 antes do lançamento oficial. Não há evidências reais ou gameplay confirmada que comprovem a existência desse glitch.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=-zRXQrJVKBY",
+    "autor": "Neon",
+    "titulo": "NEW GTA 6 MONEY GLITCH! *UNSEEN* INFINITE MILLIONS ANY CHAPTER GTA 6 MONEY GLITCH GTA 6 GLITCHES!",
+    "video_id": "-zRXQrJVKBY",
+    "imagem": "https://i.ytimg.com/vi/-zRXQrJVKBY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:46:59+00:00",
+  "atualizado": "2026-11-24T20:46:59+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-esportivo-gratuito",
+  "titulo": "Carro Esportivo Gratuito",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Obtenha um supercarro com nitro equipado para vender e lucrar $32.000.",
+  "resumo_original": "Grab this FREE supercar in GTA 6, already loaded with nitrous, and sell it for an easy $32,000.",
+  "passos": [
+   "Vá até o local indicado no vídeo",
+   "Encontre o supercarro com luzes roxas",
+   "Pegue o veículo e venda-o para obter o valor de $32.000"
+  ],
+  "locais": [
+   {
+    "nome": "Local do Carro",
+    "onde": "",
+    "detalhe": "Consulte o mapa e as referências visuais no vídeo para localizar o veículo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 32000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo de Clickbait comum para GTA Online, fazendo-se passar por GTA 6 (que ainda não foi lançado). Não há evidências de que o local ou o método existam no jogo real.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=7een1erHasQ",
+    "autor": "Caspahz",
+    "titulo": "GTA 6: FREE $32,000 Supercar with Nitrous (Sell It for Cash!) 🤑",
+    "video_id": "7een1erHasQ",
+    "imagem": "https://i.ytimg.com/vi/7een1erHasQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:46:26+00:00",
+  "atualizado": "2026-11-24T20:46:26+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-completo-de-banco",
+  "titulo": "Roubo Completo de Banco",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Um método de limpeza total de bancos, incluindo cofre, caixa-forte, gavetas de dinheiro e caminhões blindados.",
+  "resumo_original": "How to steal absolutely everything from the endgame heist content, bank vaults, including the vault, safe, cash drawers, and armored trucks.",
+  "passos": [
+   "Identifique o cofre principal do banco",
+   "Abra e saqueie o cofre",
+   "Localize e esvazie o cofre menor (safe)",
+   "Reviste as gavetas de dinheiro",
+   "Intercepte e roube o caminhão blindado da Gruppe 6"
+  ],
+  "locais": [
+   {
+    "nome": "Banco",
+    "onde": "Leonida",
+    "detalhe": "Interior do banco e áreas de acesso ao caminhão blindado"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo baseia-se em especulações ou simulações de mecânicas de jogo (clickbait) e não apresenta provas concretas de que o jogo final conterá essas mecânicas de roubo específicas conforme mostrado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ueadsSMxRkE",
+    "autor": "MinMax Gaming",
+    "titulo": "How to Steal EVERYTHING From a Bank in GTA 6 (Vault, Safe, Drawers & Armored Truck)",
+    "video_id": "ueadsSMxRkE",
+    "imagem": "https://i.ytimg.com/vi/ueadsSMxRkE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:46:13+00:00",
+  "atualizado": "2026-11-24T20:46:13+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-vcia-takedown",
+  "titulo": "VCIA Takedown",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Missão de planejamento de roubo onde o jogador deve realizar trabalhos preparatórios para interceptar o plano de Kordell.",
+  "resumo_original": "Raul wants to rip off Kordell's planned heist at VCIA.",
+  "passos": [
+   "Siga as instruções de Raul para completar o trabalho de preparação (prep work)."
+  ],
+  "locais": [
+   {
+    "nome": "VCIA",
+    "onde": "Washington Beach",
+    "detalhe": "Local do roubo planejado por Kordell"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo apresenta um título e conteúdo que não correspondem a imagens oficiais de gameplay do GTA 6, tratando-se provavelmente de conteúdo modificado ou fake.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=zp1-8v1HtO8",
+    "autor": "GuidingLight",
+    "titulo": "gta 6 - how to complete heist planning Mission (complete prep work) | Vcia takedown",
+    "video_id": "zp1-8v1HtO8",
+    "imagem": "https://i.ytimg.com/vi/zp1-8v1HtO8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:46:01+00:00",
+  "atualizado": "2026-11-24T20:46:01+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-heist-na-ayoka-jewelers",
+  "titulo": "Heist na Ayoka Jewelers",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Vídeo que promete ensinar a realizar um assalto à joalheria Ayoka sem disparar alarmes ou atrair a polícia.",
+  "resumo_original": "The PERFECT Heist Guide (No Cops, No Alarms)",
+  "passos": [
+   "Localizar a Ayoka Jewelers no mapa",
+   "Executar o roubo seguindo o método de discrição sugerido pelo autor"
+  ],
+  "locais": [
+   {
+    "nome": "Ayoka Jewelers",
+    "onde": "Leonida",
+    "detalhe": "Local da joalheria exibido na imagem do vídeo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo apresenta um título sensacionalista e não oferece provas concretas, tutoriais detalhados ou filmagens de jogabilidade que validem o método de 'roubo perfeito' em GTA 6. O conteúdo parece ser clickbait ou especulação.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=2GQdvm-STS8",
+    "autor": "Jaycerr",
+    "titulo": "The PERFECT Heist Guide (No Cops, No Alarms) 🤯👀 | GTA 6",
+    "video_id": "2GQdvm-STS8",
+    "imagem": "https://i.ytimg.com/vi/2GQdvm-STS8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:45:54+00:00",
+  "atualizado": "2026-11-24T20:45:54+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-ao-banco-fleeca",
+  "titulo": "Roubo ao Banco Fleeca",
+  "categoria": "heist",
+  "regiao": "Ambrosia",
+  "resumo": "Guia para realizar o roubo ao banco Fleeca e garantir uma fuga bem-sucedida.",
+  "resumo_original": "GTA 6 Bank Robbery Guide - $100K in 6 Minutes, Every Time",
+  "passos": [
+   "Acesse o banco Fleeca em Ambrosia",
+   "Execute as mecânicas de roubo conforme explicado no guia",
+   "Realize a fuga seguindo as instruções para escapar sem ser pego"
+  ],
+  "locais": [
+   {
+    "nome": "Banco Fleeca",
+    "onde": "Ambrosia",
+    "detalhe": "Localizado na área de Ambrosia conforme imagem de capa"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "6 minutos",
+  "ganho": 100000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um clickbait sobre um jogo ainda não lançado (GTA 6). Não há prova real de gameplay ou mecânicas confirmadas na fonte.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tM1jvS6Y-AU",
+    "autor": "Cowboy",
+    "titulo": "GTA 6 Bank Robbery Guide - $100K in 6 Minutes, Every Time",
+    "video_id": "tM1jvS6Y-AU",
+    "imagem": "https://i.ytimg.com/vi/tM1jvS6Y-AU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:45:48+00:00",
+  "atualizado": "2026-11-24T20:45:48+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-local-secreto-de-dinheiro-e-smg",
+  "titulo": "Local Secreto de Dinheiro e SMG",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Localização secreta onde é possível obter mais de $10.000 e uma SMG lendária logo no início do jogo.",
+  "resumo_original": "Secret location where you can get over $10,000 and a legendary SMG.",
+  "passos": [
+   "Vá até a localização secreta indicada no vídeo."
+  ],
+  "locais": [
+   {
+    "nome": "Local secreto",
+    "onde": "",
+    "detalhe": "Não especificado no vídeo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "rápido",
+  "ganho": 10000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo de clickbait genérico. Não apresenta imagens de jogabilidade real (gameplay) do GTA 6, apenas uma edição sobreposta de uma pessoa andando, sem mostrar o local, o método ou a obtenção dos itens mencionados.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kGKdWPgWwMc",
+    "autor": "FlayHQ",
+    "titulo": "Get $10,000 AND a LEGENDARY SMG in GTA 6! (Secret Location)",
+    "video_id": "kGKdWPgWwMc",
+    "imagem": "https://i.ytimg.com/vi/kGKdWPgWwMc/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:45:41+00:00",
+  "atualizado": "2026-11-24T20:45:41+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-localizacao-de-arma-ultraleve",
+  "titulo": "Localização de Arma (Ultraleve)",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma aeronave ultraleve aparece presa em uma árvore, possivelmente servindo como ponto de interesse ou exploração.",
+  "resumo_original": "Ultralight aircraft caught in a tree.",
+  "passos": [
+   "Localize a área com árvores altas onde o ultraleve está preso no topo."
+  ],
+  "locais": [
+   {
+    "nome": "Árvore com Ultraleve",
+    "onde": "Mundo aberto de GTA 6",
+    "detalhe": "O veículo está suspenso em uma árvore alta."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é curto, não mostra gameplay real de obtenção de armas, apenas um ultraleve preso em uma árvore, o que pode ser apenas um detalhe ambiental ou um erro de colisão, e não necessariamente uma 'localização de arma'.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=3oqgMmt9rPY",
+    "autor": "Triz",
+    "titulo": "GTA 6 SECRET Gun Location #gta6 #gta #robrun #gaming #ps5",
+    "video_id": "3oqgMmt9rPY",
+    "imagem": "https://i.ytimg.com/vi/3oqgMmt9rPY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:45:26+00:00",
+  "atualizado": "2026-11-24T20:45:26+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-escopeta-smuggler-gorse-425",
+  "titulo": "Escopeta Smuggler Gorse 425",
+  "categoria": "gun",
+  "regiao": "Leonida Keys",
+  "resumo": "Escopeta lendária localizada em uma ilha próxima a Permit Key.",
+  "resumo_original": "Legendary Smuggler Gorse 425 shotgun",
+  "passos": [
+   "Vá até a ilha próxima a Permit Key Island",
+   "Localize a escopeta"
+  ],
+  "locais": [
+   {
+    "nome": "Ilha próxima a Permit Key",
+    "onde": "Leonida Keys",
+    "detalhe": "Em uma ilha adjacente"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo de especulação/clickbait sobre um jogo ainda não lançado com informações não confirmadas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GsW3sdKz3cU",
+    "autor": "Fateh2r Gaming",
+    "titulo": "3 Hidden Legendary Guns & a Car You Need in GTA 6 😳 #gta6 #gtavi #shorts",
+    "video_id": "GsW3sdKz3cU",
+    "imagem": "https://i.ytimg.com/vi/GsW3sdKz3cU/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=dRY6hMN63ic",
+    "autor": "Misleading",
+    "titulo": "Get These 2 SECRET Legendary Weapons EARLY in GTA 6!",
+    "video_id": "dRY6hMN63ic",
+    "imagem": "https://i.ytimg.com/vi/dRY6hMN63ic/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:44:25+00:00",
+  "atualizado": "2026-11-24T20:45:18+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "gun-pistola-assassin-nipper-38",
+  "titulo": "Pistola Assassin Nipper .38",
+  "categoria": "gun",
+  "regiao": "Leonida Keys",
+  "resumo": "Uma arma secreta do tipo pistola compacta localizada em um barco.",
+  "resumo_original": "Grab the Assassin Nipper .38 pistol in the Permit Keys.",
+  "passos": [
+   "Vá até a região de Permit Keys.",
+   "Localize o barco onde a arma está escondida."
+  ],
+  "locais": [
+   {
+    "nome": "Barco em Permit Keys",
+    "onde": "Permit Keys",
+    "detalhe": "Localizada em um dos dois barcos secretos mencionados."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo não mostra a localização exata no mapa, apenas cita a região de 'Permit Keys'. As imagens são genéricas e não confirmam a existência de tais armas no jogo final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=dRY6hMN63ic",
+    "autor": "Misleading",
+    "titulo": "Get These 2 SECRET Legendary Weapons EARLY in GTA 6!",
+    "video_id": "dRY6hMN63ic",
+    "imagem": "https://i.ytimg.com/vi/dRY6hMN63ic/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:45:18+00:00",
+  "atualizado": "2026-11-24T20:45:18+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-dinheiro-e-armas-do-capitulo-2",
+  "titulo": "Dinheiro e Armas do Capítulo 2",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Dicas para obter dinheiro e armas de forma facilitada durante o capítulo 2 do jogo.",
+  "resumo_original": "EASIEST Chapter 2 MONEY and WEAPONS To Get In GTA 6!",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é genérico, utiliza imagens que parecem ser de um mod ou montagem, e não apresenta nenhuma localização, nome de item ou método específico. O conteúdo é puramente especulativo ou clickbait.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=4kmxMX0qA2I",
+    "autor": "TINARAES Gaming",
+    "titulo": "EASIEST Chapter 2 MONEY and WEAPONS To Get In GTA 6! #gta6 #gta6memes #gta #gamingnews #rockstar",
+    "video_id": "4kmxMX0qA2I",
+    "imagem": "https://i.ytimg.com/vi/4kmxMX0qA2I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:45:08+00:00",
+  "atualizado": "2026-11-24T20:45:08+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-crabshack-mp5",
+  "titulo": "Crabshack MP5",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma versão única da arma MP5 com design personalizado.",
+  "resumo_original": "A unique weapon with a distinctive custom design.",
+  "passos": [
+   "Assista ao vídeo para localizar e obter a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Crabshack",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata-se de um conteúdo especulativo/clickbait, visto que GTA 6 ainda não foi lançado. O título e a descrição não fornecem localização real ou método verídico no jogo, sendo apenas uma simulação ou montagem.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=82XmvuAT8JY",
+    "autor": "JFM ",
+    "titulo": "GTA 6 - How To Get The Unique \"Crabshack\" MP5 Secret Weapon Location",
+    "video_id": "82XmvuAT8JY",
+    "imagem": "https://i.ytimg.com/vi/82XmvuAT8JY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:45:01+00:00",
+  "atualizado": "2026-11-24T20:45:01+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-boomer",
+  "titulo": "Boomer",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma das armas disponíveis para compra na Ammu-Nation.",
+  "resumo_original": "Boomer shotgun available for purchase.",
+  "passos": [
+   "Vá até uma loja Ammu-Nation",
+   "Adquira por $12.000"
+  ],
+  "locais": [
+   {
+    "nome": "Ammu-Nation",
+    "onde": "Lojas de armas",
+    "detalhe": "Disponível na lista de preços da loja"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=HllBT-j15Xs",
+    "autor": "vAnother Level",
+    "titulo": "GTA 6 Weapons Guide: Every Gun, Every Store & How to Get Them (Full Price List)",
+    "video_id": "HllBT-j15Xs",
+    "imagem": "https://i.ytimg.com/vi/HllBT-j15Xs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:44:53+00:00",
+  "atualizado": "2026-11-24T20:44:53+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-m350",
+  "titulo": "M350",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma das armas disponíveis para compra na Ammu-Nation.",
+  "resumo_original": "M350 weapon available for purchase.",
+  "passos": [
+   "Vá até uma loja Ammu-Nation",
+   "Adquira por $10.000"
+  ],
+  "locais": [
+   {
+    "nome": "Ammu-Nation",
+    "onde": "Lojas de armas",
+    "detalhe": "Disponível na lista de preços da loja"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=HllBT-j15Xs",
+    "autor": "vAnother Level",
+    "titulo": "GTA 6 Weapons Guide: Every Gun, Every Store & How to Get Them (Full Price List)",
+    "video_id": "HllBT-j15Xs",
+    "imagem": "https://i.ytimg.com/vi/HllBT-j15Xs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:44:53+00:00",
+  "atualizado": "2026-11-24T20:44:53+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-moreland",
+  "titulo": "Moreland",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma das armas disponíveis para compra na Ammu-Nation.",
+  "resumo_original": "Moreland weapon available for purchase.",
+  "passos": [
+   "Vá até uma loja Ammu-Nation",
+   "Adquira por $350"
+  ],
+  "locais": [
+   {
+    "nome": "Ammu-Nation",
+    "onde": "Lojas de armas",
+    "detalhe": "Disponível na lista de preços da loja"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=HllBT-j15Xs",
+    "autor": "vAnother Level",
+    "titulo": "GTA 6 Weapons Guide: Every Gun, Every Store & How to Get Them (Full Price List)",
+    "video_id": "HllBT-j15Xs",
+    "imagem": "https://i.ytimg.com/vi/HllBT-j15Xs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:44:53+00:00",
+  "atualizado": "2026-11-24T20:44:53+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-11-armas-raras",
+  "titulo": "11 Armas Raras",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Guia para encontrar 11 armas raras, incluindo pistolas, espingardas, fuzis, submetralhadoras e um lança-foguetes no Capítulo 1.",
+  "resumo_original": "Best 11 Rare Weapons In GTA 6 You Can Grab In Chapter 1",
+  "passos": [
+   "Siga os locais indicados no vídeo para coletar as armas"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo do vídeo não apresenta localizações reais ou provas concretas das armas citadas, tratando-se de uma especulação ou clickbait comum em vídeos sobre o jogo que ainda não foi lançado oficialmente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=SCFMO8oZxkQ",
+    "autor": "Hubba GTA",
+    "titulo": "Best 11 Rare Weapons In GTA 6 You Can Grab In Chapter 1",
+    "video_id": "SCFMO8oZxkQ",
+    "imagem": "https://i.ytimg.com/vi/SCFMO8oZxkQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:44:37+00:00",
+  "atualizado": "2026-11-24T20:44:37+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-pistola-assassin-nipper-38-silenciada",
+  "titulo": "Pistola Assassin Nipper .38 Silenciada",
+  "categoria": "gun",
+  "regiao": "Leonida Keys",
+  "resumo": "Uma pistola lendária silenciada encontrada em uma embarcação.",
+  "resumo_original": "Legendary Assassin Nipper .38 pistol with a silencer",
+  "passos": [
+   "Vá até Permit Key Island",
+   "Procure pela pistola dentro de um barco"
+  ],
+  "locais": [
+   {
+    "nome": "Permit Key Island",
+    "onde": "Leonida Keys",
+    "detalhe": "Dentro de um barco"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo de especulação/clickbait sobre um jogo ainda não lançado com informações não confirmadas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GsW3sdKz3cU",
+    "autor": "Fateh2r Gaming",
+    "titulo": "3 Hidden Legendary Guns & a Car You Need in GTA 6 😳 #gta6 #gtavi #shorts",
+    "video_id": "GsW3sdKz3cU",
+    "imagem": "https://i.ytimg.com/vi/GsW3sdKz3cU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:44:25+00:00",
+  "atualizado": "2026-11-24T20:44:25+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-fuzil-de-assalto-la-polilla-negra-vf-g1-e-veiculo-lendario",
+  "titulo": "Fuzil de Assalto La Polilla Negra VF-G1 e Veículo Lendário",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Fuzil de assalto e carro lendário escondidos em um complexo.",
+  "resumo_original": "La Polilla Negra VF-G1 assault rifle and a legendary car",
+  "passos": [
+   "Vá até a área de Watson Bay",
+   "Explore o complexo",
+   "Recupere o fuzil, um relógio caro, um lançador H-AT e o carro na garagem"
+  ],
+  "locais": [
+   {
+    "nome": "Complexo em Watson Bay",
+    "onde": "Watson Bay",
+    "detalhe": "Dentro do complexo e da garagem"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo de especulação/clickbait sobre um jogo ainda não lançado com informações não confirmadas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GsW3sdKz3cU",
+    "autor": "Fateh2r Gaming",
+    "titulo": "3 Hidden Legendary Guns & a Car You Need in GTA 6 😳 #gta6 #gtavi #shorts",
+    "video_id": "GsW3sdKz3cU",
+    "imagem": "https://i.ytimg.com/vi/GsW3sdKz3cU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:44:25+00:00",
+  "atualizado": "2026-11-24T20:44:25+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-armas-unicas",
+  "titulo": "Armas Únicas",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Variantes de armas exclusivas que podem ser obtidas através de assaltos, recompensas de história, locais secretos, lojas e edições especiais.",
+  "resumo_original": "Every unique weapon variant found in GTA 6 so far, with its real name card, exactly where to get it, and the gun in action: robbery finds, story rewards, secret locations, store exclusives and the Ultimate Edition locker guns.",
+  "passos": [
+   "Explore locais de assalto",
+   "Complete missões de história",
+   "Investigue encontros aleatórios e segredos",
+   "Verifique lojas exclusivas e o inventário da Ultimate Edition"
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata-se de especulação/clickbait sobre um jogo ainda não lançado com informações baseadas em rumores ou vídeos de terceiros não confirmados oficialmente pela Rockstar Games.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=VPo_ZVih0e0",
+    "autor": "vAnother Level",
+    "titulo": "Every GTA 6 Unique Weapon RANKED & Where to Find Them (All 22 So Far)",
+    "video_id": "VPo_ZVih0e0",
+    "imagem": "https://i.ytimg.com/vi/VPo_ZVih0e0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:44:18+00:00",
+  "atualizado": "2026-11-24T20:44:18+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-metodos-de-dinheiro-rapido",
+  "titulo": "Métodos de dinheiro rápido",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Guia focado em métodos de obtenção rápida de dinheiro para os estágios inicial e intermediário do jogo.",
+  "resumo_original": "This is how you make money FAST and EASY in GTA 6 right now! These methods are great for early and mid game.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de clickbait/SEO com tags de busca. Não há demonstração visual ou detalhamento de localização de itens, rotas ou métodos específicos na transcrição fornecida.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=e2FT03MGNxI",
+    "autor": "RaidAway",
+    "titulo": "GTA 6 Easy Money Guide – Hidden Cash & Loot Locations",
+    "video_id": "e2FT03MGNxI",
+    "imagem": "https://i.ytimg.com/vi/e2FT03MGNxI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:44:12+00:00",
+  "atualizado": "2026-11-24T20:44:12+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-truffade-thrax-de-andrew-node",
+  "titulo": "Truffade Thrax de Andrew Node",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo raro localizado no estado de Leonida, identificado como 'Andrew Node's Thrax'.",
+  "resumo_original": "Truffade Andrew Node's Thrax",
+  "passos": [
+   "Localize o veículo conforme mostrado na imagem do menu de acesso."
+  ],
+  "locais": [
+   {
+    "nome": "Desconhecido",
+    "onde": "Estado de Leonida",
+    "detalhe": "A fonte não fornece a localização exata, apenas a captura de tela do menu de status do veículo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de clickbait que não apresenta gameplays reais de GTA 6, locais ou métodos de obtenção. As imagens exibidas aparentam ser montagens ou mods de GTA 5, não refletindo o jogo real.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=CVwIDMweRzU",
+    "autor": "xApplezz",
+    "titulo": "ALL RAREST CAR Locations in GTA 6! (Bugatti, Ferrari, McLaren & More)",
+    "video_id": "CVwIDMweRzU",
+    "imagem": "https://i.ytimg.com/vi/CVwIDMweRzU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:44:00+00:00",
+  "atualizado": "2026-11-24T20:44:00+00:00",
+  "status": "retido"
+ },
+ {
   "id": "farm-poupanca-da-familia-buckme",
   "titulo": "Poupança da Família (BuckMe)",
   "categoria": "farm",
@@ -1033,78 +2187,6 @@
   "criado": "2026-11-24T08:55:16+00:00",
   "atualizado": "2026-11-24T08:55:16+00:00",
   "status": "retido"
- },
- {
-  "id": "farm-glitch-de-dinheiro-infinito-em-loja",
-  "titulo": "Glitch de Dinheiro Infinito em Loja",
-  "categoria": "farm",
-  "regiao": "",
-  "resumo": "Método para farmar dinheiro repetidamente coletando e vendendo itens de valor, utilizando falhas de respawn.",
-  "resumo_original": "An updated INFINITE MONEY GLITCH in GTA 6 that still works after the latest patch!",
-  "passos": [
-   "Vá até o local do glitch.",
-   "Use um dos três métodos para forçar o respawn dos itens valiosos.",
-   "Utilize seu parceiro para agilizar a venda do loot.",
-   "Gerencie o limite da sua conta para não perder dinheiro."
-  ],
-  "locais": [
-   {
-    "nome": "Local do Glitch",
-    "onde": "Não especificado na descrição",
-    "detalhe": "Consulte o minuto 0:28 do vídeo"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "500k/hora",
-  "ganho": 100000,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é altamente sensacionalista, utiliza clickbait e não apresenta prova real de gameplay, já que o GTA 6 ainda não foi lançado. O conteúdo é enganoso.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=D5R2wovnPPA",
-    "autor": "JoeyRahmz",
-    "titulo": "*EASY* ✅ New SOLO MONEY GLITCH IN GTA 6! 100k/HOUR (UNLIMITED MONEY GLITCH GTA VI) #gta6 #gta6glitch",
-    "video_id": "D5R2wovnPPA",
-    "imagem": "https://i.ytimg.com/vi/D5R2wovnPPA/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=x1wCiWSXrp4",
-    "autor": "RageGamingVideos",
-    "titulo": "GTA 6 - WARNING: Don't Make These Chapter 2 Mistakes - Best Missable Nitro Car & INFINITE Money!",
-    "video_id": "x1wCiWSXrp4",
-    "imagem": "https://i.ytimg.com/vi/x1wCiWSXrp4/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=vBVvxeOY4yc",
-    "autor": "GAMERLLIL Games",
-    "titulo": "ACABOU a Graça... MILIONÁRIO Desde o INÍCIO! Glitch de DINHEIRO INFINITO Quebra GTA 6",
-    "video_id": "vBVvxeOY4yc",
-    "imagem": "https://i.ytimg.com/vi/vBVvxeOY4yc/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=LBWpJ3gUYP0",
-    "autor": "OllMS",
-    "titulo": "EARLY GAME | NEW 5X FASTER UNLIMITED MONEY GLITCH in GTA 6 🤑👀",
-    "video_id": "LBWpJ3gUYP0",
-    "imagem": "https://i.ytimg.com/vi/LBWpJ3gUYP0/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=0r_sceEDQxQ",
-    "autor": "Jay Dunna ",
-    "titulo": "UPDATED INFINITE MONEY GLITCH in GTA 6 ($500k/Hour)",
-    "video_id": "0r_sceEDQxQ",
-    "imagem": "https://i.ytimg.com/vi/0r_sceEDQxQ/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T05:04:06+00:00",
-  "atualizado": "2026-11-24T08:55:12+00:00",
-  "status": "confirmado"
  },
  {
   "id": "col-chapeu-de-arthur-morgan",
