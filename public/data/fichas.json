@@ -1,5 +1,652 @@
 [
  {
+  "id": "farm-metodo-de-dinheiro-infinito",
+  "titulo": "Método de dinheiro infinito",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Vídeo alega apresentar um método para obter dinheiro ilimitado em qualquer capítulo da campanha, utilizando Jason e Lucia.",
+  "resumo_original": "Novo método para ganhar dinheiro infinito no GTA 6",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de clickbait que não apresenta provas visuais, locais específicos ou qualquer passo a passo real. Trata-se de uma estratégia de SEO para atrair cliques sem oferecer informações concretas sobre o jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mU9LMz_UBL8",
+    "autor": "GameSnooK",
+    "titulo": "Novo Método pra ficar Milionario no GTA 6 - Qualquer Capitulo - Dinheiro infinito no GTA 6",
+    "video_id": "mU9LMz_UBL8",
+    "imagem": "https://i.ytimg.com/vi/mU9LMz_UBL8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:57:43+00:00",
+  "atualizado": "2026-11-24T04:57:43+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-ao-banco-fleeca-vcia",
+  "titulo": "Roubo ao Banco Fleeca - VCIA",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Assalto ao banco Fleeca utilizando um bloqueador de pacotes de tinta (dye pack jammer) para acessar o dinheiro do cofre.",
+  "resumo_original": "Rob a bank and get the vault open for insane heist money.",
+  "passos": [
+   "Obtenha um bloqueador de pacotes de tinta (dye pack jammer).",
+   "Dirija-se ao banco Fleeca (VCIA).",
+   "Efetue o roubo para acessar o cofre."
+  ],
+  "locais": [
+   {
+    "nome": "Banco Fleeca (VCIA)",
+    "onde": "",
+    "detalhe": "Local identificado como um banco grande com notas marcadas."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 150000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza o título e a temática de GTA 6, mas não apresenta gameplay real do jogo, sendo um conteúdo especulativo ou clickbait comum sobre o título ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=IXu4Mxz6hc8",
+    "autor": "ConCon",
+    "titulo": "How to Rob a Bank and Vault for Insane Money ► GTA 6",
+    "video_id": "IXu4Mxz6hc8",
+    "imagem": "https://i.ytimg.com/vi/IXu4Mxz6hc8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:57:11+00:00",
+  "atualizado": "2026-11-24T04:57:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-portal-secreto-de-vice-city",
+  "titulo": "Portal Secreto de Vice City",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Um Easter Egg que permite acessar uma versão retrô de Vice City através de um portal.",
+  "resumo_original": "Discover the mysterious portal that takes Jason back to retro Vice City.",
+  "passos": [
+   "Siga o guia passo a passo completo no vídeo para localizar e ativar o portal."
+  ],
+  "locais": [
+   {
+    "nome": "Portal Secreto",
+    "onde": "Desconhecido",
+    "detalhe": "Localização detalhada no vídeo"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "8 minutos",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo sugere conteúdo fictício ou clickbait, comum em thumbnails de mods/fan-made para GTA. Não há confirmação oficial de que esse conteúdo existe no jogo GTA 6 real.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=4KwBs_RkilM",
+    "autor": "Dan Allen Gaming",
+    "titulo": "GTA 6 - How to Unlock the Secret Vice City Portal Easter Egg (Full Guide)",
+    "video_id": "4KwBs_RkilM",
+    "imagem": "https://i.ytimg.com/vi/4KwBs_RkilM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:57:06+00:00",
+  "atualizado": "2026-11-24T04:57:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-camisa-e-moto-de-tommy-vercetti",
+  "titulo": "Camisa e Moto de Tommy Vercetti",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Itens cosméticos e veículo icônicos baseados no protagonista de GTA Vice City.",
+  "resumo_original": "how to obtain Tommy Vercetti's iconic shirt and bike",
+  "passos": [
+   "Siga os passos do guia para desbloquear os itens após interagir com o portal."
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Conteúdo provavelmente modificado ou clickbait, não há confirmação de presença desses itens como recompensas oficiais de easter egg no jogo final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=4KwBs_RkilM",
+    "autor": "Dan Allen Gaming",
+    "titulo": "GTA 6 - How to Unlock the Secret Vice City Portal Easter Egg (Full Guide)",
+    "video_id": "4KwBs_RkilM",
+    "imagem": "https://i.ytimg.com/vi/4KwBs_RkilM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:57:06+00:00",
+  "atualizado": "2026-11-24T04:57:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-chamada-telefonica-de-kent-paul",
+  "titulo": "Chamada Telefônica de Kent Paul",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Easter egg de áudio envolvendo o personagem Kent Paul.",
+  "resumo_original": "how to trigger the special Kent Paul phone call",
+  "passos": [
+   "Siga as instruções do vídeo para acionar o evento de áudio."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Conteúdo duvidoso; títulos de vídeos deste autor costumam ser clickbait sobre rumores ou mods de GTA.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=4KwBs_RkilM",
+    "autor": "Dan Allen Gaming",
+    "titulo": "GTA 6 - How to Unlock the Secret Vice City Portal Easter Egg (Full Guide)",
+    "video_id": "4KwBs_RkilM",
+    "imagem": "https://i.ytimg.com/vi/4KwBs_RkilM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:57:06+00:00",
+  "atualizado": "2026-11-24T04:57:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-akm",
+  "titulo": "AKM",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle de assalto disponível para aquisição no jogo.",
+  "resumo_original": "Assault rifle available for purchase in the game.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte apenas exibe imagens de armas sem detalhar locais ou métodos de obtenção específicos no mapa de Leonida, sendo um vídeo de cunho especulativo/informativo geral.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=D9u9raVsKws",
+    "autor": "BEQA",
+    "titulo": "Grand Theft Auto VI - ALL Weapons & Their Real Names + Origins",
+    "video_id": "D9u9raVsKws",
+    "imagem": "https://i.ytimg.com/vi/D9u9raVsKws/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:56:56+00:00",
+  "atualizado": "2026-11-24T04:56:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-fn-fal",
+  "titulo": "FN FAL",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle de combate disponível para aquisição no jogo.",
+  "resumo_original": "Battle rifle available for purchase in the game.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte apenas exibe imagens de armas sem detalhar locais ou métodos de obtenção específicos no mapa de Leonida, sendo um vídeo de cunho especulativo/informativo geral.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=D9u9raVsKws",
+    "autor": "BEQA",
+    "titulo": "Grand Theft Auto VI - ALL Weapons & Their Real Names + Origins",
+    "video_id": "D9u9raVsKws",
+    "imagem": "https://i.ytimg.com/vi/D9u9raVsKws/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:56:56+00:00",
+  "atualizado": "2026-11-24T04:56:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-m72-law",
+  "titulo": "M72 LAW",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Lançador de foguetes antitanque descartável disponível no jogo.",
+  "resumo_original": "Disposable anti-tank rocket launcher available in the game.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte apenas exibe imagens de armas sem detalhar locais ou métodos de obtenção específicos no mapa de Leonida, sendo um vídeo de cunho especulativo/informativo geral.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=D9u9raVsKws",
+    "autor": "BEQA",
+    "titulo": "Grand Theft Auto VI - ALL Weapons & Their Real Names + Origins",
+    "video_id": "D9u9raVsKws",
+    "imagem": "https://i.ytimg.com/vi/D9u9raVsKws/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:56:56+00:00",
+  "atualizado": "2026-11-24T04:56:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-a-joalheria",
+  "titulo": "Roubo a Joalheria",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Execução de roubo a joalheria focando em acesso por entrada dos fundos e saque de vitrines.",
+  "resumo_original": "Jewelry store robbery walkthrough including the back entrance, security, safe, display cases.",
+  "passos": [
+   "Acesse a loja pela entrada dos fundos.",
+   "Neutralize a segurança.",
+   "Limpe as vitrines de exposição.",
+   "Abra o cofre.",
+   "Realize a fuga para obter a notificação de 'Clean Getaway'."
+  ],
+  "locais": [
+   {
+    "nome": "Joalheria",
+    "onde": "Leonida",
+    "detalhe": "Possui vitrines, cofres e entrada pelos fundos."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Aprox. 4 minutos",
+  "ganho": 17000,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9OsRCr6Zgdc",
+    "autor": "WantedGator",
+    "titulo": "GTA 6 Money Methods RANKED: ATMs, Jewelry Stores & Banks",
+    "video_id": "9OsRCr6Zgdc",
+    "imagem": "https://i.ytimg.com/vi/9OsRCr6Zgdc/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wXjNQeurE20",
+    "autor": "TheUntouchableWolf",
+    "titulo": "GTA 6 How To Rob A Jewelry Store Ultimate Guide!",
+    "video_id": "wXjNQeurE20",
+    "imagem": "https://i.ytimg.com/vi/wXjNQeurE20/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=10gME4kQYjY",
+    "autor": "No Fast Travel",
+    "titulo": "GTA 6 Robbery Guide: How to Make Money and Get Away Clean",
+    "video_id": "10gME4kQYjY",
+    "imagem": "https://i.ytimg.com/vi/10gME4kQYjY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:58:57+00:00",
+  "atualizado": "2026-11-24T04:56:46+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-venda-de-veiculos-roubados",
+  "titulo": "Venda de Veículos Roubados",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método de geração de renda inicial através do roubo e venda de veículos.",
+  "resumo_original": "Discover a money-making method involving stolen cars, vehicle sales, and repeatable earnings.",
+  "passos": [
+   "Roube veículos pela cidade.",
+   "Realize a venda dos veículos para obter lucro."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "O vídeo é um conteúdo genérico de estilo clickbait que não mostra imagens de gameplay real, mecânicas confirmadas ou locais específicos do mapa. Não há prova visual de que esse método exista conforme descrito.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=uDZBWyYZTyo",
+    "autor": "GTA 6 Unleashed",
+    "titulo": "GTA 6 Money Guide 💰 How to Make Money FAST! #shorts",
+    "video_id": "uDZBWyYZTyo",
+    "imagem": "https://i.ytimg.com/vi/uDZBWyYZTyo/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=10gME4kQYjY",
+    "autor": "No Fast Travel",
+    "titulo": "GTA 6 Robbery Guide: How to Make Money and Get Away Clean",
+    "video_id": "10gME4kQYjY",
+    "imagem": "https://i.ytimg.com/vi/10gME4kQYjY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:45+00:00",
+  "atualizado": "2026-11-24T04:56:46+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-roubo-a-casas-de-penhores",
+  "titulo": "Roubo a Casas de Penhores",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Método para roubar casas de penhores como fonte confiável de renda.",
+  "resumo_original": "How to rob pawn shops and jewelry stores for money.",
+  "passos": [
+   "Identifique a casa de penhores.",
+   "Realize o assalto e colete os itens de valor."
+  ],
+  "locais": [
+   {
+    "nome": "Casa de Penhores",
+    "onde": "Leonida",
+    "detalhe": "Estabelecimento comercial de alta confiabilidade para roubos."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Aprox. 2 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=10gME4kQYjY",
+    "autor": "No Fast Travel",
+    "titulo": "GTA 6 Robbery Guide: How to Make Money and Get Away Clean",
+    "video_id": "10gME4kQYjY",
+    "imagem": "https://i.ytimg.com/vi/10gME4kQYjY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:56:46+00:00",
+  "atualizado": "2026-11-24T04:56:46+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-roubo-a-pequenos-estabelecimentos",
+  "titulo": "Roubo a Pequenos Estabelecimentos",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Exploração de lojas menores buscando cofres e salas ocultas.",
+  "resumo_original": "Small stores, safes, and hidden back rooms.",
+  "passos": [
+   "Entre na loja.",
+   "Procure por salas ocultas nos fundos.",
+   "Localize e abra o cofre."
+  ],
+  "locais": [
+   {
+    "nome": "Pequenas lojas",
+    "onde": "Leonida",
+    "detalhe": "Contêm salas de fundos ocultas e cofres."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Aprox. 2 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=10gME4kQYjY",
+    "autor": "No Fast Travel",
+    "titulo": "GTA 6 Robbery Guide: How to Make Money and Get Away Clean",
+    "video_id": "10gME4kQYjY",
+    "imagem": "https://i.ytimg.com/vi/10gME4kQYjY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:56:46+00:00",
+  "atualizado": "2026-11-24T04:56:46+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-roubo-a-bancos-e-emprestimos",
+  "titulo": "Roubo a Bancos e Empréstimos",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Assalto a pequenos bancos e agências de crédito, com atenção aos pacotes de tinta (dye packs).",
+  "resumo_original": "Small banks, payday lenders, and dye packs.",
+  "passos": [
+   "Infiltre-se no banco ou agência.",
+   "Prepare-se para lidar com pacotes de tinta nos valores roubados."
+  ],
+  "locais": [
+   {
+    "nome": "Pequenos Bancos / Agências de Crédito",
+    "onde": "Leonida",
+    "detalhe": "Locais de maior dificuldade comparado a lojas comuns."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Aprox. 2 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=10gME4kQYjY",
+    "autor": "No Fast Travel",
+    "titulo": "GTA 6 Robbery Guide: How to Make Money and Get Away Clean",
+    "video_id": "10gME4kQYjY",
+    "imagem": "https://i.ytimg.com/vi/10gME4kQYjY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:56:46+00:00",
+  "atualizado": "2026-11-24T04:56:46+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-venda-de-veiculos-de-elite-para-randy",
+  "titulo": "Venda de Veículos de Elite para Randy",
+  "categoria": "farm",
+  "regiao": "Vice City",
+  "resumo": "Utilize o Key Cloner para roubar veículos valiosos e vendê-los no showroom de Randy para obter lucros rápidos.",
+  "resumo_original": "Use the Key Cloner to jack valuable cars and sell them to Randy's Showroom.",
+  "passos": [
+   "Complete a missão 'Steal The Zorrusso For Randy' (aprox. 14ª missão do Capítulo 3) para desbloquear o Key Cloner.",
+   "Localize um dos 6 veículos específicos próximos ao showroom de Randy.",
+   "Utilize o Key Cloner para roubar o veículo e desativar o rastreador.",
+   "Leve o carro até o showroom de Randy para vender."
+  ],
+  "locais": [
+   {
+    "nome": "Showroom de Randy",
+    "onde": "Vice City",
+    "detalhe": "Local de entrega para a venda dos veículos roubados."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Rápido",
+  "ganho": 100000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo é baseado em conteúdo especulativo/fictício, pois GTA 6 ainda não foi lançado e não existem veículos ou missões com esses nomes confirmados.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=E4PWQZz4LPU",
+    "autor": "Tony StrongStyle",
+    "titulo": "GTA 6 - Best Way To Get Money in Chapter 3 Guide - $100,000+ in 1 Sitting! 6 EASY Cars Sell To Randy",
+    "video_id": "E4PWQZz4LPU",
+    "imagem": "https://i.ytimg.com/vi/E4PWQZz4LPU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:56:38+00:00",
+  "atualizado": "2026-11-24T04:56:38+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-veiculos-de-alto-valor-para-venda",
+  "titulo": "Veículos de Alto Valor para Venda",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Lista de veículos de elite que podem ser roubados e vendidos para Randy.",
+  "resumo_original": "List of standout vehicles to steal and sell to Randy.",
+  "passos": [
+   "Encontre e roube o Lipgloss Vitello.",
+   "Encontre e roube o Purple Drank Emerus.",
+   "Encontre e roube o Dolce Vita RSX.",
+   "Encontre e roube o Lustrous Toros.",
+   "Encontre e roube o Big Cat Furia.",
+   "Encontre e roube o Gilded Dubsta."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Os nomes dos veículos listados não correspondem a informações oficiais e parecem ser fabricados para o conteúdo do vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=E4PWQZz4LPU",
+    "autor": "Tony StrongStyle",
+    "titulo": "GTA 6 - Best Way To Get Money in Chapter 3 Guide - $100,000+ in 1 Sitting! 6 EASY Cars Sell To Randy",
+    "video_id": "E4PWQZz4LPU",
+    "imagem": "https://i.ytimg.com/vi/E4PWQZz4LPU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:56:38+00:00",
+  "atualizado": "2026-11-24T04:56:38+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-muscle-secreto",
+  "titulo": "Carro Muscle Secreto",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização de um veículo muscle raro e exclusivo escondido no jogo.",
+  "resumo_original": "Secret muscle car location.",
+  "passos": [
+   "Siga até o local indicado no mapa no vídeo",
+   "Aproxime-se do veículo no estacionamento",
+   "Roube o carro para adicioná-lo à sua garagem"
+  ],
+  "locais": [
+   {
+    "nome": "Estacionamento residencial",
+    "onde": "Leonida",
+    "detalhe": "Pátio de uma casa com cerca de madeira"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "rápido",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico ou especulativo, comum em canais que utilizam imagens de IA ou mods para enganar sobre o conteúdo de GTA 6, já que o jogo ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=nHoerwzaAAk",
+    "autor": "CtrlAltPlay",
+    "titulo": "Secret Muscle Car Location in GTA 6!",
+    "video_id": "nHoerwzaAAk",
+    "imagem": "https://i.ytimg.com/vi/nHoerwzaAAk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:56:31+00:00",
+  "atualizado": "2026-11-24T04:56:31+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-video-de-localizacao-de-carros-raros",
+  "titulo": "Vídeo de Localização de Carros Raros",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Vídeo contendo imagens de quatro veículos distintos, possivelmente sugerindo locais de spawn ou obtenção gratuita, embora o vídeo não forneça instruções específicas ou localizações no mapa de Leonida.",
+  "resumo_original": "Video showcasing four vehicles, implying potential spawn locations without providing specific instructions or map coordinates.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo do vídeo é puramente visual e não fornece instruções, nomes dos veículos ou localização geográfica. O título é considerado clickbait, pois não há informações úteis sobre GTA 6 no material.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9Vn-Z6UiTa0",
+    "autor": "ImHybrid",
+    "titulo": "ALL RARE CAR LOCATIONS in GTA 6 (Free Car Locations)",
+    "video_id": "9Vn-Z6UiTa0",
+    "imagem": "https://i.ytimg.com/vi/9Vn-Z6UiTa0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:56:06+00:00",
+  "atualizado": "2026-11-24T04:56:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-relogios-de-luxo",
+  "titulo": "Relógios de Luxo",
+  "categoria": "col",
+  "regiao": "Leonida Keys",
+  "resumo": "Colecionável composto por 34 itens raros escondidos pelo estado de Leonida.",
+  "resumo_original": "All 34 luxury watches locations.",
+  "passos": [
+   "Explore o mapa de Leonida para localizar todos os 34 itens."
+  ],
+  "locais": [
+   {
+    "nome": "Bobcat Key",
+    "onde": "Leonida Keys",
+    "detalhe": "Ponto de localização exemplificado no mapa do vídeo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "não especificado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo/clickbait. Até o momento, o GTA VI não foi lançado e não há confirmação da existência desse colecionável ou da localização citada.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5pqMrxbK0mQ",
+    "autor": "KingAlexHD",
+    "titulo": "HOW TO FIND ALL 34 LUXURY WATCH LOCATIONS IN GTA 6! (EASY STEPS)",
+    "video_id": "5pqMrxbK0mQ",
+    "imagem": "https://i.ytimg.com/vi/5pqMrxbK0mQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:55:56+00:00",
+  "atualizado": "2026-11-24T04:55:56+00:00",
+  "status": "retido"
+ },
+ {
   "id": "farm-poupanca-da-familia-buckme",
   "titulo": "Poupança da Família (BuckMe)",
   "categoria": "farm",
@@ -2219,53 +2866,6 @@
   "status": "retido"
  },
  {
-  "id": "heist-roubo-a-joalheria",
-  "titulo": "Roubo a Joalheria",
-  "categoria": "heist",
-  "regiao": "",
-  "resumo": "Assalto a lojas de joias utilizando armas de fogo para quebrar as vitrines e coletar itens de valor.",
-  "resumo_original": "Jewelry store robbery.",
-  "passos": [
-   "Entre na joalheria.",
-   "Use sua arma para quebrar as vitrines de vidro.",
-   "Colete as joias do interior."
-  ],
-  "locais": [
-   {
-    "nome": "Joalheria",
-    "onde": "Leonida",
-    "detalhe": "Locais de venda de joias espalhados pelo mapa."
-   }
-  ],
-  "dificuldade": 2,
-  "tempo": "não especificado",
-  "ganho": 17000,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=9OsRCr6Zgdc",
-    "autor": "WantedGator",
-    "titulo": "GTA 6 Money Methods RANKED: ATMs, Jewelry Stores & Banks",
-    "video_id": "9OsRCr6Zgdc",
-    "imagem": "https://i.ytimg.com/vi/9OsRCr6Zgdc/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=wXjNQeurE20",
-    "autor": "TheUntouchableWolf",
-    "titulo": "GTA 6 How To Rob A Jewelry Store Ultimate Guide!",
-    "video_id": "wXjNQeurE20",
-    "imagem": "https://i.ytimg.com/vi/wXjNQeurE20/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:58:57+00:00",
-  "atualizado": "2026-11-23T13:09:31+00:00",
-  "status": "confirmado"
- },
- {
   "id": "col-porto-de-vice-city-portvicecity",
   "titulo": "Porto de Vice City (PortViceCity)",
   "categoria": "col",
@@ -4299,38 +4899,6 @@
   ],
   "criado": "2026-11-23T05:04:54+00:00",
   "atualizado": "2026-11-23T05:04:54+00:00",
-  "status": "retido"
- },
- {
-  "id": "farm-venda-de-veiculos-roubados",
-  "titulo": "Venda de Veículos Roubados",
-  "categoria": "farm",
-  "regiao": "",
-  "resumo": "Método de geração de renda inicial através do roubo e venda de veículos.",
-  "resumo_original": "Discover a money-making method involving stolen cars, vehicle sales, and repeatable earnings.",
-  "passos": [
-   "Roube veículos pela cidade.",
-   "Realize a venda dos veículos para obter lucro."
-  ],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é um conteúdo genérico de estilo clickbait que não mostra imagens de gameplay real, mecânicas confirmadas ou locais específicos do mapa. Não há prova visual de que esse método exista conforme descrito.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=uDZBWyYZTyo",
-    "autor": "GTA 6 Unleashed",
-    "titulo": "GTA 6 Money Guide 💰 How to Make Money FAST! #shorts",
-    "video_id": "uDZBWyYZTyo",
-    "imagem": "https://i.ytimg.com/vi/uDZBWyYZTyo/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T05:04:45+00:00",
-  "atualizado": "2026-11-23T05:04:45+00:00",
   "status": "retido"
  },
  {
