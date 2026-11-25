@@ -1,5 +1,467 @@
 [
  {
+  "id": "heist-roubo-ao-sinfrontera-national-bank",
+  "titulo": "Roubo ao Sinfrontera National Bank",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo de alto nível em um banco usado para lavagem de dinheiro de um cartel, realizado pelo grupo de Raul Bautista.",
+  "resumo_original": "A robbery of Sinfrontera National Bank, where money belonging to a drug cartel is being laundered.",
+  "passos": [
+   "Ser recrutado pelo criminoso Raul Bautista",
+   "Planejar a operação com a equipe",
+   "Executar o assalto ao banco Sinfrontera"
+  ],
+  "locais": [
+   {
+    "nome": "Sinfrontera National Bank",
+    "onde": "Vice City",
+    "detalhe": "Banco utilizado por cartéis para lavagem de dinheiro"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Capítulo 3",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-25T04:59:08+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-coleta-no-grassrivers-visitor-center",
+  "titulo": "Coleta no Grassrivers Visitor Center",
+  "categoria": "heist",
+  "regiao": "Grassrivers",
+  "resumo": "Uma missão de coleta que termina em emboscada policial e disputa com policiais corruptos.",
+  "resumo_original": "Jason and Lucia retrieve a bag from the Grassrivers Visitor Center, but are ambushed by police officers.",
+  "passos": [
+   "Ir até o centro de visitantes",
+   "Recuperar a bolsa alvo",
+   "Escapar da emboscada de Aldo Méndez"
+  ],
+  "locais": [
+   {
+    "nome": "Grassrivers Visitor Center",
+    "onde": "Grassrivers",
+    "detalhe": "Local da emboscada"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Capítulo 1",
+  "ganho": 10000,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-25T04:59:08+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-aeroporto-internacional",
+  "titulo": "Assalto ao Aeroporto Internacional",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Roubo a uma organização criminosa liderada por Kordell Grant operando no aeroporto.",
+  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant, whose operations involve Vice City International Airport.",
+  "passos": [
+   "Infiltre-se na organização de Kordell Grant",
+   "Reúna informações sobre a operação",
+   "Execute o assalto no aeroporto"
+  ],
+  "locais": [
+   {
+    "nome": "Vice City International Airport",
+    "onde": "Vice City",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T04:59:08+00:00",
+  "atualizado": "2026-11-25T04:59:08+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-estrategias-de-monetizacao-com-gta-6",
+  "titulo": "Estratégias de monetização com GTA 6",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "O vídeo propõe duas estratégias de marketing digital utilizando o tema GTA 6 e inteligência artificial para gerar receita online.",
+  "resumo_original": "2 formas de Ganhar Dinheiro na Internet usando o GTA 6",
+  "passos": [
+   "Acessar o link do aulão gratuito fornecido pelo autor",
+   "Utilizar os prompts de IA disponibilizados no Google Drive do autor",
+   "Configurar um sistema de vendas automático"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "Indeterminado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo é um vídeo sobre marketing digital e geração de receita online que utiliza o nome de GTA 6 apenas como tema para atrair cliques. Não contém nenhuma informação, mapa, dica ou mecânica real do jogo GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tJJx5d9AsYw",
+    "autor": "Gustavo de Castro",
+    "titulo": "GTA 6: O MOMENTO DE GANHAR DINHEIRO ONLINE SEM JOGAR (COMEÇANDO HOJE!)",
+    "video_id": "tJJx5d9AsYw",
+    "imagem": "https://i.ytimg.com/vi/tJJx5d9AsYw/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T04:59:04+00:00",
+  "atualizado": "2026-11-25T04:59:04+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-farm-de-dinheiro-infinito",
+  "titulo": "Farm de dinheiro infinito",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método para obter grandes quantias de dinheiro utilizando um glitch após a atualização do jogo.",
+  "resumo_original": "NOVO FARM DE DINHEIRO INFINITO DEPOIS DA ATUALIZAÇÃO DO GTA 6!",
+  "passos": [
+   "Avançar até o capítulo 2 do jogo.",
+   "Executar os passos descritos no vídeo para ativar o glitch de dinheiro infinito."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "15 minutos",
+  "ganho": 200000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista, utiliza o GTA 6 como título para atrair cliques e, considerando que o jogo ainda não foi lançado, trata-se de um conteúdo especulativo ou falso (clickbait).",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=HIHbi8rGBag",
+    "autor": "Thalera - Dicas GTA 6",
+    "titulo": "$200K EM 15MIN COM NOVO FARM DE DINHEIRO INFINITO no GTA 6!",
+    "video_id": "HIHbi8rGBag",
+    "imagem": "https://i.ytimg.com/vi/HIHbi8rGBag/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T04:59:00+00:00",
+  "atualizado": "2026-11-25T04:59:00+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-glitch-da-van-dinheiro-infinito",
+  "titulo": "Glitch da Van (Dinheiro Infinito)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método de exploração de falhas (glitch) para obter dinheiro infinito no jogo.",
+  "resumo_original": "Aprenda o método atualizado para fazer o glitch de dinheiro infinito (Glitch da Van) no GTA 6",
+  "passos": [
+   "Assista ao vídeo para visualizar o passo a passo demonstrado pelo autor."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é clickbait e o jogo GTA 6 ainda não foi lançado. O autor utiliza imagens genéricas para atrair cliques, prometendo um glitch para um título inexistente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WqmAYhFueNc",
+    "autor": "Bosco Play",
+    "titulo": "(ATUALIZADO) GLITCH de DINHEIRO INFINITO no GTA 6",
+    "video_id": "WqmAYhFueNc",
+    "imagem": "https://i.ytimg.com/vi/WqmAYhFueNc/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T04:58:56+00:00",
+  "atualizado": "2026-11-25T04:58:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-ao-maior-banco-de-vice-city",
+  "titulo": "Roubo ao Maior Banco de Vice City",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Realize um assalto completo ao maior banco da cidade, saqueando o caixa, o cofre e o tesouro.",
+  "resumo_original": "I robbed the biggest bank in Vice City and walked away with a small fortune after hitting the safe, the vault, and the cashiers.",
+  "passos": [
+   "Vá até o maior banco de Vice City",
+   "Roube o dinheiro do caixa",
+   "Arrombe o cofre",
+   "Saqueie o tesouro (vault)"
+  ],
+  "locais": [
+   {
+    "nome": "Maior banco de Vice City",
+    "onde": "Vice City",
+    "detalhe": "Local do assalto principal"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é altamente especulativo ou utiliza mods/edições, já que o GTA 6 ainda não foi lançado. Não há provas visuais de mecânicas reais de jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=2nmvE5DGJpI",
+    "autor": "Gamers Heroes",
+    "titulo": "I Robbed The BIGGEST BANK In GTA 6",
+    "video_id": "2nmvE5DGJpI",
+    "imagem": "https://i.ytimg.com/vi/2nmvE5DGJpI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T04:58:53+00:00",
+  "atualizado": "2026-11-25T04:58:53+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-a-buck-s-jewelry-and-pawn",
+  "titulo": "Roubo à Buck's Jewelry and Pawn",
+  "categoria": "heist",
+  "regiao": "Port Gellhorn",
+  "resumo": "Guia para realizar o roubo na loja de penhores Buck's sem alertar a polícia e coletando todos os itens.",
+  "resumo_original": "GTA 6 Buck's Jewelry and Pawn Robbery Guide, Perfect Heist Tips And Tricks, No Cops Called, All Loot",
+  "passos": [
+   "Coloque uma máscara (L1/LB + R1/RB, selecione máscara).",
+   "Utilize um fuzil de assalto com silenciador.",
+   "Entre na loja e use o modo foco para neutralizar os guardas de forma não letal.",
+   "Vá rapidamente aos fundos da loja para desativar o alarme e destruir as fitas das câmeras.",
+   "Arrombe a primeira vitrine, o cofre e as demais vitrines para coletar dinheiro e joias.",
+   "Leve os itens roubados para o receptador (ex: Dunk's trailer) para vender."
+  ],
+  "locais": [
+   {
+    "nome": "Buck's Jewelry & Pawn",
+    "onde": "Port Gellhorn",
+    "detalhe": "Local do roubo da missão principal 'Hit Buck's Pawn Shop'."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "rápido",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=w6-pDVVpJWI",
+    "autor": "Kibbles Gaming",
+    "titulo": "GTA 6 Buck's Jewelry And Pawn Robbery Guide, Perfect Heist Tips And Tricks, No Cops Called, All Loot",
+    "video_id": "w6-pDVVpJWI",
+    "imagem": "https://i.ytimg.com/vi/w6-pDVVpJWI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T04:58:41+00:00",
+  "atualizado": "2026-11-25T04:58:41+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-a-bancos",
+  "titulo": "Roubo a Bancos",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Guia estratégico para realizar assaltos a bancos, focando em equipamentos, abertura de cofres e lavagem de dinheiro.",
+  "resumo_original": "Learn how to pull off profitable bank robberies, unlock the right equipment, crack safes, access high-value vaults, and escape with your cash.",
+  "passos": [
+   "Avance na história principal antes de atacar bancos maiores.",
+   "Obtenha o 'Dye Pack Jammer' para proteger o dinheiro roubado.",
+   "Realize a limpeza das notas marcadas para que possam ser utilizadas."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza uma imagem genérica de um teclado numérico e um mapa de interior, sem mostrar gameplay real ou localização específica de algum banco no jogo. O conteúdo parece ser clickbait para engajamento em comentários.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=8tu7P_Xl1mM",
+    "autor": "GameBroo",
+    "titulo": "This Bank Robbery Trick Made Me a MILLIONAIRE in GTA 6! 💸",
+    "video_id": "8tu7P_Xl1mM",
+    "imagem": "https://i.ytimg.com/vi/8tu7P_Xl1mM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T04:58:38+00:00",
+  "atualizado": "2026-11-25T04:58:38+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-operacoes-ilegais-em-port-gellhorn",
+  "titulo": "Operações Ilegais em Port Gellhorn",
+  "categoria": "heist",
+  "regiao": "Port Gellhorn",
+  "resumo": "Guia para realizar seis operações ilegais em Port Gellhorn de forma otimizada para lucrar e obter itens únicos.",
+  "resumo_original": "All six Port Gellhorn illegal operation locations and tips for clearing them.",
+  "passos": [
+   "Utilize táticas de furtividade e trocas de ombro para mirar.",
+   "Use o modo 'Focus' para facilitar o combate.",
+   "Localize os códigos dos cofres em Boatworks, La Cascara Motel e Kingpin Bowling.",
+   "Compartilhe as mochilas de saque com seu parceiro.",
+   "Troque de roupas após o roubo para reduzir o reconhecimento policial.",
+   "Envie seu parceiro para vender itens roubados em um receptador (fence)."
+  ],
+  "locais": [
+   {
+    "nome": "Brooks Boatworks",
+    "onde": "Port Gellhorn",
+    "detalhe": "Priorize este local para o primeiro roubo."
+   },
+   {
+    "nome": "La Cascara Motel",
+    "onde": "Port Gellhorn",
+    "detalhe": "Local de operação ilegal com código de cofre."
+   },
+   {
+    "nome": "Kingpin Bowling",
+    "onde": "Port Gellhorn",
+    "detalhe": "Local de operação ilegal com código de cofre."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=PjQVoNiyfyM",
+    "autor": "CovertMF",
+    "titulo": "GTA 6 - Clear Illegal Operations MUCH Easier! (Chapter 2 Tips & Tricks)",
+    "video_id": "PjQVoNiyfyM",
+    "imagem": "https://i.ytimg.com/vi/PjQVoNiyfyM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T04:58:33+00:00",
+  "atualizado": "2026-11-25T04:58:33+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colecionaveis-cartas-los-santos-corkers",
+  "titulo": "Colecionáveis: Cartas Los Santos Corkers",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Encontre todas as 24 cartas colecionáveis da coleção 'Los Santos Corkers' espalhadas por diversas regiões de Leonida para progredir na conclusão de 100% do jogo.",
+  "resumo_original": "Find all 24 Los Santos Corkers cards to help reach 100% completion.",
+  "passos": [
+   "Explore as localizações listadas nas carimbos de tempo do vídeo para coletar cada carta individualmente."
+  ],
+  "locais": [
+   {
+    "nome": "Mariana County",
+    "onde": "4 cartas",
+    "detalhe": "Cartas de Jonah Clemmons, Samuel Buono e Terrence Jackson"
+   },
+   {
+    "nome": "Hamlet",
+    "onde": "3 cartas",
+    "detalhe": "Cartas de Xavier Gomez, Jesus De Fuente e Carlos Larios"
+   },
+   {
+    "nome": "South Vice County",
+    "onde": "1 carta",
+    "detalhe": "Carta de Jonah Clemmons"
+   },
+   {
+    "nome": "Vice Dale County",
+    "onde": "6 cartas",
+    "detalhe": "Cartas de Aoi Watanabe, Jonah Clemmons, Anthony Herndon, Samuel Buono e Carlos Larios"
+   },
+   {
+    "nome": "Vice Beach",
+    "onde": "2 cartas",
+    "detalhe": "Cartas de Carlos Larios e Si Woo Choo"
+   },
+   {
+    "nome": "Leonard County",
+    "onde": "2 cartas",
+    "detalhe": "Cartas de Franklin Turner e Terrence Jackson"
+   },
+   {
+    "nome": "Belville",
+    "onde": "1 carta",
+    "detalhe": "Carta de Franklin Turner"
+   },
+   {
+    "nome": "Ambrosia",
+    "onde": "1 carta",
+    "detalhe": "Carta de Victor Maravilla"
+   },
+   {
+    "nome": "Lummox County",
+    "onde": "2 cartas",
+    "detalhe": "Cartas de Terrence Jackson e Miguel Ayala"
+   },
+   {
+    "nome": "Kelly County",
+    "onde": "1 carta",
+    "detalhe": "Carta de Anthony Herndon"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "13 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo afirma ser um guia de GTA 6, porém, o conteúdo e os locais citados (como 'Los Santos Corkers') são referências fictícias ou não confirmadas oficialmente para o mapa de Leonida no GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=7WzyWz8N1Fs",
+    "autor": "GRILLAZ",
+    "titulo": "GTA 6: ALL Los Santos Corkers Collectible Card Locations (100% Completion Guide)",
+    "video_id": "7WzyWz8N1Fs",
+    "imagem": "https://i.ytimg.com/vi/7WzyWz8N1Fs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T04:58:02+00:00",
+  "atualizado": "2026-11-25T04:58:02+00:00",
+  "status": "retido"
+ },
+ {
   "id": "col-leonida-state-route-61",
   "titulo": "Leonida State Route 61",
   "categoria": "col",
@@ -84,45 +546,6 @@
   "status": "retido"
  },
  {
-  "id": "heist-roubo-ao-sinfrontera-national-bank",
-  "titulo": "Roubo ao Sinfrontera National Bank",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Um roubo de alto nível em um banco usado para lavagem de dinheiro de um cartel, realizado pelo grupo de Raul Bautista.",
-  "resumo_original": "A robbery of Sinfrontera National Bank, where money belonging to a drug cartel is being laundered.",
-  "passos": [
-   "Ser recrutado pelo criminoso Raul Bautista",
-   "Planejar a operação com a equipe",
-   "Executar o assalto ao banco Sinfrontera"
-  ],
-  "locais": [
-   {
-    "nome": "Sinfrontera National Bank",
-    "onde": "Vice City",
-    "detalhe": "Banco utilizado por cartéis para lavagem de dinheiro"
-   }
-  ],
-  "dificuldade": 3,
-  "tempo": "Capítulo 3",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-25T00:50:56+00:00",
-  "status": "retido"
- },
- {
   "id": "heist-assalto-ao-aeroporto-internacional-de-vice-city",
   "titulo": "Assalto ao Aeroporto Internacional de Vice City",
   "categoria": "heist",
@@ -144,45 +567,6 @@
   "dificuldade": 3,
   "tempo": "Capítulo 4",
   "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-25T00:50:56+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-coleta-no-grassrivers-visitor-center",
-  "titulo": "Coleta no Grassrivers Visitor Center",
-  "categoria": "heist",
-  "regiao": "Grassrivers",
-  "resumo": "Uma missão de coleta que termina em emboscada policial e disputa com policiais corruptos.",
-  "resumo_original": "Jason and Lucia retrieve a bag from the Grassrivers Visitor Center, but are ambushed by police officers.",
-  "passos": [
-   "Ir até o centro de visitantes",
-   "Recuperar a bolsa alvo",
-   "Escapar da emboscada de Aldo Méndez"
-  ],
-  "locais": [
-   {
-    "nome": "Grassrivers Visitor Center",
-    "onde": "Grassrivers",
-    "detalhe": "Local da emboscada"
-   }
-  ],
-  "dificuldade": 2,
-  "tempo": "Capítulo 1",
-  "ganho": 10000,
   "spoiler": true,
   "confianca": "alta",
   "alerta": "",
