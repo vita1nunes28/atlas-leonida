@@ -1,34 +1,47 @@
 [
  {
-  "id": "farm-mecanica-de-morte-em-leonida",
-  "titulo": "Mecânica de Morte em Leonida",
-  "categoria": "farm",
+  "id": "col-leonida-state-route-61",
+  "titulo": "Leonida State Route 61",
+  "categoria": "col",
   "regiao": "",
-  "resumo": "Ao morrer em GTA VI, você renasce próximo ao local, mas perde todo o inventário, incluindo dinheiro e armas.",
-  "resumo_original": "In Grand Theft Auto VI , the player is respawned in a nearby location instead of the hospital and pay no fees to their BuckMe account, but lose the entire inventory they were carrying at the time, which includes money on hand and weapons.",
+  "resumo": "Uma rota estadual identificada por sinalização, baseada na Florida State Road 997.",
+  "resumo_original": "A state route based on Florida State Road 997, identified by signage in Hamlet.",
   "passos": [
-   "Ao ser eliminado, o jogo fará o respawn em um local próximo ao ponto de morte.",
-   "Recupere armas possuídas anteriormente através do cofre de armas (weapon locker)."
+   "Explore a área de Hamlet para localizar a sinalização da rodovia."
   ],
-  "locais": [],
+  "locais": [
+   {
+    "nome": "Hamlet",
+    "onde": "Estado de Leonida",
+    "detalhe": "Onde a sinalização da State Route 61 foi avistada."
+   }
+  ],
   "dificuldade": 1,
-  "tempo": "imediato",
+  "tempo": "N/A",
   "ganho": 0,
   "spoiler": false,
   "confianca": "alta",
-  "alerta": "A fonte afirma que todo o inventário é perdido ao morrer em GTA VI.",
+  "alerta": "",
   "fontes": [
    {
     "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Wasted",
+    "url": "https://gta.fandom.com/wiki/Leonida_State_Route_61",
     "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Wasted",
+    "titulo": "Leonida State Route 61",
+    "video_id": null,
+    "imagem": null
+   },
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Leonida_State_Route_9",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Leonida State Route 9",
     "video_id": null,
     "imagem": null
    }
   ],
-  "criado": "2026-11-24T20:48:02+00:00",
-  "atualizado": "2026-11-24T20:48:02+00:00",
+  "criado": "2026-11-23T09:12:01+00:00",
+  "atualizado": "2026-11-25T00:51:32+00:00",
   "status": "confirmado"
  },
  {
@@ -67,7 +80,7 @@
    }
   ],
   "criado": "2026-11-24T20:47:56+00:00",
-  "atualizado": "2026-11-24T20:47:56+00:00",
+  "atualizado": "2026-11-25T00:51:20+00:00",
   "status": "retido"
  },
  {
@@ -106,7 +119,7 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-25T00:50:56+00:00",
   "status": "retido"
  },
  {
@@ -145,7 +158,7 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-25T00:50:56+00:00",
   "status": "retido"
  },
  {
@@ -184,8 +197,604 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-25T00:50:56+00:00",
   "status": "retido"
+ },
+ {
+  "id": "farm-glitch-de-dinheiro-no-gta-6",
+  "titulo": "Glitch de Dinheiro no GTA 6",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "O vídeo promete um método de glitch para ganhar grandes quantias de dinheiro, mas não fornece instruções, locais ou passos reais.",
+  "resumo_original": "NOVO MÉTODO PARA GANHAR DINHEIRO NO GTA 6",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista (clickbait). Não há nenhum conteúdo prático, método, glitch real ou informação sobre o GTA 6 na descrição ou no título. Trata-se de um vídeo de divulgação de canal sem conteúdo de guia aplicável.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=OGBUZGeBm0Q",
+    "autor": "Guedes Games",
+    "titulo": "GTA 6: ESSE NOVO GLITCH É UM ABSURDO! Dinheiro fácil!",
+    "video_id": "OGBUZGeBm0Q",
+    "imagem": "https://i.ytimg.com/vi/OGBUZGeBm0Q/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:50:51+00:00",
+  "atualizado": "2026-11-25T00:50:51+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-mecanica-de-assaltos-evoluidos-upgraded-heists",
+  "titulo": "Mecânica de Assaltos Evoluídos (Upgraded Heists)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Sistema que permite aumentar em 500% o pagamento dos assaltos realizados no jogo.",
+  "resumo_original": "Secret Upgraded Heists For 500% Higher Payouts",
+  "passos": [
+   "Ative a mecânica de assaltos evoluídos conforme as condições do jogo.",
+   "Realize entregas extras e busque por cortes melhores nas recompensas."
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "Diário (Reset)",
+  "ganho": 500,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é especulativo/clickbait. O GTA VI não foi lançado e não existem mecânicas confirmadas de '500% de payout' ou 'upgraded heists' como descrito na fonte.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=VJWOi7AdbgU",
+    "autor": "KhrazeGaming",
+    "titulo": "Secret Evolved HEIST Mechanic You Missed in GTA 6 - Full Guide to Perfect  HEISTS & 500% Payout",
+    "video_id": "VJWOi7AdbgU",
+    "imagem": "https://i.ytimg.com/vi/VJWOi7AdbgU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:50:32+00:00",
+  "atualizado": "2026-11-25T00:50:32+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-rota-de-assalto-ao-banco-100k",
+  "titulo": "Rota de Assalto ao Banco (100k)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Rota específica para realizar assaltos a banco com foco em otimização de loot.",
+  "resumo_original": "100k Bank Route",
+  "passos": [
+   "Planeje a entrada e saída do banco.",
+   "Gerencie o tamanho do veículo para acomodar o limite de bolsas de dinheiro.",
+   "Evite destruir cofres, pois isso reduz o saque pela metade."
+  ],
+  "locais": [
+   {
+    "nome": "National Bank",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Local de realização do assalto mencionado no vídeo"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 100000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo baseado em especulação sobre um jogo ainda não lançado. As informações de valores e mecânicas não possuem comprovação real no gameplay do GTA VI.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=VJWOi7AdbgU",
+    "autor": "KhrazeGaming",
+    "titulo": "Secret Evolved HEIST Mechanic You Missed in GTA 6 - Full Guide to Perfect  HEISTS & 500% Payout",
+    "video_id": "VJWOi7AdbgU",
+    "imagem": "https://i.ytimg.com/vi/VJWOi7AdbgU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:50:32+00:00",
+  "atualizado": "2026-11-25T00:50:32+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-the-cartel-heist",
+  "titulo": "The Cartel Heist",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Missão de assalto ao banco Sinfronteras National Bank com objetivo de maximizar o ganho financeiro e o tempo dentro do cofre.",
+  "resumo_original": "How to do The Cartel Heist mission for the most amount of money and extra vault time to loot the bank.",
+  "passos": [
+   "Encontre Raul e a equipe na sala de planejamento.",
+   "Inicie o assalto ao Sinfronteras National Bank.",
+   "Siga as estratégias para otimizar o tempo no cofre e aumentar o valor do saque."
+  ],
+  "locais": [
+   {
+    "nome": "Sinfronteras National Bank",
+    "onde": "",
+    "detalhe": "Local principal do assalto."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 10583000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo se trata de conteúdo especulativo/clique-bait sobre GTA 6, jogo que não possui esse assalto ou mecânicas confirmadas na fonte. A miniatura e o título utilizam o nome do jogo para atrair visualizações, mas não apresentam prova real de gameplay do jogo final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tJb1hz4EGNU",
+    "autor": "ConCon",
+    "titulo": "How to do The Cartel Heist for the MOST Money ► GTA 6",
+    "video_id": "tJb1hz4EGNU",
+    "imagem": "https://i.ytimg.com/vi/tJb1hz4EGNU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:50:26+00:00",
+  "atualizado": "2026-11-25T00:50:26+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-sala-de-tesouro-secreta",
+  "titulo": "Sala de Tesouro Secreta",
+  "categoria": "col",
+  "regiao": "Vice City",
+  "resumo": "Uma sala secreta contendo armas raras, incluindo um rifle sniper lendário, e grandes quantidades de dinheiro.",
+  "resumo_original": "A secret loot room in GTA 6 packed with legendary weapons and stacks of cash.",
+  "passos": [
+   "Explore a área indicada no vídeo para encontrar o local oculto.",
+   "Localize as maletas de armas e o dinheiro espalhado."
+  ],
+  "locais": [
+   {
+    "nome": "Sala de Tesouro Secreta",
+    "onde": "Vice City",
+    "detalhe": "Localização interna contendo maletas de armas e maços de dinheiro."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é genérico e clickbait. Não há evidências concretas de que o conteúdo seja realmente do GTA 6, podendo ser mods ou conteúdo de outro jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Efz0EODMoS8",
+    "autor": "Mr ZEUS OK",
+    "titulo": "🔥 GTA 6 SECRET LOOT ROOM – LEGENDARY GUNS & INSANE CASH! 💰",
+    "video_id": "Efz0EODMoS8",
+    "imagem": "https://i.ytimg.com/vi/Efz0EODMoS8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:50:22+00:00",
+  "atualizado": "2026-11-25T00:50:22+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-sniper-kingfishers-laird-350",
+  "titulo": "Sniper Kingfishers Laird 350",
+  "categoria": "gun",
+  "regiao": "Vice City",
+  "resumo": "Arma rara classificada como lendária encontrada na sala secreta.",
+  "resumo_original": "Legendary Kingfishers Laird 350 Sniper.",
+  "passos": [
+   "Encontre a sala de tesouro secreta em Vice City para coletar a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Sala de Tesouro Secreta",
+    "onde": "Vice City",
+    "detalhe": "Dentro da maleta de armas na sala secreta."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A veracidade da existência desta arma específica no GTA 6 não pode ser confirmada pela fonte, que apresenta características de clickbait.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Efz0EODMoS8",
+    "autor": "Mr ZEUS OK",
+    "titulo": "🔥 GTA 6 SECRET LOOT ROOM – LEGENDARY GUNS & INSANE CASH! 💰",
+    "video_id": "Efz0EODMoS8",
+    "imagem": "https://i.ytimg.com/vi/Efz0EODMoS8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:50:22+00:00",
+  "atualizado": "2026-11-25T00:50:22+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-esconderijo-de-armas-secreta",
+  "titulo": "Esconderijo de Armas Secreta",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Um local secreto contendo um arsenal valioso para o jogador.",
+  "resumo_original": "This hidden spot contains a valuable weapon stash.",
+  "passos": [
+   "Explore o mapa à procura de locais escondidos.",
+   "Localize o ponto específico onde a maleta com a arma está sobre uma mesa."
+  ],
+  "locais": [
+   {
+    "nome": "Local de Loot Secreto",
+    "onde": "Não especificado",
+    "detalhe": "Uma sala interna com uma mesa de madeira onde uma maleta preta com uma arma está disponível."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo de 'clickbait' típico de redes sociais. Não há informações reais, coordenadas ou provas de que o vídeo seja de fato uma gravação autêntica do jogo GTA 6, podendo tratar-se de mods, renderizações ou imagens enganosas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=cRQI1nrlpcI",
+    "autor": "VibeWithViceCity",
+    "titulo": "The BEST SECRET LOOT Spot In GTA 6! 💰🤯 #gta6 #shorts",
+    "video_id": "cRQI1nrlpcI",
+    "imagem": "https://i.ytimg.com/vi/cRQI1nrlpcI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:50:16+00:00",
+  "atualizado": "2026-11-25T00:50:16+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-armas-secretas-com-customizacao",
+  "titulo": "Armas Secretas com Customização",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "O vídeo afirma que existem 7 armas únicas escondidas em Leonida, já equipadas com acessórios como silenciadores, miras e pinturas customizadas.",
+  "resumo_original": "7 UNIQUE SECRET WEAPONS in GTA 6, including legendary guns with custom liveries, pre-installed attachments, suppressors, and optics.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista e não apresenta a localização real ou o método de obtenção de nenhuma arma, tratando-se provavelmente de conteúdo especulativo ou clickbait sobre GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=2Zaq3UXpkFY",
+    "autor": "Hazard",
+    "titulo": "7 Secret Weapons You NEED to Find in GTA 6",
+    "video_id": "2Zaq3UXpkFY",
+    "imagem": "https://i.ytimg.com/vi/2Zaq3UXpkFY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:50:04+00:00",
+  "atualizado": "2026-11-25T00:50:04+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-dinheiro-e-saque-escondido",
+  "titulo": "Dinheiro e Saque Escondido",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Locais de armas secretas contêm milhares de dólares em dinheiro vivo e itens de valor para coleta.",
+  "resumo_original": "these hidden weapon locations contain thousands of dollars in free cash and valuable loot!",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo não detalha onde encontrar esses itens ou como acessá-los, carecendo de evidências visuais no vídeo fornecido.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=2Zaq3UXpkFY",
+    "autor": "Hazard",
+    "titulo": "7 Secret Weapons You NEED to Find in GTA 6",
+    "video_id": "2Zaq3UXpkFY",
+    "imagem": "https://i.ytimg.com/vi/2Zaq3UXpkFY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:50:04+00:00",
+  "atualizado": "2026-11-25T00:50:04+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-guia-de-dinheiro-para-iniciantes",
+  "titulo": "Guia de Dinheiro para Iniciantes",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "O vídeo alega um método de ganho de 50 mil por hora no modo single player, porém não apresenta qualquer detalhe, local ou passo a passo sobre como realizar a atividade.",
+  "resumo_original": "BEST ways to make money in gta 6 single player! This is the BEST money making method in gta 6 currently.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "1 hora",
+  "ganho": 50000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de clickbait. Não há imagens de jogabilidade, explicação de métodos, locais específicos ou qualquer prova visual que suporte a afirmação de 50k por hora. O título e a descrição são enganosos.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ny6bOG-j3es",
+    "autor": "ImBones",
+    "titulo": "GTA 6 | BEGINNERS GUIDE TO MAKE MONEY FAST (50k PER HOUR)",
+    "video_id": "ny6bOG-j3es",
+    "imagem": "https://i.ytimg.com/vi/ny6bOG-j3es/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:50:00+00:00",
+  "atualizado": "2026-11-25T00:50:00+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-truffade-thrax-bugatti-divo",
+  "titulo": "Truffade Thrax (Bugatti Divo)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Supercarro de alta performance, descrito como um dos mais rápidos.",
+  "resumo_original": "Bugatti Divo supercar.",
+  "passos": [
+   "Siga até a localização revelada",
+   "Obtenha o carro e registre-o"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo se refere a um jogo (GTA 6) que ainda não foi lançado. O conteúdo é especulativo ou baseado em mods/cliques.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Gw6t8MWowH0",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 10 BEST Secret Cars You Don't Want to Miss! (FREE Supercars, Tiny Car & NO Clone Keys)",
+    "video_id": "Gw6t8MWowH0",
+    "imagem": "https://i.ytimg.com/vi/Gw6t8MWowH0/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=-mzJSlSHK-A",
+    "autor": "Caspahz",
+    "titulo": "How to Get the MOST EXPENSIVE Car in GTA 6 for FREE – Thrax (Bugatti Divo), Any Chapter, No Tracker!",
+    "video_id": "-mzJSlSHK-A",
+    "imagem": "https://i.ytimg.com/vi/-mzJSlSHK-A/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:49:46+00:00",
+  "atualizado": "2026-11-25T00:49:54+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-pegassi-charred-toros-lamborghini-urus",
+  "titulo": "Pegassi Charred Toros (Lamborghini Urus)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo de luxo estilo SUV disponível para encontrar e registrar.",
+  "resumo_original": "Lamborghini Urus secret car.",
+  "passos": [
+   "Localize o veículo conforme mostrado no vídeo",
+   "Obtenha o veículo gratuitamente",
+   "Registre-o permanentemente como seu"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo se refere a um jogo (GTA 6) que ainda não foi lançado. O conteúdo é especulativo ou baseado em mods/cliques.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Gw6t8MWowH0",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 10 BEST Secret Cars You Don't Want to Miss! (FREE Supercars, Tiny Car & NO Clone Keys)",
+    "video_id": "Gw6t8MWowH0",
+    "imagem": "https://i.ytimg.com/vi/Gw6t8MWowH0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:49:46+00:00",
+  "atualizado": "2026-11-25T00:49:46+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-vapid-brimstone-mini-hot-rod",
+  "titulo": "Vapid Brimstone (Mini Hot Rod)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo de pequeno porte tipo Hot Rod escondido.",
+  "resumo_original": "Mini Hot Rod secret car.",
+  "passos": [
+   "Localize o veículo no mapa",
+   "Obtenha gratuitamente e registre"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo se refere a um jogo (GTA 6) que ainda não foi lançado. O conteúdo é especulativo ou baseado em mods/cliques.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Gw6t8MWowH0",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 10 BEST Secret Cars You Don't Want to Miss! (FREE Supercars, Tiny Car & NO Clone Keys)",
+    "video_id": "Gw6t8MWowH0",
+    "imagem": "https://i.ytimg.com/vi/Gw6t8MWowH0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:49:46+00:00",
+  "atualizado": "2026-11-25T00:49:46+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-pfister-growler-porsche",
+  "titulo": "Pfister Growler (Porsche)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Carro esportivo modelo Porsche localizado em uma garagem.",
+  "resumo_original": "Porsche secret car.",
+  "passos": [
+   "Vá até a garagem indicada",
+   "Obtenha o veículo e registre"
+  ],
+  "locais": [
+   {
+    "nome": "Garagem",
+    "onde": "",
+    "detalhe": "Local onde o veículo está estacionado"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo se refere a um jogo (GTA 6) que ainda não foi lançado. O conteúdo é especulativo ou baseado em mods/cliques.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Gw6t8MWowH0",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 10 BEST Secret Cars You Don't Want to Miss! (FREE Supercars, Tiny Car & NO Clone Keys)",
+    "video_id": "Gw6t8MWowH0",
+    "imagem": "https://i.ytimg.com/vi/Gw6t8MWowH0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:49:46+00:00",
+  "atualizado": "2026-11-25T00:49:46+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colecionaveis-cartoes-delights-dancers",
+  "titulo": "Colecionáveis: Cartões Delights Dancers",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Conjunto de 18 cartões colecionáveis chamados 'Delights Dancers' espalhados pelo mapa de Leonida.",
+  "resumo_original": "All Collectible Card Locations for the 'Delight Dancers' Collectible Cards Set.",
+  "passos": [
+   "Explore o mapa de Leonida para encontrar os 18 cartões colecionáveis."
+  ],
+  "locais": [
+   {
+    "nome": "Thelma",
+    "onde": "Leonida",
+    "detalhe": ""
+   },
+   {
+    "nome": "Nicole",
+    "onde": "Leonida",
+    "detalhe": ""
+   },
+   {
+    "nome": "Chip",
+    "onde": "Leonida",
+    "detalhe": ""
+   },
+   {
+    "nome": "Vicki",
+    "onde": "Leonida",
+    "detalhe": ""
+   },
+   {
+    "nome": "Mario",
+    "onde": "Leonida",
+    "detalhe": ""
+   },
+   {
+    "nome": "Cyrus",
+    "onde": "Leonida",
+    "detalhe": ""
+   },
+   {
+    "nome": "Tracy",
+    "onde": "Leonida",
+    "detalhe": ""
+   },
+   {
+    "nome": "Kandi",
+    "onde": "Leonida",
+    "detalhe": ""
+   },
+   {
+    "nome": "Crystal",
+    "onde": "Leonida",
+    "detalhe": ""
+   },
+   {
+    "nome": "Lance",
+    "onde": "Leonida",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=iGVrRx1XUOE",
+    "autor": "HarryNinetyFour",
+    "titulo": "GTA 6 - Delights Dancers - All Collectible Cards Locations Guide",
+    "video_id": "iGVrRx1XUOE",
+    "imagem": "https://i.ytimg.com/vi/iGVrRx1XUOE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:49:41+00:00",
+  "atualizado": "2026-11-25T00:49:41+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-mecanica-de-morte-em-leonida",
+  "titulo": "Mecânica de Morte em Leonida",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Ao morrer em GTA VI, você renasce próximo ao local, mas perde todo o inventário, incluindo dinheiro e armas.",
+  "resumo_original": "In Grand Theft Auto VI , the player is respawned in a nearby location instead of the hospital and pay no fees to their BuckMe account, but lose the entire inventory they were carrying at the time, which includes money on hand and weapons.",
+  "passos": [
+   "Ao ser eliminado, o jogo fará o respawn em um local próximo ao ponto de morte.",
+   "Recupere armas possuídas anteriormente através do cofre de armas (weapon locker)."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "imediato",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "A fonte afirma que todo o inventário é perdido ao morrer em GTA VI.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Wasted",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Wasted",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:48:02+00:00",
+  "atualizado": "2026-11-24T20:48:02+00:00",
+  "status": "confirmado"
  },
  {
   "id": "car-minivan-sera",
@@ -5218,43 +5827,6 @@
   ],
   "criado": "2026-11-23T09:12:05+00:00",
   "atualizado": "2026-11-23T09:12:05+00:00",
-  "status": "confirmado"
- },
- {
-  "id": "col-leonida-state-route-61",
-  "titulo": "Leonida State Route 61",
-  "categoria": "col",
-  "regiao": "",
-  "resumo": "Uma rota estadual identificada por sinalização, baseada na Florida State Road 997.",
-  "resumo_original": "A state route based on Florida State Road 997, identified by signage in Hamlet.",
-  "passos": [
-   "Explore a área de Hamlet para localizar a sinalização da rodovia."
-  ],
-  "locais": [
-   {
-    "nome": "Hamlet",
-    "onde": "Estado de Leonida",
-    "detalhe": "Onde a sinalização da State Route 61 foi avistada."
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "N/A",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Leonida_State_Route_61",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Leonida State Route 61",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-23T09:12:01+00:00",
-  "atualizado": "2026-11-23T09:12:01+00:00",
   "status": "confirmado"
  },
  {
