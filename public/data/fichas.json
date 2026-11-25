@@ -35,7 +35,7 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-25T04:59:08+00:00",
+  "atualizado": "2026-11-25T09:03:22+00:00",
   "status": "retido"
  },
  {
@@ -74,8 +74,1585 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-25T04:59:08+00:00",
+  "atualizado": "2026-11-25T09:03:22+00:00",
   "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-aeroporto-de-vice-city",
+  "titulo": "Assalto ao Aeroporto de Vice City",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Assalto a uma organização criminosa liderada por Kordell Grant instalada no aeroporto.",
+  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant , whose operations involve Vice City International Airport .",
+  "passos": [
+   "Infiltre-se na organização de Kordell Grant.",
+   "Colete informações.",
+   "Execute o roubo no aeroporto."
+  ],
+  "locais": [
+   {
+    "nome": "Vice City International Airport",
+    "onde": "Vice City",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T09:03:22+00:00",
+  "atualizado": "2026-11-25T09:03:22+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-esconderijo-secreto-com-ak-47-e-dinheiro",
+  "titulo": "Esconderijo secreto com AK-47 e Dinheiro",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Um local escondido contendo um fuzil AK-47, uma quantia em dinheiro e um item colecionável.",
+  "resumo_original": "Hidden AK, cash stash, and a collectible.",
+  "passos": [
+   "Explore o mapa para encontrar o local do esconderijo."
+  ],
+  "locais": [
+   {
+    "nome": "Esconderijo Secreto",
+    "onde": "",
+    "detalhe": "Local de exploração geral não especificado pelo autor."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo curto e genérico que não mostra a localização real no mapa, os passos para encontrar ou evidências concretas do gameplay; parece ser uma alegação sensacionalista comum em vídeos de redes sociais.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ATRWlTEW-qM",
+    "autor": "MyKidIsBroken",
+    "titulo": "GTA 6: Hidden AK, Cash Stash & More! #GTA6 #gaming",
+    "video_id": "ATRWlTEW-qM",
+    "imagem": "https://i.ytimg.com/vi/ATRWlTEW-qM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:02:58+00:00",
+  "atualizado": "2026-11-25T09:02:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-skunk-ape",
+  "titulo": "Skunk Ape",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Possível criatura lendária ou Easter egg escondida entre as árvores no mapa.",
+  "resumo_original": "Skunk Ape in the trees",
+  "passos": [
+   "Procure pela criatura nas áreas arborizadas do mapa."
+  ],
+  "locais": [
+   {
+    "nome": "Áreas arborizadas",
+    "onde": "",
+    "detalhe": "Escondido entre as árvores."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo é baseado em especulação de vídeo de curiosidades sem confirmação oficial ou localização precisa.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=jJOIwy82Fj0",
+    "autor": "JustChill",
+    "titulo": "5 Crazy Easter Eggs & Secrets in GTA 6! 🤯🔥",
+    "video_id": "jJOIwy82Fj0",
+    "imagem": "https://i.ytimg.com/vi/jJOIwy82Fj0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:02:42+00:00",
+  "atualizado": "2026-11-25T09:02:42+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-esconderijo-em-apollo-aggregates",
+  "titulo": "Esconderijo em Apollo Aggregates",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Localização secreta onde é possível obter mais de $20.000 em dinheiro e um item colecionável raro.",
+  "resumo_original": "Secret location where you can get over $20,000 in cash and loot, plus a RARE collectible card.",
+  "passos": [
+   "Vá até o armazém abandonado da Apollo Aggregates próximo a Hamlet.",
+   "Explore o local para encontrar o dinheiro e o item colecionável."
+  ],
+  "locais": [
+   {
+    "nome": "Apollo Aggregates",
+    "onde": "Próximo a Hamlet",
+    "detalhe": "Armazém abandonado"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Curto",
+  "ganho": 20000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo e a descrição apresentam uma imagem de um card real de basquete (Leroy Rook) para ilustrar o suposto item colecionável, o que é um forte indício de clickbait ou desinformação sobre o conteúdo real do GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=PlG4dnwtedU",
+    "autor": "AFTERFRAME",
+    "titulo": "Get $20,000 AND a RARE CARD in GTA 6! (Secret Location)",
+    "video_id": "PlG4dnwtedU",
+    "imagem": "https://i.ytimg.com/vi/PlG4dnwtedU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:02:39+00:00",
+  "atualizado": "2026-11-25T09:02:39+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-metodo-de-dinheiro-infinito",
+  "titulo": "Método de dinheiro infinito",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Vídeo alega apresentar um método para obter dinheiro ilimitado em qualquer capítulo da campanha, utilizando Jason e Lucia.",
+  "resumo_original": "Novo método para ganhar dinheiro infinito no GTA 6",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de clickbait que não apresenta provas visuais, locais específicos ou qualquer passo a passo real. Trata-se de uma estratégia de SEO para atrair cliques sem oferecer informações concretas sobre o jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mU9LMz_UBL8",
+    "autor": "GameSnooK",
+    "titulo": "Novo Método pra ficar Milionario no GTA 6 - Qualquer Capitulo - Dinheiro infinito no GTA 6",
+    "video_id": "mU9LMz_UBL8",
+    "imagem": "https://i.ytimg.com/vi/mU9LMz_UBL8/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wwnfNyQl9yk",
+    "autor": "TAGZ",
+    "titulo": "UNLIMITED Money Guide in GTA 6! Make $500,000 every hour! 💰 #gta6 #gtavi #grandtheftauto #gtamoney",
+    "video_id": "wwnfNyQl9yk",
+    "imagem": "https://i.ytimg.com/vi/wwnfNyQl9yk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:57:43+00:00",
+  "atualizado": "2026-11-25T09:02:31+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "heist-missoes-de-kenton",
+  "titulo": "Missões de Kenton",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Complete as missões de Kenton para maximizar ganhos e use eventos ocultos para dobrar os pagamentos.",
+  "resumo_original": "Maximize your GTA 6 earnings by mastering Kenton's missions. Learn how to trigger hidden events to double your payouts today.",
+  "passos": [
+   "Identifique eventos que oferecem multiplicadores de pagamento",
+   "Conclua as missões de forma eficiente para evitar perda de inventário"
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo e o texto utilizam clickbait e citam conteúdos não confirmados sobre GTA 6 (como personagens ou mecânicas específicas), sugerindo possível desinformação.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=e1SL_RML55g",
+    "autor": "Schlayer",
+    "titulo": "How to get rich in GTA 6 early game 💸 #gta6 #money #gtavi",
+    "video_id": "e1SL_RML55g",
+    "imagem": "https://i.ytimg.com/vi/e1SL_RML55g/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:02:25+00:00",
+  "atualizado": "2026-11-25T09:02:25+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-coleta-de-baus-de-tesouro",
+  "titulo": "Coleta de Baús de Tesouro",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Localize baús de tesouro no mar aberto para ganhar dinheiro rápido.",
+  "resumo_original": "We demonstrate how to locate treasure chests for quick cash.",
+  "passos": [
+   "Navegue pelo mar aberto",
+   "Localize e recolha os baús de tesouro"
+  ],
+  "locais": [
+   {
+    "nome": "Mar aberto",
+    "onde": "Áreas marítimas",
+    "detalhe": "Cuidado com tubarões e perigos no mar"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 100000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo vago e sensacionalista; não há evidências concretas no jogo sobre a localização ou existência deste método específico.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=e1SL_RML55g",
+    "autor": "Schlayer",
+    "titulo": "How to get rich in GTA 6 early game 💸 #gta6 #money #gtavi",
+    "video_id": "e1SL_RML55g",
+    "imagem": "https://i.ytimg.com/vi/e1SL_RML55g/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:02:25+00:00",
+  "atualizado": "2026-11-25T09:02:25+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-transporte-de-cargas-de-alto-risco",
+  "titulo": "Transporte de Cargas de Alto Risco",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Gerencie rotas comerciais de narcóticos, joias ou notas marcadas protegendo sua carga durante perseguições.",
+  "resumo_original": "Manage high-stakes boat chases to ensure your cargo arrives safely. Whether you are dealing with narcotics, jewelry, or marked bills.",
+  "passos": [
+   "Carregue narcóticos, joias ou notas marcadas",
+   "Realize a rota comercial protegendo a carga",
+   "Evite barcos em chamas e ataques de tubarões"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "As informações parecem especulativas ou baseadas em mods/jogos diferentes, visto que o GTA 6 ainda não foi lançado para o público confirmar essas mecânicas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=e1SL_RML55g",
+    "autor": "Schlayer",
+    "titulo": "How to get rich in GTA 6 early game 💸 #gta6 #money #gtavi",
+    "video_id": "e1SL_RML55g",
+    "imagem": "https://i.ytimg.com/vi/e1SL_RML55g/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:02:25+00:00",
+  "atualizado": "2026-11-25T09:02:25+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-glitch-da-van-dinheiro-infinito",
+  "titulo": "Glitch da Van (Dinheiro Infinito)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método de exploração de falhas (glitch) para obter dinheiro infinito no jogo.",
+  "resumo_original": "Aprenda o método atualizado para fazer o glitch de dinheiro infinito (Glitch da Van) no GTA 6",
+  "passos": [
+   "Assista ao vídeo para visualizar o passo a passo demonstrado pelo autor."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é clickbait e o jogo GTA 6 ainda não foi lançado. O autor utiliza imagens genéricas para atrair cliques, prometendo um glitch para um título inexistente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WqmAYhFueNc",
+    "autor": "Bosco Play",
+    "titulo": "(ATUALIZADO) GLITCH de DINHEIRO INFINITO no GTA 6",
+    "video_id": "WqmAYhFueNc",
+    "imagem": "https://i.ytimg.com/vi/WqmAYhFueNc/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=1suDPCYLPag",
+    "autor": "Silent Nine",
+    "titulo": "NEW GTA 6 UNLIMITED MONEY GLITCH! FAST 100K MONEY EARLY GAME GLITCH!",
+    "video_id": "1suDPCYLPag",
+    "imagem": "https://i.ytimg.com/vi/1suDPCYLPag/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T04:58:56+00:00",
+  "atualizado": "2026-11-25T09:02:19+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "heist-missao-de-dinheiro-da-shirley",
+  "titulo": "Missão de Dinheiro da Shirley",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Uma missão secundária de início de jogo que envolve coletar itens e enfrentar uma gangue para encontrar esconderijos de dinheiro.",
+  "resumo_original": "A side mission to collect items and defeat a gang to find hidden cash stashes.",
+  "passos": [
+   "Converse com Shirley ao lado da casa de Jason e pegue uma garrafa de rum para ela.",
+   "Fale com o atendente da loja e ouça os animais.",
+   "Entregue o rum para Shirley para liberar a próxima etapa.",
+   "Siga o marcador no mapa até o beco, pule o muro onde há uma falha na cerca de arame farpado.",
+   "Elimine os membros da gangue (furtivamente ou em combate direto).",
+   "Interaja com o papagaio várias vezes para obter a dica sobre o gerador.",
+   "Verifique o gerador e a ventilação na parede para encontrar o dinheiro.",
+   "Saqueie os membros da gangue e saia pela porta da frente."
+  ],
+  "locais": [
+   {
+    "nome": "Casa da Shirley",
+    "onde": "Ao lado da casa de Jason",
+    "detalhe": "Ponto de início da missão"
+   },
+   {
+    "nome": "Esconderijo da Gangue",
+    "onde": "Beco com falha na cerca de arame farpado",
+    "detalhe": "Local com o papagaio, gerador e ventilação"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Curto",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Como o GTA 6 ainda não foi lançado oficialmente, este conteúdo é considerado especulativo ou baseado em rumores de mod/vídeo falso, não representando um guia de jogo real.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wfMiC9ShOB8",
+    "autor": "GBZ",
+    "titulo": "How to Make Money Early in GTA 6 💸 Shirley’s Hidden Cash Mission 🦜",
+    "video_id": "wfMiC9ShOB8",
+    "imagem": "https://i.ytimg.com/vi/wfMiC9ShOB8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:02:14+00:00",
+  "atualizado": "2026-11-25T09:02:14+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-gestao-de-dinheiro-e-deposito",
+  "titulo": "Gestão de Dinheiro e Depósito",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Deposite seu dinheiro em um banco para evitar perdê-lo ao morrer.",
+  "resumo_original": "Rob, fence, bank, then go cause trouble.",
+  "passos": [
+   "Roube ou consiga dinheiro",
+   "Venda itens em receptadores (fence)",
+   "Deposite o valor no banco",
+   "Saia para causar problemas na cidade"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "media",
+  "alerta": "O vídeo é um conteúdo curto genérico e não especifica locais exatos de bancos ou receptadores no mapa de Leonida.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=NjlnF015bbI",
+    "autor": "GAMESgg",
+    "titulo": "GTA 6 Money Guide: Bank Your Cash Before You Get Wasted",
+    "video_id": "NjlnF015bbI",
+    "imagem": "https://i.ytimg.com/vi/NjlnF015bbI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:02:10+00:00",
+  "atualizado": "2026-11-25T09:02:10+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "heist-roubo-de-lojas",
+  "titulo": "Roubo de lojas",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Método para realizar roubos em lojas, limpar imagens de câmeras e escapar sem nível de procurado.",
+  "resumo_original": "How to rob stores like a pro in GTA 6.",
+  "passos": [
+   "Mire nos caixas da loja para forçar a abertura dos registros",
+   "Limpe as imagens das câmeras de segurança",
+   "Fuja sem gerar nível de procurado (0 estrelas)"
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo ou de paródia/previsão (clickbait), dado que o jogo GTA 6 ainda não foi lançado. O conteúdo não apresenta gameplay real ou comprovado de mecânicas do jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=unS0Gyt6Yek",
+    "autor": "Bentekkers",
+    "titulo": "How to Rob Stores Like a Pro in GTA 6 💰",
+    "video_id": "unS0Gyt6Yek",
+    "imagem": "https://i.ytimg.com/vi/unS0Gyt6Yek/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=lh3QeJ2kKww",
+    "autor": "Typical Gamer",
+    "titulo": "Robbing The BEST Stores in GTA 6 FREE ROAM! (Max Money)",
+    "video_id": "lh3QeJ2kKww",
+    "imagem": "https://i.ytimg.com/vi/lh3QeJ2kKww/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T08:58:51+00:00",
+  "atualizado": "2026-11-25T09:01:49+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "farm-pacotes-de-drogas-capitulo-1",
+  "titulo": "Pacotes de Drogas (Capítulo 1)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Venda pacotes de drogas para um receptador para ganhar dinheiro rápido no início do jogo.",
+  "resumo_original": "drug packages for a fence",
+  "passos": [
+   "Consiga os pacotes de drogas.",
+   "Leve até um receptador para vender por cerca de $900 cada."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 900,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de dicas e a fonte original não especifica locais no mapa; além disso, o jogo ainda não foi lançado, tornando as informações especulativas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wTBeDJYvjZQ",
+    "autor": "Vice Plexo",
+    "titulo": "Fastest Money in GTA 6 (Chapter by Chapter)",
+    "video_id": "wTBeDJYvjZQ",
+    "imagem": "https://i.ytimg.com/vi/wTBeDJYvjZQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:00:19+00:00",
+  "atualizado": "2026-11-25T09:00:19+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-mergulhos-de-tesouro-de-kenton-capitulo-1",
+  "titulo": "Mergulhos de Tesouro de Kenton (Capítulo 1)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Realize mergulhos para encontrar tesouros escondidos.",
+  "resumo_original": "Kenton's treasure dives",
+  "passos": [
+   "Localize os pontos de mergulho de Kenton.",
+   "Realize o mergulho para coletar o tesouro."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 4000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Informação especulativa sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wTBeDJYvjZQ",
+    "autor": "Vice Plexo",
+    "titulo": "Fastest Money in GTA 6 (Chapter by Chapter)",
+    "video_id": "wTBeDJYvjZQ",
+    "imagem": "https://i.ytimg.com/vi/wTBeDJYvjZQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:00:19+00:00",
+  "atualizado": "2026-11-25T09:00:19+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-esconderijos-da-gangue-kingfisher-capitulo-1",
+  "titulo": "Esconderijos da Gangue Kingfisher (Capítulo 1)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Infiltre-se nos esconderijos da gangue para roubar e vender cocaína.",
+  "resumo_original": "Kingfisher gang hideouts full of cocaine to sell",
+  "passos": [
+   "Encontre um esconderijo da gangue Kingfisher.",
+   "Limpe o local e pegue a cocaína.",
+   "Venda o produto."
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Informação especulativa sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wTBeDJYvjZQ",
+    "autor": "Vice Plexo",
+    "titulo": "Fastest Money in GTA 6 (Chapter by Chapter)",
+    "video_id": "wTBeDJYvjZQ",
+    "imagem": "https://i.ytimg.com/vi/wTBeDJYvjZQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:00:19+00:00",
+  "atualizado": "2026-11-25T09:00:19+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-venda-de-carros-roubados-capitulo-2",
+  "titulo": "Venda de Carros Roubados (Capítulo 2)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Roube carros sem rastreadores para vender a Moses.",
+  "resumo_original": "Moses buys stolen cars",
+  "passos": [
+   "Roube um carro que não possua rastreador.",
+   "Leve o veículo até Moses.",
+   "Aguarde o tempo de recarga de 2 minutos para o próximo roubo."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "2 minutos de recarga",
+  "ganho": 2000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Informação especulativa sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wTBeDJYvjZQ",
+    "autor": "Vice Plexo",
+    "titulo": "Fastest Money in GTA 6 (Chapter by Chapter)",
+    "video_id": "wTBeDJYvjZQ",
+    "imagem": "https://i.ytimg.com/vi/wTBeDJYvjZQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:00:19+00:00",
+  "atualizado": "2026-11-25T09:00:19+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubos-a-joalherias-capitulo-3",
+  "titulo": "Roubos a Joalherias (Capítulo 3)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Assalte joalherias para obter lucros elevados.",
+  "resumo_original": "jewelry jobs pay up to $25,000",
+  "passos": [
+   "Localize e planeje o assalto a uma joalheria.",
+   "Execute o roubo."
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 25000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Informação especulativa sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wTBeDJYvjZQ",
+    "autor": "Vice Plexo",
+    "titulo": "Fastest Money in GTA 6 (Chapter by Chapter)",
+    "video_id": "wTBeDJYvjZQ",
+    "imagem": "https://i.ytimg.com/vi/wTBeDJYvjZQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:00:19+00:00",
+  "atualizado": "2026-11-25T09:00:19+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assaltos-a-pequenos-bancos-capitulo-3",
+  "titulo": "Assaltos a Pequenos Bancos (Capítulo 3)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Assalte bancos de pequeno porte para lucros significativos.",
+  "resumo_original": "small banks up to $45,000",
+  "passos": [
+   "Identifique um pequeno banco.",
+   "Realize o assalto."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 45000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Informação especulativa sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wTBeDJYvjZQ",
+    "autor": "Vice Plexo",
+    "titulo": "Fastest Money in GTA 6 (Chapter by Chapter)",
+    "video_id": "wTBeDJYvjZQ",
+    "imagem": "https://i.ytimg.com/vi/wTBeDJYvjZQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T09:00:19+00:00",
+  "atualizado": "2026-11-25T09:00:19+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-esconderijo-de-5-000-no-capitulo-2",
+  "titulo": "Esconderijo de $5.000 no Capítulo 2",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Uma quantia de $5.000 disponível logo no início do Capítulo 2.",
+  "resumo_original": "An easy way to get your hands on $5,000 almost immediately in Chapter 2.",
+  "passos": [
+   "Inicie o Capítulo 2",
+   "Vá até o local do esconderijo para coletar o dinheiro"
+  ],
+  "locais": [
+   {
+    "nome": "Esconderijo de dinheiro",
+    "onde": "Não especificado na fonte",
+    "detalhe": "Local oculto que pode ser acessado assim que retomar o controle do personagem no Capítulo 2"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Curto",
+  "ganho": 5000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um exemplo de clickbait típico de pré-lançamento ou desinformação, já que GTA 6 ainda não foi lançado e não existem Capítulos 2 confirmados com este conteúdo. A fonte não fornece localizações, mapas ou provas visuais do jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ndzIjeSdOBQ",
+    "autor": "IGN",
+    "titulo": "GTA 6: Grab This Free $5,000 as Soon as Chapter 2 Begins",
+    "video_id": "ndzIjeSdOBQ",
+    "imagem": "https://i.ytimg.com/vi/ndzIjeSdOBQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:59:50+00:00",
+  "atualizado": "2026-11-25T08:59:50+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-supercarros-exoticos-em-vice-city",
+  "titulo": "Supercarros Exóticos em Vice City",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "O vídeo apresenta locais onde é possível encontrar supercarros de luxo estacionados em áreas urbanas de Vice City.",
+  "resumo_original": "Here are some amazing locations to get your hands on luxury supercars in Vice City!",
+  "passos": [
+   "Explore as áreas de estacionamento e vias de luxo em Vice City para localizar supercarros estacionados."
+  ],
+  "locais": [
+   {
+    "nome": "Vice City",
+    "onde": "Vice City",
+    "detalhe": "Ruas e estacionamentos da cidade."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "indeterminado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um compilado genérico e não mostra um método específico, mapa ou localização exata. Trata-se de conteúdo especulativo/clickbait, já que o GTA 6 ainda não foi lançado para jogadores, tornando a veracidade da localização impossível de confirmar.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=l3VHts_tBwg",
+    "autor": "Shonen Daddy",
+    "titulo": "GTA 6 – How to Find Rare Exotic Supercars! 🚗",
+    "video_id": "l3VHts_tBwg",
+    "imagem": "https://i.ytimg.com/vi/l3VHts_tBwg/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:59:37+00:00",
+  "atualizado": "2026-11-25T08:59:37+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-de-dom-fast-furious",
+  "titulo": "Carro de Dom (Fast & Furious)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "O vídeo afirma que o icônico carro de Dom Toretto de Velozes e Furiosos está disponível gratuitamente no GTA 6, embora não forneça provas concretas ou localização específica no mapa.",
+  "resumo_original": "Dom’s iconic Fast & Furious car has been spotted in GTA 6 — and it’s FREE!",
+  "passos": [
+   "O vídeo não fornece passos ou instruções para a localização do veículo."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo é sensacionalista e não apresenta provas ou a localização real do veículo dentro do jogo, tratando-se provavelmente de clickbait ou especulação.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ze8up9pJnL0",
+    "autor": "CTG Clips",
+    "titulo": "DOM'S CAR IS FREE IN GTA 6! 🔥 Fast & Furious Car Location #gta6",
+    "video_id": "ze8up9pJnL0",
+    "imagem": "https://i.ytimg.com/vi/ze8up9pJnL0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:59:25+00:00",
+  "atualizado": "2026-11-25T08:59:25+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carros-raros-em-leonida",
+  "titulo": "Carros Raros em Leonida",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Vídeo clickbait sobre localizações de veículos supostamente raros ou secretos no mapa de GTA 6.",
+  "resumo_original": "Every RARE Car Location in GTA 6!",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo possui título sensacionalista e não apresenta nenhum conteúdo real, mapa, localização ou gameplay que comprove a existência dos veículos citados ou a veracidade das alegações sobre GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ieB8NrXYiDY",
+    "autor": "RipItRandy GTA",
+    "titulo": "Every RARE Car Location in GTA 6!",
+    "video_id": "ieB8NrXYiDY",
+    "imagem": "https://i.ytimg.com/vi/ieB8NrXYiDY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:59:18+00:00",
+  "atualizado": "2026-11-25T08:59:18+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-pegassi-infernus-96",
+  "titulo": "Pegassi Infernus '96",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Veículo secreto disponível na garagem da delegacia, listado como item para a missão do Randy.",
+  "resumo_original": "Pegassi Infernus '96: police station garage, Crosstown, Vice City (level 7, Randy's list)",
+  "passos": [
+   "Vá até a delegacia em Crosstown",
+   "Acesse a garagem",
+   "Recupere o veículo conforme a lista do Randy"
+  ],
+  "locais": [
+   {
+    "nome": "Delegacia de Polícia",
+    "onde": "Crosstown, Vice City",
+    "detalhe": "Garagem da delegacia"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "N/A",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo baseado em rumores de vídeo estilo 'clickbait'. Não há confirmação oficial sobre a existência deste veículo ou mecânica em GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=jRoAaCIsims",
+    "autor": "Phill GTA 6",
+    "titulo": "5 Secret Cars in GTA 6 and Where to Find Them",
+    "video_id": "jRoAaCIsims",
+    "imagem": "https://i.ytimg.com/vi/jRoAaCIsims/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:58:56+00:00",
+  "atualizado": "2026-11-25T08:58:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-muscle-car-liveria-copperheads",
+  "titulo": "Muscle Car (Liveria Copperheads)",
+  "categoria": "car",
+  "regiao": "Ambrosia",
+  "resumo": "Carro escondido em uma garagem fechada. Pode ser aberto usando a técnica 'Slim Jim' sem precisar de chave.",
+  "resumo_original": "Muscle car (Copperheads livery): closed garage on Reservoir Street, Ambrosia. Slim jim, no key",
+  "passos": [
+   "Vá até a Reservoir Street",
+   "Encontre a garagem fechada",
+   "Utilize a ferramenta Slim Jim para abrir o veículo"
+  ],
+  "locais": [
+   {
+    "nome": "Reservoir Street",
+    "onde": "Ambrosia",
+    "detalhe": "Garagem fechada"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "N/A",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Fonte não oficial e possivelmente especulativa sobre conteúdo do jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=jRoAaCIsims",
+    "autor": "Phill GTA 6",
+    "titulo": "5 Secret Cars in GTA 6 and Where to Find Them",
+    "video_id": "jRoAaCIsims",
+    "imagem": "https://i.ytimg.com/vi/jRoAaCIsims/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:58:56+00:00",
+  "atualizado": "2026-11-25T08:58:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-maibatsu-penumbra-ff",
+  "titulo": "Maibatsu Penumbra FF",
+  "categoria": "car",
+  "regiao": "Leonida Keys",
+  "resumo": "Veículo localizado nas Ilhas Rialto. O carro não possui rastreador instalado.",
+  "resumo_original": "Maibatsu Penumbra FF: Rialto Islands. No tracker",
+  "passos": [
+   "Vá até a região das Ilhas Rialto",
+   "Localize o veículo estacionado"
+  ],
+  "locais": [
+   {
+    "nome": "Ilhas Rialto",
+    "onde": "Leonida Keys",
+    "detalhe": "Região mapeada como Rialto"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "N/A",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Informação extraída de conteúdo especulativo de internet sem confirmação real no jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=jRoAaCIsims",
+    "autor": "Phill GTA 6",
+    "titulo": "5 Secret Cars in GTA 6 and Where to Find Them",
+    "video_id": "jRoAaCIsims",
+    "imagem": "https://i.ytimg.com/vi/jRoAaCIsims/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:58:56+00:00",
+  "atualizado": "2026-11-25T08:58:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-grotti-itali-rsx-armadilha",
+  "titulo": "Grotti Itali RSX (Armadilha)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo armadilha equipado com alarme e rastreador avançado. Causa prejuízo financeiro ao jogador.",
+  "resumo_original": "Grotti Itali RSX: the trap. Alarm + advanced tracker, sells for $16,600, registration $40,650",
+  "passos": [
+   "Evite interagir com este veículo",
+   "Não tente vender, pois o custo de registro supera o valor de venda"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "N/A",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Este vídeo apresenta informações altamente suspeitas e provavelmente falsas sobre a economia do jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=jRoAaCIsims",
+    "autor": "Phill GTA 6",
+    "titulo": "5 Secret Cars in GTA 6 and Where to Find Them",
+    "video_id": "jRoAaCIsims",
+    "imagem": "https://i.ytimg.com/vi/jRoAaCIsims/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:58:56+00:00",
+  "atualizado": "2026-11-25T08:58:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-progen-emerus",
+  "titulo": "Progen Emerus",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Veículo de alto valor localizado em Vespucci Island. Não possui tranca, alarme ou rastreador.",
+  "resumo_original": "Progen Emerus: Neptune Circle, Vespucci Island. Not locked, no alarm, no tracker, sells for $30,000",
+  "passos": [
+   "Dirija-se a Neptune Circle",
+   "Pegue o veículo que está aberto"
+  ],
+  "locais": [
+   {
+    "nome": "Neptune Circle",
+    "onde": "Vespucci Island, Vice City",
+    "detalhe": "Local de spawn do veículo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "N/A",
+  "ganho": 30000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo sensacionalista típico de vídeos de teorias de GTA 6. A veracidade dos dados é duvidosa.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=jRoAaCIsims",
+    "autor": "Phill GTA 6",
+    "titulo": "5 Secret Cars in GTA 6 and Where to Find Them",
+    "video_id": "jRoAaCIsims",
+    "imagem": "https://i.ytimg.com/vi/jRoAaCIsims/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:58:56+00:00",
+  "atualizado": "2026-11-25T08:58:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-esportivo-desconhecido",
+  "titulo": "Carro Esportivo Desconhecido",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo esportivo de luxo na cor azul, exibido em um ambiente de garagem fechada.",
+  "resumo_original": "SECRET RARE Car Locations on GTA 6!",
+  "passos": [
+   "O vídeo não fornece um método de localização ou instruções para obter o veículo."
+  ],
+  "locais": [
+   {
+    "nome": "Garagem desconhecida",
+    "onde": "",
+    "detalhe": "Ambiente interno com iluminação focada."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de redes sociais que não revela localizações específicas, funcionando apenas como demonstração visual de um carro não identificado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=lY55j0_e2SQ",
+    "autor": "Nahv GTA",
+    "titulo": "SECRET RARE Car Locations on GTA 6! #gta6 #gta #gaming #gtavi",
+    "video_id": "lY55j0_e2SQ",
+    "imagem": "https://i.ytimg.com/vi/lY55j0_e2SQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:58:45+00:00",
+  "atualizado": "2026-11-25T08:58:45+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-mitsubishi-eclipse-estilo-paul-walker",
+  "titulo": "Mitsubishi Eclipse (Estilo Paul Walker)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo inspirado no carro de Velozes e Furiosos.",
+  "resumo_original": "Paul Walker's Mitsubishi Eclipse Location",
+  "passos": [
+   "Vá até o local indicado no guia."
+  ],
+  "locais": [
+   {
+    "nome": "Mitsubishi Eclipse",
+    "onde": "",
+    "detalhe": "Localização no vídeo aos 5:03."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0NIez05L0YE",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 9 MUST HAVE Cars You Don't Want to Miss! (FREE Fast & Furious, Super Cars & Drift Cars)",
+    "video_id": "0NIez05L0YE",
+    "imagem": "https://i.ytimg.com/vi/0NIez05L0YE/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eaQnrDX6tKQ",
+    "autor": "HELLOO",
+    "titulo": "Where to Find 7 Rare Cars in GTA 6 | SF90, Urus & More",
+    "video_id": "eaQnrDX6tKQ",
+    "imagem": "https://i.ytimg.com/vi/eaQnrDX6tKQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:56:56+00:00",
+  "atualizado": "2026-11-25T08:57:48+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-ferrari-sf90",
+  "titulo": "Ferrari SF90",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização do supercarro baseado na Ferrari SF90.",
+  "resumo_original": "How to find the SF90 Ferrari.",
+  "passos": [
+   "Assista ao capítulo do vídeo aos 00:05 para encontrar a localização exata."
+  ],
+  "locais": [
+   {
+    "nome": "Localização do SF90",
+    "onde": "Não especificado no texto",
+    "detalhe": "Verificar capítulo 00:05 do vídeo fonte."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "1 minuto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte não descreve os locais no texto, apenas menciona que estão presentes nos capítulos do vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eaQnrDX6tKQ",
+    "autor": "HELLOO",
+    "titulo": "Where to Find 7 Rare Cars in GTA 6 | SF90, Urus & More",
+    "video_id": "eaQnrDX6tKQ",
+    "imagem": "https://i.ytimg.com/vi/eaQnrDX6tKQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:57:48+00:00",
+  "atualizado": "2026-11-25T08:57:48+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-lamborghini-urus-dourada",
+  "titulo": "Lamborghini Urus Dourada",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização da versão dourada do SUV Lamborghini Urus.",
+  "resumo_original": "Golden Lamborghini Urus.",
+  "passos": [
+   "Assista ao capítulo do vídeo aos 01:00 para encontrar a localização."
+  ],
+  "locais": [
+   {
+    "nome": "Localização da Urus Dourada",
+    "onde": "Não especificado no texto",
+    "detalhe": "Verificar capítulo 01:00 do vídeo fonte."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "1 minuto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte não descreve os locais no texto, apenas menciona que estão presentes nos capítulos do vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eaQnrDX6tKQ",
+    "autor": "HELLOO",
+    "titulo": "Where to Find 7 Rare Cars in GTA 6 | SF90, Urus & More",
+    "video_id": "eaQnrDX6tKQ",
+    "imagem": "https://i.ytimg.com/vi/eaQnrDX6tKQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:57:48+00:00",
+  "atualizado": "2026-11-25T08:57:48+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-dodge-challenger",
+  "titulo": "Dodge Challenger",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização do muscle car baseado no Dodge Challenger.",
+  "resumo_original": "Dodge Challenger.",
+  "passos": [
+   "Assista ao capítulo do vídeo aos 02:13 para encontrar a localização."
+  ],
+  "locais": [
+   {
+    "nome": "Localização do Challenger",
+    "onde": "Não especificado no texto",
+    "detalhe": "Verificar capítulo 02:13 do vídeo fonte."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "1 minuto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte não descreve os locais no texto, apenas menciona que estão presentes nos capítulos do vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eaQnrDX6tKQ",
+    "autor": "HELLOO",
+    "titulo": "Where to Find 7 Rare Cars in GTA 6 | SF90, Urus & More",
+    "video_id": "eaQnrDX6tKQ",
+    "imagem": "https://i.ytimg.com/vi/eaQnrDX6tKQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:57:48+00:00",
+  "atualizado": "2026-11-25T08:57:48+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-mclaren-senna",
+  "titulo": "McLaren Senna",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização do supercarro baseado na McLaren Senna.",
+  "resumo_original": "Macleren Sena.",
+  "passos": [
+   "Assista ao capítulo do vídeo aos 02:56 para encontrar a localização."
+  ],
+  "locais": [
+   {
+    "nome": "Localização da McLaren Senna",
+    "onde": "Não especificado no texto",
+    "detalhe": "Verificar capítulo 02:56 do vídeo fonte."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "1 minuto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte não descreve os locais no texto, apenas menciona que estão presentes nos capítulos do vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eaQnrDX6tKQ",
+    "autor": "HELLOO",
+    "titulo": "Where to Find 7 Rare Cars in GTA 6 | SF90, Urus & More",
+    "video_id": "eaQnrDX6tKQ",
+    "imagem": "https://i.ytimg.com/vi/eaQnrDX6tKQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:57:48+00:00",
+  "atualizado": "2026-11-25T08:57:48+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-bentley-continental-cromado",
+  "titulo": "Bentley Continental Cromado",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização da versão cromada do Bentley Continental.",
+  "resumo_original": "Chrome Plate Bentley Continental.",
+  "passos": [
+   "Assista ao capítulo do vídeo aos 03:25 para encontrar a localização."
+  ],
+  "locais": [
+   {
+    "nome": "Localização do Bentley Cromado",
+    "onde": "Não especificado no texto",
+    "detalhe": "Verificar capítulo 03:25 do vídeo fonte."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "1 minuto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte não descreve os locais no texto, apenas menciona que estão presentes nos capítulos do vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eaQnrDX6tKQ",
+    "autor": "HELLOO",
+    "titulo": "Where to Find 7 Rare Cars in GTA 6 | SF90, Urus & More",
+    "video_id": "eaQnrDX6tKQ",
+    "imagem": "https://i.ytimg.com/vi/eaQnrDX6tKQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:57:48+00:00",
+  "atualizado": "2026-11-25T08:57:48+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-pegassi-vitello",
+  "titulo": "Pegassi Vitello",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Supercarro raro inspirado em uma Lamborghini, localizado dentro de uma garagem.",
+  "resumo_original": "Secret Lamborghini-inspired supercar hidden inside a garage.",
+  "passos": [
+   "Vá até a localização indicada no minimapa do vídeo para encontrar a garagem."
+  ],
+  "locais": [
+   {
+    "nome": "Garagem desconhecida",
+    "onde": "Não especificado",
+    "detalhe": "O vídeo aponta apenas uma garagem genérica como local de spawn."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata-se de conteúdo especulativo ou clickbait. O GTA VI ainda não foi lançado e não há confirmação da existência deste veículo ou desta localização no jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tHpm9c7Brww",
+    "autor": "KingAlexHD",
+    "titulo": "How To Get SECRET LAMBORGHINI Pegassi Vitello in GTA 6! (RARE CAR LOCATION)",
+    "video_id": "tHpm9c7Brww",
+    "imagem": "https://i.ytimg.com/vi/tHpm9c7Brww/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:57:26+00:00",
+  "atualizado": "2026-11-25T08:57:26+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-annis-elegy-90-nissan-skyline",
+  "titulo": "Annis Elegy '90 (Nissan Skyline)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo esportivo japonês icônico.",
+  "resumo_original": "Nissan Skyline - '90 Annis Elegy Location",
+  "passos": [
+   "Vá até a localização indicada no vídeo para encontrar o veículo."
+  ],
+  "locais": [
+   {
+    "nome": "Annis Elegy '90",
+    "onde": "",
+    "detalhe": "Localização específica mostrada no vídeo aos 1:13."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sobre GTA 6, que ainda não foi lançado. O conteúdo é especulativo ou baseado em mods/clickbait.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0NIez05L0YE",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 9 MUST HAVE Cars You Don't Want to Miss! (FREE Fast & Furious, Super Cars & Drift Cars)",
+    "video_id": "0NIez05L0YE",
+    "imagem": "https://i.ytimg.com/vi/0NIez05L0YE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:56:56+00:00",
+  "atualizado": "2026-11-25T08:56:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-drifter-elegy",
+  "titulo": "Drifter Elegy",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Carro de drift escondido.",
+  "resumo_original": "Secret Drifter Elegy Location",
+  "passos": [
+   "Vá até o local secreto indicado."
+  ],
+  "locais": [
+   {
+    "nome": "Drifter Elegy",
+    "onde": "",
+    "detalhe": "Localização no vídeo aos 2:43."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0NIez05L0YE",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 9 MUST HAVE Cars You Don't Want to Miss! (FREE Fast & Furious, Super Cars & Drift Cars)",
+    "video_id": "0NIez05L0YE",
+    "imagem": "https://i.ytimg.com/vi/0NIez05L0YE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:56:56+00:00",
+  "atualizado": "2026-11-25T08:56:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-imponte-turbo-ruiner",
+  "titulo": "Imponte Turbo Ruiner",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Carro que já vem equipado com NOS.",
+  "resumo_original": "Imponte Turbo Ruiner - Easy NOS Car",
+  "passos": [
+   "Localize o veículo para obter o carro com NOS já instalado."
+  ],
+  "locais": [
+   {
+    "nome": "Imponte Turbo Ruiner",
+    "onde": "",
+    "detalhe": "Localização no vídeo aos 4:12."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0NIez05L0YE",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 9 MUST HAVE Cars You Don't Want to Miss! (FREE Fast & Furious, Super Cars & Drift Cars)",
+    "video_id": "0NIez05L0YE",
+    "imagem": "https://i.ytimg.com/vi/0NIez05L0YE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:56:56+00:00",
+  "atualizado": "2026-11-25T08:56:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-progen-royal-ruby-emerus",
+  "titulo": "Progen Royal Ruby Emerus",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Hipercarro gratuito.",
+  "resumo_original": "Progen Royal Ruby Emerus - Free Hypercar",
+  "passos": [
+   "Encontre o hipercarro no local indicado."
+  ],
+  "locais": [
+   {
+    "nome": "Progen Royal Ruby Emerus",
+    "onde": "",
+    "detalhe": "Localização no vídeo aos 6:08."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0NIez05L0YE",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 9 MUST HAVE Cars You Don't Want to Miss! (FREE Fast & Furious, Super Cars & Drift Cars)",
+    "video_id": "0NIez05L0YE",
+    "imagem": "https://i.ytimg.com/vi/0NIez05L0YE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:56:56+00:00",
+  "atualizado": "2026-11-25T08:56:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-progen-purple-drank-emerus",
+  "titulo": "Progen Purple Drank Emerus",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Versão do Emerus equipada com NOS.",
+  "resumo_original": "Progen Purple Drank Emerus with NOS",
+  "passos": [
+   "Vá até o local indicado."
+  ],
+  "locais": [
+   {
+    "nome": "Progen Purple Drank Emerus",
+    "onde": "",
+    "detalhe": "Localização no vídeo aos 7:14."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0NIez05L0YE",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 9 MUST HAVE Cars You Don't Want to Miss! (FREE Fast & Furious, Super Cars & Drift Cars)",
+    "video_id": "0NIez05L0YE",
+    "imagem": "https://i.ytimg.com/vi/0NIez05L0YE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:56:56+00:00",
+  "atualizado": "2026-11-25T08:56:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-anarchist-dominator",
+  "titulo": "Anarchist Dominator",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Muscle car customizado.",
+  "resumo_original": "Anarchist Dominator –-Custom Muscle Car",
+  "passos": [
+   "Vá até o local indicado."
+  ],
+  "locais": [
+   {
+    "nome": "Anarchist Dominator",
+    "onde": "",
+    "detalhe": "Localização no vídeo aos 7:52."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0NIez05L0YE",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 9 MUST HAVE Cars You Don't Want to Miss! (FREE Fast & Furious, Super Cars & Drift Cars)",
+    "video_id": "0NIez05L0YE",
+    "imagem": "https://i.ytimg.com/vi/0NIez05L0YE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:56:56+00:00",
+  "atualizado": "2026-11-25T08:56:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-smuggler-caracara",
+  "titulo": "Smuggler Caracara",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Caminhonete off-road.",
+  "resumo_original": "Smuggler Caracara - Off-Road Truck",
+  "passos": [
+   "Vá até o local indicado."
+  ],
+  "locais": [
+   {
+    "nome": "Smuggler Caracara",
+    "onde": "",
+    "detalhe": "Localização no vídeo aos 8:37."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0NIez05L0YE",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 9 MUST HAVE Cars You Don't Want to Miss! (FREE Fast & Furious, Super Cars & Drift Cars)",
+    "video_id": "0NIez05L0YE",
+    "imagem": "https://i.ytimg.com/vi/0NIez05L0YE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:56:56+00:00",
+  "atualizado": "2026-11-25T08:56:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-localizacao-de-carros-raros",
+  "titulo": "Localização de Carros Raros",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Guia visual para localizar veículos raros e secretos espalhados pelo mapa de Mariana County.",
+  "resumo_original": "How to find and get rare vehicles, hidden cars, and special vehicle locations throughout Grand Theft Auto 6.",
+  "passos": [
+   "Siga os marcadores indicados no mapa fornecido no vídeo para encontrar os veículos raros."
+  ],
+  "locais": [
+   {
+    "nome": "Mariana County",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Diversos pontos de spawn de veículos marcados com ícones de carro na imagem."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza imagens de um mapa não oficial ou editado, e GTA VI ainda não foi lançado. O conteúdo é especulativo ou baseado em mods/clickbait.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pPQWH2ELkgc",
+    "autor": "KingAlexHD",
+    "titulo": "How to Find & Get ALL SECRET RARE CARS in GTA 6! (Rare Vehicle Locations)",
+    "video_id": "pPQWH2ELkgc",
+    "imagem": "https://i.ytimg.com/vi/pPQWH2ELkgc/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=8Ost1vByu3s",
+    "autor": "Nerpah",
+    "titulo": "*ALL* 22 RARE CAR LOCATIONS in GTA 6 - Unlock Fastest Cars (Free Car Locations)",
+    "video_id": "8Ost1vByu3s",
+    "imagem": "https://i.ytimg.com/vi/8Ost1vByu3s/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:38:31+00:00",
+  "atualizado": "2026-11-25T08:56:21+00:00",
+  "status": "aguardando"
  },
  {
   "id": "heist-assalto-ao-aeroporto-internacional",
@@ -179,37 +1756,6 @@
   ],
   "criado": "2026-11-25T04:59:00+00:00",
   "atualizado": "2026-11-25T04:59:00+00:00",
-  "status": "retido"
- },
- {
-  "id": "farm-glitch-da-van-dinheiro-infinito",
-  "titulo": "Glitch da Van (Dinheiro Infinito)",
-  "categoria": "farm",
-  "regiao": "",
-  "resumo": "Método de exploração de falhas (glitch) para obter dinheiro infinito no jogo.",
-  "resumo_original": "Aprenda o método atualizado para fazer o glitch de dinheiro infinito (Glitch da Van) no GTA 6",
-  "passos": [
-   "Assista ao vídeo para visualizar o passo a passo demonstrado pelo autor."
-  ],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é clickbait e o jogo GTA 6 ainda não foi lançado. O autor utiliza imagens genéricas para atrair cliques, prometendo um glitch para um título inexistente.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=WqmAYhFueNc",
-    "autor": "Bosco Play",
-    "titulo": "(ATUALIZADO) GLITCH de DINHEIRO INFINITO no GTA 6",
-    "video_id": "WqmAYhFueNc",
-    "imagem": "https://i.ytimg.com/vi/WqmAYhFueNc/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-25T04:58:56+00:00",
-  "atualizado": "2026-11-25T04:58:56+00:00",
   "status": "retido"
  },
  {
@@ -2493,39 +4039,6 @@
   "status": "retido"
  },
  {
-  "id": "heist-roubo-de-lojas",
-  "titulo": "Roubo de lojas",
-  "categoria": "heist",
-  "regiao": "",
-  "resumo": "Método para realizar roubos em lojas, limpar imagens de câmeras e escapar sem nível de procurado.",
-  "resumo_original": "How to rob stores like a pro in GTA 6.",
-  "passos": [
-   "Mire nos caixas da loja para forçar a abertura dos registros",
-   "Limpe as imagens das câmeras de segurança",
-   "Fuja sem gerar nível de procurado (0 estrelas)"
-  ],
-  "locais": [],
-  "dificuldade": 2,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é um conteúdo especulativo ou de paródia/previsão (clickbait), dado que o jogo GTA 6 ainda não foi lançado. O conteúdo não apresenta gameplay real ou comprovado de mecânicas do jogo.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=unS0Gyt6Yek",
-    "autor": "Bentekkers",
-    "titulo": "How to Rob Stores Like a Pro in GTA 6 💰",
-    "video_id": "unS0Gyt6Yek",
-    "imagem": "https://i.ytimg.com/vi/unS0Gyt6Yek/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-24T08:58:51+00:00",
-  "atualizado": "2026-11-24T08:58:51+00:00",
-  "status": "retido"
- },
- {
   "id": "gun-assassin-nipper-38-pistola-com-silenciador",
   "titulo": "Assassin Nipper .38 (Pistola com Silenciador)",
   "categoria": "gun",
@@ -3404,35 +4917,6 @@
   ],
   "criado": "2026-11-24T08:54:49+00:00",
   "atualizado": "2026-11-24T08:54:49+00:00",
-  "status": "retido"
- },
- {
-  "id": "farm-metodo-de-dinheiro-infinito",
-  "titulo": "Método de dinheiro infinito",
-  "categoria": "farm",
-  "regiao": "",
-  "resumo": "Vídeo alega apresentar um método para obter dinheiro ilimitado em qualquer capítulo da campanha, utilizando Jason e Lucia.",
-  "resumo_original": "Novo método para ganhar dinheiro infinito no GTA 6",
-  "passos": [],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é um conteúdo genérico de clickbait que não apresenta provas visuais, locais específicos ou qualquer passo a passo real. Trata-se de uma estratégia de SEO para atrair cliques sem oferecer informações concretas sobre o jogo.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=mU9LMz_UBL8",
-    "autor": "GameSnooK",
-    "titulo": "Novo Método pra ficar Milionario no GTA 6 - Qualquer Capitulo - Dinheiro infinito no GTA 6",
-    "video_id": "mU9LMz_UBL8",
-    "imagem": "https://i.ytimg.com/vi/mU9LMz_UBL8/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-24T04:57:43+00:00",
-  "atualizado": "2026-11-24T04:57:43+00:00",
   "status": "retido"
  },
  {
@@ -10882,43 +12366,6 @@
   ],
   "criado": "2026-11-23T02:38:33+00:00",
   "atualizado": "2026-11-23T02:38:33+00:00",
-  "status": "retido"
- },
- {
-  "id": "car-localizacao-de-carros-raros",
-  "titulo": "Localização de Carros Raros",
-  "categoria": "car",
-  "regiao": "",
-  "resumo": "Guia visual para localizar veículos raros e secretos espalhados pelo mapa de Mariana County.",
-  "resumo_original": "How to find and get rare vehicles, hidden cars, and special vehicle locations throughout Grand Theft Auto 6.",
-  "passos": [
-   "Siga os marcadores indicados no mapa fornecido no vídeo para encontrar os veículos raros."
-  ],
-  "locais": [
-   {
-    "nome": "Mariana County",
-    "onde": "Mapa de Leonida",
-    "detalhe": "Diversos pontos de spawn de veículos marcados com ícones de carro na imagem."
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo utiliza imagens de um mapa não oficial ou editado, e GTA VI ainda não foi lançado. O conteúdo é especulativo ou baseado em mods/clickbait.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=pPQWH2ELkgc",
-    "autor": "KingAlexHD",
-    "titulo": "How to Find & Get ALL SECRET RARE CARS in GTA 6! (Rare Vehicle Locations)",
-    "video_id": "pPQWH2ELkgc",
-    "imagem": "https://i.ytimg.com/vi/pPQWH2ELkgc/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:38:31+00:00",
-  "atualizado": "2026-11-23T02:38:31+00:00",
   "status": "retido"
  },
  {
