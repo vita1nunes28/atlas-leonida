@@ -35,7 +35,7 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-25T09:03:22+00:00",
+  "atualizado": "2026-11-25T13:05:13+00:00",
   "status": "retido"
  },
  {
@@ -74,7 +74,797 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-25T09:03:22+00:00",
+  "atualizado": "2026-11-25T13:05:13+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-aeroporto-internacional-de-vice-city",
+  "titulo": "Assalto ao Aeroporto Internacional de Vice City",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo planejado contra a organização criminosa de Kordell Grant, infiltrando-se nas operações do aeroporto.",
+  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant, whose operations involve Vice City International Airport.",
+  "passos": [
+   "Infiltrar-se na organização de Kordell Grant",
+   "Coletar informações sobre a segurança",
+   "Executar o assalto no aeroporto"
+  ],
+  "locais": [
+   {
+    "nome": "Vice City International Airport",
+    "onde": "Vice City",
+    "detalhe": "Base de operações de Kordell Grant"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Capítulo 4",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-25T13:05:13+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-delights",
+  "titulo": "Assalto ao Delights",
+  "categoria": "heist",
+  "regiao": "Port Gellhorn",
+  "resumo": "Roubo realizado pela dupla com a ajuda de Vicki, uma dançarina do local.",
+  "resumo_original": "Jason and Lucia begin carrying out robberies across Kelly County, eventually helping Vicki rob Delights.",
+  "passos": [
+   "Conheça Vicki em Delights",
+   "Planeje o roubo",
+   "Execute a ação"
+  ],
+  "locais": [
+   {
+    "nome": "Delights",
+    "onde": "Port Gellhorn",
+    "detalhe": "Clube onde Vicki trabalha"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Capítulo 2",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T13:05:13+00:00",
+  "atualizado": "2026-11-25T13:05:13+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-aquisicao-de-armas",
+  "titulo": "Aquisição de Armas",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Armas podem ser adquiridas em lojas espalhadas por Leonida ou obtidas através de missões e exploração.",
+  "resumo_original": "Weapons can be purchased from various stores across Leonida, while others are obtained through missions, exploration or other activities.",
+  "passos": [
+   "Visite lojas de armas em Leonida para compras gerais.",
+   "Complete missões ou explore o mapa para encontrar itens exclusivos.",
+   "Fique atento a armas de corpo a corpo específicas, como o martelo, que podem ser exclusivas de certas missões."
+  ],
+  "locais": [
+   {
+    "nome": "Lojas de armas",
+    "onde": "Leonida",
+    "detalhe": "Disponíveis em vários pontos do estado."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T13:05:03+00:00",
+  "atualizado": "2026-11-25T13:05:03+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-variantes-de-armas-exclusivas",
+  "titulo": "Variantes de Armas Exclusivas",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Versões únicas de armas existentes podem ser obtidas em revendedores específicos ou através de edições especiais do jogo.",
+  "resumo_original": "Certain weapons in Grand Theft Auto VI have unique variants available through specific weapon retailers or editions of the game.",
+  "passos": [
+   "Verifique o inventário de revendedores específicos.",
+   "Confira os benefícios da Ultimate Edition para liberar aparências e acessórios exclusivos."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T13:05:03+00:00",
+  "atualizado": "2026-11-25T13:05:03+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-vapid-stanier-1955",
+  "titulo": "Vapid Stanier 1955",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um sedan clássico de duas portas inspirado em veículos americanos dos anos 50, visto estacionado em hotéis.",
+  "resumo_original": "A 1955 Vapid Stanier in the first trailer for Grand Theft Auto VI.",
+  "passos": [
+   "Vá até a área de Vice Beach.",
+   "Procure pelo hotel Boardwalk Hotel na Ocean Drive."
+  ],
+  "locais": [
+   {
+    "nome": "Boardwalk Hotel",
+    "onde": "Vice Beach",
+    "detalhe": "Estacionado do lado de fora do hotel, na Ocean Drive."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_1955_Ford-inspired_car",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI 1955 Ford-inspired car",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T13:04:56+00:00",
+  "atualizado": "2026-11-25T13:04:56+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-cofre-no-hipodromo-abandonado",
+  "titulo": "Cofre no Hipódromo Abandonado",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Localize um cofre enterrado contendo 2,2 milhões em Kelly County.",
+  "resumo_original": "Buried safe at the abandoned racetrack in Kelly County.",
+  "passos": [
+   "Vá até o Hipódromo Abandonado (Abandoned Racetrack) em Kelly County.",
+   "Procure pelo cofre enterrado no local."
+  ],
+  "locais": [
+   {
+    "nome": "Hipódromo Abandonado",
+    "onde": "Kelly County",
+    "detalhe": "Ponto exato indicado no mapa"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "não informado",
+  "ganho": 2200000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona explicitamente que se trata de rumores da comunidade sobre locais e valores.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Pae-nCJK22Q",
+    "autor": "play.gtasix | GTA 6 Tips & News",
+    "titulo": "GTA 6 Hidden Loot Spots 💰 $30M on the Map (Part 2)",
+    "video_id": "Pae-nCJK22Q",
+    "imagem": "https://i.ytimg.com/vi/Pae-nCJK22Q/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:04:44+00:00",
+  "atualizado": "2026-11-25T13:04:44+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-bunker-enterrado",
+  "titulo": "Bunker Enterrado",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Um bunker enterrado contendo itens de valor em Lummox County.",
+  "resumo_original": "A buried bunker in Lummox County.",
+  "passos": [
+   "Dirija-se a Lummox County para localizar o bunker enterrado."
+  ],
+  "locais": [
+   {
+    "nome": "Bunker",
+    "onde": "Lummox County",
+    "detalhe": "Enterrado no solo"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "não informado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona explicitamente que se trata de rumores da comunidade.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Pae-nCJK22Q",
+    "autor": "play.gtasix | GTA 6 Tips & News",
+    "titulo": "GTA 6 Hidden Loot Spots 💰 $30M on the Map (Part 2)",
+    "video_id": "Pae-nCJK22Q",
+    "imagem": "https://i.ytimg.com/vi/Pae-nCJK22Q/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:04:44+00:00",
+  "atualizado": "2026-11-25T13:04:44+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-iate-afundado",
+  "titulo": "Iate Afundado",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Iate submerso localizado na costa atlântica.",
+  "resumo_original": "A sunken yacht off the Atlantic coast.",
+  "passos": [
+   "Navegue pela costa atlântica para encontrar o iate naufragado."
+  ],
+  "locais": [
+   {
+    "nome": "Iate",
+    "onde": "Costa Atlântica",
+    "detalhe": "Submerso"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "não informado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona explicitamente que se trata de rumores da comunidade.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Pae-nCJK22Q",
+    "autor": "play.gtasix | GTA 6 Tips & News",
+    "titulo": "GTA 6 Hidden Loot Spots 💰 $30M on the Map (Part 2)",
+    "video_id": "Pae-nCJK22Q",
+    "imagem": "https://i.ytimg.com/vi/Pae-nCJK22Q/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:04:44+00:00",
+  "atualizado": "2026-11-25T13:04:44+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-hangar-13-no-vcia",
+  "titulo": "Hangar 13 no VCIA",
+  "categoria": "col",
+  "regiao": "Vice City",
+  "resumo": "Local de saque no Hangar 13 localizado no VCIA.",
+  "resumo_original": "Hangar 13 at VCIA.",
+  "passos": [
+   "Vá até o aeroporto (VCIA) e procure pelo Hangar 13."
+  ],
+  "locais": [
+   {
+    "nome": "Hangar 13",
+    "onde": "VCIA",
+    "detalhe": "Dentro da área do aeroporto"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "não informado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona explicitamente que se trata de rumores da comunidade.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Pae-nCJK22Q",
+    "autor": "play.gtasix | GTA 6 Tips & News",
+    "titulo": "GTA 6 Hidden Loot Spots 💰 $30M on the Map (Part 2)",
+    "video_id": "Pae-nCJK22Q",
+    "imagem": "https://i.ytimg.com/vi/Pae-nCJK22Q/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:04:44+00:00",
+  "atualizado": "2026-11-25T13:04:44+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-cofre-da-ilha-privada",
+  "titulo": "Cofre da Ilha Privada",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Um cofre localizado em uma ilha privada no Golfo de Leonida.",
+  "resumo_original": "A private island vault in the Gulf of Leonida.",
+  "passos": [
+   "Vá até a ilha privada no Golfo de Leonida para encontrar o cofre."
+  ],
+  "locais": [
+   {
+    "nome": "Ilha Privada",
+    "onde": "Golfo de Leonida",
+    "detalhe": "Contém um cofre"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "não informado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona explicitamente que se trata de rumores da comunidade.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Pae-nCJK22Q",
+    "autor": "play.gtasix | GTA 6 Tips & News",
+    "titulo": "GTA 6 Hidden Loot Spots 💰 $30M on the Map (Part 2)",
+    "video_id": "Pae-nCJK22Q",
+    "imagem": "https://i.ytimg.com/vi/Pae-nCJK22Q/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:04:44+00:00",
+  "atualizado": "2026-11-25T13:04:44+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-localizacao-de-sniper-lendaria",
+  "titulo": "Localização de Sniper Lendária",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Vídeo alega mostrar a localização de uma sniper lendária em uma área de serviço interna.",
+  "resumo_original": "Legendary Sniper Secret Location in GTA 6",
+  "passos": [
+   "Vá até o cômodo de serviço com lavanderia."
+  ],
+  "locais": [
+   {
+    "nome": "Cômodo de serviço",
+    "onde": "Interior de um prédio",
+    "detalhe": "Perto de uma máquina de lavar e prateleiras com toalhas e papel higiênico."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de redes sociais sem prova concreta de que o jogo é GTA 6 ou que tal item existe. O GTA 6 ainda não foi lançado para jogadores, tornando qualquer alegação de 'localização secreta' falsa ou baseada em mods/outros jogos.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=F0WDe3zRF60",
+    "autor": "IAMSR7 GAMING",
+    "titulo": "Legendary Sniper Secret Location in GTA 6 😮🔥| #shorts #gta6",
+    "video_id": "F0WDe3zRF60",
+    "imagem": "https://i.ytimg.com/vi/F0WDe3zRF60/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:04:35+00:00",
+  "atualizado": "2026-11-25T13:04:35+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-supercarro-secreto-em-estacionamento",
+  "titulo": "Supercarro Secreto em Estacionamento",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização de um supercarro customizado em um estacionamento subterrâneo.",
+  "resumo_original": "Secret location to this super car in GTA 6",
+  "passos": [
+   "Vá até o estacionamento subterrâneo mostrado no vídeo.",
+   "O carro estará estacionado em uma das vagas demarcadas."
+  ],
+  "locais": [
+   {
+    "nome": "Estacionamento Subterrâneo",
+    "onde": "Leonida",
+    "detalhe": "Local fechado com iluminação artificial, conforme visto no vídeo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "1 minuto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo curto (short) genérico que não apresenta o mapa, coordenadas ou provas de que o local pertence ao mapa do GTA 6, podendo tratar-se de mods ou de outro jogo da série.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=l6Xh-cNQttw",
+    "autor": "Kilogram",
+    "titulo": "SECRET LOCATION TO THIS SUPER CAR IN GTA 6 #gta6 #gtavi #shorts",
+    "video_id": "l6Xh-cNQttw",
+    "imagem": "https://i.ytimg.com/vi/l6Xh-cNQttw/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:04:16+00:00",
+  "atualizado": "2026-11-25T13:04:16+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-sniper-sm-69",
+  "titulo": "Sniper SM-69",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma sniper encontrada em uma varanda de prédio próximo à casa do Jason.",
+  "resumo_original": "Secret Sniper & Cash Location Near Jason's House",
+  "passos": [
+   "Vá até a varanda do prédio indicado na imagem.",
+   "Colete a sniper SM-69 apoiada no parapeito."
+  ],
+  "locais": [
+   {
+    "nome": "Prédio residencial",
+    "onde": "Próximo à casa do Jason",
+    "detalhe": "Na varanda de um andar elevado"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "1 minuto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo não mostra o mapa ou a localização exata, apenas uma cena curta dentro de um ambiente genérico. A veracidade do local em relação ao jogo final não é confirmável.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=uNS3rpU0-Pg",
+    "autor": "Sunylgamer",
+    "titulo": "GTA 6 Secret Sniper & Cash Location Near Jason's House! 🤯🔥 #shorts #gta6",
+    "video_id": "uNS3rpU0-Pg",
+    "imagem": "https://i.ytimg.com/vi/uNS3rpU0-Pg/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:03:44+00:00",
+  "atualizado": "2026-11-25T13:03:44+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colecionavel-de-cigarros",
+  "titulo": "Colecionável de Cigarros",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Pacote de cigarros encontrado na mesma varanda que a sniper.",
+  "resumo_original": "Secret Sniper & Cash Location Near Jason's House",
+  "passos": [
+   "Vá até a varanda do prédio.",
+   "Pegue o item de cigarros sobre o parapeito."
+  ],
+  "locais": [
+   {
+    "nome": "Prédio residencial",
+    "onde": "Próximo à casa do Jason",
+    "detalhe": "Na varanda de um andar elevado"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "1 minuto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo não mostra o mapa ou a localização exata. A veracidade do local em relação ao jogo final não é confirmável.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=uNS3rpU0-Pg",
+    "autor": "Sunylgamer",
+    "titulo": "GTA 6 Secret Sniper & Cash Location Near Jason's House! 🤯🔥 #shorts #gta6",
+    "video_id": "uNS3rpU0-Pg",
+    "imagem": "https://i.ytimg.com/vi/uNS3rpU0-Pg/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:03:44+00:00",
+  "atualizado": "2026-11-25T13:03:44+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-avistamento-de-ufo",
+  "titulo": "Avistamento de UFO",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Um UFO pode ser avistado e visto levantando um NPC.",
+  "resumo_original": "UFO sighting and UFO beam lifting an NPC",
+  "passos": [
+   "Vá até o local do avistamento",
+   "Observe o feixe do UFO levantando um NPC"
+  ],
+  "locais": [
+   {
+    "nome": "Desconhecido",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localização exata não especificada nos links"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza links de redes sociais para sustentar a alegação, o que pode ser apenas montagem ou conteúdo especulativo de fãs, não garantindo a veracidade no jogo final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5-OQPwar3oQ",
+    "autor": "The GTA Assassin",
+    "titulo": "Plane Crash, UFOs, & Michael References | 15 HIDDEN Details You Missed in GTA 6 😱",
+    "video_id": "5-OQPwar3oQ",
+    "imagem": "https://i.ytimg.com/vi/5-OQPwar3oQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:03:36+00:00",
+  "atualizado": "2026-11-25T13:03:36+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-easter-egg-da-torre",
+  "titulo": "Easter Egg da Torre",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "É possível arremessar um item de Easter Egg do topo da torre mais alta.",
+  "resumo_original": "Throwing the Easter egg off the tallest tower",
+  "passos": [
+   "Suba na torre mais alta",
+   "Arremesse o item coletável"
+  ],
+  "locais": [
+   {
+    "nome": "Torre mais alta",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localização não especificada"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo baseado em link externo de rede social, possivelmente especulativo ou modificado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5-OQPwar3oQ",
+    "autor": "The GTA Assassin",
+    "titulo": "Plane Crash, UFOs, & Michael References | 15 HIDDEN Details You Missed in GTA 6 😱",
+    "video_id": "5-OQPwar3oQ",
+    "imagem": "https://i.ytimg.com/vi/5-OQPwar3oQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:03:36+00:00",
+  "atualizado": "2026-11-25T13:03:36+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-abducao-alienigena-em-port-gellhorn",
+  "titulo": "Abdução Alienígena em Port Gellhorn",
+  "categoria": "col",
+  "regiao": "Port Gellhorn",
+  "resumo": "Um evento de abdução alienígena que pode ser presenciado na região.",
+  "resumo_original": "UFO abduction in Port Gellhorn.",
+  "passos": [
+   "Vá até a região de Port Gellhorn.",
+   "Explore a área em busca do evento de abdução."
+  ],
+  "locais": [
+   {
+    "nome": "Port Gellhorn",
+    "onde": "Port Gellhorn",
+    "detalhe": "Local da abdução alienígena."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona o evento como um easter egg, mas não fornece localização exata, coordenadas ou método de ativação.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=bCKm934JnY0",
+    "autor": "ZacCoxTV",
+    "titulo": "50 GTA 6 Easter Eggs & Secrets!",
+    "video_id": "bCKm934JnY0",
+    "imagem": "https://i.ytimg.com/vi/bCKm934JnY0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:03:27+00:00",
+  "atualizado": "2026-11-25T13:03:27+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-skunk-ape-de-grassrivers",
+  "titulo": "Skunk Ape de Grassrivers",
+  "categoria": "col",
+  "regiao": "Grassrivers",
+  "resumo": "Um mistério local envolvendo a criatura conhecida como Skunk Ape.",
+  "resumo_original": "Grassrivers Skunk Ape.",
+  "passos": [
+   "Explore a região de Grassrivers.",
+   "Fique atento a sinais ou aparições da criatura."
+  ],
+  "locais": [
+   {
+    "nome": "Grassrivers",
+    "onde": "Grassrivers",
+    "detalhe": "Área onde o Skunk Ape pode ser encontrado."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo cita a existência, mas não fornece detalhes de como encontrar ou interagir com o mistério.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=bCKm934JnY0",
+    "autor": "ZacCoxTV",
+    "titulo": "50 GTA 6 Easter Eggs & Secrets!",
+    "video_id": "bCKm934JnY0",
+    "imagem": "https://i.ytimg.com/vi/bCKm934JnY0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:03:27+00:00",
+  "atualizado": "2026-11-25T13:03:27+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-cratera-de-meteoro-e-formacao-rochosa",
+  "titulo": "Cratera de Meteoro e Formação Rochosa",
+  "categoria": "col",
+  "regiao": "Mount Kalaga",
+  "resumo": "Locais de interesse geológico que escondem segredos no Monte Kalaga.",
+  "resumo_original": "Meteor crater and strange rock formation on Mount Kalaga.",
+  "passos": [
+   "Suba o Mount Kalaga.",
+   "Procure pela cratera de meteoro e pela formação rochosa estranha."
+  ],
+  "locais": [
+   {
+    "nome": "Mount Kalaga",
+    "onde": "Mount Kalaga",
+    "detalhe": "Localização da cratera e das rochas."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Não há descrição visual precisa ou coordenadas para encontrar esses pontos específicos no mapa.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=bCKm934JnY0",
+    "autor": "ZacCoxTV",
+    "titulo": "50 GTA 6 Easter Eggs & Secrets!",
+    "video_id": "bCKm934JnY0",
+    "imagem": "https://i.ytimg.com/vi/bCKm934JnY0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:03:27+00:00",
+  "atualizado": "2026-11-25T13:03:27+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-esconderijo-de-10-000-e-smg-lendaria",
+  "titulo": "Esconderijo de $10.000 e SMG Lendária",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Localização secreta acessível logo no início do jogo para obter uma grande quantia em dinheiro e uma arma rara.",
+  "resumo_original": "Secret location to get over $10,000 and a legendary SMG at the start of the game.",
+  "passos": [
+   "Vá até a localização secreta indicada no mapa."
+  ],
+  "locais": [
+   {
+    "nome": "Localização Secreta",
+    "onde": "",
+    "detalhe": "O vídeo não especifica a coordenada ou região exata no mapa de Leonida."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Rápido",
+  "ganho": 10000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista e não fornece imagens reais do local ou método, tratando-se provavelmente de conteúdo especulativo ou clickbait sobre GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WyXWyMt2ZHA",
+    "autor": "BorderLines",
+    "titulo": "Get $10,000 AND a LEGENDARY SMG in GTA 6! (Secret Location)",
+    "video_id": "WyXWyMt2ZHA",
+    "imagem": "https://i.ytimg.com/vi/WyXWyMt2ZHA/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:03:18+00:00",
+  "atualizado": "2026-11-25T13:03:18+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-recompensa-secreto-de-moses",
+  "titulo": "Carro Recompensa Secreto de Moses",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Obtenha o carro Sultan secreto após realizar os pedidos de veículos feitos por Moses via mensagem de texto.",
+  "resumo_original": "Get Moses’s SECRET reward Sultan car by fulfilling his vehicle requests.",
+  "passos": [
+   "Aguarde o recebimento de mensagens de texto de Moses solicitando veículos específicos.",
+   "Localize e entregue os veículos solicitados conforme as instruções recebidas.",
+   "Após concluir os pedidos, reivindique o carro Sultan como recompensa."
+  ],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Os locais de spawn dependem das mensagens de texto enviadas por Moses."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo de Clickbait típico de YouTube. Não apresenta provas visuais reais, locais concretos ou jogabilidade confirmada de GTA 6. A confiança é baixa devido à natureza especulativa e sensacionalista da fonte.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5cdXnYDeitQ",
+    "autor": "Misleading",
+    "titulo": "Get Moses’s SECRET Reward Car in GTA 6! All Vehicle Locations",
+    "video_id": "5cdXnYDeitQ",
+    "imagem": "https://i.ytimg.com/vi/5cdXnYDeitQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T13:00:35+00:00",
+  "atualizado": "2026-11-25T13:00:35+00:00",
   "status": "retido"
  },
  {
@@ -2089,45 +2879,6 @@
   ],
   "criado": "2026-11-24T20:47:56+00:00",
   "atualizado": "2026-11-25T00:51:20+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-assalto-ao-aeroporto-internacional-de-vice-city",
-  "titulo": "Assalto ao Aeroporto Internacional de Vice City",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Um roubo planejado contra a organização criminosa de Kordell Grant, infiltrando-se nas operações do aeroporto.",
-  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant, whose operations involve Vice City International Airport.",
-  "passos": [
-   "Infiltrar-se na organização de Kordell Grant",
-   "Coletar informações sobre a segurança",
-   "Executar o assalto no aeroporto"
-  ],
-  "locais": [
-   {
-    "nome": "Vice City International Airport",
-    "onde": "Vice City",
-    "detalhe": "Base de operações de Kordell Grant"
-   }
-  ],
-  "dificuldade": 3,
-  "tempo": "Capítulo 4",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-25T00:50:56+00:00",
   "status": "retido"
  },
  {
