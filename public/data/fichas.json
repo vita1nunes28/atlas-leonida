@@ -1,5 +1,853 @@
 [
  {
+  "id": "car-gauntlet-interceptor-policia",
+  "titulo": "Gauntlet Interceptor (Polícia)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo policial de alta performance utilizado pela patrulha rodoviária de Leonida.",
+  "resumo_original": "Police variant of the Gauntlet Hellfire with a black and tan livery.",
+  "passos": [
+   "Procure pelo veículo patrulhando as rodovias do estado de Leonida.",
+   "Identifique a pintura preta e bege característica da agência."
+  ],
+  "locais": [
+   {
+    "nome": "Rodovias de Leonida",
+    "onde": "Estado de Leonida",
+    "detalhe": "Avistado em patrulha conforme trailer oficial."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Leonida_Highway_Patrol",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Leonida Highway Patrol",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-26T16:58:42+00:00",
+  "atualizado": "2026-11-26T16:58:42+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-app-buckme",
+  "titulo": "App BuckMe",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Aplicativo bancário para gerenciar finanças, realizar depósitos e poupança conjunta.",
+  "resumo_original": "Digital banking and payment application for managing finances and joint savings.",
+  "passos": [
+   "Abra o celular no jogo",
+   "Acesse o aplicativo BuckMe",
+   "Use a opção 'Buck Yourself' para transferir dinheiro da conta corrente para a poupança"
+  ],
+  "locais": [
+   {
+    "nome": "Fleeca Bank",
+    "onde": "Key Lento",
+    "detalhe": "Local da missão inicial onde o app é desbloqueado"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Início do Capítulo 1",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/BuckMe",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "BuckMe",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:56+00:00",
+  "atualizado": "2026-11-26T16:58:39+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-poupanca-familiar-family-savings",
+  "titulo": "Poupança Familiar (Family Savings)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Conta compartilhada para poupança que pode influenciar o desenrolar da trama e interações entre os protagonistas.",
+  "resumo_original": "Family Savings is a joint account allowing Jason and Lucia to contribute money toward their shared future.",
+  "passos": [
+   "Abra o app BuckMe.",
+   "Selecione a opção 'Buck Yourself' para depositar fundos.",
+   "Atingir metas de poupança libera bônus de juros."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "Ao longo da história",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "O dinheiro depositado na Family Savings é permanentemente bloqueado e não pode ser sacado ou gasto.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/BuckMe",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "BuckMe",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-26T16:58:39+00:00",
+  "atualizado": "2026-11-26T16:58:39+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carros-raros-no-gta-6",
+  "titulo": "Carros Raros no GTA 6",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "O vídeo promete revelar a localização de 5 carros raros e o carro do Brian (Velozes e Furiosos), mas não fornece os dados no conteúdo.",
+  "resumo_original": "5 carros raros do GTA 6 e onde encontrar cada um + a localização do carro do Brian de Velozes e Furiosos no final!",
+  "passos": [
+   "Acesse o link externo indicado pelo autor na descrição para tentar encontrar as localizações."
+  ],
+  "locais": [
+   {
+    "nome": "Canal How to Everything",
+    "onde": "https://www.youtube.com/@HowtoEverything01",
+    "detalhe": "O autor direciona os espectadores para outro canal externo para obter as informações."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza imagens de mods ou recriações externas, não representando gameplay oficial ou verificado do GTA 6. A localização dos veículos não é fornecida.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Fsg6kYrJYfo",
+    "autor": "YuriLoti",
+    "titulo": "EU ENCONTREI 3 CARROS RAROS NO GTA 6 (INSANOS)",
+    "video_id": "Fsg6kYrJYfo",
+    "imagem": "https://i.ytimg.com/vi/Fsg6kYrJYfo/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GqtZN_aRYug",
+    "autor": "Mistoca GTA 6",
+    "titulo": "O CARRO DO BRIAN tá no GTA 6! + 5 carros raros 🚗 #velozesefuriosos #gta6 #carrosgta  #davyjones",
+    "video_id": "GqtZN_aRYug",
+    "imagem": "https://i.ytimg.com/vi/GqtZN_aRYug/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:13+00:00",
+  "atualizado": "2026-11-26T16:58:34+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-carro-esportivo-vermelho-rubi",
+  "titulo": "Carro Esportivo Vermelho Rubi",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização de um supercarro esportivo com pintura personalizada vermelha.",
+  "resumo_original": "Carro vermelho rubi",
+  "passos": [
+   "Vá até o local indicado no mapa.",
+   "Alguns veículos exigem o desbloqueio do Capítulo 3 para captura."
+  ],
+  "locais": [
+   {
+    "nome": "Local secreto do carro",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localização específica não revelada no vídeo/descrição."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo/clickbait. Não há imagens reais de gameplay do GTA 6 confirmando a existência desses locais específicos, tratando-se de conteúdo genérico.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=y0AtZJe_pGk",
+    "autor": "Garcia Gamer ",
+    "titulo": "4 locais SECRETOS de carros de luxo em GTA 6!",
+    "video_id": "y0AtZJe_pGk",
+    "imagem": "https://i.ytimg.com/vi/y0AtZJe_pGk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:30+00:00",
+  "atualizado": "2026-11-26T16:58:30+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-suv-dourado",
+  "titulo": "SUV Dourado",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização de um SUV de luxo com acabamento dourado.",
+  "resumo_original": "SUV dourado",
+  "passos": [
+   "Siga a rota indicada no mapa.",
+   "Verifique se o Capítulo 3 já foi desbloqueado para permitir a aquisição."
+  ],
+  "locais": [
+   {
+    "nome": "Local secreto do SUV",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localização específica não revelada."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo clickbait típico de canais que usam imagens manipuladas de outros jogos ou mods para simular GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=y0AtZJe_pGk",
+    "autor": "Garcia Gamer ",
+    "titulo": "4 locais SECRETOS de carros de luxo em GTA 6!",
+    "video_id": "y0AtZJe_pGk",
+    "imagem": "https://i.ytimg.com/vi/y0AtZJe_pGk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:30+00:00",
+  "atualizado": "2026-11-26T16:58:30+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-supercarro-dourado-estampado",
+  "titulo": "Supercarro Dourado (Estampado)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização de um supercarro de luxo com pintura dourada e estampa de leopardo.",
+  "resumo_original": "Supercarro dourado",
+  "passos": [
+   "Vá até o ponto de spawn indicado.",
+   "Certifique-se de ter progredido até o Capítulo 3."
+  ],
+  "locais": [
+   {
+    "nome": "Local secreto do supercarro",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localização não especificada."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza montagens de veículos para atrair cliques. Não há prova concreta da existência deste veículo no mapa final do jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=y0AtZJe_pGk",
+    "autor": "Garcia Gamer ",
+    "titulo": "4 locais SECRETOS de carros de luxo em GTA 6!",
+    "video_id": "y0AtZJe_pGk",
+    "imagem": "https://i.ytimg.com/vi/y0AtZJe_pGk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:30+00:00",
+  "atualizado": "2026-11-26T16:58:30+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-garagem-de-mansao-com-carros-de-luxo",
+  "titulo": "Garagem de Mansão com Carros de Luxo",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Coleção de carros de luxo guardados em uma garagem secreta.",
+  "resumo_original": "Garagem de mansão repleta de carros de luxo",
+  "passos": [
+   "Localize a mansão no mapa.",
+   "Acesse a garagem após desbloquear o Capítulo 3."
+  ],
+  "locais": [
+   {
+    "nome": "Mansão secreta",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localização oculta no guia."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Informação sem embasamento real. O canal utiliza imagens de clickbait (como a do Lamborghini com estampa de leopardo) que não procedem de trailers oficiais do GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=y0AtZJe_pGk",
+    "autor": "Garcia Gamer ",
+    "titulo": "4 locais SECRETOS de carros de luxo em GTA 6!",
+    "video_id": "y0AtZJe_pGk",
+    "imagem": "https://i.ytimg.com/vi/y0AtZJe_pGk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:30+00:00",
+  "atualizado": "2026-11-26T16:58:30+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-supercarro-dourado-em-casanova-island",
+  "titulo": "Supercarro Dourado em Casanova Island",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Supercarro com pintura dourada guardado na garagem de uma residência.",
+  "resumo_original": "Casanova Island: a casa de baixo, bem no meio da ilha. Abre a garagem: uma Lambo toda dourada.",
+  "passos": [
+   "Vá até a ilha de Casanova Island.",
+   "Localize a casa na parte inferior, no centro da ilha.",
+   "Abra a garagem para encontrar o veículo."
+  ],
+  "locais": [
+   {
+    "nome": "Casa em Casanova Island",
+    "onde": "Casanova Island",
+    "detalhe": "Casa situada na parte de baixo, no meio da ilha."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de clickbait/short e não apresenta gameplay real do jogo para confirmar a localização ou existência desses veículos específicos.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=H4WO4xOJGwI",
+    "autor": "MuriLovesPlay",
+    "titulo": "5 SUPERCARROS escondidos no GTA 6 (e onde pegar)",
+    "video_id": "H4WO4xOJGwI",
+    "imagem": "https://i.ytimg.com/vi/H4WO4xOJGwI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:19+00:00",
+  "atualizado": "2026-11-26T16:58:19+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-supercarro-dourado-em-crimson-palms",
+  "titulo": "Supercarro Dourado em Crimson Palms",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Supercarro dourado localizado no estacionamento próximo à torre alta.",
+  "resumo_original": "Logo acima da Vice Beach, no Crimson Palms (em frente à torre alta): sobe pro estacionamento, outra Lambo de ouro.",
+  "passos": [
+   "Siga para o norte de Vice Beach, na região de Crimson Palms.",
+   "Encontre a torre alta.",
+   "Suba até o estacionamento em frente para encontrar o carro."
+  ],
+  "locais": [
+   {
+    "nome": "Estacionamento de Crimson Palms",
+    "onde": "Crimson Palms / Vice Beach",
+    "detalhe": "Em frente à torre alta."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/clickbait sem prova visual no vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=H4WO4xOJGwI",
+    "autor": "MuriLovesPlay",
+    "titulo": "5 SUPERCARROS escondidos no GTA 6 (e onde pegar)",
+    "video_id": "H4WO4xOJGwI",
+    "imagem": "https://i.ytimg.com/vi/H4WO4xOJGwI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:19+00:00",
+  "atualizado": "2026-11-26T16:58:19+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-supercarro-na-rotatoria-de-vice-beach",
+  "titulo": "Supercarro na Rotatória de Vice Beach",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Supercarro tipo McLaren localizado entre dois prédios na rotatória.",
+  "resumo_original": "No fim da Vice Beach, entre dois prédios, na rotatória: uma McLaren (3 milhões de dólares na vida real).",
+  "passos": [
+   "Vá até o fim da área de Vice Beach.",
+   "Procure a rotatória entre dois prédios para encontrar o carro."
+  ],
+  "locais": [
+   {
+    "nome": "Rotatória de Vice Beach",
+    "onde": "Vice Beach",
+    "detalhe": "Entre dois prédios."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/clickbait sem prova visual no vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=H4WO4xOJGwI",
+    "autor": "MuriLovesPlay",
+    "titulo": "5 SUPERCARROS escondidos no GTA 6 (e onde pegar)",
+    "video_id": "H4WO4xOJGwI",
+    "imagem": "https://i.ytimg.com/vi/H4WO4xOJGwI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:19+00:00",
+  "atualizado": "2026-11-26T16:58:19+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-supercarros-da-mansao-em-starfish-island",
+  "titulo": "Supercarros da Mansão em Starfish Island",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Coleção de supercarros (Ferrari e Lambo) localizados na mansão do chafariz.",
+  "resumo_original": "Starfish Island, a mansão do chafariz: às vezes tem um de oncinha lá fora; na garagem, uma Ferrari e outra Lambo.",
+  "passos": [
+   "Vá até Starfish Island.",
+   "Localize a mansão do chafariz.",
+   "Verifique a área externa e a garagem."
+  ],
+  "locais": [
+   {
+    "nome": "Mansão do Chafariz",
+    "onde": "Starfish Island",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/clickbait sem prova visual no vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=H4WO4xOJGwI",
+    "autor": "MuriLovesPlay",
+    "titulo": "5 SUPERCARROS escondidos no GTA 6 (e onde pegar)",
+    "video_id": "H4WO4xOJGwI",
+    "imagem": "https://i.ytimg.com/vi/H4WO4xOJGwI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:19+00:00",
+  "atualizado": "2026-11-26T16:58:19+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-bugatti-no-boone-speedway",
+  "titulo": "Bugatti no Boone Speedway",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Bugatti localizada sobre um caminhão no Boone Speedway, equipada com rastreador.",
+  "resumo_original": "Abaixo de South Vice Dale, no Boone Speedway (Hamlet): uma Bugatti em cima do caminhão. Nem precisa de ligação direta: entra e sai dirigindo. Só que ela tem rastreador!",
+  "passos": [
+   "Vá para o sul de South Vice Dale, em direção ao Boone Speedway (Hamlet).",
+   "Encontre a Bugatti em cima de um caminhão.",
+   "Suba e dirija o veículo (atenção ao rastreador)."
+  ],
+  "locais": [
+   {
+    "nome": "Boone Speedway",
+    "onde": "Sul de South Vice Dale",
+    "detalhe": "Em cima de um caminhão."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo/clickbait sem prova visual no vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=H4WO4xOJGwI",
+    "autor": "MuriLovesPlay",
+    "titulo": "5 SUPERCARROS escondidos no GTA 6 (e onde pegar)",
+    "video_id": "H4WO4xOJGwI",
+    "imagem": "https://i.ytimg.com/vi/H4WO4xOJGwI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:19+00:00",
+  "atualizado": "2026-11-26T16:58:19+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-cartel-cartel-heist",
+  "titulo": "Assalto ao Cartel (Cartel Heist)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Guia para obter a pontuação máxima e o prêmio de 10 milhões de dólares no assalto, focando em furtividade e coleta de objetivos.",
+  "resumo_original": "Learn how to complete the perfect heist and get ALL $10 MILLION!",
+  "passos": [
+   "Conclua todas as missões de preparação",
+   "Localize as cargas escondidas (Hidden Charges)",
+   "Identifique a palavra-passe do cofre (Safe Word)",
+   "Colete todos os 10 sacos de dinheiro",
+   "Execute a fuga furtiva para evitar o alarme"
+  ],
+  "locais": [
+   {
+    "nome": "Cofre do Cartel",
+    "onde": "Local do assalto",
+    "detalhe": "Onde se encontram os 10 sacos de dinheiro"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Desconhecido",
+  "ganho": 10000000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo se apresenta como um guia de GTA 6, mas o autor é conhecido por guias de Red Dead Redemption e não há provas visuais de que este assalto específico exista no jogo final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=AdriZjl3Pgw",
+    "autor": "Dirty Tyler",
+    "titulo": "GTA 6 Cartel Heist Perfect Score: How to Get ALL $10 MILLION!",
+    "video_id": "AdriZjl3Pgw",
+    "imagem": "https://i.ytimg.com/vi/AdriZjl3Pgw/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:05+00:00",
+  "atualizado": "2026-11-26T16:58:05+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-a-bancos",
+  "titulo": "Roubo a Bancos",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Guia estratégico para realizar assaltos a bancos, focando em equipamentos, abertura de cofres e lavagem de dinheiro.",
+  "resumo_original": "Learn how to pull off profitable bank robberies, unlock the right equipment, crack safes, access high-value vaults, and escape with your cash.",
+  "passos": [
+   "Avance na história principal antes de atacar bancos maiores.",
+   "Obtenha o 'Dye Pack Jammer' para proteger o dinheiro roubado.",
+   "Realize a limpeza das notas marcadas para que possam ser utilizadas."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza uma imagem genérica de um teclado numérico e um mapa de interior, sem mostrar gameplay real ou localização específica de algum banco no jogo. O conteúdo parece ser clickbait para engajamento em comentários.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=8tu7P_Xl1mM",
+    "autor": "GameBroo",
+    "titulo": "This Bank Robbery Trick Made Me a MILLIONAIRE in GTA 6! 💸",
+    "video_id": "8tu7P_Xl1mM",
+    "imagem": "https://i.ytimg.com/vi/8tu7P_Xl1mM/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=dE1JhGrzD6M",
+    "autor": "TGG",
+    "titulo": "Don't Rob Banks in GTA 6 Until You Watch This Video - GTA 6 Guide",
+    "video_id": "dE1JhGrzD6M",
+    "imagem": "https://i.ytimg.com/vi/dE1JhGrzD6M/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T04:58:38+00:00",
+  "atualizado": "2026-11-26T16:57:50+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "farm-glitch-de-dinheiro-infinito-loop-de-loot",
+  "titulo": "Glitch de Dinheiro Infinito (Loop de Loot)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método para duplicar vans e forçar o respawn de itens valiosos para ganhar dinheiro rapidamente.",
+  "resumo_original": "Infinite money glitch using van duplication and loot respawn.",
+  "passos": [
+   "Posicione as vans conforme as instruções de setup.",
+   "Divida os personagens Jason e Lúcia.",
+   "Utilize o aplicativo Scooter Bros.",
+   "Realize o saque dos itens e force o respawn do loot.",
+   "Venda os itens coletados para o vendedor e repita o processo."
+  ],
+  "locais": [
+   {
+    "nome": "Local do Glitch",
+    "onde": "Não especificado na fonte",
+    "detalhe": "Requer posicionamento específico de veículos e proximidade com um vendedor."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Aprox. 1 hora",
+  "ganho": 1000000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo possui teor sensacionalista típico de thumbnails de 'glitch' e não apresenta provas concretas de jogabilidade do GTA 6, que ainda não foi lançado. O conteúdo parece ser especulativo ou baseado em mods.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=sf531ZiPESg",
+    "autor": "Jay Dunna ",
+    "titulo": "NEW FASTEST INFINITE MONEY GLITCH in GTA 6 ($1,000,000/Hour)",
+    "video_id": "sf531ZiPESg",
+    "imagem": "https://i.ytimg.com/vi/sf531ZiPESg/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:57:46+00:00",
+  "atualizado": "2026-11-26T16:57:46+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colecao-de-carros-do-wyman",
+  "titulo": "Coleção de Carros do Wyman",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Complete a coleção de 5 carros clássicos restaurando peças espalhadas pelo mapa para liberar recompensas.",
+  "resumo_original": "Complete Wyman's Car Collection by finding hidden car parts and restoring 5 classic vehicles.",
+  "passos": [
+   "Inicie a missão no Capítulo 2",
+   "Encontre todas as 15 partes de carros espalhadas pelo mapa",
+   "Restaure os 5 veículos clássicos"
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tG-mZ1tE7sQ",
+    "autor": "Mr Lawrence",
+    "titulo": "GTA 6: ALL 5 Classic Car Locations (How To Complete Wymans Car Collection)",
+    "video_id": "tG-mZ1tE7sQ",
+    "imagem": "https://i.ytimg.com/vi/tG-mZ1tE7sQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:57:23+00:00",
+  "atualizado": "2026-11-26T16:57:23+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-transgressor",
+  "titulo": "Transgressor",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um dos cinco carros clássicos da coleção de Wyman.",
+  "resumo_original": "One of the five classic cars in Wyman's collection.",
+  "passos": [
+   "Localize as partes necessárias",
+   "Restaure o veículo"
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tG-mZ1tE7sQ",
+    "autor": "Mr Lawrence",
+    "titulo": "GTA 6: ALL 5 Classic Car Locations (How To Complete Wymans Car Collection)",
+    "video_id": "tG-mZ1tE7sQ",
+    "imagem": "https://i.ytimg.com/vi/tG-mZ1tE7sQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:57:23+00:00",
+  "atualizado": "2026-11-26T16:57:23+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-riata",
+  "titulo": "Riata",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um dos cinco carros clássicos da coleção de Wyman.",
+  "resumo_original": "One of the five classic cars in Wyman's collection.",
+  "passos": [
+   "Localize as partes necessárias",
+   "Restaure o veículo"
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tG-mZ1tE7sQ",
+    "autor": "Mr Lawrence",
+    "titulo": "GTA 6: ALL 5 Classic Car Locations (How To Complete Wymans Car Collection)",
+    "video_id": "tG-mZ1tE7sQ",
+    "imagem": "https://i.ytimg.com/vi/tG-mZ1tE7sQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:57:23+00:00",
+  "atualizado": "2026-11-26T16:57:23+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-mamba-gt",
+  "titulo": "Mamba GT",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um dos cinco carros clássicos da coleção de Wyman.",
+  "resumo_original": "One of the five classic cars in Wyman's collection.",
+  "passos": [
+   "Localize as partes necessárias",
+   "Restaure o veículo"
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tG-mZ1tE7sQ",
+    "autor": "Mr Lawrence",
+    "titulo": "GTA 6: ALL 5 Classic Car Locations (How To Complete Wymans Car Collection)",
+    "video_id": "tG-mZ1tE7sQ",
+    "imagem": "https://i.ytimg.com/vi/tG-mZ1tE7sQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:57:23+00:00",
+  "atualizado": "2026-11-26T16:57:23+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-reynolds",
+  "titulo": "Reynolds",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um dos cinco carros clássicos da coleção de Wyman.",
+  "resumo_original": "One of the five classic cars in Wyman's collection.",
+  "passos": [
+   "Localize as partes necessárias",
+   "Restaure o veículo"
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tG-mZ1tE7sQ",
+    "autor": "Mr Lawrence",
+    "titulo": "GTA 6: ALL 5 Classic Car Locations (How To Complete Wymans Car Collection)",
+    "video_id": "tG-mZ1tE7sQ",
+    "imagem": "https://i.ytimg.com/vi/tG-mZ1tE7sQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:57:23+00:00",
+  "atualizado": "2026-11-26T16:57:23+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-deviant",
+  "titulo": "Deviant",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Carro clássico que pode ser obtido gratuitamente ao completar a coleção.",
+  "resumo_original": "Classic car that can be obtained for free upon completing the collection.",
+  "passos": [
+   "Complete a coleção de Wyman",
+   "Vá até o local indicado para coletar o veículo gratuito"
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tG-mZ1tE7sQ",
+    "autor": "Mr Lawrence",
+    "titulo": "GTA 6: ALL 5 Classic Car Locations (How To Complete Wymans Car Collection)",
+    "video_id": "tG-mZ1tE7sQ",
+    "imagem": "https://i.ytimg.com/vi/tG-mZ1tE7sQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:57:23+00:00",
+  "atualizado": "2026-11-26T16:57:23+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-jaqueta-patriota-patriot-jacket",
+  "titulo": "Jaqueta Patriota (Patriot Jacket)",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Item cosmético exclusivo desbloqueado ao finalizar a coleção de carros.",
+  "resumo_original": "Exclusive cosmetic item unlocked by finishing the car collection.",
+  "passos": [
+   "Restaure todos os 5 carros clássicos da coleção de Wyman"
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tG-mZ1tE7sQ",
+    "autor": "Mr Lawrence",
+    "titulo": "GTA 6: ALL 5 Classic Car Locations (How To Complete Wymans Car Collection)",
+    "video_id": "tG-mZ1tE7sQ",
+    "imagem": "https://i.ytimg.com/vi/tG-mZ1tE7sQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:57:23+00:00",
+  "atualizado": "2026-11-26T16:57:23+00:00",
+  "status": "confirmado"
+ },
+ {
   "id": "heist-roubo-ao-sinfrontera-national-bank",
   "titulo": "Roubo ao Sinfrontera National Bank",
   "categoria": "heist",
@@ -7165,39 +8013,6 @@
   "status": "retido"
  },
  {
-  "id": "heist-roubo-a-bancos",
-  "titulo": "Roubo a Bancos",
-  "categoria": "heist",
-  "regiao": "",
-  "resumo": "Guia estratégico para realizar assaltos a bancos, focando em equipamentos, abertura de cofres e lavagem de dinheiro.",
-  "resumo_original": "Learn how to pull off profitable bank robberies, unlock the right equipment, crack safes, access high-value vaults, and escape with your cash.",
-  "passos": [
-   "Avance na história principal antes de atacar bancos maiores.",
-   "Obtenha o 'Dye Pack Jammer' para proteger o dinheiro roubado.",
-   "Realize a limpeza das notas marcadas para que possam ser utilizadas."
-  ],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo utiliza uma imagem genérica de um teclado numérico e um mapa de interior, sem mostrar gameplay real ou localização específica de algum banco no jogo. O conteúdo parece ser clickbait para engajamento em comentários.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=8tu7P_Xl1mM",
-    "autor": "GameBroo",
-    "titulo": "This Bank Robbery Trick Made Me a MILLIONAIRE in GTA 6! 💸",
-    "video_id": "8tu7P_Xl1mM",
-    "imagem": "https://i.ytimg.com/vi/8tu7P_Xl1mM/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-25T04:58:38+00:00",
-  "atualizado": "2026-11-25T04:58:38+00:00",
-  "status": "retido"
- },
- {
   "id": "heist-operacoes-ilegais-em-port-gellhorn",
   "titulo": "Operações Ilegais em Port Gellhorn",
   "categoria": "heist",
@@ -7375,45 +8190,6 @@
   "criado": "2026-11-23T09:12:01+00:00",
   "atualizado": "2026-11-25T00:51:32+00:00",
   "status": "confirmado"
- },
- {
-  "id": "farm-app-buckme",
-  "titulo": "App BuckMe",
-  "categoria": "farm",
-  "regiao": "",
-  "resumo": "Aplicativo bancário para gerenciar finanças, realizar depósitos e poupança conjunta.",
-  "resumo_original": "Digital banking and payment application for managing finances and joint savings.",
-  "passos": [
-   "Abra o celular no jogo",
-   "Acesse o aplicativo BuckMe",
-   "Use a opção 'Buck Yourself' para transferir dinheiro da conta corrente para a poupança"
-  ],
-  "locais": [
-   {
-    "nome": "Fleeca Bank",
-    "onde": "Key Lento",
-    "detalhe": "Local da missão inicial onde o app é desbloqueado"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "Início do Capítulo 1",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/BuckMe",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "BuckMe",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:56+00:00",
-  "atualizado": "2026-11-25T00:51:20+00:00",
-  "status": "retido"
  },
  {
   "id": "farm-glitch-de-dinheiro-no-gta-6",
