@@ -35,7 +35,7 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-26T04:59:43+00:00",
+  "atualizado": "2026-11-26T08:59:09+00:00",
   "status": "retido"
  },
  {
@@ -74,46 +74,7 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-26T04:59:43+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-assalto-ao-delights",
-  "titulo": "Assalto ao Delights",
-  "categoria": "heist",
-  "regiao": "Port Gellhorn",
-  "resumo": "Roubo realizado pela dupla com a ajuda de Vicki, uma dançarina do local.",
-  "resumo_original": "Jason and Lucia begin carrying out robberies across Kelly County, eventually helping Vicki rob Delights.",
-  "passos": [
-   "Conheça Vicki em Delights",
-   "Planeje o roubo",
-   "Execute a ação"
-  ],
-  "locais": [
-   {
-    "nome": "Delights",
-    "onde": "Port Gellhorn",
-    "detalhe": "Clube onde Vicki trabalha"
-   }
-  ],
-  "dificuldade": 2,
-  "tempo": "Capítulo 2",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-25T13:05:13+00:00",
-  "atualizado": "2026-11-26T04:59:43+00:00",
+  "atualizado": "2026-11-26T08:59:09+00:00",
   "status": "retido"
  },
  {
@@ -152,6 +113,1084 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-26T08:59:09+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-a-propriedade-de-giorgio-gallo",
+  "titulo": "Assalto à Propriedade de Giorgio Gallo",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Assalto final a um prédio de luxo para recuperar informações sobre a conspiração.",
+  "resumo_original": "Jason and Lucia launch an assault on Giorgio's high-rise property and attempt to recover the information needed to expose the conspiracy.",
+  "passos": [
+   "Localize o prédio de luxo de Giorgio Gallo.",
+   "Lance o ataque contra a propriedade.",
+   "Recupere as provas para expor a conspiração."
+  ],
+  "locais": [
+   {
+    "nome": "Propriedade de Giorgio Gallo",
+    "onde": "Vice City",
+    "detalhe": "Prédio de luxo (high-rise)."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Indeterminado",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-26T08:59:09+00:00",
+  "atualizado": "2026-11-26T08:59:09+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-ao-banco-principal",
+  "titulo": "Roubo ao Banco Principal",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Guia para realizar um roubo de $170 mil e garantir uma fuga eficiente.",
+  "resumo_original": "Guide to pull off a clean getaway from a big bank in GTA 6.",
+  "passos": [
+   "Entenda a mecânica do banco",
+   "Execute o roubo",
+   "Realize a fuga sem ser capturado"
+  ],
+  "locais": [
+   {
+    "nome": "Banco Principal",
+    "onde": "Leonida",
+    "detalhe": "Local não especificado pelo autor no vídeo"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "3 minutos",
+  "ganho": 170000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona um roubo de $170K, mas o conteúdo fornecido não apresenta imagens, localizações específicas ou métodos passo a passo reais do jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=2XDAjUELDJU",
+    "autor": "Cowboy",
+    "titulo": "GTA 6 Bank Robbery Guide - $170K in 3 Minutes",
+    "video_id": "2XDAjUELDJU",
+    "imagem": "https://i.ytimg.com/vi/2XDAjUELDJU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:59:00+00:00",
+  "atualizado": "2026-11-26T08:59:00+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-a-banco-de-pequeno-porte",
+  "titulo": "Assalto a Banco de Pequeno Porte",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Guia para realizar assaltos em bancos menores para lucro rápido.",
+  "resumo_original": "Small bank robbery guide",
+  "passos": [
+   "Prepare o equipamento antes do assalto",
+   "Acesse o cofre principal",
+   "Efetue a fuga para garantir o lucro"
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "2-4 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo parece ser um conteúdo especulativo ou clickbait, pois o GTA 6 ainda não foi lançado para permitir guias detalhados de mecânicas internas de cofres.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=U6TYd8hA9mU",
+    "autor": "Incredilags",
+    "titulo": "GTA 6 - Complete Bank Robbery Guide ($150K, Deposit Boxes, Vault Access, and Safe Codes)",
+    "video_id": "U6TYd8hA9mU",
+    "imagem": "https://i.ytimg.com/vi/U6TYd8hA9mU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:58:54+00:00",
+  "atualizado": "2026-11-26T08:58:54+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-a-grande-cofre-de-banco",
+  "titulo": "Assalto a Grande Cofre de Banco",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Procedimento para invadir cofres de grande porte e acessar caixas de depósito.",
+  "resumo_original": "Big bank vault heists",
+  "passos": [
+   "Planeje o assalto conforme as etapas essenciais",
+   "Acesse o cofre",
+   "Abra as caixas de depósito",
+   "Utilize os códigos do cofre para o saque final",
+   "Fuja da polícia"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "5-7 minutos",
+  "ganho": 150000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo sem prova visual real do jogo; trata-se de especulação sobre mecânicas de gameplay não confirmadas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=U6TYd8hA9mU",
+    "autor": "Incredilags",
+    "titulo": "GTA 6 - Complete Bank Robbery Guide ($150K, Deposit Boxes, Vault Access, and Safe Codes)",
+    "video_id": "U6TYd8hA9mU",
+    "imagem": "https://i.ytimg.com/vi/U6TYd8hA9mU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:58:54+00:00",
+  "atualizado": "2026-11-26T08:58:54+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-golpe-credit-check",
+  "titulo": "Golpe: Credit Check",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Roubo realizado em uma agência do banco Fleeca para obter dinheiro.",
+  "resumo_original": "Credit check heist at a Fleeca bank for money.",
+  "passos": [
+   "Vá até o banco Fleeca indicado no mapa",
+   "Renda os funcionários e realize o roubo"
+  ],
+  "locais": [
+   {
+    "nome": "Fleeca Bank",
+    "onde": "",
+    "detalhe": "Local do roubo indicado no mapa do vídeo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 179000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico com título sensacionalista que não apresenta gameplay real de GTA 6, utilizando imagens de outros jogos ou edições para atrair cliques. O GTA 6 ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Mr-H3Kn9Bws",
+    "autor": "NoobBlox",
+    "titulo": "How To GET MAX MONEY On The CREDIT CHECK HEISTS In GTA 6! (Full Guide)",
+    "video_id": "Mr-H3Kn9Bws",
+    "imagem": "https://i.ytimg.com/vi/Mr-H3Kn9Bws/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:58:43+00:00",
+  "atualizado": "2026-11-26T08:58:43+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-cartel-heist-perfect-run",
+  "titulo": "Cartel Heist (Perfect Run)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Guia para realizar o golpe do Cartel com final bom, garantindo um pagamento de 10 milhões e 150 mil em Buckme.",
+  "resumo_original": "Complete the Cartel Heist with a Perfect Run, securing $10 Million, the Good Ending, and 150K Buckme.",
+  "passos": [
+   "Siga as instruções do vídeo para manter o status de 'Perfect Run'",
+   "Complete o golpe para garantir o final bom"
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "desconhecido",
+  "ganho": 10000000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "A fonte é um vídeo promocional sem demonstração visual clara do método, tratando-se de conteúdo especulativo ou sensacionalista sobre o jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=T5q5Gw30L7E",
+    "autor": "OmniModX",
+    "titulo": "GTA VI The Cartel Heist – Perfect Run Guide (10 Million + Good Ending)",
+    "video_id": "T5q5Gw30L7E",
+    "imagem": "https://i.ytimg.com/vi/T5q5Gw30L7E/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:57:43+00:00",
+  "atualizado": "2026-11-26T08:57:43+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-pegassi-infernus-96",
+  "titulo": "Pegassi Infernus '96",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Veículo secreto disponível na garagem da delegacia, listado como item para a missão do Randy.",
+  "resumo_original": "Pegassi Infernus '96: police station garage, Crosstown, Vice City (level 7, Randy's list)",
+  "passos": [
+   "Vá até a delegacia em Crosstown",
+   "Acesse a garagem",
+   "Recupere o veículo conforme a lista do Randy"
+  ],
+  "locais": [
+   {
+    "nome": "Delegacia de Polícia",
+    "onde": "Crosstown, Vice City",
+    "detalhe": "Garagem da delegacia"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "N/A",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo baseado em rumores de vídeo estilo 'clickbait'. Não há confirmação oficial sobre a existência deste veículo ou mecânica em GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=jRoAaCIsims",
+    "autor": "Phill GTA 6",
+    "titulo": "5 Secret Cars in GTA 6 and Where to Find Them",
+    "video_id": "jRoAaCIsims",
+    "imagem": "https://i.ytimg.com/vi/jRoAaCIsims/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=90ZyeSdyPPk",
+    "autor": "Caspahz",
+    "titulo": "GTA 6: Do This BEFORE Chapter 3 Ends (Secrets & Locations)",
+    "video_id": "90ZyeSdyPPk",
+    "imagem": "https://i.ytimg.com/vi/90ZyeSdyPPk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:58:56+00:00",
+  "atualizado": "2026-11-26T08:56:58+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-venda-de-carros-com-dinheiro-dobrado",
+  "titulo": "Venda de Carros com Dinheiro Dobrado",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Dica para dobrar o valor obtido na venda de veículos.",
+  "resumo_original": "Double Money For Car Sales",
+  "passos": [
+   "Utilize o método de venda durante o Capítulo 3 para obter o dobro do valor."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=90ZyeSdyPPk",
+    "autor": "Caspahz",
+    "titulo": "GTA 6: Do This BEFORE Chapter 3 Ends (Secrets & Locations)",
+    "video_id": "90ZyeSdyPPk",
+    "imagem": "https://i.ytimg.com/vi/90ZyeSdyPPk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:56:58+00:00",
+  "atualizado": "2026-11-26T08:56:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-metralhadora-leve-mercenaria-lendaria",
+  "titulo": "Metralhadora Leve Mercenária Lendária",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Localização da arma LMG 6 lendária.",
+  "resumo_original": "Legendary Mercenary LMG 6",
+  "passos": [
+   "Localize a arma antes de finalizar o Capítulo 3."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=90ZyeSdyPPk",
+    "autor": "Caspahz",
+    "titulo": "GTA 6: Do This BEFORE Chapter 3 Ends (Secrets & Locations)",
+    "video_id": "90ZyeSdyPPk",
+    "imagem": "https://i.ytimg.com/vi/90ZyeSdyPPk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:56:58+00:00",
+  "atualizado": "2026-11-26T08:56:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-revolver-cargo-h-l-38",
+  "titulo": "Revólver Cargo H&L .38",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Localização do revólver H&L .38.",
+  "resumo_original": "Cargo H&L .38 Revolver",
+  "passos": [
+   "Vá até o local indicado e colete a arma."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=90ZyeSdyPPk",
+    "autor": "Caspahz",
+    "titulo": "GTA 6: Do This BEFORE Chapter 3 Ends (Secrets & Locations)",
+    "video_id": "90ZyeSdyPPk",
+    "imagem": "https://i.ytimg.com/vi/90ZyeSdyPPk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:56:58+00:00",
+  "atualizado": "2026-11-26T08:56:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-recompensa-de-37-500",
+  "titulo": "Recompensa de $37.500",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Método para obter $37.500 gratuitamente.",
+  "resumo_original": "Free $37,500",
+  "passos": [
+   "Siga o método específico mostrado no vídeo para receber o valor."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 37500,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=90ZyeSdyPPk",
+    "autor": "Caspahz",
+    "titulo": "GTA 6: Do This BEFORE Chapter 3 Ends (Secrets & Locations)",
+    "video_id": "90ZyeSdyPPk",
+    "imagem": "https://i.ytimg.com/vi/90ZyeSdyPPk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:56:58+00:00",
+  "atualizado": "2026-11-26T08:56:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-pistola-monty-s-1922",
+  "titulo": "Pistola Monty's 1922",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Localização da pistola Missing Link Monty's 1922.",
+  "resumo_original": "The Missing Link Monty's 1922 Pistol",
+  "passos": [
+   "Localize a arma antes do fim do capítulo."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=90ZyeSdyPPk",
+    "autor": "Caspahz",
+    "titulo": "GTA 6: Do This BEFORE Chapter 3 Ends (Secrets & Locations)",
+    "video_id": "90ZyeSdyPPk",
+    "imagem": "https://i.ytimg.com/vi/90ZyeSdyPPk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:56:58+00:00",
+  "atualizado": "2026-11-26T08:56:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-kalinga-50-de-gil",
+  "titulo": "Kalinga .50 de Gil",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Localização da arma Kalinga .50.",
+  "resumo_original": "Gil's Kalinga .50",
+  "passos": [
+   "Colete a arma na localização mencionada."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=90ZyeSdyPPk",
+    "autor": "Caspahz",
+    "titulo": "GTA 6: Do This BEFORE Chapter 3 Ends (Secrets & Locations)",
+    "video_id": "90ZyeSdyPPk",
+    "imagem": "https://i.ytimg.com/vi/90ZyeSdyPPk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:56:58+00:00",
+  "atualizado": "2026-11-26T08:56:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-garagem-e-porsche-gratuitos",
+  "titulo": "Garagem e Porsche Gratuitos",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Como obter uma garagem e um Porsche sem custo.",
+  "resumo_original": "Free Garage and Porsche",
+  "passos": [
+   "Siga as orientações para adquirir os itens."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=90ZyeSdyPPk",
+    "autor": "Caspahz",
+    "titulo": "GTA 6: Do This BEFORE Chapter 3 Ends (Secrets & Locations)",
+    "video_id": "90ZyeSdyPPk",
+    "imagem": "https://i.ytimg.com/vi/90ZyeSdyPPk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:56:58+00:00",
+  "atualizado": "2026-11-26T08:56:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-yasmani-snap-gun-e-sticky",
+  "titulo": "Yasmani Snap Gun e Sticky",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Localização da arma Yasmani e Sticky bombs.",
+  "resumo_original": "Yasmani Snap Gun and Sticky",
+  "passos": [
+   "Vá até o local e colete os itens."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=90ZyeSdyPPk",
+    "autor": "Caspahz",
+    "titulo": "GTA 6: Do This BEFORE Chapter 3 Ends (Secrets & Locations)",
+    "video_id": "90ZyeSdyPPk",
+    "imagem": "https://i.ytimg.com/vi/90ZyeSdyPPk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:56:58+00:00",
+  "atualizado": "2026-11-26T08:56:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-rastreadores-avancados-sem-policia",
+  "titulo": "Rastreadores Avançados sem Polícia",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Método para instalar rastreadores em veículos sem acionar a polícia.",
+  "resumo_original": "Advanced Trackers Without Police",
+  "passos": [
+   "Siga as instruções para instalar rastreadores em veículos sem ser detectado."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é uma especulação ou conteúdo de clickbait, já que o GTA 6 ainda não foi lançado. Não há provas visuais reais do gameplay mencionado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=90ZyeSdyPPk",
+    "autor": "Caspahz",
+    "titulo": "GTA 6: Do This BEFORE Chapter 3 Ends (Secrets & Locations)",
+    "video_id": "90ZyeSdyPPk",
+    "imagem": "https://i.ytimg.com/vi/90ZyeSdyPPk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:56:57+00:00",
+  "atualizado": "2026-11-26T08:56:57+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-dom-s-charger",
+  "titulo": "Dom's Charger",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização do carro icônico inspirado na franquia Velozes e Furiosos para adicionar à sua coleção pessoal.",
+  "resumo_original": "Locate Dom's Charger in GTA 6 with this guide.",
+  "passos": [
+   "Vá até o local indicado no guia",
+   "Registre o veículo para torná-lo permanente em sua garagem"
+  ],
+  "locais": [
+   {
+    "nome": "Localização secreta",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Referenciado no guia de vídeo do autor"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona Dom's Charger no título e miniatura, mas o texto da descrição menciona 'Dom's Chevelle' e 'Brian's Eclipse', indicando possível inconsistência ou clickbait sobre o modelo exato do veículo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=F8QqCqhDw8w",
+    "autor": "Maka91Productions",
+    "titulo": "GTA 6 - Dom's Charger (Fast & Furious Secret Car) Location Guide",
+    "video_id": "F8QqCqhDw8w",
+    "imagem": "https://i.ytimg.com/vi/F8QqCqhDw8w/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:56:51+00:00",
+  "atualizado": "2026-11-26T08:56:51+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-brian-s-eclipse",
+  "titulo": "Brian's Eclipse",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo colecionável mencionado como disponível para busca no mapa de Leonida.",
+  "resumo_original": "This video confirms the location of Brian's Eclipse for those completing their car collection.",
+  "passos": [
+   "Utilize as direções do guia para localizar o veículo"
+  ],
+  "locais": [
+   {
+    "nome": "Localização secreta",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Referenciado no guia de vídeo do autor"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é focado em um Charger/Chevelle; a menção ao Eclipse na descrição é vaga e não provê detalhes específicos de localização.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=F8QqCqhDw8w",
+    "autor": "Maka91Productions",
+    "titulo": "GTA 6 - Dom's Charger (Fast & Furious Secret Car) Location Guide",
+    "video_id": "F8QqCqhDw8w",
+    "imagem": "https://i.ytimg.com/vi/F8QqCqhDw8w/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:56:51+00:00",
+  "atualizado": "2026-11-26T08:56:51+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-11-armas-raras",
+  "titulo": "11 Armas Raras",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Guia para encontrar 11 armas raras, incluindo pistolas, espingardas, fuzis, submetralhadoras e um lança-foguetes no Capítulo 1.",
+  "resumo_original": "Best 11 Rare Weapons In GTA 6 You Can Grab In Chapter 1",
+  "passos": [
+   "Siga os locais indicados no vídeo para coletar as armas"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo do vídeo não apresenta localizações reais ou provas concretas das armas citadas, tratando-se de uma especulação ou clickbait comum em vídeos sobre o jogo que ainda não foi lançado oficialmente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=SCFMO8oZxkQ",
+    "autor": "Hubba GTA",
+    "titulo": "Best 11 Rare Weapons In GTA 6 You Can Grab In Chapter 1",
+    "video_id": "SCFMO8oZxkQ",
+    "imagem": "https://i.ytimg.com/vi/SCFMO8oZxkQ/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=m_mHc1cVfR8",
+    "autor": "Hubba GTA",
+    "titulo": "Get MONEY Early in GTA 6 With THESE INSANE Secret Loot Spots + (Rare Cars & Legendary Guns)",
+    "video_id": "m_mHc1cVfR8",
+    "imagem": "https://i.ytimg.com/vi/m_mHc1cVfR8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:44:37+00:00",
+  "atualizado": "2026-11-26T08:55:07+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-supercarro-em-container",
+  "titulo": "Supercarro em Container",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um supercarro escondido dentro de um container de carga.",
+  "resumo_original": "A supercar tucked inside a shipping container.",
+  "passos": [
+   "Localize o container de carga",
+   "Entre no container para encontrar o veículo"
+  ],
+  "locais": [
+   {
+    "nome": "Container de carga",
+    "onde": "",
+    "detalhe": "Localizado no mapa, conforme indicado no vídeo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de clickbait com arte de IA e não mostra localizações reais no jogo ou gameplay verídico.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=m_mHc1cVfR8",
+    "autor": "Hubba GTA",
+    "titulo": "Get MONEY Early in GTA 6 With THESE INSANE Secret Loot Spots + (Rare Cars & Legendary Guns)",
+    "video_id": "m_mHc1cVfR8",
+    "imagem": "https://i.ytimg.com/vi/m_mHc1cVfR8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:55:07+00:00",
+  "atualizado": "2026-11-26T08:55:07+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-dinheiro-oculto-hidden-cash",
+  "titulo": "Dinheiro Oculto (Hidden Cash)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Localização de dinheiro escondido e um esconderijo na cozinha.",
+  "resumo_original": "Hidden cash. Hidden kitchen stash.",
+  "passos": [
+   "Vá até a localização indicada",
+   "Utilize o código do cofre",
+   "Procure pelo esconderijo na cozinha"
+  ],
+  "locais": [
+   {
+    "nome": "Esconderijo (Hidden Loot)",
+    "onde": "",
+    "detalhe": "Locais de dinheiro e cozinha com estoque de valor"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo é sensacionalista e não apresenta provas visuais reais das localizações ou do funcionamento das mecânicas citadas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=m_mHc1cVfR8",
+    "autor": "Hubba GTA",
+    "titulo": "Get MONEY Early in GTA 6 With THESE INSANE Secret Loot Spots + (Rare Cars & Legendary Guns)",
+    "video_id": "m_mHc1cVfR8",
+    "imagem": "https://i.ytimg.com/vi/m_mHc1cVfR8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:55:07+00:00",
+  "atualizado": "2026-11-26T08:55:07+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-localizacao-secreta-com-escavadeira",
+  "titulo": "Localização Secreta com Escavadeira",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Uma área contendo contêineres e uma escavadeira amarela, rotulada como localização secreta pelo autor do vídeo.",
+  "resumo_original": "Localização secreta no GTA 6.",
+  "passos": [
+   "Vá até a área com contêineres azuis onde há uma escavadeira estacionada."
+  ],
+  "locais": [
+   {
+    "nome": "Localização secreta",
+    "onde": "Desconhecido",
+    "detalhe": "Pátio com contêineres e uma escavadeira da marca IVY."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo mostra apenas uma cena genérica de um canteiro de obras e não providencia mapa ou contexto que justifique o termo 'localização secreta'.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eJw74to66EU",
+    "autor": "Rique gamer",
+    "titulo": "localização secreta no gta 6 #gta#gta6 #gtavi",
+    "video_id": "eJw74to66EU",
+    "imagem": "https://i.ytimg.com/vi/eJw74to66EU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:54:58+00:00",
+  "atualizado": "2026-11-26T08:54:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-missao-pipework-investigacao-de-mandy",
+  "titulo": "Missão Pipework: Investigação de Mandy",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Missão de coleta de aluguel que revela pistas de um possível comportamento criminoso de Mandy.",
+  "resumo_original": "What starts as a simple rent collection mission for Jason quickly turns into something much darker.",
+  "passos": [
+   "Inicie a missão de coleta de aluguel com Jason na casa de Mandy.",
+   "Observe o ambiente em busca de evidências, como ferramentas suspeitas, ácido e um possível dedo humano na pia.",
+   "Verifique a área externa da residência em busca de uma cova recém-aberta."
+  ],
+  "locais": [
+   {
+    "nome": "Casa da Mandy",
+    "onde": "Leonida",
+    "detalhe": "Interior da residência e área externa do quintal."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata de teorias e especulações sobre a personagem ser uma serial killer baseadas em pistas ambientais, não confirmando mecânicas oficiais de gameplay ou recompensas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=nMZowx_HKzM",
+    "autor": "IGN",
+    "titulo": "GTA 6: Is Mandy Harboring a Dark Secret? | All the Creepy Clues",
+    "video_id": "nMZowx_HKzM",
+    "imagem": "https://i.ytimg.com/vi/nMZowx_HKzM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:54:54+00:00",
+  "atualizado": "2026-11-26T08:54:54+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-esconderijo-no-three-sheets",
+  "titulo": "Esconderijo no Three Sheets",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Encontre um estoque escondido atrás de uma ventilação com a ajuda de um papagaio falante.",
+  "resumo_original": "A talking parrot leads you to a hidden stash behind a vent.",
+  "passos": [
+   "Vá até a loja de bebidas Three Sheets.",
+   "Siga o papagaio falante.",
+   "Procure o esconderijo atrás da ventilação."
+  ],
+  "locais": [
+   {
+    "nome": "Three Sheets",
+    "onde": "Loja de bebidas",
+    "detalhe": "Esconderijo atrás de uma ventilação"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é uma compilação de especulações e imagens não oficiais de GTA 6, tratando-se de conteúdo provavelmente falso ou de mod.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mgnE6T61FFs",
+    "autor": "GTA 6 Daily",
+    "titulo": "5 Hidden Locations in GTA 6 (Free Money + Jet) #gta",
+    "video_id": "mgnE6T61FFs",
+    "imagem": "https://i.ytimg.com/vi/mgnE6T61FFs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:54:21+00:00",
+  "atualizado": "2026-11-26T08:54:21+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-dinheiro-enterrado-na-dog-island",
+  "titulo": "Dinheiro enterrado na Dog Island",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Um cachorro em um jet ski leva você até dinheiro enterrado na ilha.",
+  "resumo_original": "Get stranded in Gambit Bay and a dog on a jet ski takes you to buried cash.",
+  "passos": [
+   "Vá até Gambit Bay.",
+   "Encontre o cachorro em um jet ski.",
+   "Siga-o até o local do dinheiro enterrado."
+  ],
+  "locais": [
+   {
+    "nome": "Dog Island",
+    "onde": "Gambit Bay",
+    "detalhe": "Dinheiro enterrado na ilha"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é uma compilação de especulações e imagens não oficiais de GTA 6, tratando-se de conteúdo provavelmente falso ou de mod.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mgnE6T61FFs",
+    "autor": "GTA 6 Daily",
+    "titulo": "5 Hidden Locations in GTA 6 (Free Money + Jet) #gta",
+    "video_id": "mgnE6T61FFs",
+    "imagem": "https://i.ytimg.com/vi/mgnE6T61FFs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:54:21+00:00",
+  "atualizado": "2026-11-26T08:54:21+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-deposito-com-cofre",
+  "titulo": "Depósito com cofre",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Um armazém escondido contendo dinheiro, um cartão colecionável e mercadoria vendável.",
+  "resumo_original": "Hidden warehouse with a safe: cash, a collectible card and a stash you can sell.",
+  "passos": [
+   "Localize o armazém secreto.",
+   "Abra o cofre para coletar itens e dinheiro."
+  ],
+  "locais": [
+   {
+    "nome": "Armazém oculto",
+    "onde": "",
+    "detalhe": "Contém um cofre com dinheiro e itens colecionáveis"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é uma compilação de especulações e imagens não oficiais de GTA 6, tratando-se de conteúdo provavelmente falso ou de mod.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mgnE6T61FFs",
+    "autor": "GTA 6 Daily",
+    "titulo": "5 Hidden Locations in GTA 6 (Free Money + Jet) #gta",
+    "video_id": "mgnE6T61FFs",
+    "imagem": "https://i.ytimg.com/vi/mgnE6T61FFs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:54:21+00:00",
+  "atualizado": "2026-11-26T08:54:21+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-ovo-da-torre",
+  "titulo": "Ovo da Torre",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Pegue um ovo em um ninho no topo de uma torre e jogue-o lá de cima.",
+  "resumo_original": "Grab it from the nest and throw it off the top.",
+  "passos": [
+   "Suba até o topo da torre.",
+   "Pegue o ovo no ninho.",
+   "Jogue o ovo do topo da torre."
+  ],
+  "locais": [
+   {
+    "nome": "Torre",
+    "onde": "",
+    "detalhe": "Topo da torre com um ninho"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é uma compilação de especulações e imagens não oficiais de GTA 6, tratando-se de conteúdo provavelmente falso ou de mod.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mgnE6T61FFs",
+    "autor": "GTA 6 Daily",
+    "titulo": "5 Hidden Locations in GTA 6 (Free Money + Jet) #gta",
+    "video_id": "mgnE6T61FFs",
+    "imagem": "https://i.ytimg.com/vi/mgnE6T61FFs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:54:21+00:00",
+  "atualizado": "2026-11-26T08:54:21+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-jato-de-combate-na-mile-zero-air-station",
+  "titulo": "Jato de combate na Mile Zero Air Station",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Base militar onde é possível roubar um jato de combate.",
+  "resumo_original": "Mile Zero Air Station: a military base with fighter jets.",
+  "passos": [
+   "Infiltre-se na base militar Mile Zero Air Station.",
+   "Localize um jato de combate e roube-o."
+  ],
+  "locais": [
+   {
+    "nome": "Mile Zero Air Station",
+    "onde": "",
+    "detalhe": "Base militar com jatos"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é uma compilação de especulações e imagens não oficiais de GTA 6, tratando-se de conteúdo provavelmente falso ou de mod.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mgnE6T61FFs",
+    "autor": "GTA 6 Daily",
+    "titulo": "5 Hidden Locations in GTA 6 (Free Money + Jet) #gta",
+    "video_id": "mgnE6T61FFs",
+    "imagem": "https://i.ytimg.com/vi/mgnE6T61FFs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:54:21+00:00",
+  "atualizado": "2026-11-26T08:54:21+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-armas-douradas-lendarias",
+  "titulo": "Armas Douradas Lendárias",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "O vídeo alega listar a localização de 19 armas lendárias e douradas gratuitas espalhadas pelo mapa de GTA 6.",
+  "resumo_original": "19 FREE Weapons You MUST Get in GTA 6! (All Locations)",
+  "passos": [
+   "O vídeo não apresenta nenhuma localização, método ou nome de arma específica, servindo apenas como uma chamada para o conteúdo."
+  ],
+  "locais": [
+   {
+    "nome": "Não informado",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo de 'clickbait'. Apesar do título prometer localizações de 19 armas, o conteúdo não apresenta nenhuma informação factual, local ou tutorial real sobre o jogo, tratando-se apenas de uma montagem promocional.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=dpW7nLH_M6o",
+    "autor": "Nerpah",
+    "titulo": "GTA 6 - 19 OVERPOWERED Weapons You Don't Want to Miss! (BEST GUNS)",
+    "video_id": "dpW7nLH_M6o",
+    "imagem": "https://i.ytimg.com/vi/dpW7nLH_M6o/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T08:54:15+00:00",
+  "atualizado": "2026-11-26T08:54:15+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-delights",
+  "titulo": "Assalto ao Delights",
+  "categoria": "heist",
+  "regiao": "Port Gellhorn",
+  "resumo": "Roubo realizado pela dupla com a ajuda de Vicki, uma dançarina do local.",
+  "resumo_original": "Jason and Lucia begin carrying out robberies across Kelly County, eventually helping Vicki rob Delights.",
+  "passos": [
+   "Conheça Vicki em Delights",
+   "Planeje o roubo",
+   "Execute a ação"
+  ],
+  "locais": [
+   {
+    "nome": "Delights",
+    "onde": "Port Gellhorn",
+    "detalhe": "Clube onde Vicki trabalha"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Capítulo 2",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T13:05:13+00:00",
   "atualizado": "2026-11-26T04:59:43+00:00",
   "status": "retido"
  },
@@ -4561,45 +5600,6 @@
   "status": "retido"
  },
  {
-  "id": "car-pegassi-infernus-96",
-  "titulo": "Pegassi Infernus '96",
-  "categoria": "car",
-  "regiao": "Vice City",
-  "resumo": "Veículo secreto disponível na garagem da delegacia, listado como item para a missão do Randy.",
-  "resumo_original": "Pegassi Infernus '96: police station garage, Crosstown, Vice City (level 7, Randy's list)",
-  "passos": [
-   "Vá até a delegacia em Crosstown",
-   "Acesse a garagem",
-   "Recupere o veículo conforme a lista do Randy"
-  ],
-  "locais": [
-   {
-    "nome": "Delegacia de Polícia",
-    "onde": "Crosstown, Vice City",
-    "detalhe": "Garagem da delegacia"
-   }
-  ],
-  "dificuldade": 3,
-  "tempo": "N/A",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo baseado em rumores de vídeo estilo 'clickbait'. Não há confirmação oficial sobre a existência deste veículo ou mecânica em GTA 6.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=jRoAaCIsims",
-    "autor": "Phill GTA 6",
-    "titulo": "5 Secret Cars in GTA 6 and Where to Find Them",
-    "video_id": "jRoAaCIsims",
-    "imagem": "https://i.ytimg.com/vi/jRoAaCIsims/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-25T08:58:56+00:00",
-  "atualizado": "2026-11-25T08:58:56+00:00",
-  "status": "retido"
- },
- {
   "id": "car-muscle-car-liveria-copperheads",
   "titulo": "Muscle Car (Liveria Copperheads)",
   "categoria": "car",
@@ -6994,37 +7994,6 @@
   "criado": "2026-11-24T20:44:53+00:00",
   "atualizado": "2026-11-24T20:44:53+00:00",
   "status": "confirmado"
- },
- {
-  "id": "gun-11-armas-raras",
-  "titulo": "11 Armas Raras",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Guia para encontrar 11 armas raras, incluindo pistolas, espingardas, fuzis, submetralhadoras e um lança-foguetes no Capítulo 1.",
-  "resumo_original": "Best 11 Rare Weapons In GTA 6 You Can Grab In Chapter 1",
-  "passos": [
-   "Siga os locais indicados no vídeo para coletar as armas"
-  ],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O conteúdo do vídeo não apresenta localizações reais ou provas concretas das armas citadas, tratando-se de uma especulação ou clickbait comum em vídeos sobre o jogo que ainda não foi lançado oficialmente.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=SCFMO8oZxkQ",
-    "autor": "Hubba GTA",
-    "titulo": "Best 11 Rare Weapons In GTA 6 You Can Grab In Chapter 1",
-    "video_id": "SCFMO8oZxkQ",
-    "imagem": "https://i.ytimg.com/vi/SCFMO8oZxkQ/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-24T20:44:37+00:00",
-  "atualizado": "2026-11-24T20:44:37+00:00",
-  "status": "retido"
  },
  {
   "id": "gun-pistola-assassin-nipper-38-silenciada",
