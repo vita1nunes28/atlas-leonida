@@ -1,5 +1,654 @@
 [
  {
+  "id": "heist-roubo-ao-sinfrontera-national-bank",
+  "titulo": "Roubo ao Sinfrontera National Bank",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo de alto nível em um banco usado para lavagem de dinheiro de um cartel, realizado pelo grupo de Raul Bautista.",
+  "resumo_original": "A robbery of Sinfrontera National Bank, where money belonging to a drug cartel is being laundered.",
+  "passos": [
+   "Ser recrutado pelo criminoso Raul Bautista",
+   "Planejar a operação com a equipe",
+   "Executar o assalto ao banco Sinfrontera"
+  ],
+  "locais": [
+   {
+    "nome": "Sinfrontera National Bank",
+    "onde": "Vice City",
+    "detalhe": "Banco utilizado por cartéis para lavagem de dinheiro"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Capítulo 3",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-26T00:49:53+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-coleta-no-grassrivers-visitor-center",
+  "titulo": "Coleta no Grassrivers Visitor Center",
+  "categoria": "heist",
+  "regiao": "Grassrivers",
+  "resumo": "Uma missão de coleta que termina em emboscada policial e disputa com policiais corruptos.",
+  "resumo_original": "Jason and Lucia retrieve a bag from the Grassrivers Visitor Center, but are ambushed by police officers.",
+  "passos": [
+   "Ir até o centro de visitantes",
+   "Recuperar a bolsa alvo",
+   "Escapar da emboscada de Aldo Méndez"
+  ],
+  "locais": [
+   {
+    "nome": "Grassrivers Visitor Center",
+    "onde": "Grassrivers",
+    "detalhe": "Local da emboscada"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Capítulo 1",
+  "ganho": 10000,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-26T00:49:53+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-delights",
+  "titulo": "Assalto ao Delights",
+  "categoria": "heist",
+  "regiao": "Port Gellhorn",
+  "resumo": "Roubo realizado pela dupla com a ajuda de Vicki, uma dançarina do local.",
+  "resumo_original": "Jason and Lucia begin carrying out robberies across Kelly County, eventually helping Vicki rob Delights.",
+  "passos": [
+   "Conheça Vicki em Delights",
+   "Planeje o roubo",
+   "Execute a ação"
+  ],
+  "locais": [
+   {
+    "nome": "Delights",
+    "onde": "Port Gellhorn",
+    "detalhe": "Clube onde Vicki trabalha"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Capítulo 2",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T13:05:13+00:00",
+  "atualizado": "2026-11-26T00:49:53+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-aeroporto-internacional",
+  "titulo": "Assalto ao Aeroporto Internacional",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Roubo a uma organização criminosa liderada por Kordell Grant operando no aeroporto.",
+  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant, whose operations involve Vice City International Airport.",
+  "passos": [
+   "Infiltre-se na organização de Kordell Grant",
+   "Reúna informações sobre a operação",
+   "Execute o assalto no aeroporto"
+  ],
+  "locais": [
+   {
+    "nome": "Vice City International Airport",
+    "onde": "Vice City",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T04:59:08+00:00",
+  "atualizado": "2026-11-26T00:49:53+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-arsenal-de-armas-de-gta-vi",
+  "titulo": "Arsenal de Armas de GTA VI",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Lista completa de armas confirmadas para GTA VI, categorizadas por tipo.",
+  "resumo_original": "List of weapons appearing in Grand Theft Auto VI.",
+  "passos": [
+   "Consulte a lista categorizada: Armas brancas, pistolas, revólveres, escopetas, submetralhadoras, fuzis de assalto, fuzis táticos, fuzis de precisão, metralhadoras, lançadores e arremessáveis."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/table",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/table",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-26T00:49:49+00:00",
+  "atualizado": "2026-11-26T00:49:49+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-carros-raros-do-capitulo-2-e-3",
+  "titulo": "Carros Raros do Capítulo 2 e 3",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "O vídeo menciona a existência de 10 carros raros espalhados pelo mapa, divididos entre o Capítulo 2 e o Capítulo 3, incluindo modelos como uma Lamborghini Dourada.",
+  "resumo_original": "10 carros mais raros já encontrados no GTA 6 e onde pegar cada um deles de graça no mapa.",
+  "passos": [
+   "Avance até o Capítulo 2 ou 3 conforme a exigência do veículo",
+   "Vá até a localização secreta mencionada no vídeo",
+   "Capture o veículo",
+   "Salve o veículo na garagem imediatamente para evitar que desapareça"
+  ],
+  "locais": [
+   {
+    "nome": "Vice City e arredores",
+    "onde": "Leonida",
+    "detalhe": "Localizações específicas não detalhadas no texto"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Não especificado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo apresenta clickbait clássico de YouTube. Como o GTA 6 ainda não foi lançado oficialmente (data deste guia), o conteúdo é especulativo ou baseado em mods/clickbait.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=gpcl62egBBw",
+    "autor": "Peregini",
+    "titulo": "OS 10 CARROS MAIS RAROS JÁ ENCONTRADOS NO GTA 6",
+    "video_id": "gpcl62egBBw",
+    "imagem": "https://i.ytimg.com/vi/gpcl62egBBw/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:49:33+00:00",
+  "atualizado": "2026-11-26T00:49:33+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-missao-secundaria-serial-killer-pessoas-desaparecidas",
+  "titulo": "Missão Secundária: Serial Killer (Pessoas Desaparecidas)",
+  "categoria": "col",
+  "regiao": "Port Gellhorn",
+  "resumo": "Investigue pistas sobre um serial killer para encontrar corpos ocultos em diversos locais de Leonida.",
+  "resumo_original": "Hidden serial killer side-quest to investigate creepy photos found in an abandoned red hangar.",
+  "passos": [
+   "Vá até a Kelly County Tip Line em Port Gellhorn no Capítulo 2.",
+   "Localize o hangar vermelho abandonado próximo à auto peças Moses' Watkins Auto Parts.",
+   "Investigue as fotos encontradas no hangar para iniciar a busca pelos corpos."
+  ],
+  "locais": [
+   {
+    "nome": "Kelly County Tip Line",
+    "onde": "Port Gellhorn",
+    "detalhe": "Ponto de partida da missão."
+   },
+   {
+    "nome": "Hangar Vermelho",
+    "onde": "Próximo à Moses' Watkins Auto Parts",
+    "detalhe": "Local onde as fotos e pistas estão escondidas."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O autor afirma ser parceiro oficial da Rockstar, mas o jogo GTA 6 ainda não foi lançado. O conteúdo é tratado como especulação ou material fictício.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=zVYs8kleLg8",
+    "autor": "I.Eat.Games.",
+    "titulo": "GTA6: SECRET Serial Killer mission: All 3 body Locations revealed (Missing Persons FULL Walkthrough)",
+    "video_id": "zVYs8kleLg8",
+    "imagem": "https://i.ytimg.com/vi/zVYs8kleLg8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:49:25+00:00",
+  "atualizado": "2026-11-26T00:49:25+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-metodo-de-farm-de-dinheiro-na-apollo-aggregates",
+  "titulo": "Método de Farm de Dinheiro na Apollo Aggregates",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método para ganhar dinheiro rapidamente utilizando uma van na Apollo Aggregates, troca de personagens e venda de estoques.",
+  "resumo_original": "Money farm method using the van setup at Apollo Aggregates, character swap trick, and selling to Tyrone and Dunk.",
+  "passos": [
+   "Vá até Apollo Aggregates",
+   "Utilize a van para setup",
+   "Execute o truque de troca de personagens",
+   "Maximize o armazenamento de bolsas",
+   "Venda os itens para os NPCs Tyrone e Dunk"
+  ],
+  "locais": [
+   {
+    "nome": "Apollo Aggregates",
+    "onde": "",
+    "detalhe": "Local do setup da van"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "1 hora",
+  "ganho": 500000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata-se de um conteúdo sensacionalista e especulativo sobre um jogo que ainda não foi lançado, tratando o método como um 'glitch' ou 'exploit' de forma genérica.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=L7MoLDyptV8",
+    "autor": "NIXNE",
+    "titulo": "GTA 6 - The Best Unlimited Money Farm",
+    "video_id": "L7MoLDyptV8",
+    "imagem": "https://i.ytimg.com/vi/L7MoLDyptV8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:48:58+00:00",
+  "atualizado": "2026-11-26T00:48:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-lcc-midnight-sun-avarus",
+  "titulo": "LCC Midnight Sun Avarus",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Motocicleta chopper única e rara localizada em Hamlet.",
+  "resumo_original": "LCC Midnight Sun Avarus in Hamlet",
+  "passos": [
+   "Vá até a localidade de Hamlet.",
+   "Procure pela moto LCC Midnight Sun Avarus."
+  ],
+  "locais": [
+   {
+    "nome": "Hamlet",
+    "onde": "Hamlet",
+    "detalhe": "Localização da moto LCC Midnight Sun Avarus"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "30 segundos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eohh-4vQCOs",
+    "autor": "LunarGaming",
+    "titulo": "GTA 6 – All 7 Unique CHOPPER Motorcycle Locations (Rare Standout Cars)",
+    "video_id": "eohh-4vQCOs",
+    "imagem": "https://i.ytimg.com/vi/eohh-4vQCOs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:48:53+00:00",
+  "atualizado": "2026-11-26T00:48:53+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-searing-zombie-bobber",
+  "titulo": "Searing Zombie Bobber",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Motocicleta chopper rara encontrada no laboratório de metanfetamina Farm Fix.",
+  "resumo_original": "Searing Zombie Bobber at Farm Fix Meth Lab",
+  "passos": [
+   "Vá até o laboratório de metanfetamina Farm Fix.",
+   "Localize a Searing Zombie Bobber."
+  ],
+  "locais": [
+   {
+    "nome": "Farm Fix Meth Lab",
+    "onde": "Laboratório de metanfetamina",
+    "detalhe": "Local onde a Searing Zombie Bobber está estacionada"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "30 segundos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eohh-4vQCOs",
+    "autor": "LunarGaming",
+    "titulo": "GTA 6 – All 7 Unique CHOPPER Motorcycle Locations (Rare Standout Cars)",
+    "video_id": "eohh-4vQCOs",
+    "imagem": "https://i.ytimg.com/vi/eohh-4vQCOs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:48:53+00:00",
+  "atualizado": "2026-11-26T00:48:53+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-lcc-monarch-avarus",
+  "titulo": "LCC Monarch Avarus",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Motocicleta chopper rara situada no bar Thirsty Wolf.",
+  "resumo_original": "LCC Monarch Avarus at Thirsty Wolf",
+  "passos": [
+   "Dirija-se ao bar Thirsty Wolf.",
+   "Encontre a LCC Monarch Avarus."
+  ],
+  "locais": [
+   {
+    "nome": "Thirsty Wolf",
+    "onde": "Bar",
+    "detalhe": "Localização da LCC Monarch Avarus"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "30 segundos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eohh-4vQCOs",
+    "autor": "LunarGaming",
+    "titulo": "GTA 6 – All 7 Unique CHOPPER Motorcycle Locations (Rare Standout Cars)",
+    "video_id": "eohh-4vQCOs",
+    "imagem": "https://i.ytimg.com/vi/eohh-4vQCOs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:48:53+00:00",
+  "atualizado": "2026-11-26T00:48:53+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-cultist-nightblade",
+  "titulo": "Cultist Nightblade",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Motocicleta chopper rara escondida na região de Salton.",
+  "resumo_original": "Cultist Nightblade in Salton",
+  "passos": [
+   "Vá até Salton.",
+   "Procure pela Cultist Nightblade."
+  ],
+  "locais": [
+   {
+    "nome": "Salton",
+    "onde": "Salton",
+    "detalhe": "Localização da Cultist Nightblade"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "30 segundos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eohh-4vQCOs",
+    "autor": "LunarGaming",
+    "titulo": "GTA 6 – All 7 Unique CHOPPER Motorcycle Locations (Rare Standout Cars)",
+    "video_id": "eohh-4vQCOs",
+    "imagem": "https://i.ytimg.com/vi/eohh-4vQCOs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:48:53+00:00",
+  "atualizado": "2026-11-26T00:48:53+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-emerald-zombie-bobber",
+  "titulo": "Emerald Zombie Bobber",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Motocicleta chopper rara encontrada em Grayson.",
+  "resumo_original": "Emerald Zombie Bobber in Grayson",
+  "passos": [
+   "Vá até Grayson.",
+   "Localize a Emerald Zombie Bobber."
+  ],
+  "locais": [
+   {
+    "nome": "Grayson",
+    "onde": "Grayson",
+    "detalhe": "Localização da Emerald Zombie Bobber"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "30 segundos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eohh-4vQCOs",
+    "autor": "LunarGaming",
+    "titulo": "GTA 6 – All 7 Unique CHOPPER Motorcycle Locations (Rare Standout Cars)",
+    "video_id": "eohh-4vQCOs",
+    "imagem": "https://i.ytimg.com/vi/eohh-4vQCOs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:48:53+00:00",
+  "atualizado": "2026-11-26T00:48:53+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-hellraiser-avarus",
+  "titulo": "Hellraiser Avarus",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Motocicleta chopper rara localizada em Millport.",
+  "resumo_original": "Hellraiser Avarus in Millport",
+  "passos": [
+   "Vá até Millport.",
+   "Procure pela Hellraiser Avarus."
+  ],
+  "locais": [
+   {
+    "nome": "Millport",
+    "onde": "Millport",
+    "detalhe": "Localização da Hellraiser Avarus"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "30 segundos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eohh-4vQCOs",
+    "autor": "LunarGaming",
+    "titulo": "GTA 6 – All 7 Unique CHOPPER Motorcycle Locations (Rare Standout Cars)",
+    "video_id": "eohh-4vQCOs",
+    "imagem": "https://i.ytimg.com/vi/eohh-4vQCOs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:48:53+00:00",
+  "atualizado": "2026-11-26T00:48:53+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-final-chapter-avarus",
+  "titulo": "Final Chapter Avarus",
+  "categoria": "car",
+  "regiao": "Ambrosia",
+  "resumo": "Motocicleta chopper rara encontrada na região de Ambrosia.",
+  "resumo_original": "Final Chapter Avarus in Ambrosia",
+  "passos": [
+   "Vá até Ambrosia.",
+   "Encontre a Final Chapter Avarus."
+  ],
+  "locais": [
+   {
+    "nome": "Ambrosia",
+    "onde": "Ambrosia",
+    "detalhe": "Localização da Final Chapter Avarus"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "30 segundos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eohh-4vQCOs",
+    "autor": "LunarGaming",
+    "titulo": "GTA 6 – All 7 Unique CHOPPER Motorcycle Locations (Rare Standout Cars)",
+    "video_id": "eohh-4vQCOs",
+    "imagem": "https://i.ytimg.com/vi/eohh-4vQCOs/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:48:53+00:00",
+  "atualizado": "2026-11-26T00:48:53+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-lista-de-desejos-do-randy",
+  "titulo": "Lista de Desejos do Randy",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Uma série de missões onde você deve localizar, roubar e entregar veículos de alto padrão para o personagem Randy.",
+  "resumo_original": "Randy's Wish List tasks you with tracking down and stealing a collection of high-end vehicles across Leonida.",
+  "passos": [
+   "Desbloqueie o 'Key Cloner' (Clonador de Chaves) no Capítulo 3.",
+   "Obtenha informações (intel) do Randy sobre os alvos.",
+   "Localize o veículo em áreas como concessionárias, propriedades de luxo ou encontros de carros.",
+   "Repare o veículo, se necessário, antes de realizar a entrega."
+  ],
+  "locais": [
+   {
+    "nome": "Vários",
+    "onde": "Estado de Leonida",
+    "detalhe": "Os veículos aparecem em locais como concessionárias, áreas de luxo e encontros de carros, muitas vezes exigindo o intel do Randy."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=N9lKYTUa9rg",
+    "autor": "IGN",
+    "titulo": "GTA 6: All Randy's Car Locations | Complete Randy's Wish List Guide",
+    "video_id": "N9lKYTUa9rg",
+    "imagem": "https://i.ytimg.com/vi/N9lKYTUa9rg/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:48:44+00:00",
+  "atualizado": "2026-11-26T00:48:44+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-clonador-de-chaves-key-cloner",
+  "titulo": "Clonador de Chaves (Key Cloner)",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Ferramenta essencial para roubar veículos da Lista de Desejos do Randy.",
+  "resumo_original": "How to unlock the Key Cloner in Chapter 3.",
+  "passos": [
+   "Avance até o Capítulo 3 da história principal para liberar o acesso ao item."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "Durante o Capítulo 3",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=N9lKYTUa9rg",
+    "autor": "IGN",
+    "titulo": "GTA 6: All Randy's Car Locations | Complete Randy's Wish List Guide",
+    "video_id": "N9lKYTUa9rg",
+    "imagem": "https://i.ytimg.com/vi/N9lKYTUa9rg/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:48:44+00:00",
+  "atualizado": "2026-11-26T00:48:44+00:00",
+  "status": "retido"
+ },
+ {
   "id": "farm-glitch-da-van-dinheiro-infinito",
   "titulo": "Glitch da Van (Dinheiro Infinito)",
   "categoria": "farm",
@@ -1151,84 +1800,6 @@
   "status": "retido"
  },
  {
-  "id": "heist-roubo-ao-sinfrontera-national-bank",
-  "titulo": "Roubo ao Sinfrontera National Bank",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Um roubo de alto nível em um banco usado para lavagem de dinheiro de um cartel, realizado pelo grupo de Raul Bautista.",
-  "resumo_original": "A robbery of Sinfrontera National Bank, where money belonging to a drug cartel is being laundered.",
-  "passos": [
-   "Ser recrutado pelo criminoso Raul Bautista",
-   "Planejar a operação com a equipe",
-   "Executar o assalto ao banco Sinfrontera"
-  ],
-  "locais": [
-   {
-    "nome": "Sinfrontera National Bank",
-    "onde": "Vice City",
-    "detalhe": "Banco utilizado por cartéis para lavagem de dinheiro"
-   }
-  ],
-  "dificuldade": 3,
-  "tempo": "Capítulo 3",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-25T13:05:13+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-coleta-no-grassrivers-visitor-center",
-  "titulo": "Coleta no Grassrivers Visitor Center",
-  "categoria": "heist",
-  "regiao": "Grassrivers",
-  "resumo": "Uma missão de coleta que termina em emboscada policial e disputa com policiais corruptos.",
-  "resumo_original": "Jason and Lucia retrieve a bag from the Grassrivers Visitor Center, but are ambushed by police officers.",
-  "passos": [
-   "Ir até o centro de visitantes",
-   "Recuperar a bolsa alvo",
-   "Escapar da emboscada de Aldo Méndez"
-  ],
-  "locais": [
-   {
-    "nome": "Grassrivers Visitor Center",
-    "onde": "Grassrivers",
-    "detalhe": "Local da emboscada"
-   }
-  ],
-  "dificuldade": 2,
-  "tempo": "Capítulo 1",
-  "ganho": 10000,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-25T13:05:13+00:00",
-  "status": "retido"
- },
- {
   "id": "heist-assalto-ao-aeroporto-internacional-de-vice-city",
   "titulo": "Assalto ao Aeroporto Internacional de Vice City",
   "categoria": "heist",
@@ -1264,45 +1835,6 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-25T13:05:13+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-assalto-ao-delights",
-  "titulo": "Assalto ao Delights",
-  "categoria": "heist",
-  "regiao": "Port Gellhorn",
-  "resumo": "Roubo realizado pela dupla com a ajuda de Vicki, uma dançarina do local.",
-  "resumo_original": "Jason and Lucia begin carrying out robberies across Kelly County, eventually helping Vicki rob Delights.",
-  "passos": [
-   "Conheça Vicki em Delights",
-   "Planeje o roubo",
-   "Execute a ação"
-  ],
-  "locais": [
-   {
-    "nome": "Delights",
-    "onde": "Port Gellhorn",
-    "detalhe": "Clube onde Vicki trabalha"
-   }
-  ],
-  "dificuldade": 2,
-  "tempo": "Capítulo 2",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-25T13:05:13+00:00",
   "atualizado": "2026-11-25T13:05:13+00:00",
   "status": "retido"
  },
@@ -3481,45 +4013,6 @@
   "criado": "2026-11-23T02:38:31+00:00",
   "atualizado": "2026-11-25T08:56:21+00:00",
   "status": "aguardando"
- },
- {
-  "id": "heist-assalto-ao-aeroporto-internacional",
-  "titulo": "Assalto ao Aeroporto Internacional",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Roubo a uma organização criminosa liderada por Kordell Grant operando no aeroporto.",
-  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant, whose operations involve Vice City International Airport.",
-  "passos": [
-   "Infiltre-se na organização de Kordell Grant",
-   "Reúna informações sobre a operação",
-   "Execute o assalto no aeroporto"
-  ],
-  "locais": [
-   {
-    "nome": "Vice City International Airport",
-    "onde": "Vice City",
-    "detalhe": ""
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-25T04:59:08+00:00",
-  "atualizado": "2026-11-25T04:59:08+00:00",
-  "status": "retido"
  },
  {
   "id": "farm-estrategias-de-monetizacao-com-gta-6",
