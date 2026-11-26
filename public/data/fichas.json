@@ -35,7 +35,7 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-26T00:49:53+00:00",
+  "atualizado": "2026-11-26T04:59:43+00:00",
   "status": "retido"
  },
  {
@@ -74,7 +74,7 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-26T00:49:53+00:00",
+  "atualizado": "2026-11-26T04:59:43+00:00",
   "status": "retido"
  },
  {
@@ -113,8 +113,1350 @@
    }
   ],
   "criado": "2026-11-25T13:05:13+00:00",
-  "atualizado": "2026-11-26T00:49:53+00:00",
+  "atualizado": "2026-11-26T04:59:43+00:00",
   "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-aeroporto-internacional-de-vice-city",
+  "titulo": "Assalto ao Aeroporto Internacional de Vice City",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo planejado contra a organização criminosa de Kordell Grant, infiltrando-se nas operações do aeroporto.",
+  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant, whose operations involve Vice City International Airport.",
+  "passos": [
+   "Infiltrar-se na organização de Kordell Grant",
+   "Coletar informações sobre a segurança",
+   "Executar o assalto no aeroporto"
+  ],
+  "locais": [
+   {
+    "nome": "Vice City International Airport",
+    "onde": "Vice City",
+    "detalhe": "Base de operações de Kordell Grant"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Capítulo 4",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-26T04:59:43+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-glitch-de-dinheiro-com-vans",
+  "titulo": "Glitch de dinheiro com vans",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método de exploração de falha no jogo utilizando os personagens Jason e Lucia com vans para obter dinheiro rapidamente.",
+  "resumo_original": "Novo método de glitch utilizando as vans e os personagens Jason e Lucia para otimizar o farm de dinheiro.",
+  "passos": [
+   "Utilize os personagens Jason e Lucia.",
+   "Posicione as vans conforme mostrado no vídeo para realizar o procedimento."
+  ],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "Mapa de Leonida",
+    "detalhe": "O vídeo apenas mostra uma garagem genérica no ambiente de jogo."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata-se de um conteúdo sensacionalista (clickbait) comum em canais que buscam visualizações com promessas de 'glitches' em jogos que sequer foram lançados oficialmente ou que não apresentam evidências reais do método funcionando no vídeo. O GTA 6 ainda não possui uma versão pública estável para tais métodos.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=aGwsurCVHsI",
+    "autor": "Guedes Games",
+    "titulo": "GTA 6 - O GLITCH DE DINHEIRO !! NOVO MÉTODO !! FAZ AGORA !!!!",
+    "video_id": "aGwsurCVHsI",
+    "imagem": "https://i.ytimg.com/vi/aGwsurCVHsI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:59:38+00:00",
+  "atualizado": "2026-11-26T04:59:38+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-banco-fleeca",
+  "titulo": "Assalto ao Banco Fleeca",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Roubo a banco utilizando Jason e Lucia para obter ganhos financeiros rápidos.",
+  "resumo_original": "Roubo a banco com Jason e Lucia.",
+  "passos": [
+   "Utilize Jason e Lucia para realizar o assalto",
+   "Controle o local e gerencie a fuga da polícia"
+  ],
+  "locais": [
+   {
+    "nome": "Banco Fleeca",
+    "onde": "Estado de Leonida",
+    "detalhe": "Banco identificado pela fachada no vídeo"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "10 minutos",
+  "ganho": 100000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um material de 'clickbait' promocional. Não apresenta demonstração real de jogabilidade ou guia técnico detalhado, apenas utiliza imagens genéricas para atrair cliques.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=T8mj3vkbk3c",
+    "autor": "GameSnooK",
+    "titulo": "GUIA: Como Roubar os Bancos e Cofres no GTA 6 - $100,000 em 10 Minutos",
+    "video_id": "T8mj3vkbk3c",
+    "imagem": "https://i.ytimg.com/vi/T8mj3vkbk3c/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:59:34+00:00",
+  "atualizado": "2026-11-26T04:59:34+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-mclaren-senna",
+  "titulo": "McLaren Senna",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização do supercarro baseado na McLaren Senna.",
+  "resumo_original": "Macleren Sena.",
+  "passos": [
+   "Assista ao capítulo do vídeo aos 02:56 para encontrar a localização."
+  ],
+  "locais": [
+   {
+    "nome": "Localização da McLaren Senna",
+    "onde": "Não especificado no texto",
+    "detalhe": "Verificar capítulo 02:56 do vídeo fonte."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "1 minuto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte não descreve os locais no texto, apenas menciona que estão presentes nos capítulos do vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eaQnrDX6tKQ",
+    "autor": "HELLOO",
+    "titulo": "Where to Find 7 Rare Cars in GTA 6 | SF90, Urus & More",
+    "video_id": "eaQnrDX6tKQ",
+    "imagem": "https://i.ytimg.com/vi/eaQnrDX6tKQ/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=S_zs8wAdnDI",
+    "autor": "Garcia Gamer ",
+    "titulo": "5 CARROS SECRETOS de luxo em GTA 6",
+    "video_id": "S_zs8wAdnDI",
+    "imagem": "https://i.ytimg.com/vi/S_zs8wAdnDI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:57:48+00:00",
+  "atualizado": "2026-11-26T04:59:26+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-carros-secretos-em-mansao",
+  "titulo": "Carros Secretos em Mansão",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização de uma mansão contendo três carros de luxo, incluindo uma Lamborghini.",
+  "resumo_original": "uma mansão com 3 carros de luxo, incluindo uma Lamborghini incrível",
+  "passos": [
+   "Localize a mansão indicada no mapa.",
+   "Utilize uma chave clonada caso necessário para acessar os veículos."
+  ],
+  "locais": [
+   {
+    "nome": "Mansão",
+    "onde": "Mapa de GTA 6",
+    "detalhe": "Contém 3 carros de luxo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo não fornece localizações específicas ou métodos claros, tratando-se de conteúdo sensacionalista típico de pré-lançamento.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=S_zs8wAdnDI",
+    "autor": "Garcia Gamer ",
+    "titulo": "5 CARROS SECRETOS de luxo em GTA 6",
+    "video_id": "S_zs8wAdnDI",
+    "imagem": "https://i.ytimg.com/vi/S_zs8wAdnDI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:59:26+00:00",
+  "atualizado": "2026-11-26T04:59:26+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-supercarro-estilo-need-for-speed",
+  "titulo": "Supercarro estilo Need for Speed",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo esportivo com estética inspirada na franquia Need for Speed.",
+  "resumo_original": "um supercarro estilo Need for Speed",
+  "passos": [
+   "Procure pelo supercarro no mapa de Leonida."
+  ],
+  "locais": [
+   {
+    "nome": "Mapa de GTA 6",
+    "onde": "Mundo aberto",
+    "detalhe": "Estilo Need for Speed"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Não há informações concretas ou evidências visuais que comprovem a localização ou a existência deste veículo específico.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=S_zs8wAdnDI",
+    "autor": "Garcia Gamer ",
+    "titulo": "5 CARROS SECRETOS de luxo em GTA 6",
+    "video_id": "S_zs8wAdnDI",
+    "imagem": "https://i.ytimg.com/vi/S_zs8wAdnDI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:59:26+00:00",
+  "atualizado": "2026-11-26T04:59:26+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-raro-1",
+  "titulo": "Carro Raro 1",
+  "categoria": "car",
+  "regiao": "Port Gellhorn",
+  "resumo": "Localização de um veículo raro na região de Port Gellhorn.",
+  "resumo_original": "Localização de um veículo raro na região de Port Gellhorn.",
+  "passos": [
+   "Vá até a marcação de tempo 0:20 no vídeo para identificar o local."
+  ],
+  "locais": [
+   {
+    "nome": "Port Gellhorn",
+    "onde": "Port Gellhorn",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata de especulação/clickbait sobre GTA 6, utilizando imagens genéricas de outros jogos ou mods sem comprovação real de jogabilidade ou localização confirmada no jogo final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=AjY94rEYk3I",
+    "autor": "Efieni",
+    "titulo": "4 Localizações de CARROS RAROS Encondidos no GTA 6!",
+    "video_id": "AjY94rEYk3I",
+    "imagem": "https://i.ytimg.com/vi/AjY94rEYk3I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:59:22+00:00",
+  "atualizado": "2026-11-26T04:59:22+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-raro-3",
+  "titulo": "Carro Raro 3",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Localização de um veículo raro na região de Vice City.",
+  "resumo_original": "Localização de um veículo raro na região de Vice City.",
+  "passos": [
+   "Vá até a marcação de tempo 3:48 no vídeo para identificar o local."
+  ],
+  "locais": [
+   {
+    "nome": "Vice City",
+    "onde": "Vice City",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata de especulação/clickbait sobre GTA 6, utilizando imagens genéricas de outros jogos ou mods sem comprovação real de jogabilidade ou localização confirmada no jogo final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=AjY94rEYk3I",
+    "autor": "Efieni",
+    "titulo": "4 Localizações de CARROS RAROS Encondidos no GTA 6!",
+    "video_id": "AjY94rEYk3I",
+    "imagem": "https://i.ytimg.com/vi/AjY94rEYk3I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:59:22+00:00",
+  "atualizado": "2026-11-26T04:59:22+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-lamborghini-roxo",
+  "titulo": "Lamborghini Roxo",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um veículo esportivo com pintura roxa metálica aparece sendo dirigido por um personagem no mundo do jogo.",
+  "resumo_original": "Purple Lamborghini shown in game footage.",
+  "passos": [
+   "Observe o tráfego em áreas urbanas para identificar o modelo."
+  ],
+  "locais": [
+   {
+    "nome": "Vice City (presumido)",
+    "onde": "Áreas urbanas do mapa",
+    "detalhe": "O veículo é visto trafegando em uma via pública."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo consiste apenas em uma reação a uma gameplay sem provas de que seja um veículo raro ou colecionável específico; pode ser apenas um veículo comum do tráfego.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Gb7W2Q_CewQ",
+    "autor": "Ferigato 2",
+    "titulo": "CARRO RARO NO GTA 6?? #gta6 #gameplay #games",
+    "video_id": "Gb7W2Q_CewQ",
+    "imagem": "https://i.ytimg.com/vi/Gb7W2Q_CewQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:59:17+00:00",
+  "atualizado": "2026-11-26T04:59:17+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-raro-esportivo-verde",
+  "titulo": "Carro Raro (Esportivo Verde)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Vídeo alega ter encontrado um carro raro em GTA 6, mas não apresenta provas de localização ou contexto oficial.",
+  "resumo_original": "Primeiro carro raro encontrado no GTA 6",
+  "passos": [
+   "O vídeo mostra apenas um carro esportivo verde dirigindo em uma via, sem indicar como encontrar, a região ou qualquer método de obtenção."
+  ],
+  "locais": [
+   {
+    "nome": "Não informado",
+    "onde": "",
+    "detalhe": "O vídeo não fornece coordenadas, nome da rua ou região no mapa."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo é sensacionalista e não oferece informações úteis ou evidências de que o veículo seja um item raro ou de localização fixa no jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=lmyX7siVsvk",
+    "autor": "Sr Pombo",
+    "titulo": "PRIMEIRO CARRO RARO É ENCONTRADO NO GTA 6 #gta6",
+    "video_id": "lmyX7siVsvk",
+    "imagem": "https://i.ytimg.com/vi/lmyX7siVsvk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:59:04+00:00",
+  "atualizado": "2026-11-26T04:59:04+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-mitsubishi-eclipse-referencia-ao-brian-o-conner",
+  "titulo": "Mitsubishi Eclipse (Referência ao Brian O'Conner)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um carro esportivo verde com faixas azuis que remete ao icônico veículo do personagem Brian O'Conner de Velozes e Furiosos.",
+  "resumo_original": "Mitsubishi Eclipse verde, com as famosas faixas azuis, que lembra muito o lendário carro do Brian!",
+  "passos": [
+   "Identificar o veículo no mapa, embora a localização exata não tenha sido fornecida pelo autor."
+  ],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "Mapa de GTA 6",
+    "detalhe": "A localização do veículo não foi revelada na fonte."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo é especulativo e baseado em uma imagem sem prova concreta de que o veículo faz parte do jogo final ou que seja um modelo dirigível.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=k2NEfAmMTrE",
+    "autor": "Stivensz",
+    "titulo": "Achei o PRIMEIRO carro raro do GTA 6 👀🚗🔥",
+    "video_id": "k2NEfAmMTrE",
+    "imagem": "https://i.ytimg.com/vi/k2NEfAmMTrE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:51+00:00",
+  "atualizado": "2026-11-26T04:58:51+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-raro-modelo-esportivo",
+  "titulo": "Carro Raro (Modelo Esportivo)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo raro de alto desempenho localizado dentro de uma garagem privada.",
+  "resumo_original": "4 Carros Raros na Mesma Ilha no GTA 6",
+  "passos": [
+   "Vá até a garagem indicada no vídeo.",
+   "Localize o veículo estacionado no interior do ambiente."
+  ],
+  "locais": [
+   {
+    "nome": "Garagem Privada",
+    "onde": "",
+    "detalhe": "Ambiente fechado com armários de oficina e bancadas."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo não especifica o nome do modelo do carro, nem a localização exata no mapa de Leonida, sendo apenas um clipe curto de exibição sem contexto geográfico.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=PoDlEe1691w",
+    "autor": "uStressed",
+    "titulo": "4 Carros Raros na Mesma Ilha no GTA 6",
+    "video_id": "PoDlEe1691w",
+    "imagem": "https://i.ytimg.com/vi/PoDlEe1691w/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:46+00:00",
+  "atualizado": "2026-11-26T04:58:46+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-de-grandes-bancos",
+  "titulo": "Roubo de Grandes Bancos",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Método para realizar assaltos a grandes bancos em Leonida sem acionar perseguições policiais.",
+  "resumo_original": "How to rob big banks... with NO POLICE CHASES.",
+  "passos": [
+   "Realize o planejamento estratégico antes da execução",
+   "Execute o assalto evitando alertas que chamem a polícia"
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "Não especificado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo apresenta-se como um guia, mas não fornece detalhes práticos, imagens de gameplay real ou evidências que comprovem a funcionalidade do método 'sem polícia' em um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=TYcNjVKinl8",
+    "autor": "Big Dan Gaming",
+    "titulo": "How to Do PERFECT HEISTS in GTA 6 (NO COPS)",
+    "video_id": "TYcNjVKinl8",
+    "imagem": "https://i.ytimg.com/vi/TYcNjVKinl8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:41+00:00",
+  "atualizado": "2026-11-26T04:58:41+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-a-joalheria",
+  "titulo": "Assalto a Joalheria",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Técnica para assaltar joalherias de forma profissional e garantir uma fuga limpa.",
+  "resumo_original": "Jewelry store heists... make a clean getaway without cops getting on your back.",
+  "passos": [
+   "Planeje a entrada e saída",
+   "Execute o roubo com precisão para não atrair a polícia"
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "Não especificado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo; não há evidências visuais no texto fornecido que confirmem a mecânica específica de roubos a joalherias no jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=TYcNjVKinl8",
+    "autor": "Big Dan Gaming",
+    "titulo": "How to Do PERFECT HEISTS in GTA 6 (NO COPS)",
+    "video_id": "TYcNjVKinl8",
+    "imagem": "https://i.ytimg.com/vi/TYcNjVKinl8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:41+00:00",
+  "atualizado": "2026-11-26T04:58:41+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-a-esconderijos-de-cartel",
+  "titulo": "Roubo a Esconderijos de Cartel",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Como invadir e roubar locais estratégicos pertencentes a cartéis em Leonida.",
+  "resumo_original": "Cartel hideout robberies...",
+  "passos": [
+   "Localize o esconderijo do cartel",
+   "Infiltre-se e realize o saque sem ser detectado pelas autoridades"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "Não especificado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A fonte é um vídeo de opinião/clickbait sem demonstração prática de mecânicas reais de GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=TYcNjVKinl8",
+    "autor": "Big Dan Gaming",
+    "titulo": "How to Do PERFECT HEISTS in GTA 6 (NO COPS)",
+    "video_id": "TYcNjVKinl8",
+    "imagem": "https://i.ytimg.com/vi/TYcNjVKinl8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:41+00:00",
+  "atualizado": "2026-11-26T04:58:41+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-bunker-do-presidente-easter-egg",
+  "titulo": "Bunker do Presidente (Easter Egg)",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Um bunker secreto com segredos sobre o assassinato do presidente em Leonida.",
+  "resumo_original": "Geheimer Präsidentenbunker",
+  "passos": [
+   "Siga os passos do homem no porto",
+   "Obtenha provas no apartamento",
+   "Vá até o bunker em Shark Island",
+   "Obtenha o código do cofre",
+   "Encontre o bunker final"
+  ],
+  "locais": [
+   {
+    "nome": "Shark Island",
+    "onde": "Bunker do Presidente",
+    "detalhe": "Local do Easter Egg principal"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "15 minutos",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata de especulações e 'Easter Eggs' sobre GTA 6 antes do lançamento do jogo, tratando-se de conteúdo ficcional/preditivo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tMNEm0Yphrc",
+    "autor": "JULEX",
+    "titulo": "Geheimen PRÄSIDENTENBUNKER freischalten in GTA 6 | Secret Location",
+    "video_id": "tMNEm0Yphrc",
+    "imagem": "https://i.ytimg.com/vi/tMNEm0Yphrc/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:30+00:00",
+  "atualizado": "2026-11-26T04:58:30+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-pistola-russo",
+  "titulo": "Pistola Russo",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma especial encontrada durante a investigação do bunker.",
+  "resumo_original": "Russo Pistole",
+  "passos": [
+   "Obtenha o código do cofre no bunker",
+   "Localize a arma"
+  ],
+  "locais": [
+   {
+    "nome": "Bunker",
+    "onde": "Bunker do Presidente",
+    "detalhe": "Dentro do cofre do bunker"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "10 minutos",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo baseado em teorias de pré-lançamento do GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tMNEm0Yphrc",
+    "autor": "JULEX",
+    "titulo": "Geheimen PRÄSIDENTENBUNKER freischalten in GTA 6 | Secret Location",
+    "video_id": "tMNEm0Yphrc",
+    "imagem": "https://i.ytimg.com/vi/tMNEm0Yphrc/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:30+00:00",
+  "atualizado": "2026-11-26T04:58:30+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-panzerwagen-veiculo-blindado",
+  "titulo": "Panzerwagen (Veículo Blindado)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo militar blindado obtido ao final da sequência do bunker.",
+  "resumo_original": "Panzerwagen",
+  "passos": [
+   "Complete a missão do bunker",
+   "Localize o veículo na área final"
+  ],
+  "locais": [
+   {
+    "nome": "Bunker",
+    "onde": "Bunker do Presidente",
+    "detalhe": "Local final da sequência"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "15 minutos",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo; o vídeo utiliza edições de montagem sobre o GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tMNEm0Yphrc",
+    "autor": "JULEX",
+    "titulo": "Geheimen PRÄSIDENTENBUNKER freischalten in GTA 6 | Secret Location",
+    "video_id": "tMNEm0Yphrc",
+    "imagem": "https://i.ytimg.com/vi/tMNEm0Yphrc/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:30+00:00",
+  "atualizado": "2026-11-26T04:58:30+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-crabshack-vf5-secret-smg",
+  "titulo": "Crabshack VF5 Secret SMG",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma submetralhadora oculta localizada no Crabshack.",
+  "resumo_original": "Secret SMG found at the Crabshack.",
+  "passos": [
+   "Vá até o Crabshack",
+   "Procure pela arma escondida no local"
+  ],
+  "locais": [
+   {
+    "nome": "Crabshack",
+    "onde": "",
+    "detalhe": "Local de exploração"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um Shorts genérico que não mostra a localização real ou o método de obtenção da arma, tratando-se de conteúdo provavelmente clickbait.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Mmu9A2BvEf4",
+    "autor": "Wizzite",
+    "titulo": "GTA 6: SECRET Underwater Outpost (No Spoilers)",
+    "video_id": "Mmu9A2BvEf4",
+    "imagem": "https://i.ytimg.com/vi/Mmu9A2BvEf4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:26+00:00",
+  "atualizado": "2026-11-26T04:58:26+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-cofre-do-crabshack",
+  "titulo": "Cofre do Crabshack",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Um cofre escondido dentro do Crabshack.",
+  "resumo_original": "Hidden safe at the Crabshack.",
+  "passos": [
+   "Explore o Crabshack",
+   "Localize o cofre escondido"
+  ],
+  "locais": [
+   {
+    "nome": "Crabshack",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo não fornece instruções visuais ou coordenadas, sendo uma alegação sem prova concreta no vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Mmu9A2BvEf4",
+    "autor": "Wizzite",
+    "titulo": "GTA 6: SECRET Underwater Outpost (No Spoilers)",
+    "video_id": "Mmu9A2BvEf4",
+    "imagem": "https://i.ytimg.com/vi/Mmu9A2BvEf4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:26+00:00",
+  "atualizado": "2026-11-26T04:58:26+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-arma-dourada-no-bunker",
+  "titulo": "Arma Dourada no Bunker",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Localização de um bunker contendo uma arma dourada.",
+  "resumo_original": "Bunker mit goldener Waffe",
+  "passos": [
+   "Localize o bunker no mapa conforme indicado no vídeo.",
+   "Entre no local para encontrar a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Bunker",
+    "onde": "",
+    "detalhe": "Contém uma arma dourada."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é uma compilação de 'segredos' de um jogo ainda não lançado (GTA 6). Trata-se de conteúdo especulativo ou clickbait, pois o jogo não estava disponível para exploração no momento da publicação.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9UHFvwA_tHU",
+    "autor": "JULEX",
+    "titulo": "Die 15 BESTEN Secret Locations aus GTA 6 | UFO, Bunker und GEHEIME Forschungsstation!",
+    "video_id": "9UHFvwA_tHU",
+    "imagem": "https://i.ytimg.com/vi/9UHFvwA_tHU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:23+00:00",
+  "atualizado": "2026-11-26T04:58:23+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-exploit-de-dinheiro-infinito",
+  "titulo": "Exploit de Dinheiro Infinito",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Método para obter dinheiro ilimitado no jogo.",
+  "resumo_original": "Unlimited Geld Trick",
+  "passos": [
+   "Siga o método demonstrado no capítulo 11:42 do vídeo."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo altamente improvável, considerando que o GTA 6 ainda não foi lançado. Provavelmente trata-se de clickbait ou desinformação sobre um jogo que não existe publicamente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9UHFvwA_tHU",
+    "autor": "JULEX",
+    "titulo": "Die 15 BESTEN Secret Locations aus GTA 6 | UFO, Bunker und GEHEIME Forschungsstation!",
+    "video_id": "9UHFvwA_tHU",
+    "imagem": "https://i.ytimg.com/vi/9UHFvwA_tHU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:23+00:00",
+  "atualizado": "2026-11-26T04:58:23+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-esconderijo-de-dinheiro-de-10-000",
+  "titulo": "Esconderijo de Dinheiro de $10.000",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Localização de um estoque de dinheiro escondido que rende $10.000, dividido em duas coletas de $5.000.",
+  "resumo_original": "GTA 6 SECRET MONEY LOCATION! $10,000 Cache!",
+  "passos": [
+   "Aproxime-se do baú de metal ao lado do veículo no local indicado.",
+   "Pressione o botão triângulo para coletar o dinheiro."
+  ],
+  "locais": [
+   {
+    "nome": "Baú de Dinheiro",
+    "onde": "Ao lado de um veículo com pintura temática e um pneu exposto.",
+    "detalhe": "O baú está aberto e contém maços de dinheiro visíveis."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Rápido",
+  "ganho": 10000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata-se de um conteúdo sensacionalista e especulativo, comum em miniaturas (thumbnails) de GTA 6 que não refletem gameplay real do jogo. Não há provas visuais confiáveis da localização no mapa.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=V9jA7pYuzR0",
+    "autor": "OutlawGarry",
+    "titulo": "GTA 6 SECRET MONEY LOCATION! $10,000 Cache!",
+    "video_id": "V9jA7pYuzR0",
+    "imagem": "https://i.ytimg.com/vi/V9jA7pYuzR0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:18+00:00",
+  "atualizado": "2026-11-26T04:58:18+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-de-caca-de-combate",
+  "titulo": "Roubo de Caça de Combate",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Roubo de um caça de combate avaliado em 100 milhões de dólares com perseguição policial de 6 estrelas.",
+  "resumo_original": "Stealing a $100 MILLION FIGHTER JET in GTA 6! (6 STAR CHASE)",
+  "passos": [
+   "Realizar o roubo do caça de combate em Vice City",
+   "Escapar da perseguição policial de 6 estrelas"
+  ],
+  "locais": [
+   {
+    "nome": "Vice City",
+    "onde": "Mapa de GTA 6",
+    "detalhe": "Localização do roubo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "não especificado",
+  "ganho": 100000000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata-se de conteúdo especulativo ou modificado; não há confirmação oficial de que essas mecânicas existam no jogo final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=lQaQOwccquM",
+    "autor": "Dattrax Plays",
+    "titulo": "15+ HIDDEN FEATURES in GTA 6... You WON'T BELIEVE Exist!😱",
+    "video_id": "lQaQOwccquM",
+    "imagem": "https://i.ytimg.com/vi/lQaQOwccquM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:13+00:00",
+  "atualizado": "2026-11-26T04:58:13+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-easter-egg-do-bunker-do-presidente",
+  "titulo": "Easter Egg do Bunker do Presidente",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Um easter egg complexo que envolve a resolução de enigmas, códigos e o acesso a um bunker secreto.",
+  "resumo_original": "President's Secret Bunker Easter Egg involving puzzles and codes.",
+  "passos": [
+   "Inicie o enigma.",
+   "Vá até o apartamento.",
+   "Localize o bunker do presidente.",
+   "Use os códigos 010317 e 2975.",
+   "Encontre o bunker dos tanques.",
+   "Insira o código 085355.",
+   "Ative a energia.",
+   "Ouça as gravações.",
+   "Desbloqueie o bunker secreto."
+  ],
+  "locais": [
+   {
+    "nome": "Bunker do Presidente",
+    "onde": "",
+    "detalhe": "Requer a resolução do enigma para acesso."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Aprox. 12 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um exemplo clássico de clickbait sensacionalista comum no YouTube antes de lançamentos, utilizando imagens editadas (como o alienígena na capa) que não condizem com a realidade do jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=lrSeYhS5aJA",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - President's SECRET BUNKER Easter Egg! (Unlimited Tanks & Secret Weapons)",
+    "video_id": "lrSeYhS5aJA",
+    "imagem": "https://i.ytimg.com/vi/lrSeYhS5aJA/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:07+00:00",
+  "atualizado": "2026-11-26T04:58:07+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-tanque-secreto-do-presidente",
+  "titulo": "Tanque Secreto do Presidente",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo blindado que pode ser desbloqueado gratuitamente através da localização de bunkers secretos.",
+  "resumo_original": "President's secret tank",
+  "passos": [
+   "Localize os dois bunkers secretos no mapa.",
+   "Desbloqueie as entradas utilizando códigos de acesso."
+  ],
+  "locais": [
+   {
+    "nome": "Bunkers Secretos",
+    "onde": "",
+    "detalhe": "Dois locais de entrada não especificados no texto."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo de especulação/clickbait comum sobre GTA 6; não há evidências confirmadas no jogo que sustentem a existência deste 'tanque do presidente'.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=t-g_eeXptaQ",
+    "autor": "VanTrek Gaming",
+    "titulo": "PRESIDENT'S SECRET TANK LOCATION IN GTA 6",
+    "video_id": "t-g_eeXptaQ",
+    "imagem": "https://i.ytimg.com/vi/t-g_eeXptaQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:03+00:00",
+  "atualizado": "2026-11-26T04:58:03+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-fuzil-de-assalto-lendario",
+  "titulo": "Fuzil de Assalto Lendário",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma rara obtida durante a busca pelo tanque secreto.",
+  "resumo_original": "Legendary assault rifle",
+  "passos": [
+   "Encontre o bunker secreto para obter o item."
+  ],
+  "locais": [
+   {
+    "nome": "Bunkers Secretos",
+    "onde": "",
+    "detalhe": "Dentro das instalações dos bunkers."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo sensacionalista típico de clickbait; não há confirmação oficial da existência de armas 'lendárias' com este método.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=t-g_eeXptaQ",
+    "autor": "VanTrek Gaming",
+    "titulo": "PRESIDENT'S SECRET TANK LOCATION IN GTA 6",
+    "video_id": "t-g_eeXptaQ",
+    "imagem": "https://i.ytimg.com/vi/t-g_eeXptaQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:03+00:00",
+  "atualizado": "2026-11-26T04:58:03+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-pistola-lendaria",
+  "titulo": "Pistola Lendária",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma de mão rara obtida durante a exploração dos bunkers.",
+  "resumo_original": "Legendary pistol",
+  "passos": [
+   "Encontre o bunker secreto para obter o item."
+  ],
+  "locais": [
+   {
+    "nome": "Bunkers Secretos",
+    "onde": "",
+    "detalhe": "Dentro das instalações dos bunkers."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo sensacionalista típico de clickbait; não há confirmação oficial da existência de armas 'lendárias' com este método.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=t-g_eeXptaQ",
+    "autor": "VanTrek Gaming",
+    "titulo": "PRESIDENT'S SECRET TANK LOCATION IN GTA 6",
+    "video_id": "t-g_eeXptaQ",
+    "imagem": "https://i.ytimg.com/vi/t-g_eeXptaQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:03+00:00",
+  "atualizado": "2026-11-26T04:58:03+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-dinheiro-e-submetralhadora-lendaria",
+  "titulo": "Dinheiro e Submetralhadora Lendária",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "O vídeo promete revelar a localização secreta de $10.000 e uma submetralhadora lendária logo no início do jogo, porém não apresenta imagens reais de gameplay ou localizações específicas.",
+  "resumo_original": "Get $10,000 AND a legendary SMG in a secret location at the start of the game.",
+  "passos": [],
+  "locais": [
+   {
+    "nome": "Localização secreta",
+    "onde": "",
+    "detalhe": "Não especificado no vídeo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 10000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico tipo 'clickbait' que utiliza imagens de um monstro de um jogo totalmente diferente (possivelmente de terror) que não pertence ao universo de GTA 6, sem mostrar qualquer prova da localização ou do item dentro do jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=LX-f8uz0-Sw",
+    "autor": "RaZ HQ",
+    "titulo": "Get $10,000 AND a LEGENDARY SMG in GTA 6! (Secret Location)",
+    "video_id": "LX-f8uz0-Sw",
+    "imagem": "https://i.ytimg.com/vi/LX-f8uz0-Sw/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:57:57+00:00",
+  "atualizado": "2026-11-26T04:57:57+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-assassin-nipper-38",
+  "titulo": "Assassin Nipper .38",
+  "categoria": "gun",
+  "regiao": "Leonida Keys",
+  "resumo": "Pistola com silenciador localizada dentro de uma escotilha em um barco naufragado.",
+  "resumo_original": "Assassin Nipper .38 – suppressed pistol, in the deck hatch of a wrecked boat on a small island in the Permit Keys",
+  "passos": [
+   "Vá até uma pequena ilha na região de Permit Keys.",
+   "Localize o barco naufragado.",
+   "Abra a escotilha no convés para pegar a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Barco naufragado",
+    "onde": "Permit Keys",
+    "detalhe": "Dentro da escotilha do convés"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=VxM4Zhb1cVk",
+    "autor": "TagBackTV",
+    "titulo": "GTA 6 - Best Legendary Weapons To Get Early",
+    "video_id": "VxM4Zhb1cVk",
+    "imagem": "https://i.ytimg.com/vi/VxM4Zhb1cVk/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=QVT66Ule-qs",
+    "autor": "GameCraft",
+    "titulo": "11 Legendary Silenced Weapons You NEED to Get in GTA 6",
+    "video_id": "QVT66Ule-qs",
+    "imagem": "https://i.ytimg.com/vi/QVT66Ule-qs/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GxoUusz9Js4",
+    "autor": "Spawn Szn",
+    "titulo": "3 Secret Guns You Can Get Early in GTA 6 (Locations) #GTA6 #shorts",
+    "video_id": "GxoUusz9Js4",
+    "imagem": "https://i.ytimg.com/vi/GxoUusz9Js4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-26T04:57:52+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-kingfishers-w-22",
+  "titulo": "Kingfishers W-22",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle com mira e silenciador guardado em uma maleta dentro dos barracos de pesca.",
+  "resumo_original": "Kingfishers W-22 – rifle with scope and suppressor, in a case inside the Fishing Shacks in Wetman Bay (guarded, come by boat)",
+  "passos": [
+   "Viaje de barco até os barracos de pesca (Fishing Shacks) em Wetman Bay.",
+   "Tome cuidado, pois o local é vigiado.",
+   "Entre no barraco e localize a maleta com a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Fishing Shacks",
+    "onde": "Wetman Bay",
+    "detalhe": "Dentro de uma maleta no interior do barraco"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "Conteúdo especulativo sem prova visual de localização ou método de obtenção.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=QVT66Ule-qs",
+    "autor": "GameCraft",
+    "titulo": "11 Legendary Silenced Weapons You NEED to Get in GTA 6",
+    "video_id": "QVT66Ule-qs",
+    "imagem": "https://i.ytimg.com/vi/QVT66Ule-qs/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GxoUusz9Js4",
+    "autor": "Spawn Szn",
+    "titulo": "3 Secret Guns You Can Get Early in GTA 6 (Locations) #GTA6 #shorts",
+    "video_id": "GxoUusz9Js4",
+    "imagem": "https://i.ytimg.com/vi/GxoUusz9Js4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T00:47:19+00:00",
+  "atualizado": "2026-11-26T04:57:52+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-smuggler-gorse-425",
+  "titulo": "Smuggler Gorse 425",
+  "categoria": "gun",
+  "regiao": "Leonida Keys",
+  "resumo": "Espingarda encontrada no chão próximo a um barco encalhado na ilha mais ao norte.",
+  "resumo_original": "Smuggler Gorse 425 – shotgun, on the ground next to a beached boat on the northernmost island of the Permit Keys",
+  "passos": [
+   "Vá até a ilha mais ao norte de Permit Keys.",
+   "Procure pelo barco encalhado.",
+   "Pegue a arma que está no chão ao lado dele."
+  ],
+  "locais": [
+   {
+    "nome": "Barco encalhado",
+    "onde": "Permit Keys",
+    "detalhe": "Ilha mais ao norte, no chão ao lado do barco"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GxoUusz9Js4",
+    "autor": "Spawn Szn",
+    "titulo": "3 Secret Guns You Can Get Early in GTA 6 (Locations) #GTA6 #shorts",
+    "video_id": "GxoUusz9Js4",
+    "imagem": "https://i.ytimg.com/vi/GxoUusz9Js4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-26T04:57:52+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-rota-de-loot-de-vice-city",
+  "titulo": "Rota de Loot de Vice City",
+  "categoria": "farm",
+  "regiao": "Vice City",
+  "resumo": "Rota otimizada para coletar suprimentos, dinheiro, armas e itens valiosos rapidamente no jogo.",
+  "resumo_original": "The BEST loot route in GTA 6 to stack up on weapons, supplies, cash, and valuable loot.",
+  "passos": [
+   "Siga a rota indicada no vídeo para encontrar suprimentos e itens de valor",
+   "Utilize os locais de loot para equipar-se precocemente"
+  ],
+  "locais": [
+   {
+    "nome": "Vice City",
+    "onde": "Mapa principal",
+    "detalhe": "Locais de spawn de armas e loot dentro de ambientes internos"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo de 'clickbait' promocional. Não há informações específicas, localizações no mapa ou métodos reais detalhados no texto ou na imagem, tratando-se apenas de uma alegação genérica sobre uma rota de loot.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=NZJ2oRXlhIE",
+    "autor": "VibeWithViceCity",
+    "titulo": "The BEST LOOT Route In GTA 6! 🤯💵 #gta6 #shorts",
+    "video_id": "NZJ2oRXlhIE",
+    "imagem": "https://i.ytimg.com/vi/NZJ2oRXlhIE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:57:46+00:00",
+  "atualizado": "2026-11-26T04:57:46+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-metodo-de-dinheiro-infinito",
+  "titulo": "Método de dinheiro infinito",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Vídeo alega oferecer um método de falha (glitch) para obter dinheiro infinito, carros e armas lendárias.",
+  "resumo_original": "NEW UNLIMITED MONEY GLITCH/CARS/LEGENDARY WEAPONS!",
+  "passos": [
+   "O autor não descreve passos específicos no texto ou na imagem, apenas promove o vídeo como um tutorial."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de clickbait que não apresenta provas visuais, locais específicos ou qualquer passo a passo real. Trata-se de uma estratégia de SEO para atrair cliques sem oferecer informações concretas sobre o jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mU9LMz_UBL8",
+    "autor": "GameSnooK",
+    "titulo": "Novo Método pra ficar Milionario no GTA 6 - Qualquer Capitulo - Dinheiro infinito no GTA 6",
+    "video_id": "mU9LMz_UBL8",
+    "imagem": "https://i.ytimg.com/vi/mU9LMz_UBL8/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wwnfNyQl9yk",
+    "autor": "TAGZ",
+    "titulo": "UNLIMITED Money Guide in GTA 6! Make $500,000 every hour! 💰 #gta6 #gtavi #grandtheftauto #gtamoney",
+    "video_id": "wwnfNyQl9yk",
+    "imagem": "https://i.ytimg.com/vi/wwnfNyQl9yk/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=6liwyzWmbYE",
+    "autor": "Bubs",
+    "titulo": "*NEW* 7 BEST GTA 6 SPOTS for UNLIMITED MONEY/CARS/LEGENDARY WEAPONS! #gta6",
+    "video_id": "6liwyzWmbYE",
+    "imagem": "https://i.ytimg.com/vi/6liwyzWmbYE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:57:43+00:00",
+  "atualizado": "2026-11-26T04:57:42+00:00",
+  "status": "confirmado"
  },
  {
   "id": "heist-assalto-ao-aeroporto-internacional",
@@ -1800,45 +3142,6 @@
   "status": "retido"
  },
  {
-  "id": "heist-assalto-ao-aeroporto-internacional-de-vice-city",
-  "titulo": "Assalto ao Aeroporto Internacional de Vice City",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Um roubo planejado contra a organização criminosa de Kordell Grant, infiltrando-se nas operações do aeroporto.",
-  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant, whose operations involve Vice City International Airport.",
-  "passos": [
-   "Infiltrar-se na organização de Kordell Grant",
-   "Coletar informações sobre a segurança",
-   "Executar o assalto no aeroporto"
-  ],
-  "locais": [
-   {
-    "nome": "Vice City International Airport",
-    "onde": "Vice City",
-    "detalhe": "Base de operações de Kordell Grant"
-   }
-  ],
-  "dificuldade": 3,
-  "tempo": "Capítulo 4",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-25T13:05:13+00:00",
-  "status": "retido"
- },
- {
   "id": "gun-aquisicao-de-armas",
   "titulo": "Aquisição de Armas",
   "categoria": "gun",
@@ -2700,43 +4003,6 @@
   "criado": "2026-11-25T09:02:39+00:00",
   "atualizado": "2026-11-25T09:02:39+00:00",
   "status": "retido"
- },
- {
-  "id": "farm-metodo-de-dinheiro-infinito",
-  "titulo": "Método de dinheiro infinito",
-  "categoria": "farm",
-  "regiao": "",
-  "resumo": "Vídeo alega apresentar um método para obter dinheiro ilimitado em qualquer capítulo da campanha, utilizando Jason e Lucia.",
-  "resumo_original": "Novo método para ganhar dinheiro infinito no GTA 6",
-  "passos": [],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é um conteúdo genérico de clickbait que não apresenta provas visuais, locais específicos ou qualquer passo a passo real. Trata-se de uma estratégia de SEO para atrair cliques sem oferecer informações concretas sobre o jogo.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=mU9LMz_UBL8",
-    "autor": "GameSnooK",
-    "titulo": "Novo Método pra ficar Milionario no GTA 6 - Qualquer Capitulo - Dinheiro infinito no GTA 6",
-    "video_id": "mU9LMz_UBL8",
-    "imagem": "https://i.ytimg.com/vi/mU9LMz_UBL8/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=wwnfNyQl9yk",
-    "autor": "TAGZ",
-    "titulo": "UNLIMITED Money Guide in GTA 6! Make $500,000 every hour! 💰 #gta6 #gtavi #grandtheftauto #gtamoney",
-    "video_id": "wwnfNyQl9yk",
-    "imagem": "https://i.ytimg.com/vi/wwnfNyQl9yk/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-24T04:57:43+00:00",
-  "atualizado": "2026-11-25T09:02:31+00:00",
-  "status": "aguardando"
  },
  {
   "id": "heist-missoes-de-kenton",
@@ -3651,43 +4917,6 @@
     "nome": "Localização do Challenger",
     "onde": "Não especificado no texto",
     "detalhe": "Verificar capítulo 02:13 do vídeo fonte."
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "1 minuto",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "A fonte não descreve os locais no texto, apenas menciona que estão presentes nos capítulos do vídeo.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=eaQnrDX6tKQ",
-    "autor": "HELLOO",
-    "titulo": "Where to Find 7 Rare Cars in GTA 6 | SF90, Urus & More",
-    "video_id": "eaQnrDX6tKQ",
-    "imagem": "https://i.ytimg.com/vi/eaQnrDX6tKQ/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-25T08:57:48+00:00",
-  "atualizado": "2026-11-25T08:57:48+00:00",
-  "status": "retido"
- },
- {
-  "id": "car-mclaren-senna",
-  "titulo": "McLaren Senna",
-  "categoria": "car",
-  "regiao": "",
-  "resumo": "Localização do supercarro baseado na McLaren Senna.",
-  "resumo_original": "Macleren Sena.",
-  "passos": [
-   "Assista ao capítulo do vídeo aos 02:56 para encontrar a localização."
-  ],
-  "locais": [
-   {
-    "nome": "Localização da McLaren Senna",
-    "onde": "Não especificado no texto",
-    "detalhe": "Verificar capítulo 02:56 do vídeo fonte."
    }
   ],
   "dificuldade": 1,
@@ -8053,68 +9282,6 @@
   "status": "retido"
  },
  {
-  "id": "gun-assassin-nipper-38",
-  "titulo": "Assassin Nipper .38",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Pistola exclusiva variante Assassin Nipper.",
-  "resumo_original": "Assassin Nipper .38 (Pistol) 01:11",
-  "passos": [
-   "Vá até o local indicado no guia em 01:11.",
-   "Colete a arma."
-  ],
-  "locais": [
-   {
-    "nome": "Assassin Nipper .38",
-    "onde": "Consultar timestamp 01:11",
-    "detalhe": "Pistola variante única"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "curto",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo/sensacionalista.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
-    "autor": "Vexies",
-    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
-    "video_id": "WH8IfSdpB0w",
-    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
-    "autor": "100% Guides",
-    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
-    "video_id": "kSByFdB_KQ8",
-    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=VxM4Zhb1cVk",
-    "autor": "TagBackTV",
-    "titulo": "GTA 6 - Best Legendary Weapons To Get Early",
-    "video_id": "VxM4Zhb1cVk",
-    "imagem": "https://i.ytimg.com/vi/VxM4Zhb1cVk/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=QVT66Ule-qs",
-    "autor": "GameCraft",
-    "titulo": "11 Legendary Silenced Weapons You NEED to Get in GTA 6",
-    "video_id": "QVT66Ule-qs",
-    "imagem": "https://i.ytimg.com/vi/QVT66Ule-qs/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:59:06+00:00",
-  "atualizado": "2026-11-24T00:47:19+00:00",
-  "status": "confirmado"
- },
- {
   "id": "gun-black-eagle-import-m306-tmr-rifle",
   "titulo": "Black Eagle Import M306 TMR Rifle",
   "categoria": "gun",
@@ -8205,35 +9372,6 @@
   "criado": "2026-11-23T05:04:54+00:00",
   "atualizado": "2026-11-24T00:47:19+00:00",
   "status": "aguardando"
- },
- {
-  "id": "gun-kingfishers-w-22",
-  "titulo": "Kingfishers W-22",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Rifle de pequeno porte equipado com silenciador.",
-  "resumo_original": "Small-game rifle with silencer.",
-  "passos": [],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo sem prova visual de localização ou método de obtenção.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=QVT66Ule-qs",
-    "autor": "GameCraft",
-    "titulo": "11 Legendary Silenced Weapons You NEED to Get in GTA 6",
-    "video_id": "QVT66Ule-qs",
-    "imagem": "https://i.ytimg.com/vi/QVT66Ule-qs/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-24T00:47:19+00:00",
-  "atualizado": "2026-11-24T00:47:19+00:00",
-  "status": "retido"
  },
  {
   "id": "gun-scrapper-vf5c",
@@ -11667,52 +12805,6 @@
   "criado": "2026-11-23T05:05:04+00:00",
   "atualizado": "2026-11-23T05:05:04+00:00",
   "status": "retido"
- },
- {
-  "id": "gun-smuggler-gorse-425",
-  "titulo": "Smuggler Gorse 425",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Escopeta variante Smuggler.",
-  "resumo_original": "Smuggler Gorse 425 (Shotgun) 07:11",
-  "passos": [
-   "Vá até o local indicado no guia em 07:11.",
-   "Colete a arma."
-  ],
-  "locais": [
-   {
-    "nome": "Smuggler Gorse 425",
-    "onde": "Consultar timestamp 07:11",
-    "detalhe": "Escopeta única"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "curto",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo/sensacionalista.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
-    "autor": "Vexies",
-    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
-    "video_id": "WH8IfSdpB0w",
-    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
-    "autor": "100% Guides",
-    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
-    "video_id": "kSByFdB_KQ8",
-    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:59:06+00:00",
-  "atualizado": "2026-11-23T05:04:54+00:00",
-  "status": "aguardando"
  },
  {
   "id": "gun-crabshack-vf5",
