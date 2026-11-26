@@ -1,5 +1,1831 @@
 [
  {
+  "id": "farm-glitch-de-dinheiro-infinito-em-loja",
+  "titulo": "Glitch de Dinheiro Infinito em Loja",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método para farmar cerca de $300 mil utilizando o respawn de espólio em três vans dentro de um galpão.",
+  "resumo_original": "Glitch de dinheiro infinito no GTA 6, versão turbinada: agora dá pra fazer uns $300 mil por run usando 3 vans.",
+  "passos": [
+   "Vá até o galpão localizado após a ponte de Kilento.",
+   "Posicione as três vans dentro do galpão.",
+   "Afaste a personagem Lucia para longe do local.",
+   "Troque de personagem para forçar o respawn do espólio nas vans.",
+   "Mova as vans, feche as portas traseiras e encha seus carros e as mochilas do Jason com o conteúdo.",
+   "Venda o espólio para o personagem Tyrone."
+  ],
+  "locais": [
+   {
+    "nome": "Galpão de Kilento",
+    "onde": "Após a ponte de Kilento",
+    "detalhe": "Local onde o glitch deve ser executado."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 100000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é altamente sensacionalista, utiliza clickbait e não apresenta prova real de gameplay, já que o GTA 6 ainda não foi lançado. O conteúdo é enganoso.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=D5R2wovnPPA",
+    "autor": "JoeyRahmz",
+    "titulo": "*EASY* ✅ New SOLO MONEY GLITCH IN GTA 6! 100k/HOUR (UNLIMITED MONEY GLITCH GTA VI) #gta6 #gta6glitch",
+    "video_id": "D5R2wovnPPA",
+    "imagem": "https://i.ytimg.com/vi/D5R2wovnPPA/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=x1wCiWSXrp4",
+    "autor": "RageGamingVideos",
+    "titulo": "GTA 6 - WARNING: Don't Make These Chapter 2 Mistakes - Best Missable Nitro Car & INFINITE Money!",
+    "video_id": "x1wCiWSXrp4",
+    "imagem": "https://i.ytimg.com/vi/x1wCiWSXrp4/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=vBVvxeOY4yc",
+    "autor": "GAMERLLIL Games",
+    "titulo": "ACABOU a Graça... MILIONÁRIO Desde o INÍCIO! Glitch de DINHEIRO INFINITO Quebra GTA 6",
+    "video_id": "vBVvxeOY4yc",
+    "imagem": "https://i.ytimg.com/vi/vBVvxeOY4yc/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=LBWpJ3gUYP0",
+    "autor": "OllMS",
+    "titulo": "EARLY GAME | NEW 5X FASTER UNLIMITED MONEY GLITCH in GTA 6 🤑👀",
+    "video_id": "LBWpJ3gUYP0",
+    "imagem": "https://i.ytimg.com/vi/LBWpJ3gUYP0/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0r_sceEDQxQ",
+    "autor": "Jay Dunna ",
+    "titulo": "UPDATED INFINITE MONEY GLITCH in GTA 6 ($500k/Hour)",
+    "video_id": "0r_sceEDQxQ",
+    "imagem": "https://i.ytimg.com/vi/0r_sceEDQxQ/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Cb01QWmVGwk",
+    "autor": "O Porão",
+    "titulo": "O melhor GLITCH de DINHEIRO INFINITO no GTA 6! #gta #gta6 #grandtheftauto #jogos",
+    "video_id": "Cb01QWmVGwk",
+    "imagem": "https://i.ytimg.com/vi/Cb01QWmVGwk/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=DC6o8H4PfBs",
+    "autor": "Silent Nine",
+    "titulo": "NEW UNLIMITED MONEY GLITCH IN GTA 6! EASY 500K MONEY DUPLICATION IN CHAPTER 2!",
+    "video_id": "DC6o8H4PfBs",
+    "imagem": "https://i.ytimg.com/vi/DC6o8H4PfBs/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=8ISXouc1cV8",
+    "autor": "Ikoma Games",
+    "titulo": "GTA 6: Glitch de Dinheiro INFINITO, Versão Turbinada 💰",
+    "video_id": "8ISXouc1cV8",
+    "imagem": "https://i.ytimg.com/vi/8ISXouc1cV8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:06+00:00",
+  "atualizado": "2026-11-26T20:45:15+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-penumbra-ff",
+  "titulo": "Penumbra FF",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Veículo raro inspirado no modelo do Paul Walker localizado em Neptune Circle.",
+  "resumo_original": "Penumbra FF – Neptune Circle",
+  "passos": [
+   "Vá até Neptune Circle para encontrar o veículo."
+  ],
+  "locais": [
+   {
+    "nome": "Neptune Circle",
+    "onde": "Vice City",
+    "detalhe": "Localização do carro raro"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O jogo GTA 6 ainda não foi lançado; o vídeo utiliza filmagens de outros jogos (mods ou GTA V) para especular localizações.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GP6K-zekv3I",
+    "autor": "Diário De Vice",
+    "titulo": "COMO CONSEGUIR 10 CARROS RAROS DE GRAÇA NO GTA 6!",
+    "video_id": "GP6K-zekv3I",
+    "imagem": "https://i.ytimg.com/vi/GP6K-zekv3I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:45:11+00:00",
+  "atualizado": "2026-11-26T20:45:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-elegy-de-drift",
+  "titulo": "Elegy de drift",
+  "categoria": "car",
+  "regiao": "Port Gellhorn",
+  "resumo": "Carro otimizado para drift encontrado no autódromo local.",
+  "resumo_original": "Elegy de drift – autódromo de Port Gellhorn",
+  "passos": [
+   "Dirija até o autódromo de Port Gellhorn."
+  ],
+  "locais": [
+   {
+    "nome": "Autódromo",
+    "onde": "Port Gellhorn",
+    "detalhe": "Dentro da pista de corrida"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GP6K-zekv3I",
+    "autor": "Diário De Vice",
+    "titulo": "COMO CONSEGUIR 10 CARROS RAROS DE GRAÇA NO GTA 6!",
+    "video_id": "GP6K-zekv3I",
+    "imagem": "https://i.ytimg.com/vi/GP6K-zekv3I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:45:11+00:00",
+  "atualizado": "2026-11-26T20:45:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-toros-queimado",
+  "titulo": "Toros queimado",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Versão específica e danificada do modelo Toros.",
+  "resumo_original": "Toros queimado – Vice City",
+  "passos": [
+   "Procure pelo veículo nas ruas de Vice City."
+  ],
+  "locais": [
+   {
+    "nome": "Vice City",
+    "onde": "Vice City",
+    "detalhe": "Local não especificado"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GP6K-zekv3I",
+    "autor": "Diário De Vice",
+    "titulo": "COMO CONSEGUIR 10 CARROS RAROS DE GRAÇA NO GTA 6!",
+    "video_id": "GP6K-zekv3I",
+    "imagem": "https://i.ytimg.com/vi/GP6K-zekv3I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:45:11+00:00",
+  "atualizado": "2026-11-26T20:45:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-gauntlet-azul-e-laranja",
+  "titulo": "Gauntlet (Azul e Laranja)",
+  "categoria": "car",
+  "regiao": "Ambrosia",
+  "resumo": "Modelo Gauntlet com pintura customizada localizado em uma garagem.",
+  "resumo_original": "Gauntlet azul e laranja – garagem em Ambrosia",
+  "passos": [
+   "Vá até uma garagem na região de Ambrosia."
+  ],
+  "locais": [
+   {
+    "nome": "Garagem",
+    "onde": "Ambrosia",
+    "detalhe": "Dentro da garagem"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GP6K-zekv3I",
+    "autor": "Diário De Vice",
+    "titulo": "COMO CONSEGUIR 10 CARROS RAROS DE GRAÇA NO GTA 6!",
+    "video_id": "GP6K-zekv3I",
+    "imagem": "https://i.ytimg.com/vi/GP6K-zekv3I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:45:11+00:00",
+  "atualizado": "2026-11-26T20:45:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-golfer-em-chamas",
+  "titulo": "Golfer em chamas",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo do tipo Golfer encontrado em estado de combustão.",
+  "resumo_original": "Golfer em chamas – Penmarch Isle",
+  "passos": [
+   "Explore a área de Penmarch Isle."
+  ],
+  "locais": [
+   {
+    "nome": "Penmarch Isle",
+    "onde": "Leonida",
+    "detalhe": "Localização do veículo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GP6K-zekv3I",
+    "autor": "Diário De Vice",
+    "titulo": "COMO CONSEGUIR 10 CARROS RAROS DE GRAÇA NO GTA 6!",
+    "video_id": "GP6K-zekv3I",
+    "imagem": "https://i.ytimg.com/vi/GP6K-zekv3I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:45:11+00:00",
+  "atualizado": "2026-11-26T20:45:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-moto-sanchez",
+  "titulo": "Moto Sanchez",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Motocicleta off-road clássica disponível na região norte.",
+  "resumo_original": "Moto Sanchez – North Mariana County",
+  "passos": [
+   "Vá até a região de North Mariana County."
+  ],
+  "locais": [
+   {
+    "nome": "North Mariana County",
+    "onde": "Leonida",
+    "detalhe": "Pátio local"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GP6K-zekv3I",
+    "autor": "Diário De Vice",
+    "titulo": "COMO CONSEGUIR 10 CARROS RAROS DE GRAÇA NO GTA 6!",
+    "video_id": "GP6K-zekv3I",
+    "imagem": "https://i.ytimg.com/vi/GP6K-zekv3I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:45:11+00:00",
+  "atualizado": "2026-11-26T20:45:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-picador",
+  "titulo": "Picador",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Caminhonete clássica localizada no mesmo pátio que a moto Sanchez.",
+  "resumo_original": "Picador – mesmo pátio da Sanchez",
+  "passos": [
+   "Procure no pátio em North Mariana County onde a Sanchez está."
+  ],
+  "locais": [
+   {
+    "nome": "North Mariana County",
+    "onde": "Leonida",
+    "detalhe": "Mesmo pátio da Sanchez"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GP6K-zekv3I",
+    "autor": "Diário De Vice",
+    "titulo": "COMO CONSEGUIR 10 CARROS RAROS DE GRAÇA NO GTA 6!",
+    "video_id": "GP6K-zekv3I",
+    "imagem": "https://i.ytimg.com/vi/GP6K-zekv3I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:45:11+00:00",
+  "atualizado": "2026-11-26T20:45:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-gauntlet-de-arame-farpado",
+  "titulo": "Gauntlet de arame farpado",
+  "categoria": "car",
+  "regiao": "Ambrosia",
+  "resumo": "Variante do Gauntlet com detalhes de customização (arame farpado).",
+  "resumo_original": "Gauntlet de arame farpado – Ambrosia, perto de Belville",
+  "passos": [
+   "Procure nas proximidades de Belville, em Ambrosia."
+  ],
+  "locais": [
+   {
+    "nome": "Belville",
+    "onde": "Ambrosia",
+    "detalhe": "Próximo à localidade"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GP6K-zekv3I",
+    "autor": "Diário De Vice",
+    "titulo": "COMO CONSEGUIR 10 CARROS RAROS DE GRAÇA NO GTA 6!",
+    "video_id": "GP6K-zekv3I",
+    "imagem": "https://i.ytimg.com/vi/GP6K-zekv3I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:45:11+00:00",
+  "atualizado": "2026-11-26T20:45:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-emerus-roxo",
+  "titulo": "Emerus roxo",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo esportivo de luxo na cor roxa.",
+  "resumo_original": "Emerus roxo – Waxman Island",
+  "passos": [
+   "Vá até Waxman Island."
+  ],
+  "locais": [
+   {
+    "nome": "Waxman Island",
+    "onde": "Leonida",
+    "detalhe": "Localização do Emerus roxo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GP6K-zekv3I",
+    "autor": "Diário De Vice",
+    "titulo": "COMO CONSEGUIR 10 CARROS RAROS DE GRAÇA NO GTA 6!",
+    "video_id": "GP6K-zekv3I",
+    "imagem": "https://i.ytimg.com/vi/GP6K-zekv3I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:45:11+00:00",
+  "atualizado": "2026-11-26T20:45:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-emerus-rubi",
+  "titulo": "Emerus Rubi",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Versão esportiva do Emerus com pintura rubi.",
+  "resumo_original": "Emerus Rubi – Neptune Circle",
+  "passos": [
+   "Vá até Neptune Circle em Vice City."
+  ],
+  "locais": [
+   {
+    "nome": "Neptune Circle",
+    "onde": "Vice City",
+    "detalhe": "Localização do veículo"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GP6K-zekv3I",
+    "autor": "Diário De Vice",
+    "titulo": "COMO CONSEGUIR 10 CARROS RAROS DE GRAÇA NO GTA 6!",
+    "video_id": "GP6K-zekv3I",
+    "imagem": "https://i.ytimg.com/vi/GP6K-zekv3I/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:45:11+00:00",
+  "atualizado": "2026-11-26T20:45:11+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-localizacao-de-carros-raros-e-secretos",
+  "titulo": "Localização de Carros Raros e Secretos",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Vídeo contendo supostas localizações de diversos veículos raros para o GTA 6.",
+  "resumo_original": "Localização de carros raros e secretos no GTA 6.",
+  "passos": [
+   "Assista ao vídeo para visualizar as rotas de cada um dos veículos nos timestamps indicados."
+  ],
+  "locais": [
+   {
+    "nome": "Diversos",
+    "onde": "Mapa de Leonida",
+    "detalhe": "O vídeo menciona a existência de 8 carros, mas não fornece nomes específicos ou descrições geográficas detalhadas no texto."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O GTA 6 ainda não foi lançado. O vídeo trata-se de especulação ou conteúdo baseado em mods/clickbait, não havendo informações verídicas ou oficiais sobre localização de veículos.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Ff1Fvq_eeUg",
+    "autor": "Sykes",
+    "titulo": "LOCALIZAÇÃO DE CARROS RAROS E SECRETOS NO GTA 6!",
+    "video_id": "Ff1Fvq_eeUg",
+    "imagem": "https://i.ytimg.com/vi/Ff1Fvq_eeUg/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:45:03+00:00",
+  "atualizado": "2026-11-26T20:45:03+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-metodo-de-armazenamento-permanente-de-veiculos",
+  "titulo": "Método de Armazenamento Permanente de Veículos",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Procedimentos para registrar e salvar permanentemente veículos raros sem rastreador na garagem do jogador.",
+  "resumo_original": "Como guardar o carro pra sempre.",
+  "passos": [
+   "Obtenha um carro sem rastreador.",
+   "Registre o veículo na oficina do Moses (a partir do capítulo 2) OU repinte o carro na Coastal Auto Care.",
+   "Estacione o veículo na vaga da casa do Jason.",
+   "Durma para salvar o progresso."
+  ],
+  "locais": [
+   {
+    "nome": "Oficina do Moses",
+    "onde": "",
+    "detalhe": "Disponível a partir do capítulo 2."
+   },
+   {
+    "nome": "Coastal Auto Care",
+    "onde": "",
+    "detalhe": "Local alternativo para repintura."
+   },
+   {
+    "nome": "Casa do Jason",
+    "onde": "",
+    "detalhe": "Vaga para estacionamento permanente."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Após capítulo 1",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é especulativo e utiliza ilustrações ou gameplays de terceiros não oficiais para tratar de GTA 6, que ainda não foi lançado. As mecânicas citadas podem não existir no jogo final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=3kX9skWb1n8",
+    "autor": "Sherlock Dos Games",
+    "titulo": "GTA 6: todos os carros raros e onde achar (e como guardar pra sempre)",
+    "video_id": "3kX9skWb1n8",
+    "imagem": "https://i.ytimg.com/vi/3kX9skWb1n8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:55+00:00",
+  "atualizado": "2026-11-26T20:44:55+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-clonador-de-chave",
+  "titulo": "Clonador de Chave",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Ferramenta para auxiliar na obtenção de carros raros.",
+  "resumo_original": "Clonador de chave",
+  "passos": [
+   "Avançar até o capítulo 3 para liberar o item."
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "Capítulo 3",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre mecânica não confirmada em GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=3kX9skWb1n8",
+    "autor": "Sherlock Dos Games",
+    "titulo": "GTA 6: todos os carros raros e onde achar (e como guardar pra sempre)",
+    "video_id": "3kX9skWb1n8",
+    "imagem": "https://i.ytimg.com/vi/3kX9skWb1n8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:55+00:00",
+  "atualizado": "2026-11-26T20:44:55+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carros-raros-lista-geral",
+  "titulo": "Carros Raros (Lista Geral)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Coleção de veículos raros espalhados pelo mapa, incluindo modelos como Turbo Ruiner, Emerus e Itali RSX.",
+  "resumo_original": "Mais de 15 carros raros escondidos no GTA 6.",
+  "passos": [
+   "Explorar as regiões mencionadas conforme o progresso no jogo."
+  ],
+  "locais": [
+   {
+    "nome": "Leonida",
+    "onde": "Mapa geral",
+    "detalhe": "Inclui Turbo Ruiner, Penumbra FF, Teniente Mañana e Skyline."
+   },
+   {
+    "nome": "Vespucci Island",
+    "onde": "Ilha",
+    "detalhe": "Inclui Emerus vermelho, Itali RSX e Piccia Furia."
+   },
+   {
+    "nome": "Vice City",
+    "onde": "Orla da cidade",
+    "detalhe": "Inclui Emerus roxo, Tulip, Sungrazer, Toros e Tempesta dourado."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "A lista de veículos e locais baseia-se em especulação e fontes de terceiros sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=3kX9skWb1n8",
+    "autor": "Sherlock Dos Games",
+    "titulo": "GTA 6: todos os carros raros e onde achar (e como guardar pra sempre)",
+    "video_id": "3kX9skWb1n8",
+    "imagem": "https://i.ytimg.com/vi/3kX9skWb1n8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:55+00:00",
+  "atualizado": "2026-11-26T20:44:55+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carros-raros-no-gta-6",
+  "titulo": "Carros Raros no GTA 6",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "O vídeo promete revelar a localização de 5 carros raros e o carro do Brian (Velozes e Furiosos), mas não fornece os dados no conteúdo.",
+  "resumo_original": "5 carros raros do GTA 6 e onde encontrar cada um + a localização do carro do Brian de Velozes e Furiosos no final!",
+  "passos": [
+   "Acesse o link externo indicado pelo autor na descrição para tentar encontrar as localizações."
+  ],
+  "locais": [
+   {
+    "nome": "Canal How to Everything",
+    "onde": "https://www.youtube.com/@HowtoEverything01",
+    "detalhe": "O autor direciona os espectadores para outro canal externo para obter as informações."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza imagens de mods ou recriações externas, não representando gameplay oficial ou verificado do GTA 6. A localização dos veículos não é fornecida.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Fsg6kYrJYfo",
+    "autor": "YuriLoti",
+    "titulo": "EU ENCONTREI 3 CARROS RAROS NO GTA 6 (INSANOS)",
+    "video_id": "Fsg6kYrJYfo",
+    "imagem": "https://i.ytimg.com/vi/Fsg6kYrJYfo/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GqtZN_aRYug",
+    "autor": "Mistoca GTA 6",
+    "titulo": "O CARRO DO BRIAN tá no GTA 6! + 5 carros raros 🚗 #velozesefuriosos #gta6 #carrosgta  #davyjones",
+    "video_id": "GqtZN_aRYug",
+    "imagem": "https://i.ytimg.com/vi/GqtZN_aRYug/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=rRRPghkHdW8",
+    "autor": "Canal do Nego - Julhão",
+    "titulo": "A MELHOR LOCALIZAÇÃO com 10 CARROS LENDÁRIOS do GTA 6! (CARROS GRATUITOS)",
+    "video_id": "rRRPghkHdW8",
+    "imagem": "https://i.ytimg.com/vi/rRRPghkHdW8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:13+00:00",
+  "atualizado": "2026-11-26T20:44:49+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-cartel-heist-roubo-do-cartel",
+  "titulo": "Cartel Heist (Roubo do Cartel)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Uma missão de roubo de alto valor envolvendo o resgate de uma personagem chamada Nicole.",
+  "resumo_original": "A high value heist mission involving saving a character named Nicole.",
+  "passos": [
+   "Complete as missões preparatórias (Prep Missions 01, 02 e 03)",
+   "Pratique a abertura do cofre",
+   "Inicie a missão do roubo",
+   "Use a rota mais rápida para o banco",
+   "Nocauteie o guarda infiltrado",
+   "Desative o alarme",
+   "Limpe os inimigos no telhado e no terminal"
+  ],
+  "locais": [
+   {
+    "nome": "Banco",
+    "onde": "Não especificado",
+    "detalhe": "Local do cofre de $10.552.400"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 10552400,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza clickbait comum em canais de GTA. Como o GTA 6 ainda não foi lançado, este conteúdo é provavelmente uma simulação, mod ou criação de ficção, não representando gameplay real do jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=rgYLZxwcF74",
+    "autor": "Xcel Blaze ",
+    "titulo": "GTA 6 - PERFECT $10 Million Cartel Heist + Save Nicole (Full Guide)",
+    "video_id": "rgYLZxwcF74",
+    "imagem": "https://i.ytimg.com/vi/rgYLZxwcF74/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:42+00:00",
+  "atualizado": "2026-11-26T20:44:42+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-a-cofre-de-banco-big-bank-vault",
+  "titulo": "Roubo a Cofre de Banco (Big Bank Vault)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Método para realizar um roubo de cofre de grande porte seguindo um caminhão blindado.",
+  "resumo_original": "How to rob a big bank vault in GTA 6, step by step.",
+  "passos": [
+   "Obtenha o Dye Pack Jammer na missão 'Credit Check' (Capítulo 3).",
+   "Avance até o Capítulo 4, após concluir a missão 'That's Where The Money Is' de Yasmani.",
+   "Siga um caminhão blindado ou pague US$ 10.000 para Yasmani por uma dica.",
+   "Entre no banco junto com a entrega, encha sua bolsa com notas marcadas e fuja da polícia.",
+   "Venda o conteúdo para um receptador."
+  ],
+  "locais": [
+   {
+    "nome": "Fleeca Bank",
+    "onde": "",
+    "detalhe": "Local usado no vídeo para demonstrar o roubo."
+   },
+   {
+    "nome": "Lombank",
+    "onde": "",
+    "detalhe": "Local com os maiores cofres, podendo render até US$ 205.000."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 80460,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=6rtOfmwwa0g",
+    "autor": "6ixStar",
+    "titulo": "How To Rob A Big Bank Vault In GTA 6 (Every Step)",
+    "video_id": "6rtOfmwwa0g",
+    "imagem": "https://i.ytimg.com/vi/6rtOfmwwa0g/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:36+00:00",
+  "atualizado": "2026-11-26T20:44:36+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-dye-pack-jammer",
+  "titulo": "Dye Pack Jammer",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Item essencial para realizar roubos a cofres de bancos sem danificar o dinheiro.",
+  "resumo_original": "Get the Dye Pack Jammer from the chapter 3 mission Credit Check.",
+  "passos": [
+   "Complete a missão 'Credit Check' durante o Capítulo 3 para desbloquear o item."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=6rtOfmwwa0g",
+    "autor": "6ixStar",
+    "titulo": "How To Rob A Big Bank Vault In GTA 6 (Every Step)",
+    "video_id": "6rtOfmwwa0g",
+    "imagem": "https://i.ytimg.com/vi/6rtOfmwwa0g/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:36+00:00",
+  "atualizado": "2026-11-26T20:44:36+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-pink-growler",
+  "titulo": "Carro Pink Growler",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Obtenha o carro Pink Growler gratuitamente utilizando uma senha de laptop.",
+  "resumo_original": "Free Pink Growler (Laptop Password)",
+  "passos": [
+   "Consiga a senha do laptop específica para liberar o veículo."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo de clickbait sobre um jogo que ainda não foi lançado. Não há detalhes concretos ou provas visuais da existência deste item ou método.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=BWUjs-FxGIU",
+    "autor": "ABTW",
+    "titulo": "DON'T Finish Chapter 3 in GTA 6 Until You Do THIS!",
+    "video_id": "BWUjs-FxGIU",
+    "imagem": "https://i.ytimg.com/vi/BWUjs-FxGIU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:32+00:00",
+  "atualizado": "2026-11-26T20:44:32+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-meta-de-economia-poupanca-da-familia",
+  "titulo": "Meta de Economia: Poupança da Família",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Alcance a meta de $100 mil na poupança da família antes de prosseguir no Capítulo 3.",
+  "resumo_original": "$100K Family Savings Goal",
+  "passos": [
+   "Acumule $100.000 em dinheiro no fundo da família."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 100000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo de clickbait sobre um jogo que ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=BWUjs-FxGIU",
+    "autor": "ABTW",
+    "titulo": "DON'T Finish Chapter 3 in GTA 6 Until You Do THIS!",
+    "video_id": "BWUjs-FxGIU",
+    "imagem": "https://i.ytimg.com/vi/BWUjs-FxGIU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:32+00:00",
+  "atualizado": "2026-11-26T20:44:32+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-lista-de-desejos-do-randy",
+  "titulo": "Lista de Desejos do Randy",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Complete a lista de itens solicitados por Randy.",
+  "resumo_original": "Randy's Wish List",
+  "passos": [
+   "Verifique a lista de desejos de Randy e colete os itens solicitados."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo de clickbait sobre um jogo que ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=BWUjs-FxGIU",
+    "autor": "ABTW",
+    "titulo": "DON'T Finish Chapter 3 in GTA 6 Until You Do THIS!",
+    "video_id": "BWUjs-FxGIU",
+    "imagem": "https://i.ytimg.com/vi/BWUjs-FxGIU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:32+00:00",
+  "atualizado": "2026-11-26T20:44:32+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-trabalhos-de-joalheria-de-yasmani",
+  "titulo": "Trabalhos de Joalheria de Yasmani",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Realize os serviços de roubo de joias oferecidos por Yasmani.",
+  "resumo_original": "Yasmani's Jewelry Jobs",
+  "passos": [
+   "Procure por Yasmani para iniciar os trabalhos de joalheria."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo de clickbait sobre um jogo que ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=BWUjs-FxGIU",
+    "autor": "ABTW",
+    "titulo": "DON'T Finish Chapter 3 in GTA 6 Until You Do THIS!",
+    "video_id": "BWUjs-FxGIU",
+    "imagem": "https://i.ytimg.com/vi/BWUjs-FxGIU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:32+00:00",
+  "atualizado": "2026-11-26T20:44:32+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-bloqueador-de-dispositivo-de-tinta-dye-pack-jammer",
+  "titulo": "Bloqueador de Dispositivo de Tinta (Dye Pack Jammer)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Obtenha ou utilize o bloqueador de pacotes de tinta para facilitar roubos.",
+  "resumo_original": "Dye Pack Jammer",
+  "passos": [
+   "Adquira o item Dye Pack Jammer."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo de clickbait sobre um jogo que ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=BWUjs-FxGIU",
+    "autor": "ABTW",
+    "titulo": "DON'T Finish Chapter 3 in GTA 6 Until You Do THIS!",
+    "video_id": "BWUjs-FxGIU",
+    "imagem": "https://i.ytimg.com/vi/BWUjs-FxGIU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:32+00:00",
+  "atualizado": "2026-11-26T20:44:32+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-oportunidades-de-roubos-caminhoes-blindados-e-destrocos",
+  "titulo": "Oportunidades de Roubos, Caminhões Blindados e Destroços",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Participe de assaltos a caminhões blindados e procure por itens em locais de destroços.",
+  "resumo_original": "Robbery Opportunities, Armored Trucks & Wrecks",
+  "passos": [
+   "Aviste caminhões blindados nas estradas para assaltá-los.",
+   "Explore locais de destroços em busca de recompensas."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo de clickbait sobre um jogo que ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=BWUjs-FxGIU",
+    "autor": "ABTW",
+    "titulo": "DON'T Finish Chapter 3 in GTA 6 Until You Do THIS!",
+    "video_id": "BWUjs-FxGIU",
+    "imagem": "https://i.ytimg.com/vi/BWUjs-FxGIU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:32+00:00",
+  "atualizado": "2026-11-26T20:44:32+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-corridas-de-rua",
+  "titulo": "Corridas de Rua",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Participe de corridas de rua para ganhar dinheiro e prestígio.",
+  "resumo_original": "Street Races",
+  "passos": [
+   "Localize e participe das corridas de rua disponíveis."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo de clickbait sobre um jogo que ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=BWUjs-FxGIU",
+    "autor": "ABTW",
+    "titulo": "DON'T Finish Chapter 3 in GTA 6 Until You Do THIS!",
+    "video_id": "BWUjs-FxGIU",
+    "imagem": "https://i.ytimg.com/vi/BWUjs-FxGIU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:32+00:00",
+  "atualizado": "2026-11-26T20:44:32+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-locais-de-dinheiro-e-loot-early-game",
+  "titulo": "Locais de Dinheiro e Loot (Early Game)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Locais de farm de dinheiro e itens secretos que permitem progressão inicial rápida através de furtividade.",
+  "resumo_original": "SECRET money spots that unlock even MORE loot as you go but we'll be doing it completely stealthed.",
+  "passos": [
+   "Acesse os locais mencionados no vídeo usando furtividade (stealth).",
+   "Colete o dinheiro e os itens de loot."
+  ],
+  "locais": [
+   {
+    "nome": "Locais de Loot",
+    "onde": "Vários",
+    "detalhe": "Spots secretos espalhados pelo mapa para coleta furtiva."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Variável",
+  "ganho": 50000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista, usa títulos de 'clique' e a imagem de capa parece ser uma montagem (thumbnail), não apresentando provas concretas no texto fornecido de que o conteúdo é verídico ou que o jogo já permite esses métodos.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=i1g1PuWGUY8",
+    "autor": "Millzaa",
+    "titulo": "Get RICH FAST in GTA 6 With 3 of the EASIEST Secret Money Spots",
+    "video_id": "i1g1PuWGUY8",
+    "imagem": "https://i.ytimg.com/vi/i1g1PuWGUY8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:26+00:00",
+  "atualizado": "2026-11-26T20:44:26+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-espingarda-de-cano-duplo",
+  "titulo": "Espingarda de cano duplo",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma espingarda rara encontrada em uma maleta dentro de uma residência.",
+  "resumo_original": "Rare shotgun found inside a case in a house.",
+  "passos": [
+   "Entre na residência.",
+   "Vá até a mesa onde está uma maleta preta.",
+   "Abra a maleta para coletar a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Residência privada",
+    "onde": "Dentro de uma casa",
+    "detalhe": "Sobre uma mesa de madeira próximo à janela"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "1 minuto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   },
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Duke_carbine",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Duke carbine",
+    "video_id": null,
+    "imagem": null
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Y8e3rv0gv6Y",
+    "autor": "Nahv GTA",
+    "titulo": "SECRET RARE Gun Locations in GTA 6!",
+    "video_id": "Y8e3rv0gv6Y",
+    "imagem": "https://i.ytimg.com/vi/Y8e3rv0gv6Y/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-26T20:44:18+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-fuzil-de-assalto-kingpin-heathen",
+  "titulo": "Fuzil de Assalto Kingpin Heathen",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Fuzil de assalto lendário escondido no jogo.",
+  "resumo_original": "Legendary Kingpin Heathen assault rifle.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo não apresenta imagens de gameplay reais, locais específicos ou instruções de como obter a arma, tratando-se apenas de especulação ou clickbait sobre o futuro jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=y6OaouCzliE",
+    "autor": "Fateh2r Gaming",
+    "titulo": "2 Overpowered Hidden Legendary Rifles in GTA 6 😳 #gta6 #gtavi #shorts",
+    "video_id": "y6OaouCzliE",
+    "imagem": "https://i.ytimg.com/vi/y6OaouCzliE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:10+00:00",
+  "atualizado": "2026-11-26T20:44:10+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-fuzil-de-assalto-san4san-kz-59",
+  "titulo": "Fuzil de Assalto San4San KZ-59",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Fuzil de assalto lendário escondido no jogo.",
+  "resumo_original": "San4San KZ-59 assault rifle.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo não apresenta imagens de gameplay reais, locais específicos ou instruções de como obter a arma, tratando-se apenas de especulação ou clickbait sobre o futuro jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=y6OaouCzliE",
+    "autor": "Fateh2r Gaming",
+    "titulo": "2 Overpowered Hidden Legendary Rifles in GTA 6 😳 #gta6 #gtavi #shorts",
+    "video_id": "y6OaouCzliE",
+    "imagem": "https://i.ytimg.com/vi/y6OaouCzliE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:10+00:00",
+  "atualizado": "2026-11-26T20:44:10+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-lanca-foguetes",
+  "titulo": "Lança-foguetes",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma secreta encontrada logo no início do jogo.",
+  "resumo_original": "Secret rocket launcher found early in the game.",
+  "passos": [
+   "Siga o guia do criador para encontrar o local oculto do lança-foguetes."
+  ],
+  "locais": [
+   {
+    "nome": "Local secreto",
+    "onde": "",
+    "detalhe": "Não especificado no texto."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo/clickbait baseado em GTA 6, jogo que ainda não foi lançado. Não há evidências reais de localização no texto.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=UV9KicYuWIg",
+    "autor": "Aiming4Gaming",
+    "titulo": "How To Get an Early ROCKET LAUNCHER & Legendary Rifle In GTA 6!",
+    "video_id": "UV9KicYuWIg",
+    "imagem": "https://i.ytimg.com/vi/UV9KicYuWIg/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:06+00:00",
+  "atualizado": "2026-11-26T20:44:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-gun-nut-sms-01-sniper-avancada",
+  "titulo": "Gun Nut SMS-01 (Sniper Avançada)",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "O melhor fuzil de precisão avançado para o início do jogo.",
+  "resumo_original": "The best early Advanced Sniper Rifle in Grand Theft Auto 6.",
+  "passos": [
+   "Siga o guia do criador para localizar o fuzil Gun Nut SMS-01."
+  ],
+  "locais": [
+   {
+    "nome": "Local secreto",
+    "onde": "",
+    "detalhe": "Não especificado no texto."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo/clickbait baseado em GTA 6, jogo que ainda não foi lançado. Não há evidências reais de localização no texto.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=UV9KicYuWIg",
+    "autor": "Aiming4Gaming",
+    "titulo": "How To Get an Early ROCKET LAUNCHER & Legendary Rifle In GTA 6!",
+    "video_id": "UV9KicYuWIg",
+    "imagem": "https://i.ytimg.com/vi/UV9KicYuWIg/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:06+00:00",
+  "atualizado": "2026-11-26T20:44:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-glitch-de-dinheiro-infinito-e-teleporte-de-carros",
+  "titulo": "Glitch de Dinheiro Infinito e Teleporte de Carros",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Vídeo de clickbait prometendo métodos de dinheiro infinito e teleporte de veículos em GTA 6, jogo que ainda não foi lançado.",
+  "resumo_original": "Clickbait video promising unlimited money glitches and car teleportation for the unreleased game GTA 6.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo é enganoso (clickbait), pois o GTA 6 ainda não foi lançado e não existem glitches ou rotas de dinheiro aplicáveis ao jogo. O autor promove links externos (Guapci) e redes sociais.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=s9VPArJmb9g",
+    "autor": "Cbass",
+    "titulo": "*AFTER PATCH* GTA 6 UNLIMITED MONEY GLITCH! (GTA 6 Fastest Way Make Money PS5 & XBOX)",
+    "video_id": "s9VPArJmb9g",
+    "imagem": "https://i.ytimg.com/vi/s9VPArJmb9g/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:44:02+00:00",
+  "atualizado": "2026-11-26T20:44:02+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-maibatsu-penumbra-ff",
+  "titulo": "Maibatsu Penumbra FF",
+  "categoria": "car",
+  "regiao": "Leonida Keys",
+  "resumo": "Veículo localizado nas Ilhas Rialto. O carro não possui rastreador instalado.",
+  "resumo_original": "Maibatsu Penumbra FF: Rialto Islands. No tracker",
+  "passos": [
+   "Vá até a região das Ilhas Rialto",
+   "Localize o veículo estacionado"
+  ],
+  "locais": [
+   {
+    "nome": "Ilhas Rialto",
+    "onde": "Leonida Keys",
+    "detalhe": "Região mapeada como Rialto"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "N/A",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "Informação extraída de conteúdo especulativo de internet sem confirmação real no jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=jRoAaCIsims",
+    "autor": "Phill GTA 6",
+    "titulo": "5 Secret Cars in GTA 6 and Where to Find Them",
+    "video_id": "jRoAaCIsims",
+    "imagem": "https://i.ytimg.com/vi/jRoAaCIsims/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RmuvXUffzPM",
+    "autor": "CROWNED",
+    "titulo": "GTA 6 - 10 Custom Car Locations",
+    "video_id": "RmuvXUffzPM",
+    "imagem": "https://i.ytimg.com/vi/RmuvXUffzPM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:58:56+00:00",
+  "atualizado": "2026-11-26T20:43:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-imponte-turbo-ruiner",
+  "titulo": "Imponte Turbo Ruiner",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo customizado. Caso não apareça de imediato, salve e recarregue o jogo.",
+  "resumo_original": "Custom car. Try saving and reloading to force spawn.",
+  "passos": [
+   "Vá ao local indicado",
+   "Se o carro não estiver lá, salve e recarregue o jogo até aparecer"
+  ],
+  "locais": [
+   {
+    "nome": "Imponte Turbo Ruiner",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "Conteúdo especulativo sobre jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0NIez05L0YE",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 9 MUST HAVE Cars You Don't Want to Miss! (FREE Fast & Furious, Super Cars & Drift Cars)",
+    "video_id": "0NIez05L0YE",
+    "imagem": "https://i.ytimg.com/vi/0NIez05L0YE/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RmuvXUffzPM",
+    "autor": "CROWNED",
+    "titulo": "GTA 6 - 10 Custom Car Locations",
+    "video_id": "RmuvXUffzPM",
+    "imagem": "https://i.ytimg.com/vi/RmuvXUffzPM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T08:56:56+00:00",
+  "atualizado": "2026-11-26T20:43:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-albany-cuban-hermes",
+  "titulo": "Albany Cuban Hermes",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo customizado. Caso não apareça de imediato, salve e recarregue o jogo.",
+  "resumo_original": "Custom car. Try saving and reloading to force spawn.",
+  "passos": [
+   "Vá ao local indicado",
+   "Se o carro não estiver lá, salve e recarregue o jogo até aparecer"
+  ],
+  "locais": [
+   {
+    "nome": "Albany Cuban Hermes",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RmuvXUffzPM",
+    "autor": "CROWNED",
+    "titulo": "GTA 6 - 10 Custom Car Locations",
+    "video_id": "RmuvXUffzPM",
+    "imagem": "https://i.ytimg.com/vi/RmuvXUffzPM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:43:58+00:00",
+  "atualizado": "2026-11-26T20:43:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-bravado-revenant-gauntlet",
+  "titulo": "Bravado Revenant Gauntlet",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo customizado. Caso não apareça de imediato, salve e recarregue o jogo.",
+  "resumo_original": "Custom car. Try saving and reloading to force spawn.",
+  "passos": [
+   "Vá ao local indicado",
+   "Se o carro não estiver lá, salve e recarregue o jogo até aparecer"
+  ],
+  "locais": [
+   {
+    "nome": "Bravado Revenant Gauntlet",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RmuvXUffzPM",
+    "autor": "CROWNED",
+    "titulo": "GTA 6 - 10 Custom Car Locations",
+    "video_id": "RmuvXUffzPM",
+    "imagem": "https://i.ytimg.com/vi/RmuvXUffzPM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:43:58+00:00",
+  "atualizado": "2026-11-26T20:43:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-maibatsu-blue-drake-penumbra",
+  "titulo": "Maibatsu Blue Drake Penumbra",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo customizado. Caso não apareça de imediato, salve e recarregue o jogo.",
+  "resumo_original": "Custom car. Try saving and reloading to force spawn.",
+  "passos": [
+   "Vá ao local indicado",
+   "Se o carro não estiver lá, salve e recarregue o jogo até aparecer"
+  ],
+  "locais": [
+   {
+    "nome": "Maibatsu Blue Drake Penumbra",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RmuvXUffzPM",
+    "autor": "CROWNED",
+    "titulo": "GTA 6 - 10 Custom Car Locations",
+    "video_id": "RmuvXUffzPM",
+    "imagem": "https://i.ytimg.com/vi/RmuvXUffzPM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:43:58+00:00",
+  "atualizado": "2026-11-26T20:43:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-progen-seaspray-emerus",
+  "titulo": "Progen Seaspray Emerus",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo customizado. Caso não apareça de imediato, salve e recarregue o jogo.",
+  "resumo_original": "Custom car. Try saving and reloading to force spawn.",
+  "passos": [
+   "Vá ao local indicado",
+   "Se o carro não estiver lá, salve e recarregue o jogo até aparecer"
+  ],
+  "locais": [
+   {
+    "nome": "Progen Seaspray Emerus",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RmuvXUffzPM",
+    "autor": "CROWNED",
+    "titulo": "GTA 6 - 10 Custom Car Locations",
+    "video_id": "RmuvXUffzPM",
+    "imagem": "https://i.ytimg.com/vi/RmuvXUffzPM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:43:58+00:00",
+  "atualizado": "2026-11-26T20:43:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-annis-chameleon-elegy",
+  "titulo": "Annis Chameleon Elegy",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo customizado. Caso não apareça de imediato, salve e recarregue o jogo.",
+  "resumo_original": "Custom car. Try saving and reloading to force spawn.",
+  "passos": [
+   "Vá ao local indicado",
+   "Se o carro não estiver lá, salve e recarregue o jogo até aparecer"
+  ],
+  "locais": [
+   {
+    "nome": "Annis Chameleon Elegy",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RmuvXUffzPM",
+    "autor": "CROWNED",
+    "titulo": "GTA 6 - 10 Custom Car Locations",
+    "video_id": "RmuvXUffzPM",
+    "imagem": "https://i.ytimg.com/vi/RmuvXUffzPM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:43:58+00:00",
+  "atualizado": "2026-11-26T20:43:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-benefactor-dwnply-s-schutzen",
+  "titulo": "Benefactor DWNPLY's Schutzen",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Carro específico de personagem. Só aparece no mundo aberto após completar certas missões.",
+  "resumo_original": "Character specific car. Only appears in free roam after completing certain missions.",
+  "passos": [
+   "Complete as missões necessárias para desbloquear o veículo",
+   "Vá ao local indicado"
+  ],
+  "locais": [
+   {
+    "nome": "Benefactor DWNPLY's Schutzen",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RmuvXUffzPM",
+    "autor": "CROWNED",
+    "titulo": "GTA 6 - 10 Custom Car Locations",
+    "video_id": "RmuvXUffzPM",
+    "imagem": "https://i.ytimg.com/vi/RmuvXUffzPM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:43:58+00:00",
+  "atualizado": "2026-11-26T20:43:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-annis-pixel-elegy",
+  "titulo": "Annis Pixel Elegy",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo customizado. Caso não apareça de imediato, salve e recarregue o jogo.",
+  "resumo_original": "Custom car. Try saving and reloading to force spawn.",
+  "passos": [
+   "Vá ao local indicado",
+   "Se o carro não estiver lá, salve e recarregue o jogo até aparecer"
+  ],
+  "locais": [
+   {
+    "nome": "Annis Pixel Elegy",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RmuvXUffzPM",
+    "autor": "CROWNED",
+    "titulo": "GTA 6 - 10 Custom Car Locations",
+    "video_id": "RmuvXUffzPM",
+    "imagem": "https://i.ytimg.com/vi/RmuvXUffzPM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:43:58+00:00",
+  "atualizado": "2026-11-26T20:43:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "car-classique-apocalypse-stallion",
+  "titulo": "Classique Apocalypse Stallion",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo customizado. Caso não apareça de imediato, salve e recarregue o jogo.",
+  "resumo_original": "Custom car. Try saving and reloading to force spawn.",
+  "passos": [
+   "Vá ao local indicado",
+   "Se o carro não estiver lá, salve e recarregue o jogo até aparecer"
+  ],
+  "locais": [
+   {
+    "nome": "Classique Apocalypse Stallion",
+    "onde": "",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RmuvXUffzPM",
+    "autor": "CROWNED",
+    "titulo": "GTA 6 - 10 Custom Car Locations",
+    "video_id": "RmuvXUffzPM",
+    "imagem": "https://i.ytimg.com/vi/RmuvXUffzPM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:43:58+00:00",
+  "atualizado": "2026-11-26T20:43:58+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-colecionaveis-de-motel-capitulo-2",
+  "titulo": "Colecionáveis de Motel - Capítulo 2",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Itens colecionáveis escondidos em motéis durante o Capítulo 2 do jogo.",
+  "resumo_original": "Every motel collectible location in GTA 6 Chapter 2.",
+  "passos": [
+   "Explore os motéis da região conforme indicado no vídeo.",
+   "Procure por itens escondidos dentro dos quartos ou áreas comuns dos motéis."
+  ],
+  "locais": [
+   {
+    "nome": "Motéis do Capítulo 2",
+    "onde": "Leonida",
+    "detalhe": "Localizações variadas de motéis presentes no Capítulo 2 do modo história."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo fornecido como fonte não mostra as localizações reais nem o gameplay, servindo apenas como uma capa promocional para o conteúdo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=EK6GFunR80A",
+    "autor": "Matoosh",
+    "titulo": "ALL Motel Collectible Locations in GTA 6 Chapter 2! #gta6 #gta",
+    "video_id": "EK6GFunR80A",
+    "imagem": "https://i.ytimg.com/vi/EK6GFunR80A/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:43:51+00:00",
+  "atualizado": "2026-11-26T20:43:51+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-saque-de-la-cascara-motel",
+  "titulo": "Saque de La Cascara Motel",
+  "categoria": "col",
+  "regiao": "Port Gellhorn",
+  "resumo": "Local secreto com diversos itens valiosos e dinheiro, acessível a partir do Capítulo 2.",
+  "resumo_original": "Secret loot location in Port Gellhorn accessible as early as Chapter 2.",
+  "passos": [
+   "Entre no La Cascara Motel",
+   "Esgueire-se pelos inimigos",
+   "Abra o cofre com o código",
+   "Colete os itens e o dinheiro"
+  ],
+  "locais": [
+   {
+    "nome": "La Cascara Motel",
+    "onde": "Port Gellhorn",
+    "detalhe": "Local de saque secreto"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Aprox. 5 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo se trata de um mod de GTA 6, não sendo conteúdo oficial do jogo base. A localização e os itens listados não refletem o jogo real.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=nUS6dadHCNQ",
+    "autor": "Jay Dunna ",
+    "titulo": "LA CASCARA MOTEL 100% Loot Locations & Safe Code in GTA 6",
+    "video_id": "nUS6dadHCNQ",
+    "imagem": "https://i.ytimg.com/vi/nUS6dadHCNQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:43:42+00:00",
+  "atualizado": "2026-11-26T20:43:42+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-legendary-suppressed-smg",
+  "titulo": "Legendary Suppressed SMG",
+  "categoria": "gun",
+  "regiao": "Port Gellhorn",
+  "resumo": "SMG lendária com supressor encontrada no motel.",
+  "resumo_original": "Permanent Legendary Suppressed SMG at La Cascara Motel.",
+  "passos": [
+   "Localize a arma no interior do La Cascara Motel"
+  ],
+  "locais": [
+   {
+    "nome": "La Cascara Motel",
+    "onde": "Port Gellhorn",
+    "detalhe": "Interior do motel"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "2 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo proveniente de um mod. Não faz parte do jogo oficial.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=nUS6dadHCNQ",
+    "autor": "Jay Dunna ",
+    "titulo": "LA CASCARA MOTEL 100% Loot Locations & Safe Code in GTA 6",
+    "video_id": "nUS6dadHCNQ",
+    "imagem": "https://i.ytimg.com/vi/nUS6dadHCNQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:43:42+00:00",
+  "atualizado": "2026-11-26T20:43:42+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-firebug-dominator",
+  "titulo": "Firebug Dominator",
+  "categoria": "car",
+  "regiao": "Port Gellhorn",
+  "resumo": "Veículo lendário escondido no La Cascara Motel.",
+  "resumo_original": "Legendary Firebug Dominator car location.",
+  "passos": [
+   "Vá até o local indicado no motel para encontrar o veículo"
+  ],
+  "locais": [
+   {
+    "nome": "La Cascara Motel",
+    "onde": "Port Gellhorn",
+    "detalhe": "Localização do veículo lendário"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "4 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo proveniente de um mod. Não faz parte do jogo oficial.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=nUS6dadHCNQ",
+    "autor": "Jay Dunna ",
+    "titulo": "LA CASCARA MOTEL 100% Loot Locations & Safe Code in GTA 6",
+    "video_id": "nUS6dadHCNQ",
+    "imagem": "https://i.ytimg.com/vi/nUS6dadHCNQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:43:42+00:00",
+  "atualizado": "2026-11-26T20:43:42+00:00",
+  "status": "retido"
+ },
+ {
   "id": "car-gauntlet-interceptor-policia",
   "titulo": "Gauntlet Interceptor (Polícia)",
   "categoria": "car",
@@ -108,51 +1934,6 @@
   "criado": "2026-11-26T16:58:39+00:00",
   "atualizado": "2026-11-26T16:58:39+00:00",
   "status": "retido"
- },
- {
-  "id": "car-carros-raros-no-gta-6",
-  "titulo": "Carros Raros no GTA 6",
-  "categoria": "car",
-  "regiao": "",
-  "resumo": "O vídeo promete revelar a localização de 5 carros raros e o carro do Brian (Velozes e Furiosos), mas não fornece os dados no conteúdo.",
-  "resumo_original": "5 carros raros do GTA 6 e onde encontrar cada um + a localização do carro do Brian de Velozes e Furiosos no final!",
-  "passos": [
-   "Acesse o link externo indicado pelo autor na descrição para tentar encontrar as localizações."
-  ],
-  "locais": [
-   {
-    "nome": "Canal How to Everything",
-    "onde": "https://www.youtube.com/@HowtoEverything01",
-    "detalhe": "O autor direciona os espectadores para outro canal externo para obter as informações."
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo utiliza imagens de mods ou recriações externas, não representando gameplay oficial ou verificado do GTA 6. A localização dos veículos não é fornecida.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=Fsg6kYrJYfo",
-    "autor": "YuriLoti",
-    "titulo": "EU ENCONTREI 3 CARROS RAROS NO GTA 6 (INSANOS)",
-    "video_id": "Fsg6kYrJYfo",
-    "imagem": "https://i.ytimg.com/vi/Fsg6kYrJYfo/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=GqtZN_aRYug",
-    "autor": "Mistoca GTA 6",
-    "titulo": "O CARRO DO BRIAN tá no GTA 6! + 5 carros raros 🚗 #velozesefuriosos #gta6 #carrosgta  #davyjones",
-    "video_id": "GqtZN_aRYug",
-    "imagem": "https://i.ytimg.com/vi/GqtZN_aRYug/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-26T16:58:13+00:00",
-  "atualizado": "2026-11-26T16:58:34+00:00",
-  "status": "aguardando"
  },
  {
   "id": "car-carro-esportivo-vermelho-rubi",
@@ -7261,44 +9042,6 @@
   "status": "retido"
  },
  {
-  "id": "car-maibatsu-penumbra-ff",
-  "titulo": "Maibatsu Penumbra FF",
-  "categoria": "car",
-  "regiao": "Leonida Keys",
-  "resumo": "Veículo localizado nas Ilhas Rialto. O carro não possui rastreador instalado.",
-  "resumo_original": "Maibatsu Penumbra FF: Rialto Islands. No tracker",
-  "passos": [
-   "Vá até a região das Ilhas Rialto",
-   "Localize o veículo estacionado"
-  ],
-  "locais": [
-   {
-    "nome": "Ilhas Rialto",
-    "onde": "Leonida Keys",
-    "detalhe": "Região mapeada como Rialto"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "N/A",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Informação extraída de conteúdo especulativo de internet sem confirmação real no jogo.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=jRoAaCIsims",
-    "autor": "Phill GTA 6",
-    "titulo": "5 Secret Cars in GTA 6 and Where to Find Them",
-    "video_id": "jRoAaCIsims",
-    "imagem": "https://i.ytimg.com/vi/jRoAaCIsims/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-25T08:58:56+00:00",
-  "atualizado": "2026-11-25T08:58:56+00:00",
-  "status": "retido"
- },
- {
   "id": "car-grotti-itali-rsx-armadilha",
   "titulo": "Grotti Itali RSX (Armadilha)",
   "categoria": "car",
@@ -7687,43 +9430,6 @@
     "nome": "Drifter Elegy",
     "onde": "",
     "detalhe": "Localização no vídeo aos 2:43."
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo sobre jogo não lançado.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=0NIez05L0YE",
-    "autor": "Arekkz Gaming",
-    "titulo": "GTA 6 - 9 MUST HAVE Cars You Don't Want to Miss! (FREE Fast & Furious, Super Cars & Drift Cars)",
-    "video_id": "0NIez05L0YE",
-    "imagem": "https://i.ytimg.com/vi/0NIez05L0YE/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-25T08:56:56+00:00",
-  "atualizado": "2026-11-25T08:56:56+00:00",
-  "status": "retido"
- },
- {
-  "id": "car-imponte-turbo-ruiner",
-  "titulo": "Imponte Turbo Ruiner",
-  "categoria": "car",
-  "regiao": "",
-  "resumo": "Carro que já vem equipado com NOS.",
-  "resumo_original": "Imponte Turbo Ruiner - Easy NOS Car",
-  "passos": [
-   "Localize o veículo para obter o carro com NOS já instalado."
-  ],
-  "locais": [
-   {
-    "nome": "Imponte Turbo Ruiner",
-    "onde": "",
-    "detalhe": "Localização no vídeo aos 4:12."
    }
   ],
   "dificuldade": 1,
@@ -8844,94 +10550,6 @@
   "criado": "2026-11-24T20:47:30+00:00",
   "atualizado": "2026-11-24T20:47:30+00:00",
   "status": "retido"
- },
- {
-  "id": "farm-glitch-de-dinheiro-infinito-em-loja",
-  "titulo": "Glitch de Dinheiro Infinito em Loja",
-  "categoria": "farm",
-  "regiao": "",
-  "resumo": "Método para farmar dinheiro repetidamente coletando e vendendo itens de valor, utilizando falhas de respawn.",
-  "resumo_original": "An updated INFINITE MONEY GLITCH in GTA 6 that still works after the latest patch!",
-  "passos": [
-   "Vá até o local do glitch.",
-   "Use um dos três métodos para forçar o respawn dos itens valiosos.",
-   "Utilize seu parceiro para agilizar a venda do loot.",
-   "Gerencie o limite da sua conta para não perder dinheiro."
-  ],
-  "locais": [
-   {
-    "nome": "Local do Glitch",
-    "onde": "Não especificado na descrição",
-    "detalhe": "Consulte o minuto 0:28 do vídeo"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "500k/hora",
-  "ganho": 100000,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é altamente sensacionalista, utiliza clickbait e não apresenta prova real de gameplay, já que o GTA 6 ainda não foi lançado. O conteúdo é enganoso.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=D5R2wovnPPA",
-    "autor": "JoeyRahmz",
-    "titulo": "*EASY* ✅ New SOLO MONEY GLITCH IN GTA 6! 100k/HOUR (UNLIMITED MONEY GLITCH GTA VI) #gta6 #gta6glitch",
-    "video_id": "D5R2wovnPPA",
-    "imagem": "https://i.ytimg.com/vi/D5R2wovnPPA/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=x1wCiWSXrp4",
-    "autor": "RageGamingVideos",
-    "titulo": "GTA 6 - WARNING: Don't Make These Chapter 2 Mistakes - Best Missable Nitro Car & INFINITE Money!",
-    "video_id": "x1wCiWSXrp4",
-    "imagem": "https://i.ytimg.com/vi/x1wCiWSXrp4/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=vBVvxeOY4yc",
-    "autor": "GAMERLLIL Games",
-    "titulo": "ACABOU a Graça... MILIONÁRIO Desde o INÍCIO! Glitch de DINHEIRO INFINITO Quebra GTA 6",
-    "video_id": "vBVvxeOY4yc",
-    "imagem": "https://i.ytimg.com/vi/vBVvxeOY4yc/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=LBWpJ3gUYP0",
-    "autor": "OllMS",
-    "titulo": "EARLY GAME | NEW 5X FASTER UNLIMITED MONEY GLITCH in GTA 6 🤑👀",
-    "video_id": "LBWpJ3gUYP0",
-    "imagem": "https://i.ytimg.com/vi/LBWpJ3gUYP0/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=0r_sceEDQxQ",
-    "autor": "Jay Dunna ",
-    "titulo": "UPDATED INFINITE MONEY GLITCH in GTA 6 ($500k/Hour)",
-    "video_id": "0r_sceEDQxQ",
-    "imagem": "https://i.ytimg.com/vi/0r_sceEDQxQ/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=Cb01QWmVGwk",
-    "autor": "O Porão",
-    "titulo": "O melhor GLITCH de DINHEIRO INFINITO no GTA 6! #gta #gta6 #grandtheftauto #jogos",
-    "video_id": "Cb01QWmVGwk",
-    "imagem": "https://i.ytimg.com/vi/Cb01QWmVGwk/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=DC6o8H4PfBs",
-    "autor": "Silent Nine",
-    "titulo": "NEW UNLIMITED MONEY GLITCH IN GTA 6! EASY 500K MONEY DUPLICATION IN CHAPTER 2!",
-    "video_id": "DC6o8H4PfBs",
-    "imagem": "https://i.ytimg.com/vi/DC6o8H4PfBs/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T05:04:06+00:00",
-  "atualizado": "2026-11-24T20:47:06+00:00",
-  "status": "confirmado"
  },
  {
   "id": "farm-glitch-de-dinheiro-infinito-em-conveniencia",
@@ -16616,43 +18234,6 @@
   "regiao": "",
   "resumo": "Pistola de grande calibre confirmada.",
   "resumo_original": "Mustang .357 Pistol",
-  "passos": [],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Weapons in GTA VI/images",
-    "video_id": null,
-    "imagem": null
-   },
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Duke_carbine",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Unnamed GTA VI Duke carbine",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-23T02:59:58+00:00",
-  "atualizado": "2026-11-23T03:00:15+00:00",
-  "status": "confirmado"
- },
- {
-  "id": "gun-espingarda-de-cano-duplo",
-  "titulo": "Espingarda de cano duplo",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Shotgun clássica de cano duplo.",
-  "resumo_original": "Double-barreled shotgun",
   "passos": [],
   "locais": [],
   "dificuldade": 1,
