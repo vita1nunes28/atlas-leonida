@@ -35,7 +35,7 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-26T08:59:09+00:00",
+  "atualizado": "2026-11-26T13:08:14+00:00",
   "status": "retido"
  },
  {
@@ -74,7 +74,7 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-26T08:59:09+00:00",
+  "atualizado": "2026-11-26T13:08:14+00:00",
   "status": "retido"
  },
  {
@@ -113,7 +113,868 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-26T08:59:09+00:00",
+  "atualizado": "2026-11-26T13:08:14+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-armas-op-do-capitulo-1",
+  "titulo": "Armas OP do Capítulo 1",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Lista de 25 armas lendárias que podem ser coletadas logo no início do jogo, durante o Capítulo 1.",
+  "resumo_original": "Get 25 powerful legendary weapons right at the start of GTA 6, without even leaving Chapter 1!",
+  "passos": [
+   "Siga a ordem dos locais descritos no vídeo",
+   "Armazene e recupere as armas conforme o tutorial de 0:23"
+  ],
+  "locais": [
+   {
+    "nome": "Múltiplos locais",
+    "onde": "Mundo aberto (Capítulo 1)",
+    "detalhe": "As 25 armas estão espalhadas em pontos específicos listados nos timestamps do vídeo"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo apresenta conteúdo sobre um jogo ainda não lançado. As armas e locais são especulativos ou baseados em mods/vazamentos, visto que GTA 6 não foi lançado oficialmente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=6ev6sCnLFtY",
+    "autor": "PetePlayed",
+    "titulo": "GTA 6 - Get These 25 OP Weapons BEFORE Leaving Chapter 1! (All Locations)",
+    "video_id": "6ev6sCnLFtY",
+    "imagem": "https://i.ytimg.com/vi/6ev6sCnLFtY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T13:08:00+00:00",
+  "atualizado": "2026-11-26T13:08:00+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-glitch-da-van-dinheiro-infinito",
+  "titulo": "Glitch da Van (Dinheiro Infinito)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método de exploração de falhas (glitch) para obter dinheiro infinito no jogo.",
+  "resumo_original": "Aprenda o método atualizado para fazer o glitch de dinheiro infinito (Glitch da Van) no GTA 6",
+  "passos": [
+   "Assista ao vídeo para visualizar o passo a passo demonstrado pelo autor."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é clickbait e o jogo GTA 6 ainda não foi lançado. O autor utiliza imagens genéricas para atrair cliques, prometendo um glitch para um título inexistente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WqmAYhFueNc",
+    "autor": "Bosco Play",
+    "titulo": "(ATUALIZADO) GLITCH de DINHEIRO INFINITO no GTA 6",
+    "video_id": "WqmAYhFueNc",
+    "imagem": "https://i.ytimg.com/vi/WqmAYhFueNc/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=1suDPCYLPag",
+    "autor": "Silent Nine",
+    "titulo": "NEW GTA 6 UNLIMITED MONEY GLITCH! FAST 100K MONEY EARLY GAME GLITCH!",
+    "video_id": "1suDPCYLPag",
+    "imagem": "https://i.ytimg.com/vi/1suDPCYLPag/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ejapi3en-ws",
+    "autor": "Universo Paralelo",
+    "titulo": "Atualizaram o GLITCH de DINHEIRO INFINITO em GTA 6 e ficou MUITO MELHOR!",
+    "video_id": "ejapi3en-ws",
+    "imagem": "https://i.ytimg.com/vi/ejapi3en-ws/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=W1y1_58BblQ",
+    "autor": "Bubs",
+    "titulo": "*NEW* UNLIMITED GTA 6 MONEY GLITCH! MAKE MILLIONS ASAP! #gta6",
+    "video_id": "W1y1_58BblQ",
+    "imagem": "https://i.ytimg.com/vi/W1y1_58BblQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T04:58:56+00:00",
+  "atualizado": "2026-11-26T13:07:42+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-alerta-de-dinheiro-no-capitulo-1",
+  "titulo": "Alerta de Dinheiro no Capítulo 1",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Evite concluir o Capítulo 1 antes de realizar tarefas de acúmulo de capital, pois a transição de narrativa pode zerar ou limitar seus fundos iniciais.",
+  "resumo_original": "Do NOT Finish Chapter 1 Until You Do THIS",
+  "passos": [
+   "Não avance na missão principal do Capítulo 1 até completar as atividades de farm de dinheiro.",
+   "Evite gastar dinheiro desnecessariamente logo no início do jogo."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo é puramente especulativo e clickbait sobre um jogo que ainda não foi lançado, não contendo fatos reais ou verificáveis sobre a jogabilidade do GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=r3oAEokOT5w",
+    "autor": "Vexies",
+    "titulo": "15 Early Game Mistakes NOBODY Warned Me About (GTA 6)",
+    "video_id": "r3oAEokOT5w",
+    "imagem": "https://i.ytimg.com/vi/r3oAEokOT5w/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T13:07:39+00:00",
+  "atualizado": "2026-11-26T13:07:39+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-suposto-glitch-de-dinheiro-infinito",
+  "titulo": "Suposto Glitch de Dinheiro Infinito",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Vídeo alega um método para ganhar $50.000 a cada 10 minutos utilizando um menu de saque, mas não fornece instruções reais ou demonstração do método.",
+  "resumo_original": "Claims a method to earn $50k every 10 minutes using a withdraw menu, but provides no actual instructions or demonstration.",
+  "passos": [],
+  "locais": [
+   {
+    "nome": "Menu de saque (Withdraw)",
+    "onde": "",
+    "detalhe": "Interface de banco exibida na imagem."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "10 minutos",
+  "ganho": 50000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista, utiliza clickbait e não apresenta o método ou localização real, apenas imagens genéricas de interface. Não há prova de que o conteúdo seja real ou funcional.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=NbplulUtnVk",
+    "autor": "Bubs",
+    "titulo": "*NEW* BEST UNLIMITED MONEY GLITCH FOUND! MILLIONS/50K per MINS! (GTA 6 MONEY GLITCH) GTA 6 GLITCHES!",
+    "video_id": "NbplulUtnVk",
+    "imagem": "https://i.ytimg.com/vi/NbplulUtnVk/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=cokySke2MBg",
+    "autor": "Bubs",
+    "titulo": "GTA 6: BROKEN MILLIONS PER HOUR! INFINITE GTA 6 MONEY GLITCH for ALL CHAPTERS! #gta6",
+    "video_id": "cokySke2MBg",
+    "imagem": "https://i.ytimg.com/vi/cokySke2MBg/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=4dWeuiLuqTA",
+    "autor": "Xee Gaming",
+    "titulo": "GTA 6 UNLIMITED MONEY GLITCH ($290,000,000)",
+    "video_id": "4dWeuiLuqTA",
+    "imagem": "https://i.ytimg.com/vi/4dWeuiLuqTA/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:47:13+00:00",
+  "atualizado": "2026-11-26T13:07:20+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-metodo-de-dinheiro-secreto",
+  "titulo": "Método de dinheiro secreto",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Um método para ganhar dinheiro rápido no início do jogo, porém limitado a apenas uma utilização.",
+  "resumo_original": "This secret method gets you a TON of cash early in the game.",
+  "passos": [
+   "Siga o método mencionado no vídeo (vídeo não detalha o procedimento específico)."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 20000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é clickbait típico de redes sociais; não mostra o método, apenas o título e valor, sem prova visual de como executar a ação no jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=_ftT898aIeg",
+    "autor": "JackStonesRbx",
+    "titulo": "Free EASY Money FAST in GTA 6! (Secret Method)",
+    "video_id": "_ftT898aIeg",
+    "imagem": "https://i.ytimg.com/vi/_ftT898aIeg/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T13:07:17+00:00",
+  "atualizado": "2026-11-26T13:07:17+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-venda-de-itens-de-naufragios",
+  "titulo": "Venda de itens de naufrágios",
+  "categoria": "farm",
+  "regiao": "Leonida Keys",
+  "resumo": "Após a missão Island Dreams, procure pontos de naufrágio e venda os itens recuperados para Kenton.",
+  "resumo_original": "After Island Dreams, Kenton texts you wreck spots around Key Lento. Sell him what you bring up.",
+  "passos": [
+   "Complete a missão Island Dreams",
+   "Aguarde a mensagem de Kenton com locais de naufrágios",
+   "Mergulhe para buscar itens",
+   "Venda os itens para Kenton"
+  ],
+  "locais": [
+   {
+    "nome": "Key Lento",
+    "onde": "Leonida Keys",
+    "detalhe": "Locais de naufrágios sinalizados via mensagem"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "variável",
+  "ganho": 2000,
+  "spoiler": true,
+  "confianca": "media",
+  "alerta": "Fonte baseada em rumores de pré-lançamento/especulação de gameplay.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=AAvpbJCbDZM",
+    "autor": "Frank Montana",
+    "titulo": "How to Make Money Fast in GTA 6 Chapter 1",
+    "video_id": "AAvpbJCbDZM",
+    "imagem": "https://i.ytimg.com/vi/AAvpbJCbDZM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T13:07:12+00:00",
+  "atualizado": "2026-11-26T13:07:12+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-saque-de-esconderijos-de-gangues",
+  "titulo": "Saque de Esconderijos de Gangues",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Encontre os ícones de máscara amarela no mapa para saquear dinheiro, drogas e cofres.",
+  "resumo_original": "Gang hideouts are the yellow mask icons on your map: cash, drugs and a safe inside.",
+  "passos": [
+   "Localize o ícone de máscara amarela no mapa",
+   "Limpe o local de inimigos",
+   "Abra o cofre e colete os itens"
+  ],
+  "locais": [
+   {
+    "nome": "Esconderijos de Gangues",
+    "onde": "Mapa Geral",
+    "detalhe": "Ícones de máscara amarela"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "media",
+  "alerta": "Fonte baseada em rumores de pré-lançamento/especulação de gameplay.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=AAvpbJCbDZM",
+    "autor": "Frank Montana",
+    "titulo": "How to Make Money Fast in GTA 6 Chapter 1",
+    "video_id": "AAvpbJCbDZM",
+    "imagem": "https://i.ytimg.com/vi/AAvpbJCbDZM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T13:07:12+00:00",
+  "atualizado": "2026-11-26T13:07:12+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "farm-saque-na-casa-de-palafita-em-corsair-key",
+  "titulo": "Saque na casa de palafita em Corsair Key",
+  "categoria": "farm",
+  "regiao": "Leonida Keys",
+  "resumo": "Procure a casa de palafita mais ao norte em Corsair Key para encontrar um estoque sob o piso.",
+  "resumo_original": "Off Corsair Key, the northernmost stilt house has cash, cocaine and more under a loose floor plank.",
+  "passos": [
+   "Vá até a palafita mais ao norte de Corsair Key",
+   "Procure por uma tábua solta no chão"
+  ],
+  "locais": [
+   {
+    "nome": "Corsair Key",
+    "onde": "Leonida Keys",
+    "detalhe": "Casa de palafita ao norte"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "media",
+  "alerta": "Fonte baseada em rumores de pré-lançamento/especulação de gameplay.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=AAvpbJCbDZM",
+    "autor": "Frank Montana",
+    "titulo": "How to Make Money Fast in GTA 6 Chapter 1",
+    "video_id": "AAvpbJCbDZM",
+    "imagem": "https://i.ytimg.com/vi/AAvpbJCbDZM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T13:07:12+00:00",
+  "atualizado": "2026-11-26T13:07:12+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "heist-protecao-de-capital-dica-de-missao",
+  "titulo": "Proteção de Capital (Dica de Missão)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Antes de iniciar a missão Tourist Trap, deposite seu dinheiro em 'Family Savings', pois o resto será perdido.",
+  "resumo_original": "The catch: when Tourist Trap starts you lose your pocket cash, your checking account and your stash. Only Family Savings survives.",
+  "passos": [
+   "Antes da missão Tourist Trap, deposite $5.000 em 'Family Savings'",
+   "Gaste o restante do dinheiro antes de iniciar"
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "imediato",
+  "ganho": 5000,
+  "spoiler": true,
+  "confianca": "media",
+  "alerta": "Dica crucial para evitar perda de progressão financeira durante a trama.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=AAvpbJCbDZM",
+    "autor": "Frank Montana",
+    "titulo": "How to Make Money Fast in GTA 6 Chapter 1",
+    "video_id": "AAvpbJCbDZM",
+    "imagem": "https://i.ytimg.com/vi/AAvpbJCbDZM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T13:07:12+00:00",
+  "atualizado": "2026-11-26T13:07:12+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-a-joalheria",
+  "titulo": "Roubo a Joalheria",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Execução de roubo a joalheria focando em acesso por entrada dos fundos e saque de vitrines.",
+  "resumo_original": "Jewelry store robbery walkthrough including the back entrance, security, safe, display cases.",
+  "passos": [
+   "Acesse a loja pela entrada dos fundos.",
+   "Neutralize a segurança.",
+   "Limpe as vitrines de exposição.",
+   "Abra o cofre.",
+   "Realize a fuga para obter a notificação de 'Clean Getaway'."
+  ],
+  "locais": [
+   {
+    "nome": "Joalheria",
+    "onde": "Leonida",
+    "detalhe": "Possui vitrines, cofres e entrada pelos fundos."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Aprox. 4 minutos",
+  "ganho": 17000,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9OsRCr6Zgdc",
+    "autor": "WantedGator",
+    "titulo": "GTA 6 Money Methods RANKED: ATMs, Jewelry Stores & Banks",
+    "video_id": "9OsRCr6Zgdc",
+    "imagem": "https://i.ytimg.com/vi/9OsRCr6Zgdc/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wXjNQeurE20",
+    "autor": "TheUntouchableWolf",
+    "titulo": "GTA 6 How To Rob A Jewelry Store Ultimate Guide!",
+    "video_id": "wXjNQeurE20",
+    "imagem": "https://i.ytimg.com/vi/wXjNQeurE20/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=10gME4kQYjY",
+    "autor": "No Fast Travel",
+    "titulo": "GTA 6 Robbery Guide: How to Make Money and Get Away Clean",
+    "video_id": "10gME4kQYjY",
+    "imagem": "https://i.ytimg.com/vi/10gME4kQYjY/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pqt5g9DgLO4",
+    "autor": "Riot Clipping | GTA 6 News, Clips & Viral Moments",
+    "titulo": "How to Rob a Jewelry Store in GTA 6 (Up to $25K) 💎",
+    "video_id": "pqt5g9DgLO4",
+    "imagem": "https://i.ytimg.com/vi/pqt5g9DgLO4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:58:57+00:00",
+  "atualizado": "2026-11-26T13:07:06+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-farm-de-dinheiro-com-vans-teddy-bear-vans",
+  "titulo": "Farm de Dinheiro com Vans (Teddy Bear Vans)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método de duplicação de vans decoradas com ursos de pelúcia para gerar dinheiro rapidamente após o Capítulo 1.",
+  "resumo_original": "Duplicate teddy bear vans to make money fast after chapter 1.",
+  "passos": [
+   "Complete o Capítulo 1 do modo história.",
+   "Localize as vans com estampa de ursos de pelúcia.",
+   "Realize o método de duplicação (não especificado pelo autor).",
+   "Venda as vans duplicadas para obter lucro."
+  ],
+  "locais": [
+   {
+    "nome": "Não especificado",
+    "onde": "",
+    "detalhe": "O autor não fornece a localização exata das vans."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Minutos",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O autor admite no texto que o vídeo usa termos de 'glitch' apenas para fins de algoritmo ('not an actual glitch') e não fornece instruções técnicas reais ou localizações específicas no vídeo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=V4TiOFEiqcw",
+    "autor": "B Man",
+    "titulo": "🔴 NEW GTA6 MONEY GLITCH 🔴 FULLY OPTIMIZED 🔴 WORKING AFTER PATCH 1.0.2.2 ON XBOX 🔴 INFINITE MONEY GTA",
+    "video_id": "V4TiOFEiqcw",
+    "imagem": "https://i.ytimg.com/vi/V4TiOFEiqcw/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T13:07:02+00:00",
+  "atualizado": "2026-11-26T13:07:02+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-farm-de-dinheiro-no-esconderijo-dos-irmaos-guardia",
+  "titulo": "Farm de Dinheiro no Esconderijo dos Irmãos Guardia",
+  "categoria": "farm",
+  "regiao": "Vice City",
+  "resumo": "Método para coletar mais de $50 mil roubando bolsas de esconderijo em uma gangue sem chamar a polícia.",
+  "resumo_original": "Repeatable Guardia Brothers gang hideout in Vice City is an easy way to farm cash, valuables, and stash bags WITHOUT alerting the police.",
+  "passos": [
+   "Acesse o esconderijo pelo telhado.",
+   "Localize e entre pela escotilha escondida.",
+   "Elimine silenciosamente todos os membros da gangue.",
+   "Saqueie o cofre.",
+   "Colete as bolsas de dinheiro e objetos de valor."
+  ],
+  "locais": [
+   {
+    "nome": "Esconderijo dos Irmãos Guardia",
+    "onde": "Vice City",
+    "detalhe": "Entrada pelo telhado via escotilha."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Minutos",
+  "ganho": 50000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza material de edição/montagem de jogos de terceiros ou mods (não condiz com o estado atual de GTA 6), apresentando um conteúdo que não existe no jogo real.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9ZcXSGTjR6M",
+    "autor": "ColdBwoyy",
+    "titulo": "GTA 6: EASY $50K+ Money Farm in Minutes (NO COPS!)  #gta6 #gaming #grandtheftauto6 #grandtheftauto",
+    "video_id": "9ZcXSGTjR6M",
+    "imagem": "https://i.ytimg.com/vi/9ZcXSGTjR6M/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T13:00:43+00:00",
+  "atualizado": "2026-11-26T13:00:43+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-venda-de-veiculos-em-port-gellhorn",
+  "titulo": "Venda de veículos em Port Gellhorn",
+  "categoria": "farm",
+  "regiao": "Port Gellhorn",
+  "resumo": "Venda veículos sem rastreador na garagem de Moses após completar a missão 'Moses' para obter pelo menos $1.000 por carro.",
+  "resumo_original": "Moses' garage in Port Gellhorn buys cars with no tracker, usually $1,000+.",
+  "passos": [
+   "Complete a missão 'Moses'.",
+   "Ao encontrar um veículo, use o d-pad para cima para escanear.",
+   "Roube veículos fora da vizinhança da garagem e leve até lá."
+  ],
+  "locais": [
+   {
+    "nome": "Garagem de Moses",
+    "onde": "Port Gellhorn",
+    "detalhe": "Local onde ocorre a venda dos veículos roubados."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "variável",
+  "ganho": 1000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo e o texto tratam de um conteúdo especulativo sobre um jogo ainda não lançado (GTA 6). A fonte se baseia em suposições e clipes de terceiros.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=oszBha0vRJk",
+    "autor": "Frank Montana",
+    "titulo": "How to Make Money Fast in GTA 6 Chapter 2",
+    "video_id": "oszBha0vRJk",
+    "imagem": "https://i.ytimg.com/vi/oszBha0vRJk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T13:00:39+00:00",
+  "atualizado": "2026-11-26T13:00:39+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-a-lojas-de-penhores",
+  "titulo": "Assalto a lojas de penhores",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Realize assaltos do tipo 'smash and grab' em lojas de penhores para obter entre $1.000 e $12.000.",
+  "resumo_original": "Pawn shops open as smash and grab jobs: about $1K to $12K each.",
+  "passos": [
+   "Complete a missão 'Coffee Break'.",
+   "Localize e assalte lojas de penhores através de ações rápidas."
+  ],
+  "locais": [
+   {
+    "nome": "Lojas de penhores",
+    "onde": "Não especificado",
+    "detalhe": "Disponíveis após a missão Coffee Break."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "curto",
+  "ganho": 12000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O conteúdo é especulativo referente a um jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=oszBha0vRJk",
+    "autor": "Frank Montana",
+    "titulo": "How to Make Money Fast in GTA 6 Chapter 2",
+    "video_id": "oszBha0vRJk",
+    "imagem": "https://i.ytimg.com/vi/oszBha0vRJk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T13:00:39+00:00",
+  "atualizado": "2026-11-26T13:00:39+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-caca-de-animais-em-lummox-county",
+  "titulo": "Caça de animais em Lummox County",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Cace javalis em Lummox County para vender a carne ou partes para Bret.",
+  "resumo_original": "Jason can hunt for Bret in Lummox County. One big boar went for $2,500.",
+  "passos": [
+   "Vá até Lummox County.",
+   "Cace javalis e entregue o espólio para Bret."
+  ],
+  "locais": [
+   {
+    "nome": "Lummox County",
+    "onde": "Região de caça",
+    "detalhe": "Local onde Jason pode caçar para Bret."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "variável",
+  "ganho": 2500,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo é especulativo referente a um jogo não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=oszBha0vRJk",
+    "autor": "Frank Montana",
+    "titulo": "How to Make Money Fast in GTA 6 Chapter 2",
+    "video_id": "oszBha0vRJk",
+    "imagem": "https://i.ytimg.com/vi/oszBha0vRJk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T13:00:39+00:00",
+  "atualizado": "2026-11-26T13:00:39+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-lista-de-desejos-do-randy",
+  "titulo": "Lista de Desejos do Randy",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Uma série de missões onde você deve localizar, roubar e entregar veículos de alto padrão para o personagem Randy.",
+  "resumo_original": "Randy's Wish List tasks you with tracking down and stealing a collection of high-end vehicles across Leonida.",
+  "passos": [
+   "Desbloqueie o 'Key Cloner' (Clonador de Chaves) no Capítulo 3.",
+   "Obtenha informações (intel) do Randy sobre os alvos.",
+   "Localize o veículo em áreas como concessionárias, propriedades de luxo ou encontros de carros.",
+   "Repare o veículo, se necessário, antes de realizar a entrega."
+  ],
+  "locais": [
+   {
+    "nome": "Vários",
+    "onde": "Estado de Leonida",
+    "detalhe": "Os veículos aparecem em locais como concessionárias, áreas de luxo e encontros de carros, muitas vezes exigindo o intel do Randy."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=N9lKYTUa9rg",
+    "autor": "IGN",
+    "titulo": "GTA 6: All Randy's Car Locations | Complete Randy's Wish List Guide",
+    "video_id": "N9lKYTUa9rg",
+    "imagem": "https://i.ytimg.com/vi/N9lKYTUa9rg/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=FeZgt7pZ7NI",
+    "autor": "LunarGaming",
+    "titulo": "GTA 6 – All Car Locations For RANDY’S WISH LIST (Quick Method No Police)",
+    "video_id": "FeZgt7pZ7NI",
+    "imagem": "https://i.ytimg.com/vi/FeZgt7pZ7NI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T00:48:44+00:00",
+  "atualizado": "2026-11-26T12:59:17+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-pecas-do-carro-transgressor",
+  "titulo": "Peças do Carro Transgressor",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Colete as 3 partes necessárias para restaurar o carro Transgressor.",
+  "resumo_original": "Collect all 3 parts for the Transgressor car.",
+  "passos": [
+   "Vá até a localização da parte 1 (0:36)",
+   "Vá até a localização da parte 2 (1:05)",
+   "Vá até a localização da parte 3 (1:40)"
+  ],
+  "locais": [
+   {
+    "nome": "Transgressor",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localizações divididas nos tempos de vídeo indicados."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "3 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona GTA 6 no título, mas as imagens e o conteúdo aparentam ser de GTA 5. Não há evidências confirmadas de que este conteúdo pertença ao GTA 6.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ayLw3KxQJok",
+    "autor": "TGG",
+    "titulo": "GTA 6: All Wyman Classic Car Parts Locations Guide (5 Classic Cars)",
+    "video_id": "ayLw3KxQJok",
+    "imagem": "https://i.ytimg.com/vi/ayLw3KxQJok/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T12:59:13+00:00",
+  "atualizado": "2026-11-26T12:59:13+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-pecas-do-carro-riata",
+  "titulo": "Peças do Carro Riata",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Colete as 3 partes necessárias para restaurar o carro Riata.",
+  "resumo_original": "Collect all 3 parts for the Riata car.",
+  "passos": [
+   "Vá até a localização da parte 1 (2:12)",
+   "Vá até a localização da parte 2 (2:50)",
+   "Vá até a localização da parte 3 (3:25)"
+  ],
+  "locais": [
+   {
+    "nome": "Riata",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localizações divididas nos tempos de vídeo indicados."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "3 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona GTA 6 no título, mas as imagens e o conteúdo aparentam ser de GTA 5.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ayLw3KxQJok",
+    "autor": "TGG",
+    "titulo": "GTA 6: All Wyman Classic Car Parts Locations Guide (5 Classic Cars)",
+    "video_id": "ayLw3KxQJok",
+    "imagem": "https://i.ytimg.com/vi/ayLw3KxQJok/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T12:59:13+00:00",
+  "atualizado": "2026-11-26T12:59:13+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-pecas-do-carro-mamba-gt",
+  "titulo": "Peças do Carro Mamba GT",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Colete as 4 partes necessárias para restaurar o carro Mamba GT.",
+  "resumo_original": "Collect all 4 parts for the Mamba GT car.",
+  "passos": [
+   "Vá até a localização da parte 1 (4:12)",
+   "Vá até a localização da parte 2 (4:48)",
+   "Vá até a localização da parte 3 (5:22)",
+   "Vá até a localização da parte 4 (6:12)"
+  ],
+  "locais": [
+   {
+    "nome": "Mamba GT",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localizações divididas nos tempos de vídeo indicados."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "4 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona GTA 6 no título, mas as imagens e o conteúdo aparentam ser de GTA 5.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ayLw3KxQJok",
+    "autor": "TGG",
+    "titulo": "GTA 6: All Wyman Classic Car Parts Locations Guide (5 Classic Cars)",
+    "video_id": "ayLw3KxQJok",
+    "imagem": "https://i.ytimg.com/vi/ayLw3KxQJok/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T12:59:13+00:00",
+  "atualizado": "2026-11-26T12:59:13+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-pecas-do-carro-kit-car",
+  "titulo": "Peças do Carro Kit Car",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Colete as 5 partes necessárias para restaurar o Kit Car.",
+  "resumo_original": "Collect all 5 parts for the Kit Car.",
+  "passos": [
+   "Vá até a localização da parte 1 (6:50)",
+   "Vá até a localização da parte 2 (7:30)",
+   "Vá até a localização da parte 3 (8:12)",
+   "Vá até a localização da parte 4 (8:48)",
+   "Vá até a localização da parte 5 (9:30)"
+  ],
+  "locais": [
+   {
+    "nome": "Kit Car",
+    "onde": "Mapa de Leonida",
+    "detalhe": "Localizações divididas nos tempos de vídeo indicados."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "5 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona GTA 6 no título, mas as imagens e o conteúdo aparentam ser de GTA 5.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ayLw3KxQJok",
+    "autor": "TGG",
+    "titulo": "GTA 6: All Wyman Classic Car Parts Locations Guide (5 Classic Cars)",
+    "video_id": "ayLw3KxQJok",
+    "imagem": "https://i.ytimg.com/vi/ayLw3KxQJok/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T12:59:13+00:00",
+  "atualizado": "2026-11-26T12:59:13+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colecionavel-relogios-de-luxo",
+  "titulo": "Colecionável: Relógios de Luxo",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Guia para localizar os 34 relógios de luxo espalhados pelo mapa do estado de Leonida.",
+  "resumo_original": "How to find all 34 luxury watch locations in GTA 6.",
+  "passos": [
+   "Explore as regiões do mapa indicadas no guia para localizar os itens escondidos."
+  ],
+  "locais": [
+   {
+    "nome": "Mapa de Leonida",
+    "onde": "Vários locais",
+    "detalhe": "O vídeo utiliza um mapa genérico para ilustrar pontos de interesse em Leonida Keys, Kelly County, Leonard County, Vice City e Grassrivers."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um exemplo clássico de conteúdo 'clickbait' de pré-lançamento. Não há imagens de jogatina real de GTA 6 ou evidências de que esses itens existam no jogo final, tratando-se de especulação baseada em material promocional oficial.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ZbCHRYhjU7s",
+    "autor": "Imack Studios",
+    "titulo": "How To Find ALL 34 LUXURY WATCH LOCATIONS in GTA 6! (Full Guide)",
+    "video_id": "ZbCHRYhjU7s",
+    "imagem": "https://i.ytimg.com/vi/ZbCHRYhjU7s/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T12:59:08+00:00",
+  "atualizado": "2026-11-26T12:59:08+00:00",
   "status": "retido"
  },
  {
@@ -2959,46 +3820,6 @@
   "status": "confirmado"
  },
  {
-  "id": "car-lista-de-desejos-do-randy",
-  "titulo": "Lista de Desejos do Randy",
-  "categoria": "car",
-  "regiao": "",
-  "resumo": "Uma série de missões onde você deve localizar, roubar e entregar veículos de alto padrão para o personagem Randy.",
-  "resumo_original": "Randy's Wish List tasks you with tracking down and stealing a collection of high-end vehicles across Leonida.",
-  "passos": [
-   "Desbloqueie o 'Key Cloner' (Clonador de Chaves) no Capítulo 3.",
-   "Obtenha informações (intel) do Randy sobre os alvos.",
-   "Localize o veículo em áreas como concessionárias, propriedades de luxo ou encontros de carros.",
-   "Repare o veículo, se necessário, antes de realizar a entrega."
-  ],
-  "locais": [
-   {
-    "nome": "Vários",
-    "onde": "Estado de Leonida",
-    "detalhe": "Os veículos aparecem em locais como concessionárias, áreas de luxo e encontros de carros, muitas vezes exigindo o intel do Randy."
-   }
-  ],
-  "dificuldade": 3,
-  "tempo": "Variável",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=N9lKYTUa9rg",
-    "autor": "IGN",
-    "titulo": "GTA 6: All Randy's Car Locations | Complete Randy's Wish List Guide",
-    "video_id": "N9lKYTUa9rg",
-    "imagem": "https://i.ytimg.com/vi/N9lKYTUa9rg/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-26T00:48:44+00:00",
-  "atualizado": "2026-11-26T00:48:44+00:00",
-  "status": "confirmado"
- },
- {
   "id": "col-clonador-de-chaves-key-cloner",
   "titulo": "Clonador de Chaves (Key Cloner)",
   "categoria": "col",
@@ -3028,53 +3849,6 @@
   "criado": "2026-11-26T00:48:44+00:00",
   "atualizado": "2026-11-26T00:48:44+00:00",
   "status": "retido"
- },
- {
-  "id": "farm-glitch-da-van-dinheiro-infinito",
-  "titulo": "Glitch da Van (Dinheiro Infinito)",
-  "categoria": "farm",
-  "regiao": "",
-  "resumo": "Método de exploração de falhas (glitch) para obter dinheiro infinito no jogo.",
-  "resumo_original": "Aprenda o método atualizado para fazer o glitch de dinheiro infinito (Glitch da Van) no GTA 6",
-  "passos": [
-   "Assista ao vídeo para visualizar o passo a passo demonstrado pelo autor."
-  ],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é clickbait e o jogo GTA 6 ainda não foi lançado. O autor utiliza imagens genéricas para atrair cliques, prometendo um glitch para um título inexistente.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=WqmAYhFueNc",
-    "autor": "Bosco Play",
-    "titulo": "(ATUALIZADO) GLITCH de DINHEIRO INFINITO no GTA 6",
-    "video_id": "WqmAYhFueNc",
-    "imagem": "https://i.ytimg.com/vi/WqmAYhFueNc/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=1suDPCYLPag",
-    "autor": "Silent Nine",
-    "titulo": "NEW GTA 6 UNLIMITED MONEY GLITCH! FAST 100K MONEY EARLY GAME GLITCH!",
-    "video_id": "1suDPCYLPag",
-    "imagem": "https://i.ytimg.com/vi/1suDPCYLPag/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=ejapi3en-ws",
-    "autor": "Universo Paralelo",
-    "titulo": "Atualizaram o GLITCH de DINHEIRO INFINITO em GTA 6 e ficou MUITO MELHOR!",
-    "video_id": "ejapi3en-ws",
-    "imagem": "https://i.ytimg.com/vi/ejapi3en-ws/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-25T04:58:56+00:00",
-  "atualizado": "2026-11-25T20:45:25+00:00",
-  "status": "confirmado"
  },
  {
   "id": "car-veiculo-esportivo-vermelho-raro",
@@ -7296,49 +8070,6 @@
   "status": "retido"
  },
  {
-  "id": "farm-suposto-glitch-de-dinheiro-infinito",
-  "titulo": "Suposto Glitch de Dinheiro Infinito",
-  "categoria": "farm",
-  "regiao": "",
-  "resumo": "Vídeo alega um método para ganhar $50.000 a cada 10 minutos utilizando um menu de saque, mas não fornece instruções reais ou demonstração do método.",
-  "resumo_original": "Claims a method to earn $50k every 10 minutes using a withdraw menu, but provides no actual instructions or demonstration.",
-  "passos": [],
-  "locais": [
-   {
-    "nome": "Menu de saque (Withdraw)",
-    "onde": "",
-    "detalhe": "Interface de banco exibida na imagem."
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "10 minutos",
-  "ganho": 50000,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é sensacionalista, utiliza clickbait e não apresenta o método ou localização real, apenas imagens genéricas de interface. Não há prova de que o conteúdo seja real ou funcional.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=NbplulUtnVk",
-    "autor": "Bubs",
-    "titulo": "*NEW* BEST UNLIMITED MONEY GLITCH FOUND! MILLIONS/50K per MINS! (GTA 6 MONEY GLITCH) GTA 6 GLITCHES!",
-    "video_id": "NbplulUtnVk",
-    "imagem": "https://i.ytimg.com/vi/NbplulUtnVk/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=cokySke2MBg",
-    "autor": "Bubs",
-    "titulo": "GTA 6: BROKEN MILLIONS PER HOUR! INFINITE GTA 6 MONEY GLITCH for ALL CHAPTERS! #gta6",
-    "video_id": "cokySke2MBg",
-    "imagem": "https://i.ytimg.com/vi/cokySke2MBg/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-24T20:47:13+00:00",
-  "atualizado": "2026-11-24T20:47:24+00:00",
-  "status": "aguardando"
- },
- {
   "id": "farm-glitch-de-dinheiro-infinito-em-loja",
   "titulo": "Glitch de Dinheiro Infinito em Loja",
   "categoria": "farm",
@@ -9623,63 +10354,6 @@
   "criado": "2026-11-24T04:56:56+00:00",
   "atualizado": "2026-11-24T04:56:56+00:00",
   "status": "retido"
- },
- {
-  "id": "heist-roubo-a-joalheria",
-  "titulo": "Roubo a Joalheria",
-  "categoria": "heist",
-  "regiao": "",
-  "resumo": "Execução de roubo a joalheria focando em acesso por entrada dos fundos e saque de vitrines.",
-  "resumo_original": "Jewelry store robbery walkthrough including the back entrance, security, safe, display cases.",
-  "passos": [
-   "Acesse a loja pela entrada dos fundos.",
-   "Neutralize a segurança.",
-   "Limpe as vitrines de exposição.",
-   "Abra o cofre.",
-   "Realize a fuga para obter a notificação de 'Clean Getaway'."
-  ],
-  "locais": [
-   {
-    "nome": "Joalheria",
-    "onde": "Leonida",
-    "detalhe": "Possui vitrines, cofres e entrada pelos fundos."
-   }
-  ],
-  "dificuldade": 2,
-  "tempo": "Aprox. 4 minutos",
-  "ganho": 17000,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=9OsRCr6Zgdc",
-    "autor": "WantedGator",
-    "titulo": "GTA 6 Money Methods RANKED: ATMs, Jewelry Stores & Banks",
-    "video_id": "9OsRCr6Zgdc",
-    "imagem": "https://i.ytimg.com/vi/9OsRCr6Zgdc/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=wXjNQeurE20",
-    "autor": "TheUntouchableWolf",
-    "titulo": "GTA 6 How To Rob A Jewelry Store Ultimate Guide!",
-    "video_id": "wXjNQeurE20",
-    "imagem": "https://i.ytimg.com/vi/wXjNQeurE20/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=10gME4kQYjY",
-    "autor": "No Fast Travel",
-    "titulo": "GTA 6 Robbery Guide: How to Make Money and Get Away Clean",
-    "video_id": "10gME4kQYjY",
-    "imagem": "https://i.ytimg.com/vi/10gME4kQYjY/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:58:57+00:00",
-  "atualizado": "2026-11-24T04:56:46+00:00",
-  "status": "confirmado"
  },
  {
   "id": "farm-venda-de-veiculos-roubados",
