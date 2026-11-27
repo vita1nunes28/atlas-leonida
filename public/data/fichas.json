@@ -1,5 +1,614 @@
 [
  {
+  "id": "col-consequencias-de-morte-em-gta-6",
+  "titulo": "Consequências de Morte em GTA 6",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Ao morrer no estado de Leonida, o jogador renasce em uma localização próxima, perdendo todo o inventário atual, incluindo dinheiro em mãos e armas.",
+  "resumo_original": "In Grand Theft Auto VI , the player is respawned in a nearby location instead of the hospital and pay no fees to their BuckMe account, but lose the entire inventory they were carrying at the time, which includes money on hand and weapons.",
+  "passos": [
+   "Ao ser eliminado, você renascerá em um local próximo ao ponto da morte.",
+   "Recupere armas que você possui anteriormente através de um armário de armas (weapon locker)."
+  ],
+  "locais": [
+   {
+    "nome": "N/A",
+    "onde": "Estado de Leonida",
+    "detalhe": "O respawn ocorre em um local próximo, não em hospitais."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "imediato",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Wasted",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Wasted",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T12:57:56+00:00",
+  "atualizado": "2026-11-27T12:57:56+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-final-reuniao-familiar",
+  "titulo": "Final: Reunião Familiar",
+  "categoria": "heist",
+  "regiao": "Leonida Keys",
+  "resumo": "Final feliz onde a família se reúne após Jason ser libertado da prisão.",
+  "resumo_original": "The family finally reunited in the Happily Ever After ending.",
+  "passos": [
+   "Mantenha o perfil criminal de Jason e Lucia baixo",
+   "Acumule $2.000.000 na conta poupança",
+   "Mantenha o nível de relacionamento no máximo",
+   "Mate Mendez durante a história",
+   "Escolha pular da ponte ao ser interceptado no bloqueio perto de Fleming Key"
+  ],
+  "locais": [
+   {
+    "nome": "Bloqueio policial",
+    "onde": "Fleming Key",
+    "detalhe": "Local onde ocorre a decisão final de pular ou não."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Final do jogo",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "A fonte descreve possíveis finais de GTA VI sem confirmação oficial da Rockstar, tratando-se de especulação ou conteúdo de wiki não verificado.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Endings_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Endings in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T12:57:51+00:00",
+  "atualizado": "2026-11-27T12:57:51+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-final-salto-bem-sucedido",
+  "titulo": "Final: Salto Bem-sucedido",
+  "categoria": "heist",
+  "regiao": "Leonida Keys",
+  "resumo": "Lucia escapa sozinha enquanto Jason é preso, mas eles conseguem manter o contato com o filho Tomás.",
+  "resumo_original": "Lucia falling into the ocean alone.",
+  "passos": [
+   "Mantenha o perfil criminal de ambos baixo",
+   "Escolha pular da ponte no bloqueio de Fleming Key"
+  ],
+  "locais": [
+   {
+    "nome": "Ponte",
+    "onde": "Fleming Key",
+    "detalhe": "Local do salto para escapar da polícia."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Final do jogo",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre finais de jogo não oficializado.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Endings_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Endings in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T12:57:51+00:00",
+  "atualizado": "2026-11-27T12:57:51+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-final-morte-no-bloqueio",
+  "titulo": "Final: Morte no Bloqueio",
+  "categoria": "heist",
+  "regiao": "Leonida Keys",
+  "resumo": "Ambos os protagonistas morrem ao tentar forçar a passagem pelo bloqueio policial.",
+  "resumo_original": "Jason and Lucia are intercepted by police near Fleming Key and are killed.",
+  "passos": [
+   "Escolha forçar a passagem pelo bloqueio policial em vez de se render ou fugir para a água"
+  ],
+  "locais": [
+   {
+    "nome": "Bloqueio policial",
+    "onde": "Fleming Key",
+    "detalhe": "Ponto de confronto final."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Final do jogo",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre finais de jogo não oficializado.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Endings_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Endings in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T12:57:51+00:00",
+  "atualizado": "2026-11-27T12:57:51+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-final-fuga-da-cobertura-sucesso",
+  "titulo": "Final: Fuga da Cobertura (Sucesso)",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Jason ajuda Lucia a escapar, sendo preso no lugar dela; Lucia recebe perdão.",
+  "resumo_original": "Jason will give the hard drive to Lucia and she'll buy time for him to escape.",
+  "passos": [
+   "Mantenha perfil criminal baixo",
+   "Tenha o relacionamento deteriorado (terminado)",
+   "Tenha pelo menos $500.000 na conta individual",
+   "Aceite o acordo com Mendez"
+  ],
+  "locais": [
+   {
+    "nome": "Cobertura de Giorgio",
+    "onde": "Vice City",
+    "detalhe": "Local da fuga inicial."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Final do jogo",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre finais de jogo não oficializado.",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Endings_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Endings in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T12:57:51+00:00",
+  "atualizado": "2026-11-27T12:57:51+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-app-bancario-buckme",
+  "titulo": "App Bancário BuckMe",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Aplicativo de banco digital para gerenciar finanças, realizar depósitos via caixas eletrônicos e gerenciar economias compartilhadas.",
+  "resumo_original": "Digital banking and payment application allowing players to manage finances, deposit money, and contribute to shared savings.",
+  "passos": [
+   "Abra o aplicativo pelo celular do jogo.",
+   "Deposite dinheiro físico em caixas eletrônicos (ATMs) espalhados por Leonida.",
+   "Transfira fundos para a conta 'Family Savings' usando a opção 'Buck Yourself'."
+  ],
+  "locais": [
+   {
+    "nome": "Agência bancária Fleeca",
+    "onde": "Key Lento",
+    "detalhe": "Local onde Jason e Lucia abrem a conta inicial no Capítulo 1."
+   },
+   {
+    "nome": "Caixas Eletrônicos (ATMs)",
+    "onde": "Espalhados por todo o estado de Leonida",
+    "detalhe": "Use o localizador de ATMs dentro do aplicativo para encontrá-los."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Contínuo",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/BuckMe",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "BuckMe",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T12:57:41+00:00",
+  "atualizado": "2026-11-27T12:57:41+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-coleta-no-grassrivers-visitor-center",
+  "titulo": "Coleta no Grassrivers Visitor Center",
+  "categoria": "heist",
+  "regiao": "Grassrivers",
+  "resumo": "Uma missão de coleta que termina em emboscada policial e disputa com policiais corruptos.",
+  "resumo_original": "Jason and Lucia retrieve a bag from the Grassrivers Visitor Center, but are ambushed by police officers.",
+  "passos": [
+   "Ir até o centro de visitantes",
+   "Recuperar a bolsa alvo",
+   "Escapar da emboscada de Aldo Méndez"
+  ],
+  "locais": [
+   {
+    "nome": "Grassrivers Visitor Center",
+    "onde": "Grassrivers",
+    "detalhe": "Local da emboscada"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Capítulo 1",
+  "ganho": 10000,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-27T12:56:42+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-sinfrontera-national-bank",
+  "titulo": "Assalto ao Sinfrontera National Bank",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo de alto nível a um banco utilizado para lavagem de dinheiro de cartéis, realizado pela equipe de Raul Bautista.",
+  "resumo_original": "The successful operation substantially improves the couple's financial circumstances and allows them to move into more luxurious accommodation.",
+  "passos": [
+   "Conectar-se com Raul Bautista em Vice City",
+   "Executar o planejamento da equipe",
+   "Realizar o assalto ao Sinfrontera National Bank"
+  ],
+  "locais": [
+   {
+    "nome": "Sinfrontera National Bank",
+    "onde": "Vice City",
+    "detalhe": "Banco usado para lavagem de dinheiro de cartéis"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T04:58:38+00:00",
+  "atualizado": "2026-11-27T12:56:42+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-aeroporto-internacional-de-vice-city",
+  "titulo": "Assalto ao Aeroporto Internacional de Vice City",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo planejado contra a organização criminosa de Kordell Grant, infiltrando-se nas operações do aeroporto.",
+  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant, whose operations involve Vice City International Airport.",
+  "passos": [
+   "Infiltrar-se na organização de Kordell Grant",
+   "Coletar informações sobre a segurança",
+   "Executar o assalto no aeroporto"
+  ],
+  "locais": [
+   {
+    "nome": "Vice City International Airport",
+    "onde": "Vice City",
+    "detalhe": "Base de operações de Kordell Grant"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Capítulo 4",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-27T12:56:42+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-delights",
+  "titulo": "Assalto ao Delights",
+  "categoria": "heist",
+  "regiao": "Port Gellhorn",
+  "resumo": "Roubo realizado pela dupla com a ajuda de Vicki, uma dançarina do local.",
+  "resumo_original": "Jason and Lucia begin carrying out robberies across Kelly County, eventually helping Vicki rob Delights.",
+  "passos": [
+   "Conheça Vicki em Delights",
+   "Planeje o roubo",
+   "Execute a ação"
+  ],
+  "locais": [
+   {
+    "nome": "Delights",
+    "onde": "Port Gellhorn",
+    "detalhe": "Clube onde Vicki trabalha"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Capítulo 2",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T13:05:13+00:00",
+  "atualizado": "2026-11-27T12:56:42+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-do-cartel-cartel-heist",
+  "titulo": "Roubo do Cartel (Cartel Heist)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Missão principal do Capítulo 3. Siga este guia para obter o pagamento máximo de 11 milhões e salvar a personagem Nicole.",
+  "resumo_original": "Complete the Cartel Heist perfectly to get the maximum $11 million payout and save Nicole from dying in Chapter 3.",
+  "passos": [
+   "Complete as 4 missões de preparação: Company Property, Safe Word, The Missing Link e Hidden Charges.",
+   "Reúna os reféns conforme instruído.",
+   "Evite o erro do elevador de Raul e abra o portão de segurança.",
+   "Posicione Jason no telhado.",
+   "Realize o minijogo de abertura do cofre com perfeição.",
+   "Colete o valor máximo de 11 milhões."
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 11000000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo faz alegações sobre o conteúdo de GTA 6 que ainda não foi lançado oficialmente ou confirmado pela Rockstar Games. Pode tratar-se de conteúdo especulativo ou modificado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0zkiPTVjyX0",
+    "autor": "LunarGaming",
+    "titulo": "GTA 6 Cartel Heist Guide – Perfect Run, Save Nicole & Get $11 Million Max Money",
+    "video_id": "0zkiPTVjyX0",
+    "imagem": "https://i.ytimg.com/vi/0zkiPTVjyX0/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=PdZyY65hBmY",
+    "autor": "Jay Dunna ",
+    "titulo": "How to Do The PERFECT CARTEL HEIST in GTA 6 ($10M+ & Save Everyone)",
+    "video_id": "PdZyY65hBmY",
+    "imagem": "https://i.ytimg.com/vi/PdZyY65hBmY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T04:58:03+00:00",
+  "atualizado": "2026-11-27T12:56:36+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-a-joalheria",
+  "titulo": "Assalto a Joalheria",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Técnica para assaltar joalherias de forma profissional e garantir uma fuga limpa.",
+  "resumo_original": "Jewelry store heists... make a clean getaway without cops getting on your back.",
+  "passos": [
+   "Planeje a entrada e saída",
+   "Execute o roubo com precisão para não atrair a polícia"
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "Não especificado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo; não há evidências visuais no texto fornecido que confirmem a mecânica específica de roubos a joalherias no jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=TYcNjVKinl8",
+    "autor": "Big Dan Gaming",
+    "titulo": "How to Do PERFECT HEISTS in GTA 6 (NO COPS)",
+    "video_id": "TYcNjVKinl8",
+    "imagem": "https://i.ytimg.com/vi/TYcNjVKinl8/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wXjx__ZiREQ",
+    "autor": "GameCraft",
+    "titulo": "GTA 6 Chapter 3 Money Guide Up to $11K Per Minute",
+    "video_id": "wXjx__ZiREQ",
+    "imagem": "https://i.ytimg.com/vi/wXjx__ZiREQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T04:58:41+00:00",
+  "atualizado": "2026-11-27T12:56:22+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "col-clonador-de-chaves",
+  "titulo": "Clonador de Chaves",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Ferramenta essencial para realizar roubos e acessar áreas restritas.",
+  "resumo_original": "How to get the key Cloner + Tools",
+  "passos": [
+   "Siga o guia no minuto 0:20 do vídeo para localizar as ferramentas e o clonador."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo possui título sensacionalista sobre 'GTA 6' quando o jogo ainda não foi lançado, tratando-se de conteúdo especulativo ou de mod/clickbait.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wXjx__ZiREQ",
+    "autor": "GameCraft",
+    "titulo": "GTA 6 Chapter 3 Money Guide Up to $11K Per Minute",
+    "video_id": "wXjx__ZiREQ",
+    "imagem": "https://i.ytimg.com/vi/wXjx__ZiREQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T12:56:22+00:00",
+  "atualizado": "2026-11-27T12:56:22+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-entrega-de-supercarro-em-perfeitas-condicoes",
+  "titulo": "Entrega de Supercarro em Perfeitas Condições",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método para realizar entregas de veículos de luxo mantendo o valor máximo de recompensa.",
+  "resumo_original": "Perfect Condition Supercar Delivery",
+  "passos": [
+   "Assista ao passo a passo no minuto 1:48 para aprender a técnica de entrega."
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo de procedência duvidosa sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wXjx__ZiREQ",
+    "autor": "GameCraft",
+    "titulo": "GTA 6 Chapter 3 Money Guide Up to $11K Per Minute",
+    "video_id": "wXjx__ZiREQ",
+    "imagem": "https://i.ytimg.com/vi/wXjx__ZiREQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T12:56:22+00:00",
+  "atualizado": "2026-11-27T12:56:22+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-extracao-de-caixas-eletronicos",
+  "titulo": "Extração de Caixas Eletrônicos",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Técnica para arrancar caixas eletrônicos das paredes para coletar dinheiro.",
+  "resumo_original": "Ripping ATMs Out of Walls",
+  "passos": [
+   "Localize caixas eletrônicos em paredes e utilize o método demonstrado aos 9:33."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo de procedência duvidosa sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wXjx__ZiREQ",
+    "autor": "GameCraft",
+    "titulo": "GTA 6 Chapter 3 Money Guide Up to $11K Per Minute",
+    "video_id": "wXjx__ZiREQ",
+    "imagem": "https://i.ytimg.com/vi/wXjx__ZiREQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T12:56:22+00:00",
+  "atualizado": "2026-11-27T12:56:22+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-cartas-colecionaveis-do-starlet-motel",
+  "titulo": "Cartas Colecionáveis do Starlet Motel",
+  "categoria": "col",
+  "regiao": "Vice City",
+  "resumo": "Três cartas colecionáveis localizadas no Starlet Motel que se tornam inacessíveis após a conclusão do Capítulo 2.",
+  "resumo_original": "Three collectible cards located at the Starlet Motel that become inaccessible after finishing Chapter 2.",
+  "passos": [
+   "Vá até o Starlet Motel durante o Capítulo 2.",
+   "Colete as três cartas antes de progredir na história para evitar que a área fique bloqueada."
+  ],
+  "locais": [
+   {
+    "nome": "Starlet Motel",
+    "onde": "Vice City",
+    "detalhe": "Algumas partes do motel ficam inacessíveis após o Capítulo 2."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo de especulação sobre GTA 6, jogo que ainda não foi lançado. O título e a descrição tratam o conteúdo como se o jogo já existisse e tivesse missões/locais específicos, o que indica tratar-se de 'clickbait' ou desinformação.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=_poMiVtlfAM",
+    "autor": "NIXNE",
+    "titulo": "GTA 6 - Get These 3 Collectibles Before Finishing Chapter 2",
+    "video_id": "_poMiVtlfAM",
+    "imagem": "https://i.ytimg.com/vi/_poMiVtlfAM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T12:56:04+00:00",
+  "atualizado": "2026-11-27T12:56:04+00:00",
+  "status": "retido"
+ },
+ {
   "id": "heist-tatica-de-fuga-e-armazenamento-com-dois-veiculos",
   "titulo": "Tática de Fuga e Armazenamento com Dois Veículos",
   "categoria": "heist",
@@ -937,45 +1546,6 @@
   "status": "retido"
  },
  {
-  "id": "heist-coleta-no-grassrivers-visitor-center",
-  "titulo": "Coleta no Grassrivers Visitor Center",
-  "categoria": "heist",
-  "regiao": "Grassrivers",
-  "resumo": "Uma missão de coleta que termina em emboscada policial e disputa com policiais corruptos.",
-  "resumo_original": "Jason and Lucia retrieve a bag from the Grassrivers Visitor Center, but are ambushed by police officers.",
-  "passos": [
-   "Ir até o centro de visitantes",
-   "Recuperar a bolsa alvo",
-   "Escapar da emboscada de Aldo Méndez"
-  ],
-  "locais": [
-   {
-    "nome": "Grassrivers Visitor Center",
-    "onde": "Grassrivers",
-    "detalhe": "Local da emboscada"
-   }
-  ],
-  "dificuldade": 2,
-  "tempo": "Capítulo 1",
-  "ganho": 10000,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-27T04:58:38+00:00",
-  "status": "retido"
- },
- {
   "id": "heist-assalto-ao-aeroporto-internacional",
   "titulo": "Assalto ao Aeroporto Internacional",
   "categoria": "heist",
@@ -1011,45 +1581,6 @@
    }
   ],
   "criado": "2026-11-25T04:59:08+00:00",
-  "atualizado": "2026-11-27T04:58:38+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-assalto-ao-sinfrontera-national-bank",
-  "titulo": "Assalto ao Sinfrontera National Bank",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Um roubo de alto nível a um banco utilizado para lavagem de dinheiro de cartéis, realizado pela equipe de Raul Bautista.",
-  "resumo_original": "The successful operation substantially improves the couple's financial circumstances and allows them to move into more luxurious accommodation.",
-  "passos": [
-   "Conectar-se com Raul Bautista em Vice City",
-   "Executar o planejamento da equipe",
-   "Realizar o assalto ao Sinfrontera National Bank"
-  ],
-  "locais": [
-   {
-    "nome": "Sinfrontera National Bank",
-    "onde": "Vice City",
-    "detalhe": "Banco usado para lavagem de dinheiro de cartéis"
-   }
-  ],
-  "dificuldade": 3,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-27T04:58:38+00:00",
   "atualizado": "2026-11-27T04:58:38+00:00",
   "status": "retido"
  },
@@ -1551,42 +2082,6 @@
   ],
   "criado": "2026-11-27T04:58:07+00:00",
   "atualizado": "2026-11-27T04:58:07+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-roubo-do-cartel-cartel-heist",
-  "titulo": "Roubo do Cartel (Cartel Heist)",
-  "categoria": "heist",
-  "regiao": "",
-  "resumo": "Missão principal do Capítulo 3. Siga este guia para obter o pagamento máximo de 11 milhões e salvar a personagem Nicole.",
-  "resumo_original": "Complete the Cartel Heist perfectly to get the maximum $11 million payout and save Nicole from dying in Chapter 3.",
-  "passos": [
-   "Complete as 4 missões de preparação: Company Property, Safe Word, The Missing Link e Hidden Charges.",
-   "Reúna os reféns conforme instruído.",
-   "Evite o erro do elevador de Raul e abra o portão de segurança.",
-   "Posicione Jason no telhado.",
-   "Realize o minijogo de abertura do cofre com perfeição.",
-   "Colete o valor máximo de 11 milhões."
-  ],
-  "locais": [],
-  "dificuldade": 3,
-  "tempo": "",
-  "ganho": 11000000,
-  "spoiler": true,
-  "confianca": "baixa",
-  "alerta": "O vídeo faz alegações sobre o conteúdo de GTA 6 que ainda não foi lançado oficialmente ou confirmado pela Rockstar Games. Pode tratar-se de conteúdo especulativo ou modificado.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=0zkiPTVjyX0",
-    "autor": "LunarGaming",
-    "titulo": "GTA 6 Cartel Heist Guide – Perfect Run, Save Nicole & Get $11 Million Max Money",
-    "video_id": "0zkiPTVjyX0",
-    "imagem": "https://i.ytimg.com/vi/0zkiPTVjyX0/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-27T04:58:03+00:00",
-  "atualizado": "2026-11-27T04:58:03+00:00",
   "status": "retido"
  },
  {
@@ -4800,45 +5295,6 @@
   "status": "confirmado"
  },
  {
-  "id": "heist-assalto-ao-aeroporto-internacional-de-vice-city",
-  "titulo": "Assalto ao Aeroporto Internacional de Vice City",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Um roubo planejado contra a organização criminosa de Kordell Grant, infiltrando-se nas operações do aeroporto.",
-  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant, whose operations involve Vice City International Airport.",
-  "passos": [
-   "Infiltrar-se na organização de Kordell Grant",
-   "Coletar informações sobre a segurança",
-   "Executar o assalto no aeroporto"
-  ],
-  "locais": [
-   {
-    "nome": "Vice City International Airport",
-    "onde": "Vice City",
-    "detalhe": "Base de operações de Kordell Grant"
-   }
-  ],
-  "dificuldade": 3,
-  "tempo": "Capítulo 4",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-26T13:08:14+00:00",
-  "status": "retido"
- },
- {
   "id": "gun-armas-op-do-capitulo-1",
   "titulo": "Armas OP do Capítulo 1",
   "categoria": "gun",
@@ -6739,45 +7195,6 @@
   "status": "retido"
  },
  {
-  "id": "heist-assalto-ao-delights",
-  "titulo": "Assalto ao Delights",
-  "categoria": "heist",
-  "regiao": "Port Gellhorn",
-  "resumo": "Roubo realizado pela dupla com a ajuda de Vicki, uma dançarina do local.",
-  "resumo_original": "Jason and Lucia begin carrying out robberies across Kelly County, eventually helping Vicki rob Delights.",
-  "passos": [
-   "Conheça Vicki em Delights",
-   "Planeje o roubo",
-   "Execute a ação"
-  ],
-  "locais": [
-   {
-    "nome": "Delights",
-    "onde": "Port Gellhorn",
-    "detalhe": "Clube onde Vicki trabalha"
-   }
-  ],
-  "dificuldade": 2,
-  "tempo": "Capítulo 2",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-25T13:05:13+00:00",
-  "atualizado": "2026-11-26T04:59:43+00:00",
-  "status": "retido"
- },
- {
   "id": "farm-glitch-de-dinheiro-com-vans",
   "titulo": "Glitch de dinheiro com vans",
   "categoria": "farm",
@@ -7214,38 +7631,6 @@
   "spoiler": false,
   "confianca": "baixa",
   "alerta": "O vídeo apresenta-se como um guia, mas não fornece detalhes práticos, imagens de gameplay real ou evidências que comprovem a funcionalidade do método 'sem polícia' em um jogo ainda não lançado.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=TYcNjVKinl8",
-    "autor": "Big Dan Gaming",
-    "titulo": "How to Do PERFECT HEISTS in GTA 6 (NO COPS)",
-    "video_id": "TYcNjVKinl8",
-    "imagem": "https://i.ytimg.com/vi/TYcNjVKinl8/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-26T04:58:41+00:00",
-  "atualizado": "2026-11-26T04:58:41+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-assalto-a-joalheria",
-  "titulo": "Assalto a Joalheria",
-  "categoria": "heist",
-  "regiao": "",
-  "resumo": "Técnica para assaltar joalherias de forma profissional e garantir uma fuga limpa.",
-  "resumo_original": "Jewelry store heists... make a clean getaway without cops getting on your back.",
-  "passos": [
-   "Planeje a entrada e saída",
-   "Execute o roubo com precisão para não atrair a polícia"
-  ],
-  "locais": [],
-  "dificuldade": 2,
-  "tempo": "Não especificado",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo; não há evidências visuais no texto fornecido que confirmem a mecânica específica de roubos a joalherias no jogo.",
   "fontes": [
    {
     "tipo": "YouTube",
