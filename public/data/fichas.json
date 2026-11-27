@@ -1,5 +1,942 @@
 [
  {
+  "id": "heist-tatica-de-fuga-e-armazenamento-com-dois-veiculos",
+  "titulo": "Tática de Fuga e Armazenamento com Dois Veículos",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Utilize dois veículos pessoais distintos para facilitar a fuga e garantir espaço extra para o armazenamento de itens roubados.",
+  "resumo_original": "Use two personal vehicles for getaway and loot storage.",
+  "passos": [
+   "Estacione o primeiro veículo em um ponto estratégico para fuga rápida.",
+   "Utilize o segundo veículo como base de carregamento para os itens roubados."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=4HOVj-JcLxI",
+    "autor": "CovertMF",
+    "titulo": "GTA 6 - Make Robberies EASIER & More Profitable! (Chapter 3 Tips & Tricks)",
+    "video_id": "4HOVj-JcLxI",
+    "imagem": "https://i.ytimg.com/vi/4HOVj-JcLxI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:56+00:00",
+  "atualizado": "2026-11-27T08:55:56+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-equipamento-snap-gun-e-dye-pack-jammer",
+  "titulo": "Equipamento: Snap Gun e Dye Pack Jammer",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Desbloqueie ferramentas essenciais para roubos, como a Snap Gun e o Jammer de pacotes de tinta (Dye Pack Jammer).",
+  "resumo_original": "Unlocking the Snap Gun and Dye Pack Jammer.",
+  "passos": [
+   "Progredir nas missões do Capítulo 3 para liberar o acesso a estes itens de suporte para roubos."
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=4HOVj-JcLxI",
+    "autor": "CovertMF",
+    "titulo": "GTA 6 - Make Robberies EASIER & More Profitable! (Chapter 3 Tips & Tricks)",
+    "video_id": "4HOVj-JcLxI",
+    "imagem": "https://i.ytimg.com/vi/4HOVj-JcLxI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:56+00:00",
+  "atualizado": "2026-11-27T08:55:56+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-preparacao-de-roubo-reconhecimento-e-seguranca",
+  "titulo": "Preparação de Roubo: Reconhecimento e Segurança",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Aumente a eficiência dos roubos realizando o reconhecimento do local, marcando guardas e buscando códigos de cofres.",
+  "resumo_original": "Scout buildings, mark guards, find safe codes and handle security.",
+  "passos": [
+   "Realize o reconhecimento prévio do alvo (bancos, joalherias ou casas de penhores).",
+   "Marque a posição dos guardas.",
+   "Busque códigos de cofres antes de iniciar a ação."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=4HOVj-JcLxI",
+    "autor": "CovertMF",
+    "titulo": "GTA 6 - Make Robberies EASIER & More Profitable! (Chapter 3 Tips & Tricks)",
+    "video_id": "4HOVj-JcLxI",
+    "imagem": "https://i.ytimg.com/vi/4HOVj-JcLxI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:56+00:00",
+  "atualizado": "2026-11-27T08:55:56+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-otimizacao-de-lucro-e-fuga",
+  "titulo": "Otimização de Lucro e Fuga",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Maximize seus ganhos vendendo bens roubados em locais específicos e reduza a pressão policial alterando sua descrição física.",
+  "resumo_original": "Escaping the police, changing your description, selling stolen goods for better payouts.",
+  "passos": [
+   "Troque sua descrição/aparência após o roubo para despistar a polícia.",
+   "Leve os itens roubados a locais de venda especializados para obter pagamentos superiores."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=4HOVj-JcLxI",
+    "autor": "CovertMF",
+    "titulo": "GTA 6 - Make Robberies EASIER & More Profitable! (Chapter 3 Tips & Tricks)",
+    "video_id": "4HOVj-JcLxI",
+    "imagem": "https://i.ytimg.com/vi/4HOVj-JcLxI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:56+00:00",
+  "atualizado": "2026-11-27T08:55:56+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-satelite-caido-easter-egg",
+  "titulo": "Satélite Caído (Easter Egg)",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Um local de queda de satélite que pode ser explorado como um segredo no mapa de Leonida.",
+  "resumo_original": "A crashed satellite wreckage hidden in Leonida.",
+  "passos": [
+   "Explore a área indicada no vídeo para encontrar os destroços do satélite no solo."
+  ],
+  "locais": [
+   {
+    "nome": "Local de Queda do Satélite",
+    "onde": "Leonida",
+    "detalhe": "Um local no solo com destroços de um satélite fumegante e em chamas."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "O vídeo afirma ser um Easter Egg, mas não fornece coordenadas específicas ou contexto narrativo além do visual.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=gec9I8ELYbA",
+    "autor": "Robbin Rams",
+    "titulo": "GTA 6 Crashed Satellite Easter Egg Location & Secrets",
+    "video_id": "gec9I8ELYbA",
+    "imagem": "https://i.ytimg.com/vi/gec9I8ELYbA/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:51+00:00",
+  "atualizado": "2026-11-27T08:55:51+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-armas-douradas-gold-guns",
+  "titulo": "Armas Douradas (Gold Guns)",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Guia abrangente para encontrar todas as 118 armas únicas (douradas) espalhadas pelo jogo.",
+  "resumo_original": "Every gold (unique) gun in GTA 6 we could confirm: 118, each with its exact map spot and how to get it.",
+  "passos": [
+   "Explore o mapa para encontrar as 39 armas gratuitas.",
+   "Limpe esconderijos de gangues para obter as 29 armas de espólio.",
+   "Visite lojas para comprar as 28 armas exclusivas de comércio.",
+   "Complete missões específicas para resgatar as 13 recompensas de missão.",
+   "Investigue segredos e eventos para as 7 armas ocultas.",
+   "Verifique a Ultimate Edition para as 2 armas exclusivas."
+  ],
+  "locais": [
+   {
+    "nome": "Mapa global",
+    "onde": "Múltiplas localizações",
+    "detalhe": "Informações compiladas de diversos sites de banco de dados do GTA."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "media",
+  "alerta": "O vídeo é um compilado de informações de terceiros (GTABase, Detonated, etc.) sobre um jogo que, na data da publicação, possui informações especulativas ou baseadas em prévias, não confirmando que todas as 118 armas existem na versão final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=-eA9Gx0qD0Y",
+    "autor": "PlayWithMuteeb",
+    "titulo": "GTA 6: Every Gold Gun + Location (All 118 Unique Weapons)",
+    "video_id": "-eA9Gx0qD0Y",
+    "imagem": "https://i.ytimg.com/vi/-eA9Gx0qD0Y/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:41+00:00",
+  "atualizado": "2026-11-27T08:55:41+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "gun-armas-no-gun-nut-s-house",
+  "titulo": "Armas no Gun Nut's House",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Obtenha uma metralhadora leve (LMG), um lançador de foguetes e um rifle de precisão gratuitamente logo no início.",
+  "resumo_original": "Free LMG, Rocket Launcher & Sniper at Gun Nut's House.",
+  "passos": [
+   "Vá até a casa do Gun Nut em Key Lento.",
+   "Localize as armas espalhadas no local."
+  ],
+  "locais": [
+   {
+    "nome": "Gun Nut's House",
+    "onde": "Key Lento",
+    "detalhe": "Dentro da casa"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "rápido",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo se refere a um jogo não lançado oficialmente, tornando a existência desses itens e locais especulativa ou baseada em mods/fake gameplay.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Fhb6kl0VpcQ",
+    "autor": "Chuck",
+    "titulo": "Get These SECRET Legendary Weapons EARLY in GTA 6 (Chapter 1 Locations)",
+    "video_id": "Fhb6kl0VpcQ",
+    "imagem": "https://i.ytimg.com/vi/Fhb6kl0VpcQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:37+00:00",
+  "atualizado": "2026-11-27T08:55:37+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-pistola-mahi-nipper-38",
+  "titulo": "Pistola Mahi Nipper .38",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma pistola lendária localizada na loja Chuck's Tackle & Shot.",
+  "resumo_original": "Mahi Nipper .38 Legendary Pistol at Chuck's Tackle & Shot.",
+  "passos": [
+   "Dirija-se à loja Chuck's Tackle & Shot.",
+   "Procure pela pistola no interior da loja."
+  ],
+  "locais": [
+   {
+    "nome": "Chuck's Tackle & Shot",
+    "onde": "",
+    "detalhe": "Dentro da loja"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "rápido",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Fhb6kl0VpcQ",
+    "autor": "Chuck",
+    "titulo": "Get These SECRET Legendary Weapons EARLY in GTA 6 (Chapter 1 Locations)",
+    "video_id": "Fhb6kl0VpcQ",
+    "imagem": "https://i.ytimg.com/vi/Fhb6kl0VpcQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:37+00:00",
+  "atualizado": "2026-11-27T08:55:37+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-espingarda-comshot-12",
+  "titulo": "Espingarda Comshot 12",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Localização de uma espingarda gratuita para coletar.",
+  "resumo_original": "Unpacked Comshot 12 Free Shotgun.",
+  "passos": [
+   "Vá até o local indicado no mapa.",
+   "Colete a espingarda que está desempacotada."
+  ],
+  "locais": [
+   {
+    "nome": "Local da Comshot 12",
+    "onde": "",
+    "detalhe": "Local específico mencionado no vídeo aos 4:40"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "rápido",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Fhb6kl0VpcQ",
+    "autor": "Chuck",
+    "titulo": "Get These SECRET Legendary Weapons EARLY in GTA 6 (Chapter 1 Locations)",
+    "video_id": "Fhb6kl0VpcQ",
+    "imagem": "https://i.ytimg.com/vi/Fhb6kl0VpcQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:37+00:00",
+  "atualizado": "2026-11-27T08:55:37+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-rifle-de-assalto-em-casa-com-alarme",
+  "titulo": "Rifle de Assalto em Casa com Alarme",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle de assalto gratuito encontrado em uma casa que possui alarme.",
+  "resumo_original": "Free Assault Rifle House (Alarm).",
+  "passos": [
+   "Entre na residência indicada.",
+   "Cuidado, pois o alarme pode disparar e o item pode não aparecer sempre."
+  ],
+  "locais": [
+   {
+    "nome": "Casa com rifle",
+    "onde": "",
+    "detalhe": "Residência com alarme de segurança"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "rápido",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo indica que o item pode não spawnar corretamente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Fhb6kl0VpcQ",
+    "autor": "Chuck",
+    "titulo": "Get These SECRET Legendary Weapons EARLY in GTA 6 (Chapter 1 Locations)",
+    "video_id": "Fhb6kl0VpcQ",
+    "imagem": "https://i.ytimg.com/vi/Fhb6kl0VpcQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:37+00:00",
+  "atualizado": "2026-11-27T08:55:37+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-pistola-silenciada-assassin-nipper-38",
+  "titulo": "Pistola Silenciada Assassin Nipper .38",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Uma pistola silenciada lendária escondida em um barco em uma ilha.",
+  "resumo_original": "Assassin Nipper .38 Silenced Pistol on a hidden island boat.",
+  "passos": [
+   "Navegue até a ilha oculta.",
+   "Procure pelo barco abandonado para encontrar a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Barco na ilha oculta",
+    "onde": "",
+    "detalhe": "Dentro de um barco encalhado"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "médio",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Fhb6kl0VpcQ",
+    "autor": "Chuck",
+    "titulo": "Get These SECRET Legendary Weapons EARLY in GTA 6 (Chapter 1 Locations)",
+    "video_id": "Fhb6kl0VpcQ",
+    "imagem": "https://i.ytimg.com/vi/Fhb6kl0VpcQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:37+00:00",
+  "atualizado": "2026-11-27T08:55:37+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-espingarda-smuggler-gorse-425",
+  "titulo": "Espingarda Smuggler Gorse 425",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Espingarda encontrada em um barco de contrabandista naufragado.",
+  "resumo_original": "Smuggler Gorse 425 Shotgun at wrecked smuggler's boat.",
+  "passos": [
+   "Localize o barco de contrabandistas naufragado.",
+   "Busque pela espingarda nos destroços."
+  ],
+  "locais": [
+   {
+    "nome": "Barco de contrabandista",
+    "onde": "",
+    "detalhe": "Barco naufragado"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "médio",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Fhb6kl0VpcQ",
+    "autor": "Chuck",
+    "titulo": "Get These SECRET Legendary Weapons EARLY in GTA 6 (Chapter 1 Locations)",
+    "video_id": "Fhb6kl0VpcQ",
+    "imagem": "https://i.ytimg.com/vi/Fhb6kl0VpcQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:37+00:00",
+  "atualizado": "2026-11-27T08:55:37+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-rifle-tatico-mossy-mediator",
+  "titulo": "Rifle Tático Mossy Mediator",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle tático lendário localizado em um estoque de armas (Barrage Gun Supply).",
+  "resumo_original": "Mossy Mediator Tactical Rifle at Barrage Gun Supply.",
+  "passos": [
+   "Vá até o fornecedor Barrage Gun Supply.",
+   "Obtenha o rifle tático."
+  ],
+  "locais": [
+   {
+    "nome": "Barrage Gun Supply",
+    "onde": "",
+    "detalhe": "Local de estoque de armas"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "médio",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Fhb6kl0VpcQ",
+    "autor": "Chuck",
+    "titulo": "Get These SECRET Legendary Weapons EARLY in GTA 6 (Chapter 1 Locations)",
+    "video_id": "Fhb6kl0VpcQ",
+    "imagem": "https://i.ytimg.com/vi/Fhb6kl0VpcQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:37+00:00",
+  "atualizado": "2026-11-27T08:55:37+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-mercedes-g-wagon-dourada",
+  "titulo": "Mercedes G-Wagon Dourada",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo exclusivo e valioso disponível em Leonida.",
+  "resumo_original": "Exclusive gold Mercedes G-Wagon.",
+  "passos": [
+   "Vá até as coordenadas específicas indicadas no vídeo para localizar o veículo."
+  ],
+  "locais": [
+   {
+    "nome": "Local do G-Wagon",
+    "onde": "",
+    "detalhe": "Coordenadas não reveladas explicitamente no texto da fonte."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 50000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico de clickbait comum em redes sociais e não apresenta as localizações reais ou provas concretas dentro do mapa do jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wI5ujKJRjvY",
+    "autor": "Schlayer",
+    "titulo": "Find These 3 HIDDEN Cars in GTA 6 Right Now! 🤫 #gta6 #gta6secrets #gaming",
+    "video_id": "wI5ujKJRjvY",
+    "imagem": "https://i.ytimg.com/vi/wI5ujKJRjvY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:31+00:00",
+  "atualizado": "2026-11-27T08:55:31+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-porsche-911-peachy",
+  "titulo": "Porsche 911 'Peachy'",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Carro raro e colecionável espalhado pelo mapa de Leonida.",
+  "resumo_original": "Peachy Porsche 911 collectible.",
+  "passos": [
+   "Siga até a localização designada para resgatar o veículo raro."
+  ],
+  "locais": [
+   {
+    "nome": "Local do Porsche",
+    "onde": "",
+    "detalhe": "Localização exata omitida na descrição do vídeo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo sensacionalista sem demonstração clara de localização ou método verificado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wI5ujKJRjvY",
+    "autor": "Schlayer",
+    "titulo": "Find These 3 HIDDEN Cars in GTA 6 Right Now! 🤫 #gta6 #gta6secrets #gaming",
+    "video_id": "wI5ujKJRjvY",
+    "imagem": "https://i.ytimg.com/vi/wI5ujKJRjvY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:31+00:00",
+  "atualizado": "2026-11-27T08:55:31+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-relogio-ap-de-titanio-e-azul",
+  "titulo": "Relógio AP de Titânio e Azul",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Item colecionável de alto valor para adicionar ao inventário.",
+  "resumo_original": "Titanium and blue AP watch.",
+  "passos": [
+   "Dirija-se às coordenadas indicadas para coletar o acessório."
+  ],
+  "locais": [
+   {
+    "nome": "Local do Relógio",
+    "onde": "",
+    "detalhe": "Localização não especificada no material fornecido."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza táticas de clickbait; não há evidência de que este item exista no jogo da forma descrita.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wI5ujKJRjvY",
+    "autor": "Schlayer",
+    "titulo": "Find These 3 HIDDEN Cars in GTA 6 Right Now! 🤫 #gta6 #gta6secrets #gaming",
+    "video_id": "wI5ujKJRjvY",
+    "imagem": "https://i.ytimg.com/vi/wI5ujKJRjvY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:31+00:00",
+  "atualizado": "2026-11-27T08:55:31+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carrinho-de-golfe",
+  "titulo": "Carrinho de Golfe",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo utilitário que pode ser rastreado e coletado.",
+  "resumo_original": "Golf cart.",
+  "passos": [
+   "Rastreie o carrinho de golfe seguindo as orientações do guia."
+  ],
+  "locais": [
+   {
+    "nome": "Local do Carrinho",
+    "onde": "",
+    "detalhe": "Sem coordenadas ou ponto de referência fornecido."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Informação vaga e sem prova visual de gameplay que confirme a existência do método.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wI5ujKJRjvY",
+    "autor": "Schlayer",
+    "titulo": "Find These 3 HIDDEN Cars in GTA 6 Right Now! 🤫 #gta6 #gta6secrets #gaming",
+    "video_id": "wI5ujKJRjvY",
+    "imagem": "https://i.ytimg.com/vi/wI5ujKJRjvY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:31+00:00",
+  "atualizado": "2026-11-27T08:55:31+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colar-da-lucia-pagar-aluguel",
+  "titulo": "Colar da Lucia (Pagar Aluguel)",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Item relacionado à missão de aluguel no Capítulo 2.",
+  "resumo_original": "Pay Your Rent - Lucia's Necklace",
+  "passos": [
+   "Recupere o colar durante o evento de pagamento de aluguel no Capítulo 2."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo sugere que é um evento narrativo específico, mas não dá coordenadas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=XnE5QzxPlkQ",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 11 Missable Items, Weapons, Quests & Cars You NEED to Get! (Chapters 1-3)",
+    "video_id": "XnE5QzxPlkQ",
+    "imagem": "https://i.ytimg.com/vi/XnE5QzxPlkQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:04+00:00",
+  "atualizado": "2026-11-27T08:55:04+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-garagem-secreta-e-pfister-growler",
+  "titulo": "Garagem Secreta e Pfister Growler",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Localização de garagem secreta contendo um veículo exclusivo no Capítulo 3.",
+  "resumo_original": "Secret Garage & Pfister Growler",
+  "passos": [
+   "Encontre a garagem secreta no Capítulo 3 para obter o veículo."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Sem local geográfico definido.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=XnE5QzxPlkQ",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 11 Missable Items, Weapons, Quests & Cars You NEED to Get! (Chapters 1-3)",
+    "video_id": "XnE5QzxPlkQ",
+    "imagem": "https://i.ytimg.com/vi/XnE5QzxPlkQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:04+00:00",
+  "atualizado": "2026-11-27T08:55:04+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-deagle-customizada-gil-s-kalinga-50",
+  "titulo": "Deagle Customizada: Gil's Kalinga .50",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma customizada perdível no Capítulo 3.",
+  "resumo_original": "Missable Custom Deagle - Gil's Kalinga .50",
+  "passos": [
+   "Obtenha a arma durante as missões do Capítulo 3."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Falta informação sobre qual missão específica concede a arma.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=XnE5QzxPlkQ",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 11 Missable Items, Weapons, Quests & Cars You NEED to Get! (Chapters 1-3)",
+    "video_id": "XnE5QzxPlkQ",
+    "imagem": "https://i.ytimg.com/vi/XnE5QzxPlkQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:04+00:00",
+  "atualizado": "2026-11-27T08:55:04+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-pistola-dourada-monty-s-1992-pistol",
+  "titulo": "Pistola Dourada: Monty's 1992 Pistol",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma única perdível no Capítulo 3.",
+  "resumo_original": "Missable Gold Pistol - Monty's 1992 Pistol",
+  "passos": [
+   "Coletar a pistola durante o Capítulo 3."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Sem detalhes de como encontrar este item.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=XnE5QzxPlkQ",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 11 Missable Items, Weapons, Quests & Cars You NEED to Get! (Chapters 1-3)",
+    "video_id": "XnE5QzxPlkQ",
+    "imagem": "https://i.ytimg.com/vi/XnE5QzxPlkQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:04+00:00",
+  "atualizado": "2026-11-27T08:55:04+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-balsero-customizado",
+  "titulo": "Balsero Customizado",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Carro tuner de alto desempenho disponível no Capítulo 3.",
+  "resumo_original": "Missable Custom Balsero - Best Tuner Car",
+  "passos": [
+   "Obtenha o veículo durante o Capítulo 3."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo apenas lista como item perdível.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=XnE5QzxPlkQ",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 11 Missable Items, Weapons, Quests & Cars You NEED to Get! (Chapters 1-3)",
+    "video_id": "XnE5QzxPlkQ",
+    "imagem": "https://i.ytimg.com/vi/XnE5QzxPlkQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:04+00:00",
+  "atualizado": "2026-11-27T08:55:04+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-vapid-32-hustler-customizado",
+  "titulo": "Vapid '32 Hustler Customizado",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo exclusivo perdível no Capítulo 3.",
+  "resumo_original": "Missable Custom Vapid '32 Hustler",
+  "passos": [
+   "Obtenha o veículo antes de prosseguir além do Capítulo 3."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo não explica onde ou como adquirir o carro.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=XnE5QzxPlkQ",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 11 Missable Items, Weapons, Quests & Cars You NEED to Get! (Chapters 1-3)",
+    "video_id": "XnE5QzxPlkQ",
+    "imagem": "https://i.ytimg.com/vi/XnE5QzxPlkQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:04+00:00",
+  "atualizado": "2026-11-27T08:55:04+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colar-pessoal-missable-personal-necklace",
+  "titulo": "Colar Pessoal (Missable Personal Necklace)",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Item colecionável perdido se não for coletado no Capítulo 1.",
+  "resumo_original": "Missable Personal Necklace",
+  "passos": [
+   "Certifique-se de coletar o item durante o Capítulo 1 antes de avançar na história."
+  ],
+  "locais": [
+   {
+    "nome": "Capítulo 1",
+    "onde": "",
+    "detalhe": "Localização não especificada no vídeo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo menciona o item, mas não fornece localização ou método de obtenção, apenas o alerta de que é perdível.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=XnE5QzxPlkQ",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 11 Missable Items, Weapons, Quests & Cars You NEED to Get! (Chapters 1-3)",
+    "video_id": "XnE5QzxPlkQ",
+    "imagem": "https://i.ytimg.com/vi/XnE5QzxPlkQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:03+00:00",
+  "atualizado": "2026-11-27T08:55:03+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-linha-de-missao-da-shirley",
+  "titulo": "Linha de Missão da Shirley",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Missão opcional que garante aumento permanente de foco.",
+  "resumo_original": "Shirley's Secret Questline & Focus Increase",
+  "passos": [
+   "Complete a linha de missões de Shirley durante o Capítulo 1."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo cita a recompensa de status (foco), mas não detalha como iniciar ou onde encontrar a personagem.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=XnE5QzxPlkQ",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 11 Missable Items, Weapons, Quests & Cars You NEED to Get! (Chapters 1-3)",
+    "video_id": "XnE5QzxPlkQ",
+    "imagem": "https://i.ytimg.com/vi/XnE5QzxPlkQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:03+00:00",
+  "atualizado": "2026-11-27T08:55:03+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-revolver-h-l-e-aviadores-do-donnie",
+  "titulo": "Revólver H&L e Aviadores do Donnie",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma exclusiva e acessório perdíveis no Capítulo 1.",
+  "resumo_original": "Missable Donnie's H&L Revolver & Aviators",
+  "passos": [
+   "Obtenha os itens durante as missões envolvendo o personagem Donnie no Capítulo 1."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Sem detalhes específicos sobre a localização ou critérios da missão.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=XnE5QzxPlkQ",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 11 Missable Items, Weapons, Quests & Cars You NEED to Get! (Chapters 1-3)",
+    "video_id": "XnE5QzxPlkQ",
+    "imagem": "https://i.ytimg.com/vi/XnE5QzxPlkQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:03+00:00",
+  "atualizado": "2026-11-27T08:55:03+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-cartoes-colecionaveis-capitulo-2",
+  "titulo": "Cartões Colecionáveis (Capítulo 2)",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Dois cartões colecionáveis que se tornam inacessíveis após o Capítulo 2.",
+  "resumo_original": "Two Missable Collectible Cards",
+  "passos": [
+   "Localize e colete os dois cartões antes de finalizar as missões do Capítulo 2."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Não há informações de onde os cartões estão escondidos no mapa.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=XnE5QzxPlkQ",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - 11 Missable Items, Weapons, Quests & Cars You NEED to Get! (Chapters 1-3)",
+    "video_id": "XnE5QzxPlkQ",
+    "imagem": "https://i.ytimg.com/vi/XnE5QzxPlkQ/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T08:55:03+00:00",
+  "atualizado": "2026-11-27T08:55:03+00:00",
+  "status": "retido"
+ },
+ {
   "id": "heist-coleta-no-grassrivers-visitor-center",
   "titulo": "Coleta no Grassrivers Visitor Center",
   "categoria": "heist",
