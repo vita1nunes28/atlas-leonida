@@ -1,44 +1,5 @@
 [
  {
-  "id": "heist-roubo-ao-sinfrontera-national-bank",
-  "titulo": "Roubo ao Sinfrontera National Bank",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Um roubo de alto nível em um banco usado para lavagem de dinheiro de um cartel, realizado pelo grupo de Raul Bautista.",
-  "resumo_original": "A robbery of Sinfrontera National Bank, where money belonging to a drug cartel is being laundered.",
-  "passos": [
-   "Ser recrutado pelo criminoso Raul Bautista",
-   "Planejar a operação com a equipe",
-   "Executar o assalto ao banco Sinfrontera"
-  ],
-  "locais": [
-   {
-    "nome": "Sinfrontera National Bank",
-    "onde": "Vice City",
-    "detalhe": "Banco utilizado por cartéis para lavagem de dinheiro"
-   }
-  ],
-  "dificuldade": 3,
-  "tempo": "Capítulo 3",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-27T00:53:35+00:00",
-  "status": "retido"
- },
- {
   "id": "heist-coleta-no-grassrivers-visitor-center",
   "titulo": "Coleta no Grassrivers Visitor Center",
   "categoria": "heist",
@@ -60,6 +21,803 @@
   "dificuldade": 2,
   "tempo": "Capítulo 1",
   "ganho": 10000,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-27T04:58:38+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-aeroporto-internacional",
+  "titulo": "Assalto ao Aeroporto Internacional",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Roubo a uma organização criminosa liderada por Kordell Grant operando no aeroporto.",
+  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant, whose operations involve Vice City International Airport.",
+  "passos": [
+   "Infiltre-se na organização de Kordell Grant",
+   "Reúna informações sobre a operação",
+   "Execute o assalto no aeroporto"
+  ],
+  "locais": [
+   {
+    "nome": "Vice City International Airport",
+    "onde": "Vice City",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T04:59:08+00:00",
+  "atualizado": "2026-11-27T04:58:38+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-sinfrontera-national-bank",
+  "titulo": "Assalto ao Sinfrontera National Bank",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo de alto nível a um banco utilizado para lavagem de dinheiro de cartéis, realizado pela equipe de Raul Bautista.",
+  "resumo_original": "The successful operation substantially improves the couple's financial circumstances and allows them to move into more luxurious accommodation.",
+  "passos": [
+   "Conectar-se com Raul Bautista em Vice City",
+   "Executar o planejamento da equipe",
+   "Realizar o assalto ao Sinfrontera National Bank"
+  ],
+  "locais": [
+   {
+    "nome": "Sinfrontera National Bank",
+    "onde": "Vice City",
+    "detalhe": "Banco usado para lavagem de dinheiro de cartéis"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T04:58:38+00:00",
+  "atualizado": "2026-11-27T04:58:38+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-ao-delights",
+  "titulo": "Roubo ao Delights",
+  "categoria": "heist",
+  "regiao": "Port Gellhorn",
+  "resumo": "Roubo a um estabelecimento local realizado com a ajuda de Vicki, uma dançarina do local.",
+  "resumo_original": "They begin carrying out robberies across Kelly County, eventually helping Vicki rob Delights.",
+  "passos": [
+   "Conheça Vicki no Delights",
+   "Planeje o roubo",
+   "Execute o assalto ao Delights"
+  ],
+  "locais": [
+   {
+    "nome": "Delights",
+    "onde": "Port Gellhorn",
+    "detalhe": "Clube frequentado por Vicki"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T04:58:38+00:00",
+  "atualizado": "2026-11-27T04:58:38+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-taco-de-beisebol",
+  "titulo": "Taco de Beisebol",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma branca clássica para combate corpo a corpo.",
+  "resumo_original": "Melee Baseball Bat",
+  "passos": [
+   "Equipe o item através do menu de armas para usar em combate."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-27T04:58:33+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-martelo",
+  "titulo": "Martelo",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma corpo a corpo pesada disponível no arsenal.",
+  "resumo_original": "Hammer",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-27T04:58:33+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-taco-de-sinuca",
+  "titulo": "Taco de Sinuca",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma corpo a corpo baseada em equipamento de sinuca.",
+  "resumo_original": "Pool Cue",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-27T04:58:33+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-taco-de-minigolfe",
+  "titulo": "Taco de Minigolfe",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma corpo a corpo do tipo taco de golfe.",
+  "resumo_original": "Mini golf club",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-27T04:58:33+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-submetralhadora-inspirada-em-hk-mp5-40",
+  "titulo": "Submetralhadora inspirada em HK MP5/40",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Submetralhadora de alta cadência baseada na série MP5.",
+  "resumo_original": "Heckler & Koch MP5/40-inspired submachine gun",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-27T04:58:33+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-carabina-duke-special-ops",
+  "titulo": "Carabina Duke Special Ops",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Versão tática/especial da Carabina Duke.",
+  "resumo_original": "Duke special ops carbine",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-23T02:59:58+00:00",
+  "atualizado": "2026-11-27T04:58:33+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-pistolas-duke-mustang-357-polymer-capo-girardi-es9-scorpio-nipper-38",
+  "titulo": "Pistolas (Duke Mustang .357, Polymer, Capo, Girardi ES9, Scorpio, Nipper .38)",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Variedade de pistolas semiautomáticas e revólveres para defesa pessoal.",
+  "resumo_original": "Handguns Duke Mustang .357 Pistol Polymer Pistol Capo pistol Girardi ES9 Scorpio Nipper .38",
+  "passos": [
+   "Adquira em lojas de armas ou colete durante confrontos."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T04:58:33+00:00",
+  "atualizado": "2026-11-27T04:58:33+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-escopeta-de-cano-duplo",
+  "titulo": "Escopeta de Cano Duplo",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma de curto alcance com alto poder de parada.",
+  "resumo_original": "Double-barreled shotgun",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T04:58:33+00:00",
+  "atualizado": "2026-11-27T04:58:33+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-fuzis-de-precisao-bolt-action-e-duke",
+  "titulo": "Fuzis de Precisão (Bolt Action e Duke)",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifles de precisão para abates de longa distância.",
+  "resumo_original": "Sniper rifles Bolt Action Sniper Duke assault sniper rifle",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T04:58:33+00:00",
+  "atualizado": "2026-11-27T04:58:33+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-lancador-de-granadas",
+  "titulo": "Lançador de Granadas",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Arma pesada para causar dano em área.",
+  "resumo_original": "Heavy Grenade Launcher",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/images",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T04:58:33+00:00",
+  "atualizado": "2026-11-27T04:58:33+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-armas-de-gta-vi",
+  "titulo": "Armas de GTA VI",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Lista completa de armamentos dividida por categorias, confirmada para o estado de Leonida.",
+  "resumo_original": "The following table lists weapons appearing in Grand Theft Auto VI.",
+  "passos": [
+   "Consulte a lista de classificações: Melee, Pistols, Revolvers, Shotguns, SMGs, Assault rifles, Tactical rifles, Sniper rifles, Machine guns, Launchers e Thrown."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/table",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI/table",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T04:58:28+00:00",
+  "atualizado": "2026-11-27T04:58:28+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-compra-e-customizacao-de-armas",
+  "titulo": "Compra e Customização de Armas",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "A maioria das armas pode ser adquirida ou personalizada em lojas especializadas e estandes de tiro pelo estado.",
+  "resumo_original": "Most weapons can be purchased and customized at licensed gun stores and shooting ranges across Leonida —such as Ammu-Nation",
+  "passos": [
+   "Visite lojas de armas como a Ammu-Nation em Leonida.",
+   "Utilize estandes de tiro para prática.",
+   "Adicione modificações como miras, supressores, carregadores estendidos e empunhaduras."
+  ],
+  "locais": [
+   {
+    "nome": "Ammu-Nation",
+    "onde": "Leonida",
+    "detalhe": "Loja de armas e customização"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T04:58:24+00:00",
+  "atualizado": "2026-11-27T04:58:24+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-armas-de-combate-corpo-a-corpo-improvisadas",
+  "titulo": "Armas de Combate Corpo a Corpo (Improvisadas)",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Algumas armas brancas específicas, como o Martelo, não são vendidas e devem ser encontradas no mundo ou durante missões.",
+  "resumo_original": "Certain improvised melee weapons—such as the Hammer —and specialized mission items can only be obtained in specific locations or during particular missions.",
+  "passos": [
+   "Explore o mundo aberto para encontrar armas brancas exclusivas.",
+   "Procure por itens específicos durante missões de história."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T04:58:24+00:00",
+  "atualizado": "2026-11-27T04:58:24+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-sistema-de-transporte-de-armas",
+  "titulo": "Sistema de Transporte de Armas",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Diferente de jogos anteriores, você possui um limite de carregamento. Armas extras ficam no porta-malas ou no cofre.",
+  "resumo_original": "Jason and Lucia can carry a restricted set of sidearms and long guns on their person at any given time, storing extra weapons in the trunk of a personal vehicle or in safehouse weapon lockers.",
+  "passos": [
+   "Gerencie o armamento pessoal de Jason e Lucia.",
+   "Guarde armas adicionais no porta-malas do veículo pessoal.",
+   "Armazene equipamentos extras nos cofres de armas dos esconderijos."
+  ],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "N/A",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Weapons in GTA VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T04:58:24+00:00",
+  "atualizado": "2026-11-27T04:58:24+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-assalto-ao-banco-do-cartel-capitulo-3",
+  "titulo": "Assalto ao Banco do Cartel (Capítulo 3)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Missão de assalto com foco em obter um lucro de 10 milhões de dólares e salvar a personagem Nicole.",
+  "resumo_original": "Perfect Chapter 3 Cartel Bank Heist & How To Save Nicole",
+  "passos": [
+   "Execute o assalto conforme a progressão da história do Capítulo 3",
+   "Realize as ações específicas para garantir a sobrevivência de Nicole durante o confronto"
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 10000000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata-se de um conteúdo especulativo ou de clickbait sobre GTA 6, visto que o jogo ainda não foi lançado e não há informações oficiais sobre missões, nomes de personagens como 'Nicole' ou valores específicos de assaltos.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=omqzjdZAdPA",
+    "autor": "Bryce Games - Bryce McQuaid",
+    "titulo": "How To 100% A $10,000,000 Heist in GTA 6! (& Save Nicole) | Chapter 3 Cartel Bank Heist #GTA6 #GTA",
+    "video_id": "omqzjdZAdPA",
+    "imagem": "https://i.ytimg.com/vi/omqzjdZAdPA/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T04:58:07+00:00",
+  "atualizado": "2026-11-27T04:58:07+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-do-cartel-cartel-heist",
+  "titulo": "Roubo do Cartel (Cartel Heist)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Missão principal do Capítulo 3. Siga este guia para obter o pagamento máximo de 11 milhões e salvar a personagem Nicole.",
+  "resumo_original": "Complete the Cartel Heist perfectly to get the maximum $11 million payout and save Nicole from dying in Chapter 3.",
+  "passos": [
+   "Complete as 4 missões de preparação: Company Property, Safe Word, The Missing Link e Hidden Charges.",
+   "Reúna os reféns conforme instruído.",
+   "Evite o erro do elevador de Raul e abra o portão de segurança.",
+   "Posicione Jason no telhado.",
+   "Realize o minijogo de abertura do cofre com perfeição.",
+   "Colete o valor máximo de 11 milhões."
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "",
+  "ganho": 11000000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo faz alegações sobre o conteúdo de GTA 6 que ainda não foi lançado oficialmente ou confirmado pela Rockstar Games. Pode tratar-se de conteúdo especulativo ou modificado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=0zkiPTVjyX0",
+    "autor": "LunarGaming",
+    "titulo": "GTA 6 Cartel Heist Guide – Perfect Run, Save Nicole & Get $11 Million Max Money",
+    "video_id": "0zkiPTVjyX0",
+    "imagem": "https://i.ytimg.com/vi/0zkiPTVjyX0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T04:58:03+00:00",
+  "atualizado": "2026-11-27T04:58:03+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-saque-secreto-de-leonida",
+  "titulo": "Saque Secreto de Leonida",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Local de saque contendo uma grande quantia em dinheiro, um veículo customizado e armamento de alto nível.",
+  "resumo_original": "Get $30,000, a Dually Truck & LEGENDARY Red-Dot SMG in GTA 6!",
+  "passos": [
+   "Vá até a localização secreta (não especificada no vídeo).",
+   "Colete os $30.000 em dinheiro.",
+   "Obtenha a caminhonete Dually com neon azul.",
+   "Pegue a submetralhadora com mira Red-Dot, o rifle de precisão e o RPG."
+  ],
+  "locais": [
+   {
+    "nome": "Localização secreta",
+    "onde": "Não especificado",
+    "detalhe": "Local de spawn para itens de valor e veículos."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 30000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo apresenta apenas uma montagem visual e não fornece o local real no mapa ou provas concretas de que este conteúdo existe no jogo. Pode se tratar de clickbait ou mods.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eytuXToG1yY",
+    "autor": "FlayHQ",
+    "titulo": "Get $30,000, a Dually Truck & LEGENDARY Red-Dot SMG in GTA 6! (Secret Location)",
+    "video_id": "eytuXToG1yY",
+    "imagem": "https://i.ytimg.com/vi/eytuXToG1yY/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T04:57:32+00:00",
+  "atualizado": "2026-11-27T04:57:32+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-metodo-de-ganho-de-dinheiro-em-gta-6",
+  "titulo": "Método de ganho de dinheiro em GTA 6",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "O autor do vídeo afirma apresentar métodos para ganhar dinheiro no início do jogo, porém não demonstra nenhum método ou localização real na fonte fornecida.",
+  "resumo_original": "2 legit, super easy early-game money methods that can make you $20,000+",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "poucos minutos",
+  "ganho": 20000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é clickbait; apesar do título e da miniatura sugerirem um método de dinheiro infinito, o conteúdo da descrição não explica nenhum processo, local ou mecânica de jogo, tratando-se apenas de uma promoção genérica do canal.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=2B2wtTjSHxE",
+    "autor": "Musty Sky",
+    "titulo": "*EASIEST* GTA 6 FAST MONEY GLITCH! *NEW Method Now!* (Do It asap)",
+    "video_id": "2B2wtTjSHxE",
+    "imagem": "https://i.ytimg.com/vi/2B2wtTjSHxE/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T04:57:27+00:00",
+  "atualizado": "2026-11-27T04:57:27+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-muscle-car-secreto",
+  "titulo": "Muscle Car Secreto",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Um muscle car raro e de alta performance escondido no mapa de Leonida para desbloquear e adicionar à sua garagem.",
+  "resumo_original": "Secret muscle car hidden on the map of Leonida to unlock and add to your garage.",
+  "passos": [
+   "Siga as coordenadas mostradas no vídeo",
+   "Realize os passos necessários para desbloquear o veículo"
+  ],
+  "locais": [
+   {
+    "nome": "Local do Muscle Car",
+    "onde": "",
+    "detalhe": "O veículo está estacionado em uma área rural/estrada de terra."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é altamente especulativo e utiliza cenas de um jogo diferente (aparentemente Far Cry 5) em vez de imagens reais de GTA 6. Não há evidências concretas no conteúdo de que este veículo exista no jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9LfgMEEAfl0",
+    "autor": "CtrlAltPlay",
+    "titulo": "New Hidden Muscle Car Location in GTA 6!",
+    "video_id": "9LfgMEEAfl0",
+    "imagem": "https://i.ytimg.com/vi/9LfgMEEAfl0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T04:57:22+00:00",
+  "atualizado": "2026-11-27T04:57:22+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colecionaveis-waink-108-locais",
+  "titulo": "Colecionáveis Waink (108 Locais)",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Guia completo de 108 colecionáveis divididos em marcos, curiosidades, esculturas, tags e outdoors necessários para os 100% do jogo.",
+  "resumo_original": "All 108 Waink Locations - Collectibles Guide (Required for 100%)",
+  "passos": [
+   "Siga o vídeo para localizar cada um dos 108 itens listados."
+  ],
+  "locais": [
+   {
+    "nome": "Mapa Completo de Leonida",
+    "onde": "Vários locais",
+    "detalhe": "Inclui Riquezas Keys, Grassrivers, Vice City, entre outros pontos descritos no vídeo."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "38 minutos",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O título do vídeo utiliza 'Waink' como termo genérico para colecionáveis, termo que não é oficial da franquia. O conteúdo parece ser uma compilação de diversos pontos de interesse sem uma mecânica de jogo confirmada específica para 'Waink'.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=57iO1H57hMU",
+    "autor": "Maka91Productions",
+    "titulo": "GTA 6 - All 108 Waink Locations - Collectibles Guide (Required for 100%)",
+    "video_id": "57iO1H57hMU",
+    "imagem": "https://i.ytimg.com/vi/57iO1H57hMU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T04:57:16+00:00",
+  "atualizado": "2026-11-27T04:57:16+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-roubo-ao-sinfrontera-national-bank",
+  "titulo": "Roubo ao Sinfrontera National Bank",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo de alto nível em um banco usado para lavagem de dinheiro de um cartel, realizado pelo grupo de Raul Bautista.",
+  "resumo_original": "A robbery of Sinfrontera National Bank, where money belonging to a drug cartel is being laundered.",
+  "passos": [
+   "Ser recrutado pelo criminoso Raul Bautista",
+   "Planejar a operação com a equipe",
+   "Executar o assalto ao banco Sinfrontera"
+  ],
+  "locais": [
+   {
+    "nome": "Sinfrontera National Bank",
+    "onde": "Vice City",
+    "detalhe": "Banco utilizado por cartéis para lavagem de dinheiro"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Capítulo 3",
+  "ganho": 0,
   "spoiler": true,
   "confianca": "alta",
   "alerta": "",
@@ -6384,45 +7142,6 @@
   "criado": "2026-11-24T04:57:43+00:00",
   "atualizado": "2026-11-26T04:57:42+00:00",
   "status": "confirmado"
- },
- {
-  "id": "heist-assalto-ao-aeroporto-internacional",
-  "titulo": "Assalto ao Aeroporto Internacional",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Roubo a uma organização criminosa liderada por Kordell Grant operando no aeroporto.",
-  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant, whose operations involve Vice City International Airport.",
-  "passos": [
-   "Infiltre-se na organização de Kordell Grant",
-   "Reúna informações sobre a operação",
-   "Execute o assalto no aeroporto"
-  ],
-  "locais": [
-   {
-    "nome": "Vice City International Airport",
-    "onde": "Vice City",
-    "detalhe": ""
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-25T04:59:08+00:00",
-  "atualizado": "2026-11-26T00:49:53+00:00",
-  "status": "retido"
  },
  {
   "id": "gun-arsenal-de-armas-de-gta-vi",
@@ -18810,122 +19529,6 @@
   "status": "confirmado"
  },
  {
-  "id": "gun-taco-de-beisebol",
-  "titulo": "Taco de Beisebol",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Arma corpo a corpo clássica confirmada em mídias oficiais.",
-  "resumo_original": "Melee Baseball Bat",
-  "passos": [],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Weapons in GTA VI/images",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-23T02:59:58+00:00",
-  "atualizado": "2026-11-23T02:59:58+00:00",
-  "status": "confirmado"
- },
- {
-  "id": "gun-martelo",
-  "titulo": "Martelo",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Arma corpo a corpo pesada disponível no arsenal.",
-  "resumo_original": "Hammer",
-  "passos": [],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Weapons in GTA VI/images",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-23T02:59:58+00:00",
-  "atualizado": "2026-11-23T02:59:58+00:00",
-  "status": "confirmado"
- },
- {
-  "id": "gun-taco-de-sinuca",
-  "titulo": "Taco de Sinuca",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Arma corpo a corpo baseada em equipamento de sinuca.",
-  "resumo_original": "Pool Cue",
-  "passos": [],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Weapons in GTA VI/images",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-23T02:59:58+00:00",
-  "atualizado": "2026-11-23T02:59:58+00:00",
-  "status": "confirmado"
- },
- {
-  "id": "gun-taco-de-minigolfe",
-  "titulo": "Taco de Minigolfe",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Arma corpo a corpo do tipo taco de golfe.",
-  "resumo_original": "Mini golf club",
-  "passos": [],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Weapons in GTA VI/images",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-23T02:59:58+00:00",
-  "atualizado": "2026-11-23T02:59:58+00:00",
-  "status": "confirmado"
- },
- {
   "id": "gun-pistola-de-polimero",
   "titulo": "Pistola de Polímero",
   "categoria": "gun",
@@ -19019,64 +19622,6 @@
   "regiao": "",
   "resumo": "Pistola de porte compacto inspirada na Bersa Thunder 380.",
   "resumo_original": "Bersa Thunder 380-inspired pistol",
-  "passos": [],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Weapons in GTA VI/images",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-23T02:59:58+00:00",
-  "atualizado": "2026-11-23T02:59:58+00:00",
-  "status": "confirmado"
- },
- {
-  "id": "gun-submetralhadora-inspirada-em-hk-mp5-40",
-  "titulo": "Submetralhadora inspirada em HK MP5/40",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Submetralhadora de alta cadência baseada na série MP5.",
-  "resumo_original": "Heckler & Koch MP5/40-inspired submachine gun",
-  "passos": [],
-  "locais": [],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Weapons_in_GTA_VI/images",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Weapons in GTA VI/images",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-23T02:59:58+00:00",
-  "atualizado": "2026-11-23T02:59:58+00:00",
-  "status": "confirmado"
- },
- {
-  "id": "gun-carabina-duke-special-ops",
-  "titulo": "Carabina Duke Special Ops",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Versão tática/especial da Carabina Duke.",
-  "resumo_original": "Duke special ops carbine",
   "passos": [],
   "locais": [],
   "dificuldade": 1,
