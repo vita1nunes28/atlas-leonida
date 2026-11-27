@@ -1,5 +1,388 @@
 [
  {
+  "id": "heist-roubo-ao-sinfrontera-national-bank",
+  "titulo": "Roubo ao Sinfrontera National Bank",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo de alto nível em um banco usado para lavagem de dinheiro de um cartel, realizado pelo grupo de Raul Bautista.",
+  "resumo_original": "A robbery of Sinfrontera National Bank, where money belonging to a drug cartel is being laundered.",
+  "passos": [
+   "Ser recrutado pelo criminoso Raul Bautista",
+   "Planejar a operação com a equipe",
+   "Executar o assalto ao banco Sinfrontera"
+  ],
+  "locais": [
+   {
+    "nome": "Sinfrontera National Bank",
+    "onde": "Vice City",
+    "detalhe": "Banco utilizado por cartéis para lavagem de dinheiro"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Capítulo 3",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-27T20:46:13+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-aeroporto-de-vice-city",
+  "titulo": "Assalto ao Aeroporto de Vice City",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Assalto a uma organização criminosa liderada por Kordell Grant instalada no aeroporto.",
+  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant , whose operations involve Vice City International Airport .",
+  "passos": [
+   "Infiltre-se na organização de Kordell Grant.",
+   "Colete informações.",
+   "Execute o roubo no aeroporto."
+  ],
+  "locais": [
+   {
+    "nome": "Vice City International Airport",
+    "onde": "Vice City",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T09:03:22+00:00",
+  "atualizado": "2026-11-27T20:46:13+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-coleta-no-visitor-center",
+  "titulo": "Coleta no Visitor Center",
+  "categoria": "heist",
+  "regiao": "Grassrivers",
+  "resumo": "Missão de coleta de uma bolsa no centro de visitantes que culmina em confronto policial.",
+  "resumo_original": "Retrieve a bag from the Grassrivers Visitor Center, but are ambushed by police officers.",
+  "passos": [
+   "Vá até o Grassrivers Visitor Center",
+   "Recupere a bolsa",
+   "Fuja da emboscada policial"
+  ],
+  "locais": [
+   {
+    "nome": "Grassrivers Visitor Center",
+    "onde": "Grassrivers",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 10000,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T20:46:13+00:00",
+  "atualizado": "2026-11-27T20:46:13+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-exploracao-de-carregamento-de-cocaina",
+  "titulo": "Exploração de carregamento de cocaína",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "O vídeo sugere um método de coleta de itens (cocaína) de dentro de um veículo, alegando ganho infinito de dinheiro.",
+  "resumo_original": "Como conseguir dinheiro INFINITO no GTA 6 de forma FÁCIL!",
+  "passos": [
+   "Localize uma van branca com ícone de mercadoria no porta-malas.",
+   "Interaja com o veículo pressionando o botão indicado (Triângulo) para coletar a cocaína."
+  ],
+  "locais": [
+   {
+    "nome": "Van de carga",
+    "onde": "Não especificado",
+    "detalhe": "Veículo contendo pacotes de cocaína no porta-malas"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "Rápido",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo curto ('shorts') com título sensacionalista típico de 'clickbait'. Não há evidências de que o método resulte em dinheiro 'infinito' ou se é uma mecânica legítima do jogo, dada a natureza especulativa de vídeos desse tipo antes do lançamento oficial.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=PsfTQV8oHo4",
+    "autor": "Olegariohz",
+    "titulo": "Como conseguir dinheiro INFINITO no GTA 6 de forma FÁCIL!",
+    "video_id": "PsfTQV8oHo4",
+    "imagem": "https://i.ytimg.com/vi/PsfTQV8oHo4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T20:46:07+00:00",
+  "atualizado": "2026-11-27T20:46:07+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-suposto-glitch-de-dinheiro-infinito",
+  "titulo": "Suposto Glitch de Dinheiro Infinito",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Vídeo alega um método para ganhar $50.000 a cada 10 minutos utilizando um menu de saque, mas não fornece instruções reais ou demonstração do método.",
+  "resumo_original": "Claims a method to earn $50k every 10 minutes using a withdraw menu, but provides no actual instructions or demonstration.",
+  "passos": [],
+  "locais": [
+   {
+    "nome": "Menu de saque (Withdraw)",
+    "onde": "",
+    "detalhe": "Interface de banco exibida na imagem."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "10 minutos",
+  "ganho": 50000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista, utiliza clickbait e não apresenta o método ou localização real, apenas imagens genéricas de interface. Não há prova de que o conteúdo seja real ou funcional.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=NbplulUtnVk",
+    "autor": "Bubs",
+    "titulo": "*NEW* BEST UNLIMITED MONEY GLITCH FOUND! MILLIONS/50K per MINS! (GTA 6 MONEY GLITCH) GTA 6 GLITCHES!",
+    "video_id": "NbplulUtnVk",
+    "imagem": "https://i.ytimg.com/vi/NbplulUtnVk/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=cokySke2MBg",
+    "autor": "Bubs",
+    "titulo": "GTA 6: BROKEN MILLIONS PER HOUR! INFINITE GTA 6 MONEY GLITCH for ALL CHAPTERS! #gta6",
+    "video_id": "cokySke2MBg",
+    "imagem": "https://i.ytimg.com/vi/cokySke2MBg/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=4dWeuiLuqTA",
+    "autor": "Xee Gaming",
+    "titulo": "GTA 6 UNLIMITED MONEY GLITCH ($290,000,000)",
+    "video_id": "4dWeuiLuqTA",
+    "imagem": "https://i.ytimg.com/vi/4dWeuiLuqTA/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=si_oAlgehIU",
+    "autor": "YTLukeyy",
+    "titulo": "*UNSEEN* $1 MILLION in 1 MINUTE GTA 6 UNLIMITED MONEY GLITCH",
+    "video_id": "si_oAlgehIU",
+    "imagem": "https://i.ytimg.com/vi/si_oAlgehIU/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=phZPrGW2230",
+    "autor": "Universo Paralelo",
+    "titulo": "Novo GLITCH INSANO de DINHEIRO INFINITO em GTA 6! O MELHOR método, muito RÁPIDO mesmo!",
+    "video_id": "phZPrGW2230",
+    "imagem": "https://i.ytimg.com/vi/phZPrGW2230/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T20:47:13+00:00",
+  "atualizado": "2026-11-27T20:46:03+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-the-cartel-heist",
+  "titulo": "The Cartel Heist",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Missão de assalto ao banco Sinfronteras National Bank com objetivo de maximizar o ganho financeiro e o tempo dentro do cofre.",
+  "resumo_original": "How to do The Cartel Heist mission for the most amount of money and extra vault time to loot the bank.",
+  "passos": [
+   "Encontre Raul e a equipe na sala de planejamento.",
+   "Inicie o assalto ao Sinfronteras National Bank.",
+   "Siga as estratégias para otimizar o tempo no cofre e aumentar o valor do saque."
+  ],
+  "locais": [
+   {
+    "nome": "Sinfronteras National Bank",
+    "onde": "",
+    "detalhe": "Local principal do assalto."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 10583000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo se trata de conteúdo especulativo/clique-bait sobre GTA 6, jogo que não possui esse assalto ou mecânicas confirmadas na fonte. A miniatura e o título utilizam o nome do jogo para atrair visualizações, mas não apresentam prova real de gameplay do jogo final.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tJb1hz4EGNU",
+    "autor": "ConCon",
+    "titulo": "How to do The Cartel Heist for the MOST Money ► GTA 6",
+    "video_id": "tJb1hz4EGNU",
+    "imagem": "https://i.ytimg.com/vi/tJb1hz4EGNU/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=EMBLFwMDWWU",
+    "autor": "TmarTn2",
+    "titulo": "GTA 6 - Part 27 - The Cartel Heist (Max Money Perfect Run)",
+    "video_id": "EMBLFwMDWWU",
+    "imagem": "https://i.ytimg.com/vi/EMBLFwMDWWU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T00:50:26+00:00",
+  "atualizado": "2026-11-27T20:45:58+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-opcoes-de-customizacao-cabelos-maquiagem-barbas-e-tatuagens",
+  "titulo": "Opções de Customização (Cabelos, Maquiagem, Barbas e Tatuagens)",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Desbloqueie estilos exclusivos para Jason e Lucia encontrando e escaneando revistas ocultas pelo mapa de Leonida.",
+  "resumo_original": "Unlock exclusive character customization options for Jason and Lucia by finding and scanning hidden magazines scattered throughout Leonida.",
+  "passos": [
+   "Explore o mundo de Leonida em busca de revistas escondidas.",
+   "Ao encontrar uma revista, escaneie-a para desbloquear novos estilos de cabelo, maquiagem, barba ou tatuagens."
+  ],
+  "locais": [
+   {
+    "nome": "Leonida",
+    "onde": "Espalhado pelo mapa",
+    "detalhe": "Revistas escondidas em locais diversos"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo trata-se de um conteúdo especulativo/clickbait comum em miniaturas de YouTube sobre GTA 6; não há prova visual real dentro do jogo de que essas revistas e itens existam ou possam ser escaneados.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=CXw3pPTAr5g",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - SECRET Hairstyles, Makeup & Tattoos You Don't Want to Miss! (Hidden Magazine Locations)",
+    "video_id": "CXw3pPTAr5g",
+    "imagem": "https://i.ytimg.com/vi/CXw3pPTAr5g/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T20:45:54+00:00",
+  "atualizado": "2026-11-27T20:45:54+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carro-hotknife-customizado",
+  "titulo": "Carro Hotknife Customizado",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Um veículo raro do tipo hot rod que aparece estacionado dentro de uma garagem residencial.",
+  "resumo_original": "Rare hot rod vehicle found inside a residential garage.",
+  "passos": [
+   "Vá até a garagem residencial mostrada no vídeo.",
+   "Entre na garagem para localizar o veículo Hotknife."
+  ],
+  "locais": [
+   {
+    "nome": "Garagem residencial",
+    "onde": "Vice City",
+    "detalhe": "Dentro de uma garagem fechada com porta de enrolar."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "1 minuto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza filmagens de baixa qualidade e não identifica claramente a localização no mapa de Leonida, sendo possivelmente uma especulação ou montagem.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wy--Rih7xKU",
+    "autor": "Frolickz",
+    "titulo": "RARE CAR SPAWN LOCATIONS IN GTA 6!! #gta6 #gtavi #shorts #gta6clips",
+    "video_id": "wy--Rih7xKU",
+    "imagem": "https://i.ytimg.com/vi/wy--Rih7xKU/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T20:45:47+00:00",
+  "atualizado": "2026-11-27T20:45:47+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-colecionaveis-de-leitura",
+  "titulo": "Colecionáveis de Leitura",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Conjunto de 34 revistas, livros e HQs espalhados por Leonida, necessários para atingir 100% de conclusão do jogo.",
+  "resumo_original": "All 34 Magazines, Books, Comics, and Book Swaps Locations - Collectibles Guide (Required for 100%)",
+  "passos": [
+   "Explore o mapa em busca de locais de troca de livros (pequenas bibliotecas comunitárias).",
+   "Coleta itens específicos como: ORCA: A WHOLE DIFFERENT ANIMAL, OFF THE HOOK, KILLER PROM, RX MEN, THIGHLANDER, THE WIZARDS RUIN, BADLANDS REVENGE, TWO PRICKS IN THE BUSH, 11:59, D* DOWN IN DEEP SPACE, TRIGGER HAPPY, MANLY GAZE, THE JOHNSONS FOILED, THE COWBOY'S PRAYER, LAW & LITIGATION IN LEONIDA, HUMANITY IN SPACE, DRIVE SHAFT PECHE, HELP ME HELP YOU, GOODNIGHT DOLLFACE, LETHAL BY DESIGN, OUTBACK GAS JUNKIE, PASSION BC, ENDOWED, CHILDREN OF WIZARD WANG, BODY COPY, HIGH ROLLERZ, LIGHTS CAMERA AFFIRMATIVE ACTION, RAT FACE, SPECIAL FRIENDS FORCE, !BOMBAZO!, ASHES OF GLORY e REMOTE STRIKE."
+  ],
+  "locais": [
+   {
+    "nome": "Diversos locais em Leonida",
+    "onde": "Espalhados pelo mapa",
+    "detalhe": "Procure por estruturas em formato de cogumelo (bibliotecas de troca) que contêm os itens."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Indeterminado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O título e a descrição da fonte original sugerem conteúdo de GTA 6, porém, como o jogo ainda não foi lançado, o conteúdo pode ser fictício ou clickbait.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RCpMjCbTGo0",
+    "autor": "Maka91Productions",
+    "titulo": "GTA 6 - All 34 Magazines, Books, Comics, and Book Swaps Locations - Collectibles (Required for 100%)",
+    "video_id": "RCpMjCbTGo0",
+    "imagem": "https://i.ytimg.com/vi/RCpMjCbTGo0/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T20:45:43+00:00",
+  "atualizado": "2026-11-27T20:45:43+00:00",
+  "status": "retido"
+ },
+ {
   "id": "heist-missao-buck-me",
   "titulo": "Missão: Buck Me",
   "categoria": "heist",
@@ -70,65 +453,6 @@
   ],
   "criado": "2026-11-27T16:58:29+00:00",
   "atualizado": "2026-11-27T16:58:29+00:00",
-  "status": "confirmado"
- },
- {
-  "id": "farm-suposto-glitch-de-dinheiro-infinito",
-  "titulo": "Suposto Glitch de Dinheiro Infinito",
-  "categoria": "farm",
-  "regiao": "",
-  "resumo": "Vídeo alega um método para ganhar $50.000 a cada 10 minutos utilizando um menu de saque, mas não fornece instruções reais ou demonstração do método.",
-  "resumo_original": "Claims a method to earn $50k every 10 minutes using a withdraw menu, but provides no actual instructions or demonstration.",
-  "passos": [],
-  "locais": [
-   {
-    "nome": "Menu de saque (Withdraw)",
-    "onde": "",
-    "detalhe": "Interface de banco exibida na imagem."
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "10 minutos",
-  "ganho": 50000,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é sensacionalista, utiliza clickbait e não apresenta o método ou localização real, apenas imagens genéricas de interface. Não há prova de que o conteúdo seja real ou funcional.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=NbplulUtnVk",
-    "autor": "Bubs",
-    "titulo": "*NEW* BEST UNLIMITED MONEY GLITCH FOUND! MILLIONS/50K per MINS! (GTA 6 MONEY GLITCH) GTA 6 GLITCHES!",
-    "video_id": "NbplulUtnVk",
-    "imagem": "https://i.ytimg.com/vi/NbplulUtnVk/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=cokySke2MBg",
-    "autor": "Bubs",
-    "titulo": "GTA 6: BROKEN MILLIONS PER HOUR! INFINITE GTA 6 MONEY GLITCH for ALL CHAPTERS! #gta6",
-    "video_id": "cokySke2MBg",
-    "imagem": "https://i.ytimg.com/vi/cokySke2MBg/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=4dWeuiLuqTA",
-    "autor": "Xee Gaming",
-    "titulo": "GTA 6 UNLIMITED MONEY GLITCH ($290,000,000)",
-    "video_id": "4dWeuiLuqTA",
-    "imagem": "https://i.ytimg.com/vi/4dWeuiLuqTA/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=si_oAlgehIU",
-    "autor": "YTLukeyy",
-    "titulo": "*UNSEEN* $1 MILLION in 1 MINUTE GTA 6 UNLIMITED MONEY GLITCH",
-    "video_id": "si_oAlgehIU",
-    "imagem": "https://i.ytimg.com/vi/si_oAlgehIU/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-24T20:47:13+00:00",
-  "atualizado": "2026-11-27T16:58:25+00:00",
   "status": "confirmado"
  },
  {
@@ -2464,84 +2788,6 @@
   ],
   "criado": "2026-11-27T04:57:16+00:00",
   "atualizado": "2026-11-27T04:57:16+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-roubo-ao-sinfrontera-national-bank",
-  "titulo": "Roubo ao Sinfrontera National Bank",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Um roubo de alto nível em um banco usado para lavagem de dinheiro de um cartel, realizado pelo grupo de Raul Bautista.",
-  "resumo_original": "A robbery of Sinfrontera National Bank, where money belonging to a drug cartel is being laundered.",
-  "passos": [
-   "Ser recrutado pelo criminoso Raul Bautista",
-   "Planejar a operação com a equipe",
-   "Executar o assalto ao banco Sinfrontera"
-  ],
-  "locais": [
-   {
-    "nome": "Sinfrontera National Bank",
-    "onde": "Vice City",
-    "detalhe": "Banco utilizado por cartéis para lavagem de dinheiro"
-   }
-  ],
-  "dificuldade": 3,
-  "tempo": "Capítulo 3",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-27T00:53:35+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-assalto-ao-aeroporto-de-vice-city",
-  "titulo": "Assalto ao Aeroporto de Vice City",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Assalto a uma organização criminosa liderada por Kordell Grant instalada no aeroporto.",
-  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant , whose operations involve Vice City International Airport .",
-  "passos": [
-   "Infiltre-se na organização de Kordell Grant.",
-   "Colete informações.",
-   "Execute o roubo no aeroporto."
-  ],
-  "locais": [
-   {
-    "nome": "Vice City International Airport",
-    "onde": "Vice City",
-    "detalhe": ""
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-25T09:03:22+00:00",
-  "atualizado": "2026-11-27T00:53:35+00:00",
   "status": "retido"
  },
  {
@@ -12545,45 +12791,6 @@
   ],
   "criado": "2026-11-25T00:50:32+00:00",
   "atualizado": "2026-11-25T00:50:32+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-the-cartel-heist",
-  "titulo": "The Cartel Heist",
-  "categoria": "heist",
-  "regiao": "",
-  "resumo": "Missão de assalto ao banco Sinfronteras National Bank com objetivo de maximizar o ganho financeiro e o tempo dentro do cofre.",
-  "resumo_original": "How to do The Cartel Heist mission for the most amount of money and extra vault time to loot the bank.",
-  "passos": [
-   "Encontre Raul e a equipe na sala de planejamento.",
-   "Inicie o assalto ao Sinfronteras National Bank.",
-   "Siga as estratégias para otimizar o tempo no cofre e aumentar o valor do saque."
-  ],
-  "locais": [
-   {
-    "nome": "Sinfronteras National Bank",
-    "onde": "",
-    "detalhe": "Local principal do assalto."
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 10583000,
-  "spoiler": true,
-  "confianca": "baixa",
-  "alerta": "O vídeo se trata de conteúdo especulativo/clique-bait sobre GTA 6, jogo que não possui esse assalto ou mecânicas confirmadas na fonte. A miniatura e o título utilizam o nome do jogo para atrair visualizações, mas não apresentam prova real de gameplay do jogo final.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=tJb1hz4EGNU",
-    "autor": "ConCon",
-    "titulo": "How to do The Cartel Heist for the MOST Money ► GTA 6",
-    "video_id": "tJb1hz4EGNU",
-    "imagem": "https://i.ytimg.com/vi/tJb1hz4EGNU/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-25T00:50:26+00:00",
-  "atualizado": "2026-11-25T00:50:26+00:00",
   "status": "retido"
  },
  {
