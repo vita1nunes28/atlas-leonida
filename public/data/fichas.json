@@ -1,5 +1,571 @@
 [
  {
+  "id": "heist-roubo-ao-sinfrontera-national-bank",
+  "titulo": "Roubo ao Sinfrontera National Bank",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Um roubo de alto nível em um banco usado para lavagem de dinheiro de um cartel, realizado pelo grupo de Raul Bautista.",
+  "resumo_original": "A robbery of Sinfrontera National Bank, where money belonging to a drug cartel is being laundered.",
+  "passos": [
+   "Ser recrutado pelo criminoso Raul Bautista",
+   "Planejar a operação com a equipe",
+   "Executar o assalto ao banco Sinfrontera"
+  ],
+  "locais": [
+   {
+    "nome": "Sinfrontera National Bank",
+    "onde": "Vice City",
+    "detalhe": "Banco utilizado por cartéis para lavagem de dinheiro"
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "Capítulo 3",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-27T00:53:35+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-coleta-no-grassrivers-visitor-center",
+  "titulo": "Coleta no Grassrivers Visitor Center",
+  "categoria": "heist",
+  "regiao": "Grassrivers",
+  "resumo": "Uma missão de coleta que termina em emboscada policial e disputa com policiais corruptos.",
+  "resumo_original": "Jason and Lucia retrieve a bag from the Grassrivers Visitor Center, but are ambushed by police officers.",
+  "passos": [
+   "Ir até o centro de visitantes",
+   "Recuperar a bolsa alvo",
+   "Escapar da emboscada de Aldo Méndez"
+  ],
+  "locais": [
+   {
+    "nome": "Grassrivers Visitor Center",
+    "onde": "Grassrivers",
+    "detalhe": "Local da emboscada"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Capítulo 1",
+  "ganho": 10000,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-27T00:53:35+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-assalto-ao-aeroporto-de-vice-city",
+  "titulo": "Assalto ao Aeroporto de Vice City",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Assalto a uma organização criminosa liderada por Kordell Grant instalada no aeroporto.",
+  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant , whose operations involve Vice City International Airport .",
+  "passos": [
+   "Infiltre-se na organização de Kordell Grant.",
+   "Colete informações.",
+   "Execute o roubo no aeroporto."
+  ],
+  "locais": [
+   {
+    "nome": "Vice City International Airport",
+    "onde": "Vice City",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-25T09:03:22+00:00",
+  "atualizado": "2026-11-27T00:53:35+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-vapid-montagne-policial",
+  "titulo": "Vapid Montagne (Policial)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "SUV policial de quatro portas utilizada pelas forças da lei em Leonida, incluindo versões com e sem caracterização.",
+  "resumo_original": "A Vapid Montagne police SUV is due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "Pode ser encontrada em patrulhamento nas estradas do Condado de Leonard.",
+   "Versões descaracterizadas (sem pintura oficial) também circulam pelo mapa.",
+   "Variantes da POACH (Proteção de Animais e Caça Controlada) operam na região de Grassrivers."
+  ],
+  "locais": [
+   {
+    "nome": "Condado de Leonard",
+    "onde": "Estradas da região",
+    "detalhe": "Avistada em patrulha no trailer"
+   },
+   {
+    "nome": "Grassrivers",
+    "onde": "Áreas rurais",
+    "detalhe": "Operada pela POACH para perseguir caçadores"
+   },
+   {
+    "nome": "Vice City",
+    "onde": "Área urbana",
+    "detalhe": "Versão VCPD presente em screenshots oficiais"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Vapid_police_SUV",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Vapid police SUV",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-27T00:53:32+00:00",
+  "atualizado": "2026-11-27T00:53:32+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-roubo-a-furgoes-de-seguranca",
+  "titulo": "Roubo a Furgões de Segurança",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Método para obter grandes quantias de dinheiro interceptando furgões blindados.",
+  "resumo_original": "Furgón de seguridad (Mucho dinero)",
+  "passos": [
+   "Localize um furgão blindado de segurança nas ruas.",
+   "Aborde o veículo para extrair o conteúdo do cofre interno."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "variável",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo de um canal de clickbait sobre GTA 6. Não há gameplay real do jogo, pois o título ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Csb4qCNQ83A",
+    "autor": "Ray Snakeyes",
+    "titulo": "GTA 6: HAZ LOS ATRACOS PERFECTOS Y GANA MUCHO DINERO",
+    "video_id": "Csb4qCNQ83A",
+    "imagem": "https://i.ytimg.com/vi/Csb4qCNQ83A/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T00:53:28+00:00",
+  "atualizado": "2026-11-27T00:53:28+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-atracos-a-bancos-rota-de-roubo",
+  "titulo": "Atracos a Bancos (Rota de Roubo)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Rota planejada para realizar assaltos sequenciais a bancos para maximizar o lucro.",
+  "resumo_original": "Ruta de grandes bancos",
+  "passos": [
+   "Realize os preparativos necessários.",
+   "Acesse a câmara acorazada seguindo os métodos desbloqueados por Yasmani.",
+   "Execute o roubo e utilize técnicas de fuga sigilosa para despistar a polícia."
+  ],
+  "locais": [],
+  "dificuldade": 3,
+  "tempo": "variável",
+  "ganho": 100000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo não lançado. As mecânicas mencionadas não foram confirmadas oficialmente pela Rockstar Games.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Csb4qCNQ83A",
+    "autor": "Ray Snakeyes",
+    "titulo": "GTA 6: HAZ LOS ATRACOS PERFECTOS Y GANA MUCHO DINERO",
+    "video_id": "Csb4qCNQ83A",
+    "imagem": "https://i.ytimg.com/vi/Csb4qCNQ83A/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T00:53:28+00:00",
+  "atualizado": "2026-11-27T00:53:28+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-atividades-de-roubo-joias-e-cofres",
+  "titulo": "Atividades de Roubo (Jóias e Cofres)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Atividades paralelas voltadas para o Capítulo 3, envolvendo joalherias e cofres.",
+  "resumo_original": "Otras actividades (Capítulo 3)",
+  "passos": [
+   "Identifique cofres acessíveis no ambiente.",
+   "Realize assaltos a joalherias conforme disponível no progresso do capítulo."
+  ],
+  "locais": [],
+  "dificuldade": 2,
+  "tempo": "variável",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "Informação especulativa baseada em um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Csb4qCNQ83A",
+    "autor": "Ray Snakeyes",
+    "titulo": "GTA 6: HAZ LOS ATRACOS PERFECTOS Y GANA MUCHO DINERO",
+    "video_id": "Csb4qCNQ83A",
+    "imagem": "https://i.ytimg.com/vi/Csb4qCNQ83A/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T00:53:28+00:00",
+  "atualizado": "2026-11-27T00:53:28+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-elegy-de-drift",
+  "titulo": "Elegy de drift",
+  "categoria": "car",
+  "regiao": "Port Gellhorn",
+  "resumo": "Carro de drift encontrado dentro de uma garagem no autódromo próximo à região de Port Gellhorn.",
+  "resumo_original": "Elegy de drift numa garagem amarela do autódromo perto de Port Gellhorn",
+  "passos": [
+   "Vá até o autódromo próximo a Port Gellhorn.",
+   "Procure pela garagem amarela.",
+   "Escaneie o veículo com o celular (rastreador em 'nenhum').",
+   "Registre o carro na oficina do Moses em Port Gellhorn."
+  ],
+  "locais": [
+   {
+    "nome": "Autódromo",
+    "onde": "Próximo a Port Gellhorn",
+    "detalhe": "Dentro de uma garagem amarela"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GP6K-zekv3I",
+    "autor": "Diário De Vice",
+    "titulo": "COMO CONSEGUIR 10 CARROS RAROS DE GRAÇA NO GTA 6!",
+    "video_id": "GP6K-zekv3I",
+    "imagem": "https://i.ytimg.com/vi/GP6K-zekv3I/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=rS8BTiHngAo",
+    "autor": "JTM",
+    "titulo": "GTA 6: 4 CARROS RAROS ESCONDIDOS (E COMO FICAR COM ELES)",
+    "video_id": "rS8BTiHngAo",
+    "imagem": "https://i.ytimg.com/vi/rS8BTiHngAo/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T20:45:11+00:00",
+  "atualizado": "2026-11-27T00:53:23+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-pegassi-charred-toros",
+  "titulo": "Pegassi Charred Toros",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo raro estacionado em um quintal nos fundos do corpo de bombeiros.",
+  "resumo_original": "Pegassi Charred Toros num quintal atrás do corpo de bombeiros",
+  "passos": [
+   "Localize o corpo de bombeiros.",
+   "Vá até o quintal na parte de trás da construção.",
+   "Escaneie o veículo com o celular (rastreador em 'nenhum').",
+   "Registre o carro na oficina do Moses em Port Gellhorn."
+  ],
+  "locais": [
+   {
+    "nome": "Corpo de bombeiros",
+    "onde": "Não especificado",
+    "detalhe": "Quintal nos fundos"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo especulativo sem evidência real no jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5f6c9HkezD8",
+    "autor": "SubscribeForTacos",
+    "titulo": "GTA 6: These Top 10 Tracker-Free Cars Make You RICH (Keep or Sell!)",
+    "video_id": "5f6c9HkezD8",
+    "imagem": "https://i.ytimg.com/vi/5f6c9HkezD8/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=rS8BTiHngAo",
+    "autor": "JTM",
+    "titulo": "GTA 6: 4 CARROS RAROS ESCONDIDOS (E COMO FICAR COM ELES)",
+    "video_id": "rS8BTiHngAo",
+    "imagem": "https://i.ytimg.com/vi/rS8BTiHngAo/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-25T20:44:51+00:00",
+  "atualizado": "2026-11-27T00:53:23+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-progen-emerus-roxo",
+  "titulo": "Progen Emerus Roxo",
+  "categoria": "car",
+  "regiao": "Leonida Keys",
+  "resumo": "Carro raro localizado dentro de um contêiner no pátio da Chatfield.",
+  "resumo_original": "Progen Emerus roxo num contêiner do pátio da Chatfield",
+  "passos": [
+   "Vá até o pátio da Chatfield na ilha Waxman.",
+   "Localize o contêiner onde o veículo está escondido.",
+   "Escaneie o veículo com o celular (certifique-se de que o rastreador esteja como 'nenhum').",
+   "Registre o carro na oficina do Moses em Port Gellhorn."
+  ],
+  "locais": [
+   {
+    "nome": "Pátio da Chatfield",
+    "onde": "Ilha Waxman",
+    "detalhe": "Dentro de um contêiner"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo e o texto tratam de supostos conteúdos de GTA 6 que ainda não foram confirmados oficialmente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=rS8BTiHngAo",
+    "autor": "JTM",
+    "titulo": "GTA 6: 4 CARROS RAROS ESCONDIDOS (E COMO FICAR COM ELES)",
+    "video_id": "rS8BTiHngAo",
+    "imagem": "https://i.ytimg.com/vi/rS8BTiHngAo/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T00:53:23+00:00",
+  "atualizado": "2026-11-27T00:53:23+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-maibatsu-penumbra-ff-eclipse",
+  "titulo": "Maibatsu Penumbra FF (Eclipse)",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "Veículo inspirado no modelo do Paul Walker, escondido em uma garagem nas ilhas Rialto.",
+  "resumo_original": "Eclipse do Paul Walker (Maibatsu Penumbra FF) numa garagem das ilhas Rialto",
+  "passos": [
+   "Dirija até as ilhas Rialto.",
+   "Procure pelo veículo em uma das garagens locais.",
+   "Escaneie o veículo com o celular (rastreador em 'nenhum').",
+   "Registre o carro na oficina do Moses em Port Gellhorn."
+  ],
+  "locais": [
+   {
+    "nome": "Ilhas Rialto",
+    "onde": "Ilhas Rialto",
+    "detalhe": "Dentro de uma garagem"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo e o texto tratam de supostos conteúdos de GTA 6 que ainda não foram confirmados oficialmente.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=rS8BTiHngAo",
+    "autor": "JTM",
+    "titulo": "GTA 6: 4 CARROS RAROS ESCONDIDOS (E COMO FICAR COM ELES)",
+    "video_id": "rS8BTiHngAo",
+    "imagem": "https://i.ytimg.com/vi/rS8BTiHngAo/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T00:53:23+00:00",
+  "atualizado": "2026-11-27T00:53:23+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-alcapao-subaquatico-oculto",
+  "titulo": "Alçapão subaquático oculto",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Possível alçapão subaquático localizado no fundo do oceano em GTA 6.",
+  "resumo_original": "Hidden underwater hatch located on the ocean floor in GTA 6.",
+  "passos": [
+   "Mergulhe na área indicada pela imagem"
+  ],
+  "locais": [
+   {
+    "nome": "Alçapão misterioso",
+    "onde": "Fundo do oceano",
+    "detalhe": "Estrutura metálica circular com abertura iluminada"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é puramente especulativo e utiliza edição de imagem (clickbait) para criar um conteúdo de entretenimento, sem comprovação de que tal estrutura exista no jogo real.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=NHFNKCbbzyM",
+    "autor": "MKP Studios",
+    "titulo": "GTA 6 SECRET HIDDEN UNDERWATER HATCH! (GRAND THEFT AUTO 6)",
+    "video_id": "NHFNKCbbzyM",
+    "imagem": "https://i.ytimg.com/vi/NHFNKCbbzyM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T00:53:14+00:00",
+  "atualizado": "2026-11-27T00:53:14+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-armas-de-ouro-secretas",
+  "titulo": "Armas de Ouro Secretas",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "O vídeo promete revelar 3 localizações de armas de ouro secretas em GTA 6.",
+  "resumo_original": "3 Secret Gold Gun Locations in GTA 6",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo genérico com título sensacionalista que não apresenta nenhuma localização real ou gameplay de arma secreta, tratando-se provavelmente de clickbait.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=m8IQPLLZZZM",
+    "autor": "JayWayyGaming",
+    "titulo": "3 Secret Gold Gun Locations in GTA 6",
+    "video_id": "m8IQPLLZZZM",
+    "imagem": "https://i.ytimg.com/vi/m8IQPLLZZZM/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-27T00:53:06+00:00",
+  "atualizado": "2026-11-27T00:53:06+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "car-carros-raros-no-gta-6",
+  "titulo": "Carros Raros no GTA 6",
+  "categoria": "car",
+  "regiao": "",
+  "resumo": "O vídeo promete revelar a localização de 5 carros raros e o carro do Brian (Velozes e Furiosos), mas não fornece os dados no conteúdo.",
+  "resumo_original": "5 carros raros do GTA 6 e onde encontrar cada um + a localização do carro do Brian de Velozes e Furiosos no final!",
+  "passos": [
+   "Acesse o link externo indicado pelo autor na descrição para tentar encontrar as localizações."
+  ],
+  "locais": [
+   {
+    "nome": "Canal How to Everything",
+    "onde": "https://www.youtube.com/@HowtoEverything01",
+    "detalhe": "O autor direciona os espectadores para outro canal externo para obter as informações."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo utiliza imagens de mods ou recriações externas, não representando gameplay oficial ou verificado do GTA 6. A localização dos veículos não é fornecida.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Fsg6kYrJYfo",
+    "autor": "YuriLoti",
+    "titulo": "EU ENCONTREI 3 CARROS RAROS NO GTA 6 (INSANOS)",
+    "video_id": "Fsg6kYrJYfo",
+    "imagem": "https://i.ytimg.com/vi/Fsg6kYrJYfo/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GqtZN_aRYug",
+    "autor": "Mistoca GTA 6",
+    "titulo": "O CARRO DO BRIAN tá no GTA 6! + 5 carros raros 🚗 #velozesefuriosos #gta6 #carrosgta  #davyjones",
+    "video_id": "GqtZN_aRYug",
+    "imagem": "https://i.ytimg.com/vi/GqtZN_aRYug/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=rRRPghkHdW8",
+    "autor": "Canal do Nego - Julhão",
+    "titulo": "A MELHOR LOCALIZAÇÃO com 10 CARROS LENDÁRIOS do GTA 6! (CARROS GRATUITOS)",
+    "video_id": "rRRPghkHdW8",
+    "imagem": "https://i.ytimg.com/vi/rRRPghkHdW8/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=aNGZJTCP1Es",
+    "autor": "Hakiii",
+    "titulo": "How To Get ALL Rare Cars in GTA 6! (New Rare Car Locations Guide)",
+    "video_id": "aNGZJTCP1Es",
+    "imagem": "https://i.ytimg.com/vi/aNGZJTCP1Es/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-26T16:58:13+00:00",
+  "atualizado": "2026-11-27T00:53:02+00:00",
+  "status": "confirmado"
+ },
+ {
   "id": "farm-glitch-de-dinheiro-infinito-em-loja",
   "titulo": "Glitch de Dinheiro Infinito em Loja",
   "categoria": "farm",
@@ -120,43 +686,6 @@
   "spoiler": false,
   "confianca": "baixa",
   "alerta": "O jogo GTA 6 ainda não foi lançado; o vídeo utiliza filmagens de outros jogos (mods ou GTA V) para especular localizações.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=GP6K-zekv3I",
-    "autor": "Diário De Vice",
-    "titulo": "COMO CONSEGUIR 10 CARROS RAROS DE GRAÇA NO GTA 6!",
-    "video_id": "GP6K-zekv3I",
-    "imagem": "https://i.ytimg.com/vi/GP6K-zekv3I/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-26T20:45:11+00:00",
-  "atualizado": "2026-11-26T20:45:11+00:00",
-  "status": "retido"
- },
- {
-  "id": "car-elegy-de-drift",
-  "titulo": "Elegy de drift",
-  "categoria": "car",
-  "regiao": "Port Gellhorn",
-  "resumo": "Carro otimizado para drift encontrado no autódromo local.",
-  "resumo_original": "Elegy de drift – autódromo de Port Gellhorn",
-  "passos": [
-   "Dirija até o autódromo de Port Gellhorn."
-  ],
-  "locais": [
-   {
-    "nome": "Autódromo",
-    "onde": "Port Gellhorn",
-    "detalhe": "Dentro da pista de corrida"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "curto",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo sobre um jogo ainda não lançado.",
   "fontes": [
    {
     "tipo": "YouTube",
@@ -631,59 +1160,6 @@
   "criado": "2026-11-26T20:44:55+00:00",
   "atualizado": "2026-11-26T20:44:55+00:00",
   "status": "retido"
- },
- {
-  "id": "car-carros-raros-no-gta-6",
-  "titulo": "Carros Raros no GTA 6",
-  "categoria": "car",
-  "regiao": "",
-  "resumo": "O vídeo promete revelar a localização de 5 carros raros e o carro do Brian (Velozes e Furiosos), mas não fornece os dados no conteúdo.",
-  "resumo_original": "5 carros raros do GTA 6 e onde encontrar cada um + a localização do carro do Brian de Velozes e Furiosos no final!",
-  "passos": [
-   "Acesse o link externo indicado pelo autor na descrição para tentar encontrar as localizações."
-  ],
-  "locais": [
-   {
-    "nome": "Canal How to Everything",
-    "onde": "https://www.youtube.com/@HowtoEverything01",
-    "detalhe": "O autor direciona os espectadores para outro canal externo para obter as informações."
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo utiliza imagens de mods ou recriações externas, não representando gameplay oficial ou verificado do GTA 6. A localização dos veículos não é fornecida.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=Fsg6kYrJYfo",
-    "autor": "YuriLoti",
-    "titulo": "EU ENCONTREI 3 CARROS RAROS NO GTA 6 (INSANOS)",
-    "video_id": "Fsg6kYrJYfo",
-    "imagem": "https://i.ytimg.com/vi/Fsg6kYrJYfo/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=GqtZN_aRYug",
-    "autor": "Mistoca GTA 6",
-    "titulo": "O CARRO DO BRIAN tá no GTA 6! + 5 carros raros 🚗 #velozesefuriosos #gta6 #carrosgta  #davyjones",
-    "video_id": "GqtZN_aRYug",
-    "imagem": "https://i.ytimg.com/vi/GqtZN_aRYug/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=rRRPghkHdW8",
-    "autor": "Canal do Nego - Julhão",
-    "titulo": "A MELHOR LOCALIZAÇÃO com 10 CARROS LENDÁRIOS do GTA 6! (CARROS GRATUITOS)",
-    "video_id": "rRRPghkHdW8",
-    "imagem": "https://i.ytimg.com/vi/rRRPghkHdW8/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-26T16:58:13+00:00",
-  "atualizado": "2026-11-26T20:44:49+00:00",
-  "status": "confirmado"
  },
  {
   "id": "heist-cartel-heist-roubo-do-cartel",
@@ -2627,84 +3103,6 @@
   "criado": "2026-11-26T16:57:23+00:00",
   "atualizado": "2026-11-26T16:57:23+00:00",
   "status": "confirmado"
- },
- {
-  "id": "heist-roubo-ao-sinfrontera-national-bank",
-  "titulo": "Roubo ao Sinfrontera National Bank",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Um roubo de alto nível em um banco usado para lavagem de dinheiro de um cartel, realizado pelo grupo de Raul Bautista.",
-  "resumo_original": "A robbery of Sinfrontera National Bank, where money belonging to a drug cartel is being laundered.",
-  "passos": [
-   "Ser recrutado pelo criminoso Raul Bautista",
-   "Planejar a operação com a equipe",
-   "Executar o assalto ao banco Sinfrontera"
-  ],
-  "locais": [
-   {
-    "nome": "Sinfrontera National Bank",
-    "onde": "Vice City",
-    "detalhe": "Banco utilizado por cartéis para lavagem de dinheiro"
-   }
-  ],
-  "dificuldade": 3,
-  "tempo": "Capítulo 3",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-26T13:08:14+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-coleta-no-grassrivers-visitor-center",
-  "titulo": "Coleta no Grassrivers Visitor Center",
-  "categoria": "heist",
-  "regiao": "Grassrivers",
-  "resumo": "Uma missão de coleta que termina em emboscada policial e disputa com policiais corruptos.",
-  "resumo_original": "Jason and Lucia retrieve a bag from the Grassrivers Visitor Center, but are ambushed by police officers.",
-  "passos": [
-   "Ir até o centro de visitantes",
-   "Recuperar a bolsa alvo",
-   "Escapar da emboscada de Aldo Méndez"
-  ],
-  "locais": [
-   {
-    "nome": "Grassrivers Visitor Center",
-    "onde": "Grassrivers",
-    "detalhe": "Local da emboscada"
-   }
-  ],
-  "dificuldade": 2,
-  "tempo": "Capítulo 1",
-  "ganho": 10000,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-26T13:08:14+00:00",
-  "status": "retido"
  },
  {
   "id": "heist-assalto-ao-aeroporto-internacional-de-vice-city",
@@ -7247,43 +7645,6 @@
   "status": "retido"
  },
  {
-  "id": "car-pegassi-charred-toros",
-  "titulo": "Pegassi Charred Toros",
-  "categoria": "car",
-  "regiao": "",
-  "resumo": "SUV esportivo sem rastreador.",
-  "resumo_original": "Tracker-free sports SUV.",
-  "passos": [
-   "Vá até o local indicado no vídeo no timestamp 4:08."
-  ],
-  "locais": [
-   {
-    "nome": "",
-    "onde": "",
-    "detalhe": ""
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "Conteúdo especulativo sem evidência real no jogo.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=5f6c9HkezD8",
-    "autor": "SubscribeForTacos",
-    "titulo": "GTA 6: These Top 10 Tracker-Free Cars Make You RICH (Keep or Sell!)",
-    "video_id": "5f6c9HkezD8",
-    "imagem": "https://i.ytimg.com/vi/5f6c9HkezD8/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-25T20:44:51+00:00",
-  "atualizado": "2026-11-25T20:44:51+00:00",
-  "status": "retido"
- },
- {
   "id": "car-buckingham-bourbon-windsor",
   "titulo": "Buckingham Bourbon Windsor",
   "categoria": "car",
@@ -8293,45 +8654,6 @@
   ],
   "criado": "2026-11-25T13:00:35+00:00",
   "atualizado": "2026-11-25T13:00:35+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-assalto-ao-aeroporto-de-vice-city",
-  "titulo": "Assalto ao Aeroporto de Vice City",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Assalto a uma organização criminosa liderada por Kordell Grant instalada no aeroporto.",
-  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant , whose operations involve Vice City International Airport .",
-  "passos": [
-   "Infiltre-se na organização de Kordell Grant.",
-   "Colete informações.",
-   "Execute o roubo no aeroporto."
-  ],
-  "locais": [
-   {
-    "nome": "Vice City International Airport",
-    "onde": "Vice City",
-    "detalhe": ""
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-25T09:03:22+00:00",
-  "atualizado": "2026-11-25T09:03:22+00:00",
   "status": "retido"
  },
  {
