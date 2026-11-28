@@ -1,25 +1,21 @@
 [
  {
-  "id": "car-willard-station-wagon",
-  "titulo": "Willard Station Wagon",
-  "categoria": "car",
+  "id": "heist-assalto-ao-aeroporto-de-vice-city",
+  "titulo": "Assalto ao Aeroporto de Vice City",
+  "categoria": "heist",
   "regiao": "Vice City",
-  "resumo": "Uma station wagon de quatro portas fabricada pela Willard, baseada em modelos como a Buick Estate Wagon de 1971-1976.",
-  "resumo_original": "A Willard station wagon is due to appear in Grand Theft Auto VI.",
+  "resumo": "Assalto a uma organização criminosa liderada por Kordell Grant instalada no aeroporto.",
+  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant , whose operations involve Vice City International Airport .",
   "passos": [
-   "Pode ser encontrada estacionada em Hamlet.",
-   "Pode ser vista circulando perto do Cipher Mall em Rockridge, Vice City."
+   "Infiltre-se na organização de Kordell Grant.",
+   "Colete informações.",
+   "Execute o roubo no aeroporto."
   ],
   "locais": [
    {
-    "nome": "Hamlet",
-    "onde": "Leonida",
-    "detalhe": "Estacionada em um estacionamento."
-   },
-   {
-    "nome": "Cipher Mall",
-    "onde": "Rockridge, Vice City",
-    "detalhe": "Visto passando pela área durante tiroteios."
+    "nome": "Vice City International Airport",
+    "onde": "Vice City",
+    "detalhe": ""
    }
   ],
   "dificuldade": 1,
@@ -31,15 +27,131 @@
   "fontes": [
    {
     "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Willard_station_wagon",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
     "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Unnamed GTA VI Willard station wagon",
+    "titulo": "Grand Theft Auto VI",
     "video_id": null,
     "imagem": null
    }
   ],
-  "criado": "2026-11-28T00:50:25+00:00",
-  "atualizado": "2026-11-28T00:50:25+00:00",
+  "criado": "2026-11-25T09:03:22+00:00",
+  "atualizado": "2026-11-28T04:52:55+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "heist-coleta-no-grassrivers-visitor-center",
+  "titulo": "Coleta no Grassrivers Visitor Center",
+  "categoria": "heist",
+  "regiao": "Grassrivers",
+  "resumo": "Uma missão de coleta que termina em emboscada policial e disputa com policiais corruptos.",
+  "resumo_original": "Jason and Lucia retrieve a bag from the Grassrivers Visitor Center, but are ambushed by police officers.",
+  "passos": [
+   "Ir até o centro de visitantes",
+   "Recuperar a bolsa alvo",
+   "Escapar da emboscada de Aldo Méndez"
+  ],
+  "locais": [
+   {
+    "nome": "Grassrivers Visitor Center",
+    "onde": "Grassrivers",
+    "detalhe": "Local da emboscada"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "Capítulo 1",
+  "ganho": 10000,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T20:47:47+00:00",
+  "atualizado": "2026-11-28T04:52:55+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "farm-trafico-de-drogas-nos-leonida-keys",
+  "titulo": "Tráfico de Drogas nos Leonida Keys",
+  "categoria": "farm",
+  "regiao": "Leonida Keys",
+  "resumo": "Atividades de tráfico de drogas e cobrança de dívidas para Brian Heder.",
+  "resumo_original": "Assisting with drug trafficking and collecting money owed by Brian's associates.",
+  "passos": [
+   "Trabalhar com Brian Heder na marina",
+   "Realizar entregas de drogas",
+   "Cobrar dívidas dos associados"
+  ],
+  "locais": [
+   {
+    "nome": "Brian's Boat Works & Marina",
+    "onde": "Leonida Keys",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-24T08:59:57+00:00",
+  "atualizado": "2026-11-28T04:52:55+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "heist-roubo-ao-banco-sinfrontera",
+  "titulo": "Roubo ao Banco Sinfrontera",
+  "categoria": "heist",
+  "regiao": "Vice City",
+  "resumo": "Roubo a um banco utilizado para lavagem de dinheiro de um cartel de drogas.",
+  "resumo_original": "Robbery of Sinfrontera National Bank where money belonging to a drug cartel is being laundered.",
+  "passos": [
+   "Recrutar Raul Bautista para o serviço",
+   "Infiltrar-se e realizar o roubo no banco"
+  ],
+  "locais": [
+   {
+    "nome": "Sinfrontera National Bank",
+    "onde": "Vice City",
+    "detalhe": ""
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Grand Theft Auto VI",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-28T04:52:55+00:00",
+  "atualizado": "2026-11-28T04:52:55+00:00",
   "status": "retido"
  },
  {
@@ -107,11 +219,585 @@
     "titulo": "NOVO GLITCH de DINHEIRO INFINITO MUITO FÁCIL no GTA 6",
     "video_id": "UPJhDcC4LD8",
     "imagem": "https://i.ytimg.com/vi/UPJhDcC4LD8/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Xq7sZpES60w",
+    "autor": "MrDalekJD",
+    "titulo": "NEW UNLIMITED MONEY GLITCH TO EARN $500K IN SECONDS IN GTA 6! 😮💸",
+    "video_id": "Xq7sZpES60w",
+    "imagem": "https://i.ytimg.com/vi/Xq7sZpES60w/hqdefault.jpg"
    }
   ],
   "criado": "2026-11-24T20:47:13+00:00",
-  "atualizado": "2026-11-28T00:50:22+00:00",
+  "atualizado": "2026-11-28T04:52:47+00:00",
   "status": "confirmado"
+ },
+ {
+  "id": "heist-assalto-ao-cofre-do-banco-metodo-yasmani",
+  "titulo": "Assalto ao Cofre do Banco (Método Yasmani)",
+  "categoria": "heist",
+  "regiao": "",
+  "resumo": "Método de roubo a carro-forte seguido de invasão a banco para obtenção de dinheiro rápido.",
+  "resumo_original": "Bank robbery money method involving armored trucks.",
+  "passos": [
+   "Alcance o Capítulo 4 e complete missões para Yasmani para liberar dicas de carro-forte.",
+   "Ligue para Yasmani e compre a dica de localização do carro-forte por $10.000.",
+   "Siga o carro-forte até o banco e entre logo atrás dos guardas.",
+   "Encha 4 bolsas (2 para Jason e 2 para Lucia).",
+   "Use o Modo Foco para identificar quais caixas de depósito podem ser abertas com tiros.",
+   "Fuja pela rodovia, despiste a polícia, chame o serviço RydeMe e venda os itens para Yasmani."
+  ],
+  "locais": [
+   {
+    "nome": "Banco",
+    "onde": "Seguindo o carro-forte",
+    "detalhe": "Localização variável conforme a dica comprada."
+   }
+  ],
+  "dificuldade": 3,
+  "tempo": "7 minutos",
+  "ganho": 173000,
+  "spoiler": true,
+  "confianca": "baixa",
+  "alerta": "O vídeo se apresenta como um guia de GTA 6, mas o jogo ainda não foi lançado. As informações são tratadas como especulação ou conteúdo de clickbait, dado que as mecânicas citadas não podem ser verificadas.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=HoBA4PLMRC4",
+    "autor": "Leonida Lowdown",
+    "titulo": "How to Make Money FAST in GTA 6 – Rob the Bank Vault ($173,000 in 7 Minutes) #gta6",
+    "video_id": "HoBA4PLMRC4",
+    "imagem": "https://i.ytimg.com/vi/HoBA4PLMRC4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-28T04:52:43+00:00",
+  "atualizado": "2026-11-28T04:52:43+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-localizacao-de-criatura-misteriosa",
+  "titulo": "Localização de Criatura Misteriosa",
+  "categoria": "col",
+  "regiao": "",
+  "resumo": "Vídeo especulativo sobre uma criatura na praia, sem confirmação no jogo.",
+  "resumo_original": "Speculative video about a creature on the beach, with no in-game confirmation.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O conteúdo é uma montagem/cliquebait para fins de entretenimento. Não há evidências de que essa criatura exista no jogo.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=iRaOOjb8YJw",
+    "autor": "MKP Studios",
+    "titulo": "GTA 6 TERRIFYING HIDDEN SECRET LOCATION! (GRAND THEFT AUTO 6)",
+    "video_id": "iRaOOjb8YJw",
+    "imagem": "https://i.ytimg.com/vi/iRaOOjb8YJw/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-28T04:52:38+00:00",
+  "atualizado": "2026-11-28T04:52:38+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-assassin-nipper-38",
+  "titulo": "Assassin Nipper .38",
+  "categoria": "gun",
+  "regiao": "Leonida Keys",
+  "resumo": "Pistola com silenciador localizada dentro de uma escotilha em um barco naufragado.",
+  "resumo_original": "Assassin Nipper .38 – suppressed pistol, in the deck hatch of a wrecked boat on a small island in the Permit Keys",
+  "passos": [
+   "Vá até uma pequena ilha na região de Permit Keys.",
+   "Localize o barco naufragado.",
+   "Abra a escotilha no convés para pegar a arma."
+  ],
+  "locais": [
+   {
+    "nome": "Barco naufragado",
+    "onde": "Permit Keys",
+    "detalhe": "Dentro da escotilha do convés"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "Conteúdo especulativo/sensacionalista.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
+    "autor": "Vexies",
+    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
+    "video_id": "WH8IfSdpB0w",
+    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=VxM4Zhb1cVk",
+    "autor": "TagBackTV",
+    "titulo": "GTA 6 - Best Legendary Weapons To Get Early",
+    "video_id": "VxM4Zhb1cVk",
+    "imagem": "https://i.ytimg.com/vi/VxM4Zhb1cVk/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=QVT66Ule-qs",
+    "autor": "GameCraft",
+    "titulo": "11 Legendary Silenced Weapons You NEED to Get in GTA 6",
+    "video_id": "QVT66Ule-qs",
+    "imagem": "https://i.ytimg.com/vi/QVT66Ule-qs/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GxoUusz9Js4",
+    "autor": "Spawn Szn",
+    "titulo": "3 Secret Guns You Can Get Early in GTA 6 (Locations) #GTA6 #shorts",
+    "video_id": "GxoUusz9Js4",
+    "imagem": "https://i.ytimg.com/vi/GxoUusz9Js4/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=3WmCL-0CoJI",
+    "autor": "NyxVice",
+    "titulo": "HOW TO GET 3 BEST WEAPONS IN GTA 6 (AND WHERE TO FIND THEM) - PART 3",
+    "video_id": "3WmCL-0CoJI",
+    "imagem": "https://i.ytimg.com/vi/3WmCL-0CoJI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T02:59:06+00:00",
+  "atualizado": "2026-11-28T04:52:34+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "gun-sm69-sniper",
+  "titulo": "SM69 Sniper",
+  "categoria": "gun",
+  "regiao": "Leonida Keys",
+  "resumo": "Sniper escondida no topo de uma torre alta.",
+  "resumo_original": "Hidden sniper sitting on top of a massive tower.",
+  "passos": [
+   "Vá até a torre Key Lento.",
+   "Suba até o topo.",
+   "Pegue a arma e guarde no porta-malas do carro imediatamente."
+  ],
+  "locais": [
+   {
+    "nome": "Torre Key Lento",
+    "onde": "Leonida Keys",
+    "detalhe": "Topo da torre."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo de canal de especulação/clickbait sobre jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=3WmCL-0CoJI",
+    "autor": "NyxVice",
+    "titulo": "HOW TO GET 3 BEST WEAPONS IN GTA 6 (AND WHERE TO FIND THEM) - PART 3",
+    "video_id": "3WmCL-0CoJI",
+    "imagem": "https://i.ytimg.com/vi/3WmCL-0CoJI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-28T04:52:34+00:00",
+  "atualizado": "2026-11-28T04:52:34+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-la-polilla-negra",
+  "titulo": "La Polilla Negra",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Fuzil de assalto com silenciador escondido próximo a uma villa.",
+  "resumo_original": "A suppressed assault rifle hidden outside a private villa room in Watson Bay.",
+  "passos": [
+   "Vá até a área de Watson Bay.",
+   "Procure fora de um quarto de uma villa privada."
+  ],
+  "locais": [
+   {
+    "nome": "Villa privada",
+    "onde": "Watson Bay",
+    "detalhe": "Do lado de fora do quarto."
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "Conteúdo de canal de especulação/clickbait sobre jogo ainda não lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=3WmCL-0CoJI",
+    "autor": "NyxVice",
+    "titulo": "HOW TO GET 3 BEST WEAPONS IN GTA 6 (AND WHERE TO FIND THEM) - PART 3",
+    "video_id": "3WmCL-0CoJI",
+    "imagem": "https://i.ytimg.com/vi/3WmCL-0CoJI/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-28T04:52:34+00:00",
+  "atualizado": "2026-11-28T04:52:34+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "gun-black-eagle-import-m306-tmr-rifle",
+  "titulo": "Black Eagle Import M306 TMR Rifle",
+  "categoria": "gun",
+  "regiao": "",
+  "resumo": "Rifle de precisão (Marksman) exclusivo que permanece no inventário após a morte.",
+  "resumo_original": "Black Eagle Import M306 TMR Rifle (Marksman) 00:00",
+  "passos": [
+   "Vá até o local indicado no guia em 00:00.",
+   "Colete o rifle para adicioná-lo permanentemente ao seu inventário."
+  ],
+  "locais": [
+   {
+    "nome": "Black Eagle Import M306",
+    "onde": "Consultar timestamp 00:00",
+    "detalhe": "Variante lendária de Marksman Rifle"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "curto",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "O vídeo se apresenta como guia de GTA 6, mas o conteúdo pode ser mod ou clickbait, dado que o jogo ainda não foi lançado.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
+    "autor": "100% Guides",
+    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
+    "video_id": "kSByFdB_KQ8",
+    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=QVT66Ule-qs",
+    "autor": "GameCraft",
+    "titulo": "11 Legendary Silenced Weapons You NEED to Get in GTA 6",
+    "video_id": "QVT66Ule-qs",
+    "imagem": "https://i.ytimg.com/vi/QVT66Ule-qs/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=B68Nfjm8Tjk",
+    "autor": "Arekkz Gaming",
+    "titulo": "GTA 6 - MUST HAVE Black Eagle Rifle Location!",
+    "video_id": "B68Nfjm8Tjk",
+    "imagem": "https://i.ytimg.com/vi/B68Nfjm8Tjk/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-23T05:04:54+00:00",
+  "atualizado": "2026-11-28T04:52:30+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-metodo-de-dinheiro-rapido-clickbait",
+  "titulo": "Método de dinheiro rápido (clickbait)",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "O vídeo afirma ensinar um método para ganhar $1.000.000 em um minuto, mas não apresenta qualquer conteúdo prático ou prova visual.",
+  "resumo_original": "Fastest way to make money in GTA 6.",
+  "passos": [],
+  "locais": [],
+  "dificuldade": 1,
+  "tempo": "1 minuto",
+  "ganho": 1000000,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é sensacionalista e não contém nenhuma informação real sobre o jogo, servindo apenas como clickbait sem demonstrar locais, métodos ou gameplay.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RxeajXRD2N4",
+    "autor": "Caspahz",
+    "titulo": "How to Make $1,000,000 in 1 Minute in GTA 6",
+    "video_id": "RxeajXRD2N4",
+    "imagem": "https://i.ytimg.com/vi/RxeajXRD2N4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-28T04:52:17+00:00",
+  "atualizado": "2026-11-28T04:52:17+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-cartas-colecionaveis-port-gellhorn-e-key-lento",
+  "titulo": "Cartas Colecionáveis: Port Gellhorn e Key Lento",
+  "categoria": "col",
+  "regiao": "Port Gellhorn",
+  "resumo": "Localizações de cartas colecionáveis confirmadas em Port Gellhorn e Key Lento.",
+  "resumo_original": "GTA 6 Collectible Card Locations: Port Gellhorn & Key Lento",
+  "passos": [
+   "Vá até o Starlet Motel para as cartas Vicki e Victor Maravilla",
+   "Visite o Delights Cabaret para a carta Harley",
+   "Suba na torre de rádio para a carta Jack of Hearts",
+   "Procure no trailer costeiro pela carta Kelly",
+   "Realize uma invasão na casa para encontrar Jada Watts",
+   "Acesse o escritório da torre de controle para a carta Julia",
+   "Vá ao trailer indicado para a carta General Surgeon"
+  ],
+  "locais": [
+   {
+    "nome": "Starlet Motel",
+    "onde": "Port Gellhorn",
+    "detalhe": "Contém as cartas Vicki e Victor Maravilla (missíveis após o Capítulo 2)"
+   },
+   {
+    "nome": "Delights Cabaret",
+    "onde": "Port Gellhorn",
+    "detalhe": "Carta Harley"
+   },
+   {
+    "nome": "Torre de Rádio",
+    "onde": "Port Gellhorn",
+    "detalhe": "Carta Jack of Hearts"
+   },
+   {
+    "nome": "Trailer Costeiro",
+    "onde": "Port Gellhorn",
+    "detalhe": "Carta Kelly"
+   },
+   {
+    "nome": "Casa de invasão",
+    "onde": "Port Gellhorn",
+    "detalhe": "Carta Jada Watts"
+   },
+   {
+    "nome": "Escritório da Torre de Controle",
+    "onde": "Port Gellhorn",
+    "detalhe": "Carta Julia"
+   },
+   {
+    "nome": "Trailer isolado",
+    "onde": "Port Gellhorn",
+    "detalhe": "Carta General Surgeon"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "As cartas Vicki e Victor Maravilla no Starlet Motel podem ser perdidas caso não sejam coletadas até o final do Capítulo 2.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=nw5aDHlBwl4",
+    "autor": "GTA 6 Daily",
+    "titulo": "GTA 6 Collectible Card Locations: Port Gellhorn & Key Lento (Map Guide)",
+    "video_id": "nw5aDHlBwl4",
+    "imagem": "https://i.ytimg.com/vi/nw5aDHlBwl4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-28T04:52:12+00:00",
+  "atualizado": "2026-11-28T04:52:12+00:00",
+  "status": "retido"
+ },
+ {
+  "id": "col-cartas-colecionaveis-key-lento",
+  "titulo": "Cartas Colecionáveis: Key Lento",
+  "categoria": "col",
+  "regiao": "Leonida Keys",
+  "resumo": "Cartas colecionáveis localizadas na região de Key Lento.",
+  "resumo_original": "Key Lento collectible card spots",
+  "passos": [
+   "Busque pelas cartas Santiago Lopez, Marquise Bernard e Lupin de Juarez na região",
+   "Visite o Rusty Anchor para encontrar Aimie",
+   "Visite o Wonder Whale para encontrar Wokester",
+   "Suba na torre de rádio para encontrar Thelma",
+   "Vá até a ilha de barco para encontrar a carta Drake"
+  ],
+  "locais": [
+   {
+    "nome": "Rusty Anchor",
+    "onde": "Key Lento",
+    "detalhe": "Carta Aimie"
+   },
+   {
+    "nome": "Wonder Whale",
+    "onde": "Key Lento",
+    "detalhe": "Carta Wokester"
+   },
+   {
+    "nome": "Torre de Rádio",
+    "onde": "Key Lento",
+    "detalhe": "Carta Thelma"
+   },
+   {
+    "nome": "Ilha",
+    "onde": "Key Lento",
+    "detalhe": "Carta Drake (acessível de barco)"
+   }
+  ],
+  "dificuldade": 2,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=nw5aDHlBwl4",
+    "autor": "GTA 6 Daily",
+    "titulo": "GTA 6 Collectible Card Locations: Port Gellhorn & Key Lento (Map Guide)",
+    "video_id": "nw5aDHlBwl4",
+    "imagem": "https://i.ytimg.com/vi/nw5aDHlBwl4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-28T04:52:12+00:00",
+  "atualizado": "2026-11-28T04:52:12+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "farm-venda-de-cartas-colecionaveis",
+  "titulo": "Venda de Cartas Colecionáveis",
+  "categoria": "farm",
+  "regiao": "",
+  "resumo": "Como lucrar com as cartas colecionáveis encontradas.",
+  "resumo_original": "How to sell cards at a pawn shop",
+  "passos": [
+   "Colete as cartas pelo mapa",
+   "Dirija-se a uma loja de penhores (pawn shop)",
+   "Realize a venda das cartas no estabelecimento"
+  ],
+  "locais": [
+   {
+    "nome": "Loja de Penhores",
+    "onde": "Variável",
+    "detalhe": "Local padrão para vender colecionáveis"
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=nw5aDHlBwl4",
+    "autor": "GTA 6 Daily",
+    "titulo": "GTA 6 Collectible Card Locations: Port Gellhorn & Key Lento (Map Guide)",
+    "video_id": "nw5aDHlBwl4",
+    "imagem": "https://i.ytimg.com/vi/nw5aDHlBwl4/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-28T04:52:12+00:00",
+  "atualizado": "2026-11-28T04:52:12+00:00",
+  "status": "confirmado"
+ },
+ {
+  "id": "col-relogios-de-luxo",
+  "titulo": "Relógios de Luxo",
+  "categoria": "col",
+  "regiao": "Leonida Keys",
+  "resumo": "Colecionável composto por 34 itens raros escondidos pelo estado de Leonida.",
+  "resumo_original": "All 34 luxury watches locations.",
+  "passos": [
+   "Explore o mapa de Leonida para localizar todos os 34 itens."
+  ],
+  "locais": [
+   {
+    "nome": "Bobcat Key",
+    "onde": "Leonida Keys",
+    "detalhe": "Ponto de localização exemplificado no mapa do vídeo."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "não especificado",
+  "ganho": 0,
+  "spoiler": false,
+  "confianca": "baixa",
+  "alerta": "O vídeo é um conteúdo especulativo/clickbait. Até o momento, o GTA VI não foi lançado e não há confirmação da existência desse colecionável ou da localização citada.",
+  "fontes": [
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5pqMrxbK0mQ",
+    "autor": "KingAlexHD",
+    "titulo": "HOW TO FIND ALL 34 LUXURY WATCH LOCATIONS IN GTA 6! (EASY STEPS)",
+    "video_id": "5pqMrxbK0mQ",
+    "imagem": "https://i.ytimg.com/vi/5pqMrxbK0mQ/hqdefault.jpg"
+   },
+   {
+    "tipo": "YouTube",
+    "url": "https://www.youtube.com/watch?v=jFBYIzSsMU8",
+    "autor": "Nerpah",
+    "titulo": "*ALL* 34 LUXURY WATCH LOCATIONS in GTA 6! (Full Watch Guide)",
+    "video_id": "jFBYIzSsMU8",
+    "imagem": "https://i.ytimg.com/vi/jFBYIzSsMU8/hqdefault.jpg"
+   }
+  ],
+  "criado": "2026-11-24T04:55:56+00:00",
+  "atualizado": "2026-11-28T04:52:06+00:00",
+  "status": "aguardando"
+ },
+ {
+  "id": "car-willard-station-wagon",
+  "titulo": "Willard Station Wagon",
+  "categoria": "car",
+  "regiao": "Vice City",
+  "resumo": "Uma station wagon de quatro portas fabricada pela Willard, baseada em modelos como a Buick Estate Wagon de 1971-1976.",
+  "resumo_original": "A Willard station wagon is due to appear in Grand Theft Auto VI.",
+  "passos": [
+   "Pode ser encontrada estacionada em Hamlet.",
+   "Pode ser vista circulando perto do Cipher Mall em Rockridge, Vice City."
+  ],
+  "locais": [
+   {
+    "nome": "Hamlet",
+    "onde": "Leonida",
+    "detalhe": "Estacionada em um estacionamento."
+   },
+   {
+    "nome": "Cipher Mall",
+    "onde": "Rockridge, Vice City",
+    "detalhe": "Visto passando pela área durante tiroteios."
+   }
+  ],
+  "dificuldade": 1,
+  "tempo": "",
+  "ganho": 0,
+  "spoiler": true,
+  "confianca": "alta",
+  "alerta": "",
+  "fontes": [
+   {
+    "tipo": "Wiki da comunidade",
+    "url": "https://gta.fandom.com/wiki/Unnamed_GTA_VI_Willard_station_wagon",
+    "autor": "GTA Wiki (CC BY-SA)",
+    "titulo": "Unnamed GTA VI Willard station wagon",
+    "video_id": null,
+    "imagem": null
+   }
+  ],
+  "criado": "2026-11-28T00:50:25+00:00",
+  "atualizado": "2026-11-28T00:50:25+00:00",
+  "status": "retido"
  },
  {
   "id": "car-maibatsu-penumbra-ff",
@@ -570,45 +1256,6 @@
    }
   ],
   "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-27T20:46:13+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-assalto-ao-aeroporto-de-vice-city",
-  "titulo": "Assalto ao Aeroporto de Vice City",
-  "categoria": "heist",
-  "regiao": "Vice City",
-  "resumo": "Assalto a uma organização criminosa liderada por Kordell Grant instalada no aeroporto.",
-  "resumo_original": "Raul develops a plan to rob a rival criminal organisation led by Kordell Grant , whose operations involve Vice City International Airport .",
-  "passos": [
-   "Infiltre-se na organização de Kordell Grant.",
-   "Colete informações.",
-   "Execute o roubo no aeroporto."
-  ],
-  "locais": [
-   {
-    "nome": "Vice City International Airport",
-    "onde": "Vice City",
-    "detalhe": ""
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-25T09:03:22+00:00",
   "atualizado": "2026-11-27T20:46:13+00:00",
   "status": "retido"
  },
@@ -1265,45 +1912,6 @@
   ],
   "criado": "2026-11-27T12:57:41+00:00",
   "atualizado": "2026-11-27T12:57:41+00:00",
-  "status": "retido"
- },
- {
-  "id": "heist-coleta-no-grassrivers-visitor-center",
-  "titulo": "Coleta no Grassrivers Visitor Center",
-  "categoria": "heist",
-  "regiao": "Grassrivers",
-  "resumo": "Uma missão de coleta que termina em emboscada policial e disputa com policiais corruptos.",
-  "resumo_original": "Jason and Lucia retrieve a bag from the Grassrivers Visitor Center, but are ambushed by police officers.",
-  "passos": [
-   "Ir até o centro de visitantes",
-   "Recuperar a bolsa alvo",
-   "Escapar da emboscada de Aldo Méndez"
-  ],
-  "locais": [
-   {
-    "nome": "Grassrivers Visitor Center",
-    "onde": "Grassrivers",
-    "detalhe": "Local da emboscada"
-   }
-  ],
-  "dificuldade": 2,
-  "tempo": "Capítulo 1",
-  "ganho": 10000,
-  "spoiler": true,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T20:47:47+00:00",
-  "atualizado": "2026-11-27T12:56:42+00:00",
   "status": "retido"
  },
  {
@@ -9063,77 +9671,6 @@
   "status": "retido"
  },
  {
-  "id": "gun-assassin-nipper-38",
-  "titulo": "Assassin Nipper .38",
-  "categoria": "gun",
-  "regiao": "Leonida Keys",
-  "resumo": "Pistola com silenciador localizada dentro de uma escotilha em um barco naufragado.",
-  "resumo_original": "Assassin Nipper .38 – suppressed pistol, in the deck hatch of a wrecked boat on a small island in the Permit Keys",
-  "passos": [
-   "Vá até uma pequena ilha na região de Permit Keys.",
-   "Localize o barco naufragado.",
-   "Abra a escotilha no convés para pegar a arma."
-  ],
-  "locais": [
-   {
-    "nome": "Barco naufragado",
-    "onde": "Permit Keys",
-    "detalhe": "Dentro da escotilha do convés"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "Conteúdo especulativo/sensacionalista.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=WH8IfSdpB0w",
-    "autor": "Vexies",
-    "titulo": "15 Secret Weapons NOBODY Told Me About (GTA 6)",
-    "video_id": "WH8IfSdpB0w",
-    "imagem": "https://i.ytimg.com/vi/WH8IfSdpB0w/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
-    "autor": "100% Guides",
-    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
-    "video_id": "kSByFdB_KQ8",
-    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=VxM4Zhb1cVk",
-    "autor": "TagBackTV",
-    "titulo": "GTA 6 - Best Legendary Weapons To Get Early",
-    "video_id": "VxM4Zhb1cVk",
-    "imagem": "https://i.ytimg.com/vi/VxM4Zhb1cVk/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=QVT66Ule-qs",
-    "autor": "GameCraft",
-    "titulo": "11 Legendary Silenced Weapons You NEED to Get in GTA 6",
-    "video_id": "QVT66Ule-qs",
-    "imagem": "https://i.ytimg.com/vi/QVT66Ule-qs/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=GxoUusz9Js4",
-    "autor": "Spawn Szn",
-    "titulo": "3 Secret Guns You Can Get Early in GTA 6 (Locations) #GTA6 #shorts",
-    "video_id": "GxoUusz9Js4",
-    "imagem": "https://i.ytimg.com/vi/GxoUusz9Js4/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T02:59:06+00:00",
-  "atualizado": "2026-11-26T04:57:52+00:00",
-  "status": "confirmado"
- },
- {
   "id": "gun-kingfishers-w-22",
   "titulo": "Kingfishers W-22",
   "categoria": "gun",
@@ -14548,44 +15085,6 @@
   "status": "confirmado"
  },
  {
-  "id": "farm-trafico-de-drogas-nos-leonida-keys",
-  "titulo": "Tráfico de Drogas nos Leonida Keys",
-  "categoria": "farm",
-  "regiao": "Leonida Keys",
-  "resumo": "Jason trabalhou com traficantes locais e contrabandistas nos Keys; uma possível fonte de renda inicial.",
-  "resumo_original": "Jason... moved to the Leonida Keys , where he began working for local drug runners. He later became associated with Brian Heder , an established drug smuggler",
-  "passos": [
-   "Localize o estaleiro de Brian Heder nos Keys",
-   "Associe-se a Brian Heder para realizar contrabando"
-  ],
-  "locais": [
-   {
-    "nome": "Estaleiro de Brian Heder",
-    "onde": "Leonida Keys",
-    "detalhe": "Base de operações do contrabandista Brian Heder"
-   }
-  ],
-  "dificuldade": 2,
-  "tempo": "",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "alta",
-  "alerta": "",
-  "fontes": [
-   {
-    "tipo": "Wiki da comunidade",
-    "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
-    "autor": "GTA Wiki (CC BY-SA)",
-    "titulo": "Grand Theft Auto VI",
-    "video_id": null,
-    "imagem": null
-   }
-  ],
-  "criado": "2026-11-24T08:59:57+00:00",
-  "atualizado": "2026-11-24T08:59:57+00:00",
-  "status": "confirmado"
- },
- {
   "id": "farm-metodo-de-ganho-inicial-de-30-000",
   "titulo": "Método de ganho inicial de $30.000",
   "categoria": "farm",
@@ -16190,43 +16689,6 @@
   "status": "retido"
  },
  {
-  "id": "col-relogios-de-luxo",
-  "titulo": "Relógios de Luxo",
-  "categoria": "col",
-  "regiao": "Leonida Keys",
-  "resumo": "Colecionável composto por 34 itens raros escondidos pelo estado de Leonida.",
-  "resumo_original": "All 34 luxury watches locations.",
-  "passos": [
-   "Explore o mapa de Leonida para localizar todos os 34 itens."
-  ],
-  "locais": [
-   {
-    "nome": "Bobcat Key",
-    "onde": "Leonida Keys",
-    "detalhe": "Ponto de localização exemplificado no mapa do vídeo."
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "não especificado",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo é um conteúdo especulativo/clickbait. Até o momento, o GTA VI não foi lançado e não há confirmação da existência desse colecionável ou da localização citada.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=5pqMrxbK0mQ",
-    "autor": "KingAlexHD",
-    "titulo": "HOW TO FIND ALL 34 LUXURY WATCH LOCATIONS IN GTA 6! (EASY STEPS)",
-    "video_id": "5pqMrxbK0mQ",
-    "imagem": "https://i.ytimg.com/vi/5pqMrxbK0mQ/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-24T04:55:56+00:00",
-  "atualizado": "2026-11-24T04:55:56+00:00",
-  "status": "retido"
- },
- {
   "id": "heist-refugio-no-leonida-keys",
   "titulo": "Refúgio no Leonida Keys",
   "categoria": "heist",
@@ -16458,52 +16920,6 @@
   "criado": "2026-11-24T00:47:24+00:00",
   "atualizado": "2026-11-24T00:47:24+00:00",
   "status": "retido"
- },
- {
-  "id": "gun-black-eagle-import-m306-tmr-rifle",
-  "titulo": "Black Eagle Import M306 TMR Rifle",
-  "categoria": "gun",
-  "regiao": "",
-  "resumo": "Rifle de precisão (Marksman) exclusivo que permanece no inventário após a morte.",
-  "resumo_original": "Black Eagle Import M306 TMR Rifle (Marksman) 00:00",
-  "passos": [
-   "Vá até o local indicado no guia em 00:00.",
-   "Colete o rifle para adicioná-lo permanentemente ao seu inventário."
-  ],
-  "locais": [
-   {
-    "nome": "Black Eagle Import M306",
-    "onde": "Consultar timestamp 00:00",
-    "detalhe": "Variante lendária de Marksman Rifle"
-   }
-  ],
-  "dificuldade": 1,
-  "tempo": "curto",
-  "ganho": 0,
-  "spoiler": false,
-  "confianca": "baixa",
-  "alerta": "O vídeo se apresenta como guia de GTA 6, mas o conteúdo pode ser mod ou clickbait, dado que o jogo ainda não foi lançado.",
-  "fontes": [
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=kSByFdB_KQ8",
-    "autor": "100% Guides",
-    "titulo": "GTA 6 10 Unique Weapon Locations (Legendary Weapon Variants)",
-    "video_id": "kSByFdB_KQ8",
-    "imagem": "https://i.ytimg.com/vi/kSByFdB_KQ8/hqdefault.jpg"
-   },
-   {
-    "tipo": "YouTube",
-    "url": "https://www.youtube.com/watch?v=QVT66Ule-qs",
-    "autor": "GameCraft",
-    "titulo": "11 Legendary Silenced Weapons You NEED to Get in GTA 6",
-    "video_id": "QVT66Ule-qs",
-    "imagem": "https://i.ytimg.com/vi/QVT66Ule-qs/hqdefault.jpg"
-   }
-  ],
-  "criado": "2026-11-23T05:04:54+00:00",
-  "atualizado": "2026-11-24T00:47:19+00:00",
-  "status": "aguardando"
  },
  {
   "id": "gun-cockroach-xtreme-556",
